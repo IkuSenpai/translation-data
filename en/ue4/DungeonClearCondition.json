@@ -1,0 +1,86 @@
+[
+    {
+        "id": "DngeonClearConditionTestMap_00_00",
+        "id_number": 0,
+        "value": "テスト ステップ1 Id0",
+        "translation": ""
+    },
+    {
+        "id": "DngeonClearConditionTestMap_01_01",
+        "id_number": 0,
+        "value": "テスト ステップ1 Id1",
+        "translation": ""
+    },
+    {
+        "id": "sce0101_00_00",
+        "id_number": 0,
+        "value": "強大なモンスターを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "pat0101_00_00",
+        "id_number": 0,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "sce009_00_00",
+        "id_number": 0,
+        "value": "強大なモンスターを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "dng009_00_00",
+        "id_number": 0,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "dng009_Hard_00_00",
+        "id_number": 0,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "sce005_00_00",
+        "id_number": 0,
+        "value": "最上階へ到達せよ！",
+        "translation": ""
+    },
+    {
+        "id": "dng005_00_00",
+        "id_number": 0,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "dng005_Hard_00_00",
+        "id_number": 0,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "pat0102_00_00",
+        "id_number": 0,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "pat0102_Hard_00_00",
+        "id_number": 0,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "tad009_00_00",
+        "id_number": 0,
+        "value": "制限時間以内にすばやくボスを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "rai001_00_00",
+        "id_number": 0,
+        "value": "デミドラゴンを討伐せよ！",
+        "translation": ""
+    }
+]

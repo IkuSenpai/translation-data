@@ -1,0 +1,38 @@
+[
+    {
+        "id": "SubEventTest_Sub1",
+        "id_number": -1,
+        "value": "テストイベント1",
+        "translation": ""
+    },
+    {
+        "id": "SubEventTest_Sub2",
+        "id_number": -1,
+        "value": "テストイベント2",
+        "translation": ""
+    },
+    {
+        "id": "SubEventTest_Sub3",
+        "id_number": -1,
+        "value": "テストイベント3",
+        "translation": ""
+    },
+    {
+        "id": "Npc_ExchangeShop_HintTest001",
+        "id_number": -1,
+        "value": "グローリーコインの稼ぎ方について",
+        "translation": ""
+    },
+    {
+        "id": "Npc_ExchangeShop_HintTest002",
+        "id_number": -1,
+        "value": "緊急ミッションについて",
+        "translation": ""
+    },
+    {
+        "id": "Npc_ExchangeShop_HintTest003",
+        "id_number": -1,
+        "value": "お姉さん、彼女いるの？",
+        "translation": ""
+    }
+]

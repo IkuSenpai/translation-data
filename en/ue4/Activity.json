@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "{author_name}さんが{title_name}を開始しました。",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "{author_name}さんが{title_name}を終了しました。",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "{author_name}さんがパーティを作成しました。",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "{author_name}さんがパーティに参加しました。",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "{author_name}さんがクエスト{quest_index}を受注しました。",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "{author_name}さんがクエスト{quest_index}を達成しました。",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "{author_name}さんが{place_id}のコロシアムを訪れました。",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "{author_name}さんが{warp_point_location_id}に到達しました。",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "{author_name}さんが{dungeon_id}を開放しました。",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "{author_name}さんが{recepi_id}の作成に成功しました",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "{author_name}さんが{enemy_id}を討伐しました",
+        "translation": ""
+    }
+]

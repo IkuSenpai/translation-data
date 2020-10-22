@@ -1,0 +1,98 @@
+[
+    {
+        "id": "mail_test_sender",
+        "id_number": -1,
+        "value": "Npc_Feste",
+        "translation": ""
+    },
+    {
+        "id": "mail_test_header",
+        "id_number": -1,
+        "value": "件名1",
+        "translation": ""
+    },
+    {
+        "id": "mail_test_body",
+        "id_number": -1,
+        "value": "内容1",
+        "translation": ""
+    },
+    {
+        "id": "mail_test2_sender",
+        "id_number": -1,
+        "value": "Npc_Armorshop",
+        "translation": ""
+    },
+    {
+        "id": "mail_test2_header",
+        "id_number": -1,
+        "value": "件名2",
+        "translation": ""
+    },
+    {
+        "id": "mail_test2_body",
+        "id_number": -1,
+        "value": "内容2\n内容2",
+        "translation": ""
+    },
+    {
+        "id": "mail_test3_sender",
+        "id_number": -1,
+        "value": "Npc_HunterQuestguide",
+        "translation": ""
+    },
+    {
+        "id": "mail_test3_header",
+        "id_number": -1,
+        "value": "件名3",
+        "translation": ""
+    },
+    {
+        "id": "mail_test3_body",
+        "id_number": -1,
+        "value": "内容3 内容3",
+        "translation": ""
+    },
+    {
+        "id": "mail_test4_sender",
+        "id_number": -1,
+        "value": "Npc_HunterQuestguide",
+        "translation": ""
+    },
+    {
+        "id": "mail_test4_header",
+        "id_number": -1,
+        "value": "件名4",
+        "translation": ""
+    },
+    {
+        "id": "mail_test4_body",
+        "id_number": -1,
+        "value": "内容4",
+        "translation": ""
+    },
+    {
+        "id": "mail_test5_sender",
+        "id_number": -1,
+        "value": "Npc_HunterQuestguide",
+        "translation": ""
+    },
+    {
+        "id": "mail_test5_header",
+        "id_number": -1,
+        "value": "件名5",
+        "translation": ""
+    },
+    {
+        "id": "mail_test5_body",
+        "id_number": -1,
+        "value": "内容5",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": -1,
+        "value": "",
+        "translation": ""
+    }
+]

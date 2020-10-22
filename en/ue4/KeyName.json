@@ -1,0 +1,908 @@
+[
+    {
+        "id": "None",
+        "id_number": 0,
+        "value": "なし",
+        "translation": ""
+    },
+    {
+        "id": "A",
+        "id_number": 0,
+        "value": "A",
+        "translation": ""
+    },
+    {
+        "id": "B",
+        "id_number": 0,
+        "value": "B",
+        "translation": ""
+    },
+    {
+        "id": "C",
+        "id_number": 0,
+        "value": "C",
+        "translation": ""
+    },
+    {
+        "id": "D",
+        "id_number": 0,
+        "value": "D",
+        "translation": ""
+    },
+    {
+        "id": "E",
+        "id_number": 0,
+        "value": "E",
+        "translation": ""
+    },
+    {
+        "id": "F",
+        "id_number": 0,
+        "value": "F",
+        "translation": ""
+    },
+    {
+        "id": "G",
+        "id_number": 0,
+        "value": "G",
+        "translation": ""
+    },
+    {
+        "id": "H",
+        "id_number": 0,
+        "value": "H",
+        "translation": ""
+    },
+    {
+        "id": "I",
+        "id_number": 0,
+        "value": "I",
+        "translation": ""
+    },
+    {
+        "id": "J",
+        "id_number": 0,
+        "value": "J",
+        "translation": ""
+    },
+    {
+        "id": "K",
+        "id_number": 0,
+        "value": "K",
+        "translation": ""
+    },
+    {
+        "id": "L",
+        "id_number": 0,
+        "value": "L",
+        "translation": ""
+    },
+    {
+        "id": "M",
+        "id_number": 0,
+        "value": "M",
+        "translation": ""
+    },
+    {
+        "id": "N",
+        "id_number": 0,
+        "value": "N",
+        "translation": ""
+    },
+    {
+        "id": "O",
+        "id_number": 0,
+        "value": "O",
+        "translation": ""
+    },
+    {
+        "id": "P",
+        "id_number": 0,
+        "value": "P",
+        "translation": ""
+    },
+    {
+        "id": "Q",
+        "id_number": 0,
+        "value": "Q",
+        "translation": ""
+    },
+    {
+        "id": "R",
+        "id_number": 0,
+        "value": "R",
+        "translation": ""
+    },
+    {
+        "id": "S",
+        "id_number": 0,
+        "value": "S",
+        "translation": ""
+    },
+    {
+        "id": "T",
+        "id_number": 0,
+        "value": "T",
+        "translation": ""
+    },
+    {
+        "id": "U",
+        "id_number": 0,
+        "value": "U",
+        "translation": ""
+    },
+    {
+        "id": "V",
+        "id_number": 0,
+        "value": "V",
+        "translation": ""
+    },
+    {
+        "id": "W",
+        "id_number": 0,
+        "value": "W",
+        "translation": ""
+    },
+    {
+        "id": "X",
+        "id_number": 0,
+        "value": "X",
+        "translation": ""
+    },
+    {
+        "id": "Y",
+        "id_number": 0,
+        "value": "Y",
+        "translation": ""
+    },
+    {
+        "id": "Z",
+        "id_number": 0,
+        "value": "Z",
+        "translation": ""
+    },
+    {
+        "id": "SpaceBar",
+        "id_number": 0,
+        "value": "Space",
+        "translation": ""
+    },
+    {
+        "id": "Enter",
+        "id_number": 0,
+        "value": "Enter",
+        "translation": ""
+    },
+    {
+        "id": "Home",
+        "id_number": 0,
+        "value": "Home",
+        "translation": ""
+    },
+    {
+        "id": "LeftShift",
+        "id_number": 0,
+        "value": "Shift",
+        "translation": ""
+    },
+    {
+        "id": "RightShift",
+        "id_number": 0,
+        "value": "Shift",
+        "translation": ""
+    },
+    {
+        "id": "LeftControl",
+        "id_number": 0,
+        "value": "Ctrl",
+        "translation": ""
+    },
+    {
+        "id": "RightControl",
+        "id_number": 0,
+        "value": "Ctrl",
+        "translation": ""
+    },
+    {
+        "id": "LeftAlt",
+        "id_number": 0,
+        "value": "Alt",
+        "translation": ""
+    },
+    {
+        "id": "RightAlt",
+        "id_number": 0,
+        "value": "Alt",
+        "translation": ""
+    },
+    {
+        "id": "LeftControl",
+        "id_number": 0,
+        "value": "Ctrl",
+        "translation": ""
+    },
+    {
+        "id": "LeftShift",
+        "id_number": 0,
+        "value": "Shift",
+        "translation": ""
+    },
+    {
+        "id": "LeftAlt",
+        "id_number": 0,
+        "value": "Alt",
+        "translation": ""
+    },
+    {
+        "id": "Up",
+        "id_number": 0,
+        "value": "↑",
+        "translation": ""
+    },
+    {
+        "id": "Down",
+        "id_number": 0,
+        "value": "↓",
+        "translation": ""
+    },
+    {
+        "id": "Left",
+        "id_number": 0,
+        "value": "←",
+        "translation": ""
+    },
+    {
+        "id": "Right",
+        "id_number": 0,
+        "value": "→",
+        "translation": ""
+    },
+    {
+        "id": "F1",
+        "id_number": 0,
+        "value": "F1",
+        "translation": ""
+    },
+    {
+        "id": "F2",
+        "id_number": 0,
+        "value": "F2",
+        "translation": ""
+    },
+    {
+        "id": "F3",
+        "id_number": 0,
+        "value": "F3",
+        "translation": ""
+    },
+    {
+        "id": "F4",
+        "id_number": 0,
+        "value": "F4",
+        "translation": ""
+    },
+    {
+        "id": "F5",
+        "id_number": 0,
+        "value": "F5",
+        "translation": ""
+    },
+    {
+        "id": "F6",
+        "id_number": 0,
+        "value": "F6",
+        "translation": ""
+    },
+    {
+        "id": "F7",
+        "id_number": 0,
+        "value": "F7",
+        "translation": ""
+    },
+    {
+        "id": "F8",
+        "id_number": 0,
+        "value": "F8",
+        "translation": ""
+    },
+    {
+        "id": "F9",
+        "id_number": 0,
+        "value": "F9",
+        "translation": ""
+    },
+    {
+        "id": "F10",
+        "id_number": 0,
+        "value": "F10",
+        "translation": ""
+    },
+    {
+        "id": "F11",
+        "id_number": 0,
+        "value": "F11",
+        "translation": ""
+    },
+    {
+        "id": "F12",
+        "id_number": 0,
+        "value": "F12",
+        "translation": ""
+    },
+    {
+        "id": "NumPadOne",
+        "id_number": 0,
+        "value": "テンキー1",
+        "translation": ""
+    },
+    {
+        "id": "NumPadTwo",
+        "id_number": 0,
+        "value": "テンキー2",
+        "translation": ""
+    },
+    {
+        "id": "NumPadThree",
+        "id_number": 0,
+        "value": "テンキー3",
+        "translation": ""
+    },
+    {
+        "id": "NumPadFour",
+        "id_number": 0,
+        "value": "テンキー4",
+        "translation": ""
+    },
+    {
+        "id": "NumPadFive",
+        "id_number": 0,
+        "value": "テンキー5",
+        "translation": ""
+    },
+    {
+        "id": "NumPadSix",
+        "id_number": 0,
+        "value": "テンキー6",
+        "translation": ""
+    },
+    {
+        "id": "NumPadSeven",
+        "id_number": 0,
+        "value": "テンキー7",
+        "translation": ""
+    },
+    {
+        "id": "NumPadEight",
+        "id_number": 0,
+        "value": "テンキー8",
+        "translation": ""
+    },
+    {
+        "id": "NumPadNine",
+        "id_number": 0,
+        "value": "テンキー9",
+        "translation": ""
+    },
+    {
+        "id": "NumPadZero",
+        "id_number": 0,
+        "value": "テンキー0",
+        "translation": ""
+    },
+    {
+        "id": "One",
+        "id_number": 0,
+        "value": "1",
+        "translation": ""
+    },
+    {
+        "id": "Two",
+        "id_number": 0,
+        "value": "2",
+        "translation": ""
+    },
+    {
+        "id": "Three",
+        "id_number": 0,
+        "value": "3",
+        "translation": ""
+    },
+    {
+        "id": "Four",
+        "id_number": 0,
+        "value": "4",
+        "translation": ""
+    },
+    {
+        "id": "Five",
+        "id_number": 0,
+        "value": "5",
+        "translation": ""
+    },
+    {
+        "id": "Six",
+        "id_number": 0,
+        "value": "6",
+        "translation": ""
+    },
+    {
+        "id": "Seven",
+        "id_number": 0,
+        "value": "7",
+        "translation": ""
+    },
+    {
+        "id": "Eight",
+        "id_number": 0,
+        "value": "8",
+        "translation": ""
+    },
+    {
+        "id": "Nine",
+        "id_number": 0,
+        "value": "9",
+        "translation": ""
+    },
+    {
+        "id": "Zero",
+        "id_number": 0,
+        "value": "0",
+        "translation": ""
+    },
+    {
+        "id": "Insert",
+        "id_number": 0,
+        "value": "Insert",
+        "translation": ""
+    },
+    {
+        "id": "Delete",
+        "id_number": 0,
+        "value": "Delete",
+        "translation": ""
+    },
+    {
+        "id": "End",
+        "id_number": 0,
+        "value": "End",
+        "translation": ""
+    },
+    {
+        "id": "PageUp",
+        "id_number": 0,
+        "value": "Page Up",
+        "translation": ""
+    },
+    {
+        "id": "PageDown",
+        "id_number": 0,
+        "value": "Page Down",
+        "translation": ""
+    },
+    {
+        "id": "Escape",
+        "id_number": 0,
+        "value": "Esc",
+        "translation": ""
+    },
+    {
+        "id": "Hyphen",
+        "id_number": 0,
+        "value": "-",
+        "translation": ""
+    },
+    {
+        "id": "BackSlash",
+        "id_number": 0,
+        "value": "\\",
+        "translation": ""
+    },
+    {
+        "id": "Comma",
+        "id_number": 0,
+        "value": ",",
+        "translation": ""
+    },
+    {
+        "id": "Period",
+        "id_number": 0,
+        "value": ".",
+        "translation": ""
+    },
+    {
+        "id": "BackSpace",
+        "id_number": 0,
+        "value": "BackSpace",
+        "translation": ""
+    },
+    {
+        "id": "Tab",
+        "id_number": 0,
+        "value": "Tab",
+        "translation": ""
+    },
+    {
+        "id": "@",
+        "id_number": 0,
+        "value": "@",
+        "translation": ""
+    },
+    {
+        "id": "Slash",
+        "id_number": 0,
+        "value": "/",
+        "translation": ""
+    },
+    {
+        "id": "Semicolon",
+        "id_number": 0,
+        "value": ";",
+        "translation": ""
+    },
+    {
+        "id": "Colon",
+        "id_number": 0,
+        "value": ":",
+        "translation": ""
+    },
+    {
+        "id": "LeftBracket",
+        "id_number": 0,
+        "value": "[",
+        "translation": ""
+    },
+    {
+        "id": "RightBracket",
+        "id_number": 0,
+        "value": "]",
+        "translation": ""
+    },
+    {
+        "id": "Caret",
+        "id_number": 0,
+        "value": "^",
+        "translation": ""
+    },
+    {
+        "id": "Divide",
+        "id_number": 0,
+        "value": "テンキー/",
+        "translation": ""
+    },
+    {
+        "id": "Multiply",
+        "id_number": 0,
+        "value": "テンキー*",
+        "translation": ""
+    },
+    {
+        "id": "Subtract",
+        "id_number": 0,
+        "value": "テンキー-",
+        "translation": ""
+    },
+    {
+        "id": "Add",
+        "id_number": 0,
+        "value": "テンキー+",
+        "translation": ""
+    },
+    {
+        "id": "ScrollLock",
+        "id_number": 0,
+        "value": "ScrollLock",
+        "translation": ""
+    },
+    {
+        "id": "Pause",
+        "id_number": 0,
+        "value": "Break",
+        "translation": ""
+    },
+    {
+        "id": "200",
+        "id_number": 200,
+        "value": "なし",
+        "translation": ""
+    },
+    {
+        "id": "Gamepad_FaceButton_Left",
+        "id_number": 0,
+        "value": "X",
+        "translation": ""
+    },
+    {
+        "id": "Gamepad_FaceButton_Top",
+        "id_number": 0,
+        "value": "Y",
+        "translation": ""
+    },
+    {
+        "id": "Gamepad_FaceButton_Bottom",
+        "id_number": 0,
+        "value": "A",
+        "translation": ""
+    },
+    {
+        "id": "Gamepad_FaceButton_Right",
+        "id_number": 0,
+        "value": "B",
+        "translation": ""
+    },
+    {
+        "id": "Gamepad_LeftShoulder",
+        "id_number": 0,
+        "value": "LB",
+        "translation": ""
+    },
+    {
+        "id": "Gamepad_LeftTrigger",
+        "id_number": 0,
+        "value": "LT",
+        "translation": ""
+    },
+    {
+        "id": "Gamepad_LeftThumbStick",
+        "id_number": 0,
+        "value": "左スティックボタン",
+        "translation": ""
+    },
+    {
+        "id": "Gamepad_RightShoulder",
+        "id_number": 0,
+        "value": "RB",
+        "translation": ""
+    },
+    {
+        "id": "Gamepad_RightTrigger",
+        "id_number": 0,
+        "value": "RT",
+        "translation": ""
+    },
+    {
+        "id": "Gamepad_RightThumbStick",
+        "id_number": 0,
+        "value": "右スティックボタン",
+        "translation": ""
+    },
+    {
+        "id": "Gamepad_Special_Right",
+        "id_number": 0,
+        "value": "Start ",
+        "translation": ""
+    },
+    {
+        "id": "Gamepad_Special_Left",
+        "id_number": 0,
+        "value": "Select",
+        "translation": ""
+    },
+    {
+        "id": "Gamepad_LeftTriggerAxis",
+        "id_number": 0,
+        "value": "左スティック",
+        "translation": ""
+    },
+    {
+        "id": "Gamepad_RightTriggerAxis",
+        "id_number": 0,
+        "value": "右スティック",
+        "translation": ""
+    },
+    {
+        "id": "Gamepad_DPad_Up",
+        "id_number": 0,
+        "value": "方向キー・上",
+        "translation": ""
+    },
+    {
+        "id": "Gamepad_DPad_Down",
+        "id_number": 0,
+        "value": "方向キー・下",
+        "translation": ""
+    },
+    {
+        "id": "Gamepad_DPad_Left",
+        "id_number": 0,
+        "value": "方向キー・左",
+        "translation": ""
+    },
+    {
+        "id": "Gamepad_DPad_Right",
+        "id_number": 0,
+        "value": "方向キー・右",
+        "translation": ""
+    },
+    {
+        "id": "300",
+        "id_number": 300,
+        "value": "なし",
+        "translation": ""
+    },
+    {
+        "id": "LeftMouseButton",
+        "id_number": 0,
+        "value": "左クリック",
+        "translation": ""
+    },
+    {
+        "id": "RightMouseButton",
+        "id_number": 0,
+        "value": "右クリック",
+        "translation": ""
+    },
+    {
+        "id": "MiddleMouseButton",
+        "id_number": 0,
+        "value": "ミドルクリック",
+        "translation": ""
+    },
+    {
+        "id": "ThumbMouseButton",
+        "id_number": 0,
+        "value": "拡張1",
+        "translation": ""
+    },
+    {
+        "id": "ThumbMouseButton2",
+        "id_number": 0,
+        "value": "拡張2",
+        "translation": ""
+    },
+    {
+        "id": "MouseScrollUp",
+        "id_number": 0,
+        "value": "ホイール↑",
+        "translation": ""
+    },
+    {
+        "id": "MouseScrollDown",
+        "id_number": 0,
+        "value": "ホイール↓",
+        "translation": ""
+    },
+    {
+        "id": "Pause",
+        "id_number": 0,
+        "value": "Pause",
+        "translation": ""
+    },
+    {
+        "id": "CapsLock",
+        "id_number": 0,
+        "value": "CapsLock",
+        "translation": ""
+    },
+    {
+        "id": "999",
+        "id_number": 999,
+        "value": "変更不可",
+        "translation": ""
+    },
+    {
+        "id": "Mouse",
+        "id_number": 0,
+        "value": "マウス",
+        "translation": ""
+    },
+    {
+        "id": "Function_A",
+        "id_number": 0,
+        "value": "補助ボタン1+A",
+        "translation": ""
+    },
+    {
+        "id": "Function_B",
+        "id_number": 0,
+        "value": "補助ボタン1+B",
+        "translation": ""
+    },
+    {
+        "id": "Function_X",
+        "id_number": 0,
+        "value": "補助ボタン1+X",
+        "translation": ""
+    },
+    {
+        "id": "Function_Y",
+        "id_number": 0,
+        "value": "補助ボタン1+Y",
+        "translation": ""
+    },
+    {
+        "id": "Function_L3",
+        "id_number": 0,
+        "value": "補助ボタン1+L3",
+        "translation": ""
+    },
+    {
+        "id": "Function_R3",
+        "id_number": 0,
+        "value": "補助ボタン1+R3",
+        "translation": ""
+    },
+    {
+        "id": "Function_DPadU",
+        "id_number": 0,
+        "value": "補助ボタン1+方向キー・上",
+        "translation": ""
+    },
+    {
+        "id": "Function_DPadD",
+        "id_number": 0,
+        "value": "補助ボタン1+方向キー・下",
+        "translation": ""
+    },
+    {
+        "id": "Function_DPadR",
+        "id_number": 0,
+        "value": "補助ボタン1+方向キー・右",
+        "translation": ""
+    },
+    {
+        "id": "Function_DPadL",
+        "id_number": 0,
+        "value": "補助ボタン1+方向キー・左",
+        "translation": ""
+    },
+    {
+        "id": "Function2_A",
+        "id_number": 0,
+        "value": "補助ボタン2+A",
+        "translation": ""
+    },
+    {
+        "id": "Function2_B",
+        "id_number": 0,
+        "value": "補助ボタン2+B",
+        "translation": ""
+    },
+    {
+        "id": "Function2_X",
+        "id_number": 0,
+        "value": "補助ボタン2+X",
+        "translation": ""
+    },
+    {
+        "id": "Function2_Y",
+        "id_number": 0,
+        "value": "補助ボタン2+Y",
+        "translation": ""
+    },
+    {
+        "id": "Function2_L3",
+        "id_number": 0,
+        "value": "補助ボタン2+L3",
+        "translation": ""
+    },
+    {
+        "id": "Function2_R3",
+        "id_number": 0,
+        "value": "補助ボタン2+R3",
+        "translation": ""
+    },
+    {
+        "id": "Function2_DPadU",
+        "id_number": 0,
+        "value": "補助ボタン2+方向キー・上",
+        "translation": ""
+    },
+    {
+        "id": "Function2_DPadD",
+        "id_number": 0,
+        "value": "補助ボタン2+方向キー・下",
+        "translation": ""
+    },
+    {
+        "id": "Function2_DPadR",
+        "id_number": 0,
+        "value": "補助ボタン2+方向キー・右",
+        "translation": ""
+    },
+    {
+        "id": "Function2_DPadL",
+        "id_number": 0,
+        "value": "補助ボタン2+方向キー・左",
+        "translation": ""
+    }
+]
