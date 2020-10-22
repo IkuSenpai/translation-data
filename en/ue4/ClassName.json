@@ -3,114 +3,114 @@
         "id": "0",
         "id_number": 0,
         "value": "なし",
-        "translation": ""
+        "translation": "None"
     },
     {
         "id": "1",
         "id_number": 1,
         "value": "ウィザード",
-        "translation": ""
+        "translation": "Wizard"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "ソードスレイヤー",
-        "translation": ""
+        "translation": "Sword Slayer"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "アーティスト",
-        "translation": ""
+        "translation": "Artist"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "ガンスリンガー",
-        "translation": ""
+        "translation": "Gunslinger"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "スプラッシュ",
-        "translation": ""
+        "translation": "Splash"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "ブラストアーチャー",
-        "translation": ""
+        "translation": "Blaster Archer"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "ツインストライカー",
-        "translation": ""
+        "translation": "Twin Striker"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "エンジニア",
-        "translation": ""
+        "translation": "Engineer"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "ストライカー",
-        "translation": ""
+        "translation": "Striker"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "スレイヤー",
-        "translation": ""
+        "translation": "Slayer"
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "スペルキャスター",
-        "translation": ""
+        "translation": "Spell Caster"
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "イージスファイター",
-        "translation": ""
+        "translation": "Aegis Fighter"
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "近距離検証クラス",
-        "translation": ""
+        "translation": "Short-range Verification Class"
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "遠距離検証クラス",
-        "translation": ""
+        "translation": "Long-range Verification Class"
     },
     {
         "id": "15",
         "id_number": 15,
         "value": "テストイマジントランス",
-        "translation": ""
+        "translation": "Test Imagine Transformer"
     },
     {
         "id": "16",
         "id_number": 16,
         "value": "ヴァンガード",
-        "translation": ""
+        "translation": "Vanguard"
     },
     {
         "id": "17",
         "id_number": 17,
         "value": "センチネル",
-        "translation": ""
+        "translation": "Sentinel"
     },
     {
         "id": "18",
         "id_number": 18,
         "value": "ヘビィアーム",
-        "translation": ""
+        "translation": "Heavy Arm"
     }
 ]
