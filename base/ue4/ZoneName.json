@@ -1,0 +1,518 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "テストマップ",
+        "translation": ""
+    },
+    {
+        "id": "100100",
+        "id_number": 100100,
+        "value": "交易都市アステルリーズ",
+        "translation": ""
+    },
+    {
+        "id": "100200",
+        "id_number": 100200,
+        "value": "サラムザート・オアシス",
+        "translation": ""
+    },
+    {
+        "id": "100300",
+        "id_number": 100300,
+        "value": "ウルラウ郷",
+        "translation": ""
+    },
+    {
+        "id": "200100",
+        "id_number": 200100,
+        "value": "アステリア平原",
+        "translation": ""
+    },
+    {
+        "id": "200101",
+        "id_number": 200101,
+        "value": "アステリア平原 - 海鳴りの草原",
+        "translation": ""
+    },
+    {
+        "id": "200102",
+        "id_number": 200102,
+        "value": "アステリア平原 - ミンスター丘陵",
+        "translation": ""
+    },
+    {
+        "id": "200103",
+        "id_number": 200103,
+        "value": "アステリア平原 - アンドラ盆地",
+        "translation": ""
+    },
+    {
+        "id": "200104",
+        "id_number": 200104,
+        "value": "アステリア平原 - 夕凪の段丘",
+        "translation": ""
+    },
+    {
+        "id": "200200",
+        "id_number": 200200,
+        "value": "バハマール高原",
+        "translation": ""
+    },
+    {
+        "id": "200201",
+        "id_number": 200201,
+        "value": "バハマール高原 - 神の見守る丘",
+        "translation": ""
+    },
+    {
+        "id": "200202",
+        "id_number": 200202,
+        "value": "バハマール高原 - 鎮まりの山麓",
+        "translation": ""
+    },
+    {
+        "id": "200203",
+        "id_number": 200203,
+        "value": "バハマール高原 - フィエル嶺水池",
+        "translation": ""
+    },
+    {
+        "id": "200300",
+        "id_number": 200300,
+        "value": "モンテノール渓谷",
+        "translation": ""
+    },
+    {
+        "id": "200301",
+        "id_number": 200301,
+        "value": "モンテノール渓谷 - 中央",
+        "translation": ""
+    },
+    {
+        "id": "200302",
+        "id_number": 200302,
+        "value": "モンテノール渓谷 - 東",
+        "translation": ""
+    },
+    {
+        "id": "200303",
+        "id_number": 200303,
+        "value": "モンテノール渓谷 - 南",
+        "translation": ""
+    },
+    {
+        "id": "200400",
+        "id_number": 200400,
+        "value": "エバーグリーン砂漠",
+        "translation": ""
+    },
+    {
+        "id": "200401",
+        "id_number": 200401,
+        "value": "エバーグリーン砂漠 - 東",
+        "translation": ""
+    },
+    {
+        "id": "200402",
+        "id_number": 200402,
+        "value": "エバーグリーン砂漠 - 南",
+        "translation": ""
+    },
+    {
+        "id": "200403",
+        "id_number": 200403,
+        "value": "エバーグリーン砂漠 - 西",
+        "translation": ""
+    },
+    {
+        "id": "200404",
+        "id_number": 200404,
+        "value": "エバーグリーン砂漠 - 中央",
+        "translation": ""
+    },
+    {
+        "id": "200405",
+        "id_number": 200405,
+        "value": "エバーグリーン砂漠 - 北",
+        "translation": ""
+    },
+    {
+        "id": "200500",
+        "id_number": 200500,
+        "value": "西バーンハルト半島",
+        "translation": ""
+    },
+    {
+        "id": "200600",
+        "id_number": 200600,
+        "value": "ラウェハラ岬",
+        "translation": ""
+    },
+    {
+        "id": "200700",
+        "id_number": 200700,
+        "value": "コアニアニ森林",
+        "translation": ""
+    },
+    {
+        "id": "200800",
+        "id_number": 200800,
+        "value": "グランヴィル氷界",
+        "translation": ""
+    },
+    {
+        "id": "20000004",
+        "id_number": 20000004,
+        "value": "熱砂荒漠の奈落",
+        "translation": ""
+    },
+    {
+        "id": "20000005",
+        "id_number": 20000005,
+        "value": "溶岩",
+        "translation": ""
+    },
+    {
+        "id": "20000006",
+        "id_number": 20000006,
+        "value": "恵みの木群",
+        "translation": ""
+    },
+    {
+        "id": "20000007",
+        "id_number": 20000007,
+        "value": "白亜の記憶",
+        "translation": ""
+    },
+    {
+        "id": "20000009",
+        "id_number": 20000009,
+        "value": "アーヴェット岩壁",
+        "translation": ""
+    },
+    {
+        "id": "300400",
+        "id_number": 300400,
+        "value": "音無き都",
+        "translation": ""
+    },
+    {
+        "id": "300500",
+        "id_number": 300500,
+        "value": "神懸の御柱",
+        "translation": ""
+    },
+    {
+        "id": "300700",
+        "id_number": 300700,
+        "value": "枷神の産屋",
+        "translation": ""
+    },
+    {
+        "id": "300900",
+        "id_number": 300900,
+        "value": "巨竜の爪痕",
+        "translation": ""
+    },
+    {
+        "id": "301100",
+        "id_number": 301100,
+        "value": "天恵の聖堂",
+        "translation": ""
+    },
+    {
+        "id": "301300",
+        "id_number": 301300,
+        "value": "バーンハルト城旧地下水路",
+        "translation": ""
+    },
+    {
+        "id": "301500",
+        "id_number": 301500,
+        "value": "暁の虫砦",
+        "translation": ""
+    },
+    {
+        "id": "301700",
+        "id_number": 301700,
+        "value": "ドラ―ヴァ王立研究所",
+        "translation": ""
+    },
+    {
+        "id": "301900",
+        "id_number": 301900,
+        "value": "海神窟",
+        "translation": ""
+    },
+    {
+        "id": "302100",
+        "id_number": 302100,
+        "value": "祖霊の墓所",
+        "translation": ""
+    },
+    {
+        "id": "302300",
+        "id_number": 302300,
+        "value": "絶境を睨む冥龍の極北",
+        "translation": ""
+    },
+    {
+        "id": "302500",
+        "id_number": 302500,
+        "value": "棄てられた星憶鉱",
+        "translation": ""
+    },
+    {
+        "id": "302700",
+        "id_number": 302700,
+        "value": "歪み遺志",
+        "translation": ""
+    },
+    {
+        "id": "3010100",
+        "id_number": 3010100,
+        "value": "レイクリッド坑道",
+        "translation": ""
+    },
+    {
+        "id": "3010200",
+        "id_number": 3010200,
+        "value": "機跡の谷",
+        "translation": ""
+    },
+    {
+        "id": "3020100",
+        "id_number": 3020100,
+        "value": "ボルオム遺跡",
+        "translation": ""
+    },
+    {
+        "id": "3030100",
+        "id_number": 3030100,
+        "value": "闘技場",
+        "translation": ""
+    },
+    {
+        "id": "30000000",
+        "id_number": 30000000,
+        "value": "雪原",
+        "translation": ""
+    },
+    {
+        "id": "30000001",
+        "id_number": 30000001,
+        "value": "海岸",
+        "translation": ""
+    },
+    {
+        "id": "30000002",
+        "id_number": 30000002,
+        "value": "廃墟の街（ペイロード）",
+        "translation": ""
+    },
+    {
+        "id": "30000005",
+        "id_number": 30000005,
+        "value": "空",
+        "translation": ""
+    },
+    {
+        "id": "30000006",
+        "id_number": 30000006,
+        "value": "枷神の楔",
+        "translation": ""
+    },
+    {
+        "id": "30000008",
+        "id_number": 30000008,
+        "value": "巨竜の爪痕（西）",
+        "translation": ""
+    },
+    {
+        "id": "30000009",
+        "id_number": 30000009,
+        "value": "隠者の水郷",
+        "translation": ""
+    },
+    {
+        "id": "30000011",
+        "id_number": 30000011,
+        "value": "空",
+        "translation": ""
+    },
+    {
+        "id": "30000012",
+        "id_number": 30000012,
+        "value": "空",
+        "translation": ""
+    },
+    {
+        "id": "30000014",
+        "id_number": 30000014,
+        "value": "空",
+        "translation": ""
+    },
+    {
+        "id": "30000015",
+        "id_number": 30000015,
+        "value": "空",
+        "translation": ""
+    },
+    {
+        "id": "30000016",
+        "id_number": 30000016,
+        "value": "空",
+        "translation": ""
+    },
+    {
+        "id": "30000017",
+        "id_number": 30000017,
+        "value": "空",
+        "translation": ""
+    },
+    {
+        "id": "30000018",
+        "id_number": 30000018,
+        "value": "空",
+        "translation": ""
+    },
+    {
+        "id": "30000019",
+        "id_number": 30000019,
+        "value": "黄泉の熱沼",
+        "translation": ""
+    },
+    {
+        "id": "30000020",
+        "id_number": 30000020,
+        "value": "空",
+        "translation": ""
+    },
+    {
+        "id": "30000021",
+        "id_number": 30000021,
+        "value": "空",
+        "translation": ""
+    },
+    {
+        "id": "30000022",
+        "id_number": 30000022,
+        "value": " 聖バファリア島地下",
+        "translation": ""
+    },
+    {
+        "id": "30000023",
+        "id_number": 30000023,
+        "value": "空",
+        "translation": ""
+    },
+    {
+        "id": "30000025",
+        "id_number": 30000025,
+        "value": "空",
+        "translation": ""
+    },
+    {
+        "id": "30000026",
+        "id_number": 30000026,
+        "value": "空",
+        "translation": ""
+    },
+    {
+        "id": "30000027",
+        "id_number": 30000027,
+        "value": "廃鉱山",
+        "translation": ""
+    },
+    {
+        "id": "30000028",
+        "id_number": 30000028,
+        "value": "空",
+        "translation": ""
+    },
+    {
+        "id": "4000",
+        "id_number": 4000,
+        "value": "崖の遺跡",
+        "translation": ""
+    },
+    {
+        "id": "4001",
+        "id_number": 4001,
+        "value": "崖の遺跡",
+        "translation": ""
+    },
+    {
+        "id": "4002",
+        "id_number": 4002,
+        "value": "巨塔の遺跡",
+        "translation": ""
+    },
+    {
+        "id": "4003",
+        "id_number": 4003,
+        "value": "リッツェ村南西",
+        "translation": ""
+    },
+    {
+        "id": "4004",
+        "id_number": 4004,
+        "value": "囮となった子の救出",
+        "translation": ""
+    },
+    {
+        "id": "4005",
+        "id_number": 4005,
+        "value": "歌姫救出",
+        "translation": ""
+    },
+    {
+        "id": "4006",
+        "id_number": 4006,
+        "value": "囁きの崖",
+        "translation": ""
+    },
+    {
+        "id": "30001013",
+        "id_number": 30001013,
+        "value": "虫砦",
+        "translation": ""
+    },
+    {
+        "id": "30002013",
+        "id_number": 30002013,
+        "value": "虫砦（ハード）",
+        "translation": ""
+    },
+    {
+        "id": "30001007",
+        "id_number": 30001007,
+        "value": "巨竜の爪痕",
+        "translation": ""
+    },
+    {
+        "id": "30002007",
+        "id_number": 30002007,
+        "value": "巨竜の爪痕（ハード）",
+        "translation": ""
+    },
+    {
+        "id": "40000000",
+        "id_number": 40000000,
+        "value": "チュートリアル",
+        "translation": ""
+    },
+    {
+        "id": "50000000",
+        "id_number": 50000000,
+        "value": "巨竜の爪痕（パブリックダンジョン）",
+        "translation": ""
+    },
+    {
+        "id": "700100",
+        "id_number": 700100,
+        "value": "レイドボスバトル",
+        "translation": ""
+    }
+]

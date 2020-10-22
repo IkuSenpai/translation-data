@@ -1,0 +1,902 @@
+[
+    {
+        "id": "laugh",
+        "id_number": -1,
+        "value": "笑い",
+        "translation": ""
+    },
+    {
+        "id": "GreatJoy",
+        "id_number": -1,
+        "value": "大喜び",
+        "translation": ""
+    },
+    {
+        "id": "JoyM",
+        "id_number": -1,
+        "value": "やったぜ",
+        "translation": ""
+    },
+    {
+        "id": "JoyF",
+        "id_number": -1,
+        "value": "やったね",
+        "translation": ""
+    },
+    {
+        "id": "Shy",
+        "id_number": -1,
+        "value": "照れる",
+        "translation": ""
+    },
+    {
+        "id": "Margin",
+        "id_number": -1,
+        "value": "余裕",
+        "translation": ""
+    },
+    {
+        "id": "Anger",
+        "id_number": -1,
+        "value": "怒り",
+        "translation": ""
+    },
+    {
+        "id": "Surprise",
+        "id_number": -1,
+        "value": "おどろき",
+        "translation": ""
+    },
+    {
+        "id": "Amazed",
+        "id_number": -1,
+        "value": "呆れる",
+        "translation": ""
+    },
+    {
+        "id": "Panicky",
+        "id_number": -1,
+        "value": "うろたえる",
+        "translation": ""
+    },
+    {
+        "id": "Cry",
+        "id_number": -1,
+        "value": "泣く",
+        "translation": ""
+    },
+    {
+        "id": "Regrettable",
+        "id_number": -1,
+        "value": "悔しい",
+        "translation": ""
+    },
+    {
+        "id": "FeelDown",
+        "id_number": -1,
+        "value": "落ち込み",
+        "translation": ""
+    },
+    {
+        "id": "BowS",
+        "id_number": -1,
+        "value": "お辞儀",
+        "translation": ""
+    },
+    {
+        "id": "BowL",
+        "id_number": -1,
+        "value": "丁寧なお辞儀",
+        "translation": ""
+    },
+    {
+        "id": "GoodbyeM",
+        "id_number": -1,
+        "value": "さよなら",
+        "translation": ""
+    },
+    {
+        "id": "GoodbyeF",
+        "id_number": -1,
+        "value": "ばいばい",
+        "translation": ""
+    },
+    {
+        "id": "Pointing",
+        "id_number": -1,
+        "value": "指さし",
+        "translation": ""
+    },
+    {
+        "id": "Poke",
+        "id_number": -1,
+        "value": "つっこみ",
+        "translation": ""
+    },
+    {
+        "id": "Applause",
+        "id_number": -1,
+        "value": "拍手",
+        "translation": ""
+    },
+    {
+        "id": "Appease",
+        "id_number": -1,
+        "value": "なだめる",
+        "translation": ""
+    },
+    {
+        "id": "Dogeza",
+        "id_number": -1,
+        "value": "土下座",
+        "translation": ""
+    },
+    {
+        "id": "Nod",
+        "id_number": -1,
+        "value": "うなずく",
+        "translation": ""
+    },
+    {
+        "id": "HushUp",
+        "id_number": -1,
+        "value": "口止め",
+        "translation": ""
+    },
+    {
+        "id": "Rejection",
+        "id_number": -1,
+        "value": "拒否する",
+        "translation": ""
+    },
+    {
+        "id": "Cheat",
+        "id_number": -1,
+        "value": "ごまかす",
+        "translation": ""
+    },
+    {
+        "id": "ShowOff",
+        "id_number": -1,
+        "value": "みせびらかす",
+        "translation": ""
+    },
+    {
+        "id": "Support",
+        "id_number": -1,
+        "value": "応援",
+        "translation": ""
+    },
+    {
+        "id": "SitAgura",
+        "id_number": -1,
+        "value": "あぐら座り",
+        "translation": ""
+    },
+    {
+        "id": "SitKakae",
+        "id_number": -1,
+        "value": "かかえ座り",
+        "translation": ""
+    },
+    {
+        "id": "SitSide",
+        "id_number": -1,
+        "value": "横座り",
+        "translation": ""
+    },
+    {
+        "id": "SitKnee",
+        "id_number": -1,
+        "value": "片膝座り",
+        "translation": ""
+    },
+    {
+        "id": "Squat",
+        "id_number": -1,
+        "value": "しゃがみ",
+        "translation": ""
+    },
+    {
+        "id": "Revolve",
+        "id_number": -1,
+        "value": "くるっと回る",
+        "translation": ""
+    },
+    {
+        "id": "Jump",
+        "id_number": -1,
+        "value": "ジャンプ",
+        "translation": ""
+    },
+    {
+        "id": "Scratch",
+        "id_number": -1,
+        "value": "頭をポリポリ",
+        "translation": ""
+    },
+    {
+        "id": "Glasses",
+        "id_number": -1,
+        "value": "メガネくいっ",
+        "translation": ""
+    },
+    {
+        "id": "Stretch",
+        "id_number": -1,
+        "value": "背伸び",
+        "translation": ""
+    },
+    {
+        "id": "Wait",
+        "id_number": -1,
+        "value": "待機",
+        "translation": ""
+    },
+    {
+        "id": "Fold",
+        "id_number": -1,
+        "value": "腕組み",
+        "translation": ""
+    },
+    {
+        "id": "Think",
+        "id_number": -1,
+        "value": "考え込む",
+        "translation": ""
+    },
+    {
+        "id": "Beware",
+        "id_number": -1,
+        "value": "警戒する",
+        "translation": ""
+    },
+    {
+        "id": "Collapse",
+        "id_number": -1,
+        "value": "倒れる",
+        "translation": ""
+    },
+    {
+        "id": "Proudly",
+        "id_number": -1,
+        "value": "胸を張る",
+        "translation": ""
+    },
+    {
+        "id": "Prayer",
+        "id_number": -1,
+        "value": "バファリア教の祈りポーズ",
+        "translation": ""
+    },
+    {
+        "id": "Salute",
+        "id_number": -1,
+        "value": "バーンハルト騎士団の敬礼",
+        "translation": ""
+    },
+    {
+        "id": "Jake",
+        "id_number": -1,
+        "value": "ジェイク固有ポーズ",
+        "translation": ""
+    },
+    {
+        "id": "King",
+        "id_number": -1,
+        "value": "公王立モーション",
+        "translation": ""
+    },
+    {
+        "id": "Carvain",
+        "id_number": -1,
+        "value": "カーヴェイン専用立モーション",
+        "translation": ""
+    },
+    {
+        "id": "Dance",
+        "id_number": -1,
+        "value": "踊る",
+        "translation": ""
+    },
+    {
+        "id": "laugh_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が笑った。",
+        "translation": ""
+    },
+    {
+        "id": "GreatJoy_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が大喜びした。",
+        "translation": ""
+    },
+    {
+        "id": "JoyM_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が喜んだ。",
+        "translation": ""
+    },
+    {
+        "id": "JoyF_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が喜んだ。",
+        "translation": ""
+    },
+    {
+        "id": "Shy_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が照れた。",
+        "translation": ""
+    },
+    {
+        "id": "Margin_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が余裕を見せた。",
+        "translation": ""
+    },
+    {
+        "id": "Anger_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が怒った。",
+        "translation": ""
+    },
+    {
+        "id": "Surprise_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が驚いた。",
+        "translation": ""
+    },
+    {
+        "id": "Amazed_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が呆れた。",
+        "translation": ""
+    },
+    {
+        "id": "Panicky_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}がうろたえた。",
+        "translation": ""
+    },
+    {
+        "id": "Cry_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が泣いた。",
+        "translation": ""
+    },
+    {
+        "id": "Regrettable_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が悔しがった。",
+        "translation": ""
+    },
+    {
+        "id": "FeelDown_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が落ち込んだ。",
+        "translation": ""
+    },
+    {
+        "id": "BowS_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}がお辞儀した。",
+        "translation": ""
+    },
+    {
+        "id": "BowL_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が丁寧にお辞儀した。",
+        "translation": ""
+    },
+    {
+        "id": "GoodbyeM_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}がさよならした。",
+        "translation": ""
+    },
+    {
+        "id": "GoodbyeF_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が手をふった。",
+        "translation": ""
+    },
+    {
+        "id": "Pointing_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が指さした。",
+        "translation": ""
+    },
+    {
+        "id": "Poke_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}がつっこんだ。",
+        "translation": ""
+    },
+    {
+        "id": "Applause_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が拍手した。",
+        "translation": ""
+    },
+    {
+        "id": "Appease_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}がなだめた。",
+        "translation": ""
+    },
+    {
+        "id": "Dogeza_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が土下座した。",
+        "translation": ""
+    },
+    {
+        "id": "Nod_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}がうなずいた。",
+        "translation": ""
+    },
+    {
+        "id": "HushUp_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が口止めした。",
+        "translation": ""
+    },
+    {
+        "id": "Rejection_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が拒否した。",
+        "translation": ""
+    },
+    {
+        "id": "Cheat_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}がごまかした。",
+        "translation": ""
+    },
+    {
+        "id": "ShowOff_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}がみせびらかした。",
+        "translation": ""
+    },
+    {
+        "id": "Support_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が応援した。",
+        "translation": ""
+    },
+    {
+        "id": "SitAgura_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が座った。",
+        "translation": ""
+    },
+    {
+        "id": "SitKakae_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が座った。",
+        "translation": ""
+    },
+    {
+        "id": "SitSide_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が座った。",
+        "translation": ""
+    },
+    {
+        "id": "SitKnee_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が座った。",
+        "translation": ""
+    },
+    {
+        "id": "Squat_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}がしゃがんだ。",
+        "translation": ""
+    },
+    {
+        "id": "Revolve_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}がくるっと回った。",
+        "translation": ""
+    },
+    {
+        "id": "Jump_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}がジャンプした。",
+        "translation": ""
+    },
+    {
+        "id": "Scratch_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が頭をかいた。",
+        "translation": ""
+    },
+    {
+        "id": "Glasses_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}がメガネを上げた。",
+        "translation": ""
+    },
+    {
+        "id": "Stretch_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が背伸びした。",
+        "translation": ""
+    },
+    {
+        "id": "Wait_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が待機した。",
+        "translation": ""
+    },
+    {
+        "id": "Fold_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が腕組みした。",
+        "translation": ""
+    },
+    {
+        "id": "Think_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が考え込んだ。",
+        "translation": ""
+    },
+    {
+        "id": "Beware_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が警戒した。",
+        "translation": ""
+    },
+    {
+        "id": "Collapse_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が倒れた。",
+        "translation": ""
+    },
+    {
+        "id": "Proudly_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が胸を張った。",
+        "translation": ""
+    },
+    {
+        "id": "Prayer_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が祈った。",
+        "translation": ""
+    },
+    {
+        "id": "Salute_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が敬礼した。",
+        "translation": ""
+    },
+    {
+        "id": "Jake_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}があいさつした。",
+        "translation": ""
+    },
+    {
+        "id": "King_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が待機した。",
+        "translation": ""
+    },
+    {
+        "id": "Carvain_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が待機した。",
+        "translation": ""
+    },
+    {
+        "id": "Dance_LogSelf",
+        "id_number": -1,
+        "value": "{CharacterName}が踊った。",
+        "translation": ""
+    },
+    {
+        "id": "laugh_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に笑った。",
+        "translation": ""
+    },
+    {
+        "id": "GreatJoy_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に大喜びした。",
+        "translation": ""
+    },
+    {
+        "id": "JoyM_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に喜んだ。",
+        "translation": ""
+    },
+    {
+        "id": "JoyF_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に喜んだ。",
+        "translation": ""
+    },
+    {
+        "id": "Shy_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に照れた。",
+        "translation": ""
+    },
+    {
+        "id": "Margin_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に余裕を見せた。",
+        "translation": ""
+    },
+    {
+        "id": "Anger_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に怒った。",
+        "translation": ""
+    },
+    {
+        "id": "Surprise_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に驚いた。",
+        "translation": ""
+    },
+    {
+        "id": "Amazed_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に呆れた。",
+        "translation": ""
+    },
+    {
+        "id": "Panicky_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}にうろたえた。",
+        "translation": ""
+    },
+    {
+        "id": "Cry_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に泣いた。",
+        "translation": ""
+    },
+    {
+        "id": "Regrettable_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に悔しがった。",
+        "translation": ""
+    },
+    {
+        "id": "FeelDown_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に落ち込んだ。",
+        "translation": ""
+    },
+    {
+        "id": "BowS_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}にお辞儀した。",
+        "translation": ""
+    },
+    {
+        "id": "BowL_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に丁寧にお辞儀した。",
+        "translation": ""
+    },
+    {
+        "id": "GoodbyeM_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}にさよならした。",
+        "translation": ""
+    },
+    {
+        "id": "GoodbyeF_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に手をふった。",
+        "translation": ""
+    },
+    {
+        "id": "Pointing_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に指さした。",
+        "translation": ""
+    },
+    {
+        "id": "Poke_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}につっこんだ。",
+        "translation": ""
+    },
+    {
+        "id": "Applause_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に拍手した。",
+        "translation": ""
+    },
+    {
+        "id": "Appease_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}をなだめた。",
+        "translation": ""
+    },
+    {
+        "id": "Dogeza_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に土下座した。",
+        "translation": ""
+    },
+    {
+        "id": "Nod_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}にうなずいた。",
+        "translation": ""
+    },
+    {
+        "id": "HushUp_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に口止めした。",
+        "translation": ""
+    },
+    {
+        "id": "Rejection_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に拒否した。",
+        "translation": ""
+    },
+    {
+        "id": "Cheat_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}にごまかした。",
+        "translation": ""
+    },
+    {
+        "id": "ShowOff_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}にみせびらかした。",
+        "translation": ""
+    },
+    {
+        "id": "Support_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}を応援した。",
+        "translation": ""
+    },
+    {
+        "id": "SitAgura_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に向かって座った。",
+        "translation": ""
+    },
+    {
+        "id": "SitKakae_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に向かって座った。",
+        "translation": ""
+    },
+    {
+        "id": "SitSide_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に向かって座った。",
+        "translation": ""
+    },
+    {
+        "id": "SitKnee_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に向かって座った。",
+        "translation": ""
+    },
+    {
+        "id": "Squat_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に向かってしゃがんだ。",
+        "translation": ""
+    },
+    {
+        "id": "Revolve_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に向かってくるっと回った。",
+        "translation": ""
+    },
+    {
+        "id": "Jump_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に向かってジャンプした。",
+        "translation": ""
+    },
+    {
+        "id": "Scratch_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に向かって頭をかいた。",
+        "translation": ""
+    },
+    {
+        "id": "Glasses_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に向かってメガネを上げた。",
+        "translation": ""
+    },
+    {
+        "id": "Stretch_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に向かって背伸びした。",
+        "translation": ""
+    },
+    {
+        "id": "Wait_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に向かって待機した。",
+        "translation": ""
+    },
+    {
+        "id": "Fold_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に向かって腕組みした。",
+        "translation": ""
+    },
+    {
+        "id": "Think_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に対して考え込んだ。",
+        "translation": ""
+    },
+    {
+        "id": "Beware_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に対して警戒した。",
+        "translation": ""
+    },
+    {
+        "id": "Collapse_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に向かって倒れた。",
+        "translation": ""
+    },
+    {
+        "id": "Proudly_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に胸を張った。",
+        "translation": ""
+    },
+    {
+        "id": "Prayer_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に祈った。",
+        "translation": ""
+    },
+    {
+        "id": "Salute_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に敬礼した。",
+        "translation": ""
+    },
+    {
+        "id": "Jake_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}にあいさつした。",
+        "translation": ""
+    },
+    {
+        "id": "King_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に待機した。",
+        "translation": ""
+    },
+    {
+        "id": "Carvain_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に待機した。",
+        "translation": ""
+    },
+    {
+        "id": "Dance_LogTarget",
+        "id_number": -1,
+        "value": "{CharacterName}が{OtherCharacterName}に向かって踊った。",
+        "translation": ""
+    }
+]

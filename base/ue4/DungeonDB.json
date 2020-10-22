@@ -1,0 +1,740 @@
+[
+    {
+        "id": "sce004_DisplayDesc",
+        "id_number": 0,
+        "value": "埋もれた都の説明",
+        "translation": ""
+    },
+    {
+        "id": "sce004_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間以内にボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "sce004_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "dng004_DisplayDesc",
+        "id_number": 0,
+        "value": "埋もれた都の説明",
+        "translation": ""
+    },
+    {
+        "id": "dng004_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間以内にボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "dng004_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "sce005_DisplayDesc",
+        "id_number": 0,
+        "value": "バファリア文明最大の遺跡の一つ。\nバファリア教の開祖が降り立った場所としても伝えられ、\nいまだ数多くの謎に包まれている。\nその外観は、どれほどの年月が経っても美しく壮麗なままである。",
+        "translation": ""
+    },
+    {
+        "id": "sce005_RuleDesc",
+        "id_number": 0,
+        "value": "最上階へ到達せよ！",
+        "translation": ""
+    },
+    {
+        "id": "sce005_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "dng005_DisplayDesc",
+        "id_number": 0,
+        "value": "【パーティ推奨】\nバファリア文明最大の遺跡の一つ。\nバファリア教の開祖が降り立った場所としても伝えられ、\nいまだ数多くの謎に包まれている。\nその外観は、どれほどの年月が経っても美しく壮麗なままである。",
+        "translation": ""
+    },
+    {
+        "id": "dng005_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間以内にボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "dng005_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "dng005_Hard_DisplayDesc",
+        "id_number": 0,
+        "value": "【パーティ推奨】\nバファリア文明最大の遺跡の一つ。\nバファリア教の開祖が降り立った場所としても伝えられ、\nいまだ数多くの謎に包まれている。\n追加調査は強大なエネミーと遭遇するため、難易度が高い。\nその分、成功報酬によって強力な武器をクラフトすることが可能。",
+        "translation": ""
+    },
+    {
+        "id": "dng005_Hard_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間以内にボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "dng005_Hard_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "dng007_DisplayDesc",
+        "id_number": 0,
+        "value": "枷神の産屋の説明",
+        "translation": ""
+    },
+    {
+        "id": "dng007_RuleDesc",
+        "id_number": 0,
+        "value": "仲間と協力して制限時間以内にボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "dng007_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "sce009_DisplayDesc",
+        "id_number": 0,
+        "value": "ドラゴンの爪で抉られたかのような深い峡谷地帯。\n複雑に入り組んだ谷が冒険者の行く手を阻む。\n崖を流れ落ちる滝は迫力に満ちて荒々しく、\nそれこそ竜の姿に例えられている。",
+        "translation": ""
+    },
+    {
+        "id": "sce009_RuleDesc",
+        "id_number": 0,
+        "value": "強大なエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "sce009_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "dng009_DisplayDesc",
+        "id_number": 0,
+        "value": "ドラゴンの爪で抉られたかのような深い峡谷地帯。\n複雑に入り組んだ谷が冒険者の行く手を阻む。\n崖を流れ落ちる滝は迫力に満ちて荒々しく、\nそれこそ竜の姿に例えられている。",
+        "translation": ""
+    },
+    {
+        "id": "dng009_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間以内にボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "dng009_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "dng009_Hard_DisplayDesc",
+        "id_number": 0,
+        "value": "【パーティ推奨】\nドラゴンの爪で抉られたかのような深い峡谷地帯。\n複雑に入り組んだ谷が冒険者の行く手を阻む。\n追加調査は強大なエネミーと遭遇するため、難易度が高い。\nその分、成功報酬によって強力な武器をクラフトすることが可能。",
+        "translation": ""
+    },
+    {
+        "id": "dng009_Hard_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間以内にボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "dng009_Hard_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "tad009_DisplayDesc",
+        "id_number": 0,
+        "value": "冒険者の力量を測るために用意されたクリアタイムを競う競技。\n最速を目指す者たちが、日夜己の限界に挑み続けている。\n\n【舞台】巨竜の爪痕\n・最奥部まで進み、ボスエネミー討伐までのタイムを競え\n・クリアタイムに応じて報酬を獲得\n・誰よりも早くクリアし、ランキング入りを狙え",
+        "translation": ""
+    },
+    {
+        "id": "tad009_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間以内にすばやくボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "tad009_RuleName",
+        "id_number": 0,
+        "value": "制限時間以内にすばやくボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "tad009_PT_DisplayDesc",
+        "id_number": 0,
+        "value": "冒険者の力量を測るために用意されたクリアタイムを競う競技。\n最速を目指す者たちが、日夜己の限界に挑み続けている。\n\n【舞台】巨竜の爪痕\n・最奥部まで進み、ボスエネミー討伐までのタイムを競え\n・クリアタイムに応じて報酬を獲得\n・誰よりも早くクリアし、ランキング入りを狙え",
+        "translation": ""
+    },
+    {
+        "id": "tad009_PT_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間以内にすばやくボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "tad009_PT_RuleName",
+        "id_number": 0,
+        "value": "制限時間以内にすばやくボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "dng011_DisplayDesc",
+        "id_number": 0,
+        "value": "天恵の聖堂の説明",
+        "translation": ""
+    },
+    {
+        "id": "dng011_RuleDesc",
+        "id_number": 0,
+        "value": "仲間と協力して制限時間以内にボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "dng011_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "dng013_DisplayDesc",
+        "id_number": 0,
+        "value": "バーンハルトへの隠し通路の説明",
+        "translation": ""
+    },
+    {
+        "id": "dng013_RuleDesc",
+        "id_number": 0,
+        "value": "仲間と協力して制限時間以内にボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "dng013_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "dng015_DisplayDesc",
+        "id_number": 0,
+        "value": "長い長い年月を経て作られた巨大な蟲塚。\n遠目にもわかるほど大きく、旅人やキャラバンの目印になっている。\n内部は空洞で、ゴブリンをはじめとした亜人のエネミーたちが\n棲みついている。\n最奥部には、かなり手強いエネミーの存在が確認されている。",
+        "translation": ""
+    },
+    {
+        "id": "dng015_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間以内にボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "dng015_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "sce015_DisplayDesc",
+        "id_number": 0,
+        "value": "長い長い年月を経て作られた巨大な蟲塚。\n遠目にもわかるほど大きく、旅人やキャラバンの目印になっている。\n内部は空洞で、ゴブリンをはじめとした亜人のエネミーたちが\n棲みついている。\n最奥部には、かなり手強いエネミーの存在が確認されている。",
+        "translation": ""
+    },
+    {
+        "id": "sce015_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間以内にボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "sce015_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "dng017_DisplayDesc",
+        "id_number": 0,
+        "value": "GB調整中\nバーンハルト城の地下研究所\nアバリティヨルクイマジンとダンケルクと戦闘",
+        "translation": ""
+    },
+    {
+        "id": "dng017_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間以内にボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "dng017_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "dng019_DisplayDesc",
+        "id_number": 0,
+        "value": "海神窟についての説明",
+        "translation": ""
+    },
+    {
+        "id": "dng019_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間以内にボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "dng019_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "ins002_DisplayDesc",
+        "id_number": 0,
+        "value": "崩れ落ちた巨塔を思わせる古代遺跡。\n『来者』について詳しいという神官ワールキンが\nここに調査に赴いたまま、帰ってこないらしい。\nなにごともなければ良いのだが……。",
+        "translation": ""
+    },
+    {
+        "id": "ins002_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間内に全てのエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "ins002_RuleName",
+        "id_number": 0,
+        "value": "エネミー全滅",
+        "translation": ""
+    },
+    {
+        "id": "ins003_DisplayDesc",
+        "id_number": 0,
+        "value": "第一のアバリティア",
+        "translation": ""
+    },
+    {
+        "id": "ins003_RuleDesc",
+        "id_number": 0,
+        "value": "インスタンスバトル ins003",
+        "translation": ""
+    },
+    {
+        "id": "ins003_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "ins004_DisplayDesc",
+        "id_number": 0,
+        "value": "囮となった子を探そう",
+        "translation": ""
+    },
+    {
+        "id": "ins004_RuleDesc",
+        "id_number": 0,
+        "value": "インスタンスバトル ins004",
+        "translation": ""
+    },
+    {
+        "id": "ins004_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "ins005_DisplayDesc",
+        "id_number": 0,
+        "value": "歌姫救出",
+        "translation": ""
+    },
+    {
+        "id": "ins005_RuleDesc",
+        "id_number": 0,
+        "value": "インスタンスバトル ins005",
+        "translation": ""
+    },
+    {
+        "id": "ins005_RuleName",
+        "id_number": 0,
+        "value": "エネミー全滅",
+        "translation": ""
+    },
+    {
+        "id": "ins006_DisplayDesc",
+        "id_number": 0,
+        "value": "囁きの崖",
+        "translation": ""
+    },
+    {
+        "id": "ins006_RuleDesc",
+        "id_number": 0,
+        "value": "インスタンスバトル ins006",
+        "translation": ""
+    },
+    {
+        "id": "ins006_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "sce0101_DisplayDesc",
+        "id_number": 0,
+        "value": "『レイクリッド結晶』などの産地として使われていた坑道の一角。\nすでに役目を終え、大規模な採掘は行われていないが、\nたまに冒険者が素材を求めてやってくる。\n最近、モンスターが棲みついてしまったらしい。",
+        "translation": ""
+    },
+    {
+        "id": "sce0101_RuleDesc",
+        "id_number": 0,
+        "value": "強大なエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "sce0101_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "pat0101_DisplayDesc",
+        "id_number": 0,
+        "value": "『レイクリッド結晶』などの産地として使われていた坑道の一角。\nすでに役目を終え、大規模な採掘は行われていないが、\nたまに冒険者が素材を求めてやってくる。\n最近、モンスターが棲みついてしまったらしい。",
+        "translation": ""
+    },
+    {
+        "id": "pat0101_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間以内にボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "pat0101_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "sce0102_DisplayDesc",
+        "id_number": 0,
+        "value": "バファリア文明時代の街が埋もれ、\n周辺の地形と一体化してできた遺跡の谷。\nバファリアの遺産である機械類が今もこの地を守っており、\n侵入者を迎え撃つ。",
+        "translation": ""
+    },
+    {
+        "id": "sce0102_RuleDesc",
+        "id_number": 0,
+        "value": "強大なエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "sce0102_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "pat0102_DisplayDesc",
+        "id_number": 0,
+        "value": "【パーティ推奨】\nバファリア文明時代の街が埋もれ、\n周辺の地形と一体化してできた遺跡の谷。\nバファリアの遺産である機械類が今もこの地を守っており、\n侵入者を迎え撃つ。",
+        "translation": ""
+    },
+    {
+        "id": "pat0102_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間以内にボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "pat0102_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "pat0102_Hard_DisplayDesc",
+        "id_number": 0,
+        "value": "【パーティ推奨】\nバファリア文明時代の小規模な街が埋もれ、\n周辺の地形と一体化してできた遺跡の谷。\n追加調査では強大なエネミーと遭遇するため、難易度が高い。\nその分、成功報酬によって強力な武器をクラフトできる。",
+        "translation": ""
+    },
+    {
+        "id": "pat0102_Hard_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間以内にボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "pat0102_Hard_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "sce0201_DisplayDesc",
+        "id_number": 0,
+        "value": "バファリア文明時代の街が埋もれ、周辺の地形と一体化してできた遺跡\nの谷。バファリアの遺産である機械類が今もこの地を守っており、侵入\n者を迎撃する。",
+        "translation": ""
+    },
+    {
+        "id": "sce0201_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間以内にボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "sce0201_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "pat0201_DisplayDesc",
+        "id_number": 0,
+        "value": "このバファリア遺跡は、かつては保存状態も良く名所として知られてい\nたが、急速な砂漠化によって朽廃が進み、近年では近寄る者もほとんど\nいなくなった。（仮）",
+        "translation": ""
+    },
+    {
+        "id": "pat0201_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間以内にボスエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "pat0201_RuleName",
+        "id_number": 0,
+        "value": "ボスエネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "arn001_DisplayDesc",
+        "id_number": 0,
+        "value": "闘技場ポイント競争！\nエネミーを倒し、コインをたくさん集め、収納箱に納品しよう。\n一番多く納品したプレイヤーの勝利！\n※納品し忘れに要注意※",
+        "translation": ""
+    },
+    {
+        "id": "arn001_RuleDesc",
+        "id_number": 0,
+        "value": "コインを集めて納品しよう",
+        "translation": ""
+    },
+    {
+        "id": "arn001_RuleName",
+        "id_number": 0,
+        "value": "ポイント競争",
+        "translation": ""
+    },
+    {
+        "id": "arn002_E_DisplayDesc",
+        "id_number": 0,
+        "value": "【パーティ推奨】\n日夜激しい戦いが繰り広げられる闘技場。\n課されたルールに挑み、その力を示せ。\n\n・次々と現れるエネミーを制限時間内に倒せ\n・時間切れになるとミッション失敗\n・チャレンジをクリアすると戦闘が有利になる効果が発動",
+        "translation": ""
+    },
+    {
+        "id": "arn002_E_RuleDesc",
+        "id_number": 0,
+        "value": "25体のエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "arn002_E_RuleName",
+        "id_number": 0,
+        "value": "25体のエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "arn002_N_DisplayDesc",
+        "id_number": 0,
+        "value": "【パーティ推奨】\n日夜激しい戦いが繰り広げられる闘技場。\n課されたルールに挑み、その力を示せ。\n\n・次々と現れるエネミーを制限時間内に倒せ\n・時間切れになるとミッション失敗\n・チャレンジをクリアすると戦闘が有利になる効果が発動",
+        "translation": ""
+    },
+    {
+        "id": "arn002_N_RuleDesc",
+        "id_number": 0,
+        "value": "50体のエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "arn002_N_RuleName",
+        "id_number": 0,
+        "value": "50体のエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "arn002_H_DisplayDesc",
+        "id_number": 0,
+        "value": "【パーティ推奨】\n日夜激しい戦いが繰り広げられる闘技場。\n課されたルールに挑み、その力を示せ。\n\n・次々と現れるエネミーを制限時間内に倒せ\n・時間切れになるとミッション失敗\n・チャレンジをクリアすると戦闘が有利になる効果が発動",
+        "translation": ""
+    },
+    {
+        "id": "arn002_H_RuleDesc",
+        "id_number": 0,
+        "value": "75体のエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "arn002_H_RuleName",
+        "id_number": 0,
+        "value": "75体のエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "arn002_V_DisplayDesc",
+        "id_number": 0,
+        "value": "【パーティ推奨】\n日夜激しい戦いが繰り広げられる闘技場。\n課されたルールに挑み、その力を示せ。\n\n・次々と現れるエネミーを制限時間内に倒せ\n・時間切れになるとミッション失敗\n・チャレンジをクリアすると戦闘が有利になる効果が発動",
+        "translation": ""
+    },
+    {
+        "id": "arn002_V_RuleDesc",
+        "id_number": 0,
+        "value": "100体のエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "arn002_V_RuleName",
+        "id_number": 0,
+        "value": "100体のエネミーを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "rai001_DisplayDesc",
+        "id_number": 0,
+        "value": "バハマール高原に突如現れた謎の「星脈孔」\n調査に向かった冒険者たちが見たものは…\n\n・巨大なボスエネミーを制限時間内に倒せ\n・時間切れになるとミッション失敗\n・ランキング上位入賞で報酬にボーナス",
+        "translation": ""
+    },
+    {
+        "id": "rai001_RuleDesc",
+        "id_number": 0,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "rai001_RuleName",
+        "id_number": 0,
+        "value": "レイドボスエネミーバトル３",
+        "translation": ""
+    },
+    {
+        "id": "RockDungeon_DisplayDesc",
+        "id_number": 0,
+        "value": "汎用ダンジョン(試験用)",
+        "translation": ""
+    },
+    {
+        "id": "RockDungeon_RuleDesc",
+        "id_number": 0,
+        "value": "汎用ダンジョンの試験結果の確認",
+        "translation": ""
+    },
+    {
+        "id": "RockDungeon_RuleName",
+        "id_number": 0,
+        "value": "試験",
+        "translation": ""
+    },
+    {
+        "id": "BattleArena_TreasureHunt_DisplayDesc",
+        "id_number": 0,
+        "value": "エネミーが次々襲いかかってくるミッション\n腕に自信のある者のみ参加可能な闘技場",
+        "translation": ""
+    },
+    {
+        "id": "BattleArena_TreasureHunt_RuleDesc",
+        "id_number": 0,
+        "value": "エネミーすべて倒せ！",
+        "translation": ""
+    },
+    {
+        "id": "BattleArena_TreasureHunt_RuleName",
+        "id_number": 0,
+        "value": "エネミー討伐",
+        "translation": ""
+    },
+    {
+        "id": "TowerTest_DisplayDesc",
+        "id_number": 0,
+        "value": "塔コンテンツ(サバイバル試験用)",
+        "translation": ""
+    },
+    {
+        "id": "TowerTest_RuleDesc",
+        "id_number": 0,
+        "value": "塔コンテンツの試験結果の確認",
+        "translation": ""
+    },
+    {
+        "id": "TowerTest_RuleName",
+        "id_number": 0,
+        "value": "試験",
+        "translation": ""
+    },
+    {
+        "id": "Tower_ODB_DisplayDesc",
+        "id_number": 0,
+        "value": "塔コンテンツ(お題バトル試験用)",
+        "translation": ""
+    },
+    {
+        "id": "Tower_ODB_RuleDesc",
+        "id_number": 0,
+        "value": "塔コンテンツの試験結果の確認",
+        "translation": ""
+    },
+    {
+        "id": "Tower_ODB_RuleName",
+        "id_number": 0,
+        "value": "試験",
+        "translation": ""
+    },
+    {
+        "id": "BattleRoom_DisplayDesc",
+        "id_number": 0,
+        "value": "バトルチェック用ダンジョン。\n確認会のときに使用",
+        "translation": ""
+    },
+    {
+        "id": "BattleRoom_RuleDesc",
+        "id_number": 0,
+        "value": "バトルチェック用のダンジョン",
+        "translation": ""
+    },
+    {
+        "id": "BattleRoom_RuleName",
+        "id_number": 0,
+        "value": "バトルチェック",
+        "translation": ""
+    },
+    {
+        "id": "GDI_TOP_DisplayDesc",
+        "id_number": 0,
+        "value": "トレーニングマップの説明",
+        "translation": ""
+    },
+    {
+        "id": "GDI_TOP_RuleDesc",
+        "id_number": 0,
+        "value": "動きや戦い方を習得せよ！",
+        "translation": ""
+    },
+    {
+        "id": "GDI_TOP_RuleName",
+        "id_number": 0,
+        "value": "トレーニング",
+        "translation": ""
+    }
+]
