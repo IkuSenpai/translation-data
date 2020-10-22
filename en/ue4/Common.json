@@ -3,18 +3,18 @@
         "id": "1",
         "id_number": 1,
         "value": "BLUE PROTOCOL",
-        "translation": ""
+        "translation": "BLUE PROTOCOL"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "ルーノ",
-        "translation": ""
+        "translation": "Luno"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "GC",
-        "translation": ""
+        "translation": "GC"
     }
 ]
