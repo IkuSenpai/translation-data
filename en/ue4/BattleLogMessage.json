@@ -3,120 +3,120 @@
         "id": "0",
         "id_number": 0,
         "value": "{CharacterName}は{EnemyName}を討伐した。",
-        "translation": ""
+        "translation": "{CharacterName} has subdued {EnemyName}."
     },
     {
         "id": "1",
         "id_number": 1,
         "value": "{EnemyName}から{CharacterName}に{Damage}のダメージ。",
-        "translation": ""
+        "translation": "{CharacterName} took {Damage} damage from {EnemyName}."
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "{EnemyName}に{Damage}のダメージ。",
-        "translation": ""
+        "translation": "{EnemyName} took {Damage} damage."
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "{CharacterName}の体力が{HealPoint}回復。",
-        "translation": ""
+        "translation": "{CharacterName}'s health recovered by {HealPoint}."
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "{CharacterName}のスタミナが{HealPoint}回復。",
-        "translation": ""
+        "translation": "{CharacterName}'s stamina recovered by {HealPoint}."
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "{CharacterName}の{SkillName}。",
-        "translation": ""
+        "translation": "{CharacterName} used {SkillName}."
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "{CharacterName}が{ImagineName}を使用。",
-        "translation": ""
+        "translation": "{CharacterName} summoned {ImagineName}."
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "{CharacterName}の{SpecialName}。",
-        "translation": ""
+        "translation": "{CharacterName} used {SpecialName}."
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "{CharacterName}は{EnemyName}に倒された。",
-        "translation": ""
+        "translation": "{CharacterName} has been defeated by {EnemyName}."
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "{CharacterName}の{StatusName}が切れた。",
-        "translation": ""
+        "translation": "{CharacterName}'s {StatusName} has ended."
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "{WeaponName}は{Exp}の武器経験値を得た。",
-        "translation": ""
+        "translation": "{WeaponName} gained {Exp} weapon experience."
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "{ImagineName}は{Exp}のイマジン経験値を得た。",
-        "translation": ""
+        "translation": "{ImagineName} gained {Exp} Imagine experience."
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "{ChainNum}連続撃破！",
-        "translation": ""
+        "translation": "{ChainNum} kill combo!"
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "{CharacterName}は戦闘不能になった。",
-        "translation": ""
+        "translation": "{CharacterName} is no longer in combat."
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "{EnemyName}は討伐された。",
-        "translation": ""
+        "translation": "{EnemyName] was killed."
     },
     {
         "id": "15",
         "id_number": 15,
         "value": "{CharacterName}は{Exp}のクラス経験値を得た。",
-        "translation": ""
+        "translation": "{CharacterName} gained {Exp} class experience."
     },
     {
         "id": "16",
         "id_number": 16,
         "value": "{CharacterName}がレベル{Level}になった。",
-        "translation": ""
+        "translation": "{CharacterName} became level {Level}."
     },
     {
         "id": "17",
         "id_number": 17,
         "value": "{ItemName}を{ItemNum}個、入手。",
-        "translation": ""
+        "translation": "Obtained {ItemNum} {ItemName}."
     },
     {
         "id": "18",
         "id_number": 18,
         "value": "{Money}ルーノを入手。",
-        "translation": ""
+        "translation": "Obtained {Money} Luno."
     },
     {
         "id": "19",
         "id_number": 19,
         "value": "{EnemyName}討伐：{Exp}の経験値を得た",
-        "translation": ""
+        "translation": "{EnemyName} Subjugation： gained {Exp} experience."
     }
 ]
