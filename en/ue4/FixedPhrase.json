@@ -3,48 +3,48 @@
         "id": "0",
         "id_number": 0,
         "value": "よろしくね",
-        "translation": ""
+        "translation": "Nice to meet you"
     },
     {
         "id": "1",
         "id_number": 1,
         "value": "やったー！",
-        "translation": ""
+        "translation": "Yay!"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "ありがとう",
-        "translation": ""
+        "translation": "Thank you"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "ナイス！",
-        "translation": ""
+        "translation": "Nice!"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "了解",
-        "translation": ""
+        "translation": "Understood"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "たすけて！",
-        "translation": ""
+        "translation": "Help!"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "準備完了！",
-        "translation": ""
+        "translation": "Ready!"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "いくぞー！",
-        "translation": ""
+        "translation": "Let's go!"
     }
 ]
