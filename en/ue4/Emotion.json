@@ -3,900 +3,900 @@
         "id": "laugh",
         "id_number": -1,
         "value": "笑い",
-        "translation": ""
+        "translation": "laugh"
     },
     {
         "id": "GreatJoy",
         "id_number": -1,
         "value": "大喜び",
-        "translation": ""
+        "translation": "GreatJoy"
     },
     {
         "id": "JoyM",
         "id_number": -1,
         "value": "やったぜ",
-        "translation": ""
+        "translation": "JoyM"
     },
     {
         "id": "JoyF",
         "id_number": -1,
         "value": "やったね",
-        "translation": ""
+        "translation": "JoyF"
     },
     {
         "id": "Shy",
         "id_number": -1,
         "value": "照れる",
-        "translation": ""
+        "translation": "Shy"
     },
     {
         "id": "Margin",
         "id_number": -1,
         "value": "余裕",
-        "translation": ""
+        "translation": "Margin"
     },
     {
         "id": "Anger",
         "id_number": -1,
         "value": "怒り",
-        "translation": ""
+        "translation": "Anger"
     },
     {
         "id": "Surprise",
         "id_number": -1,
         "value": "おどろき",
-        "translation": ""
+        "translation": "Surprise"
     },
     {
         "id": "Amazed",
         "id_number": -1,
         "value": "呆れる",
-        "translation": ""
+        "translation": "Amazed"
     },
     {
         "id": "Panicky",
         "id_number": -1,
         "value": "うろたえる",
-        "translation": ""
+        "translation": "Panicky"
     },
     {
         "id": "Cry",
         "id_number": -1,
         "value": "泣く",
-        "translation": ""
+        "translation": "Cry"
     },
     {
         "id": "Regrettable",
         "id_number": -1,
         "value": "悔しい",
-        "translation": ""
+        "translation": "Regrettable"
     },
     {
         "id": "FeelDown",
         "id_number": -1,
         "value": "落ち込み",
-        "translation": ""
+        "translation": "FeelDown"
     },
     {
         "id": "BowS",
         "id_number": -1,
         "value": "お辞儀",
-        "translation": ""
+        "translation": "BowS"
     },
     {
         "id": "BowL",
         "id_number": -1,
         "value": "丁寧なお辞儀",
-        "translation": ""
+        "translation": "BowL"
     },
     {
         "id": "GoodbyeM",
         "id_number": -1,
         "value": "さよなら",
-        "translation": ""
+        "translation": "GoodbyeM"
     },
     {
         "id": "GoodbyeF",
         "id_number": -1,
         "value": "ばいばい",
-        "translation": ""
+        "translation": "GoodbyeF"
     },
     {
         "id": "Pointing",
         "id_number": -1,
         "value": "指さし",
-        "translation": ""
+        "translation": "Pointing"
     },
     {
         "id": "Poke",
         "id_number": -1,
         "value": "つっこみ",
-        "translation": ""
+        "translation": "Poke"
     },
     {
         "id": "Applause",
         "id_number": -1,
         "value": "拍手",
-        "translation": ""
+        "translation": "Applause"
     },
     {
         "id": "Appease",
         "id_number": -1,
         "value": "なだめる",
-        "translation": ""
+        "translation": "Appease"
     },
     {
         "id": "Dogeza",
         "id_number": -1,
         "value": "土下座",
-        "translation": ""
+        "translation": "Dogeza"
     },
     {
         "id": "Nod",
         "id_number": -1,
         "value": "うなずく",
-        "translation": ""
+        "translation": "Nod"
     },
     {
         "id": "HushUp",
         "id_number": -1,
         "value": "口止め",
-        "translation": ""
+        "translation": "HushUp"
     },
     {
         "id": "Rejection",
         "id_number": -1,
         "value": "拒否する",
-        "translation": ""
+        "translation": "Rejection"
     },
     {
         "id": "Cheat",
         "id_number": -1,
         "value": "ごまかす",
-        "translation": ""
+        "translation": "Cheat"
     },
     {
         "id": "ShowOff",
         "id_number": -1,
         "value": "みせびらかす",
-        "translation": ""
+        "translation": "ShowOff"
     },
     {
         "id": "Support",
         "id_number": -1,
         "value": "応援",
-        "translation": ""
+        "translation": "Support"
     },
     {
         "id": "SitAgura",
         "id_number": -1,
         "value": "あぐら座り",
-        "translation": ""
+        "translation": "SitAgura"
     },
     {
         "id": "SitKakae",
         "id_number": -1,
         "value": "かかえ座り",
-        "translation": ""
+        "translation": "SitKakae"
     },
     {
         "id": "SitSide",
         "id_number": -1,
         "value": "横座り",
-        "translation": ""
+        "translation": "SitSide"
     },
     {
         "id": "SitKnee",
         "id_number": -1,
         "value": "片膝座り",
-        "translation": ""
+        "translation": "SitKnee"
     },
     {
         "id": "Squat",
         "id_number": -1,
         "value": "しゃがみ",
-        "translation": ""
+        "translation": "Squat"
     },
     {
         "id": "Revolve",
         "id_number": -1,
         "value": "くるっと回る",
-        "translation": ""
+        "translation": "Revolve"
     },
     {
         "id": "Jump",
         "id_number": -1,
         "value": "ジャンプ",
-        "translation": ""
+        "translation": "Jump"
     },
     {
         "id": "Scratch",
         "id_number": -1,
         "value": "頭をポリポリ",
-        "translation": ""
+        "translation": "Scratch"
     },
     {
         "id": "Glasses",
         "id_number": -1,
         "value": "メガネくいっ",
-        "translation": ""
+        "translation": "Glasses"
     },
     {
         "id": "Stretch",
         "id_number": -1,
         "value": "背伸び",
-        "translation": ""
+        "translation": "Stretch"
     },
     {
         "id": "Wait",
         "id_number": -1,
         "value": "待機",
-        "translation": ""
+        "translation": "Wait"
     },
     {
         "id": "Fold",
         "id_number": -1,
         "value": "腕組み",
-        "translation": ""
+        "translation": "Fold"
     },
     {
         "id": "Think",
         "id_number": -1,
         "value": "考え込む",
-        "translation": ""
+        "translation": "Think"
     },
     {
         "id": "Beware",
         "id_number": -1,
         "value": "警戒する",
-        "translation": ""
+        "translation": "Beware"
     },
     {
         "id": "Collapse",
         "id_number": -1,
         "value": "倒れる",
-        "translation": ""
+        "translation": "Collapse"
     },
     {
         "id": "Proudly",
         "id_number": -1,
         "value": "胸を張る",
-        "translation": ""
+        "translation": "Proudly"
     },
     {
         "id": "Prayer",
         "id_number": -1,
         "value": "バファリア教の祈りポーズ",
-        "translation": ""
+        "translation": "Prayer"
     },
     {
         "id": "Salute",
         "id_number": -1,
         "value": "バーンハルト騎士団の敬礼",
-        "translation": ""
+        "translation": "Salute"
     },
     {
         "id": "Jake",
         "id_number": -1,
         "value": "ジェイク固有ポーズ",
-        "translation": ""
+        "translation": "Jake"
     },
     {
         "id": "King",
         "id_number": -1,
         "value": "公王立モーション",
-        "translation": ""
+        "translation": "King"
     },
     {
         "id": "Carvain",
         "id_number": -1,
         "value": "カーヴェイン専用立モーション",
-        "translation": ""
+        "translation": "Carvain"
     },
     {
         "id": "Dance",
         "id_number": -1,
         "value": "踊る",
-        "translation": ""
+        "translation": "Dance"
     },
     {
         "id": "laugh_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が笑った。",
-        "translation": ""
+        "translation": "{CharacterName} laughed."
     },
     {
         "id": "GreatJoy_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が大喜びした。",
-        "translation": ""
+        "translation": "{CharacterName} was overjoyed."
     },
     {
         "id": "JoyM_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が喜んだ。",
-        "translation": ""
+        "translation": "{CharacterName} was pleased."
     },
     {
         "id": "JoyF_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が喜んだ。",
-        "translation": ""
+        "translation": "{CharacterName} was pleased."
     },
     {
         "id": "Shy_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が照れた。",
-        "translation": ""
+        "translation": "{CharacterName} was shy."
     },
     {
         "id": "Margin_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が余裕を見せた。",
-        "translation": ""
+        "translation": "{CharacterName} showed a margin."
     },
     {
         "id": "Anger_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が怒った。",
-        "translation": ""
+        "translation": "{CharacterName} was angry."
     },
     {
         "id": "Surprise_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が驚いた。",
-        "translation": ""
+        "translation": "{CharacterName} was suprised."
     },
     {
         "id": "Amazed_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が呆れた。",
-        "translation": ""
+        "translation": "{CharacterName} was amazed."
     },
     {
         "id": "Panicky_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}がうろたえた。",
-        "translation": ""
+        "translation": "{CharacterName} was upset."
     },
     {
         "id": "Cry_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が泣いた。",
-        "translation": ""
+        "translation": "{CharacterName} cried."
     },
     {
         "id": "Regrettable_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が悔しがった。",
-        "translation": ""
+        "translation": "{CharacterName} was regrettable."
     },
     {
         "id": "FeelDown_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が落ち込んだ。",
-        "translation": ""
+        "translation": "{CharacterName} was depressed."
     },
     {
         "id": "BowS_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}がお辞儀した。",
-        "translation": ""
+        "translation": "{CharacterName} bowed."
     },
     {
         "id": "BowL_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が丁寧にお辞儀した。",
-        "translation": ""
+        "translation": "{CharacterName} bowed politely."
     },
     {
         "id": "GoodbyeM_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}がさよならした。",
-        "translation": ""
+        "translation": "{CharacterName} waved goodbye."
     },
     {
         "id": "GoodbyeF_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が手をふった。",
-        "translation": ""
+        "translation": "{CharacterName} waved goodbye."
     },
     {
         "id": "Pointing_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が指さした。",
-        "translation": ""
+        "translation": "{CharacterName} pointed."
     },
     {
         "id": "Poke_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}がつっこんだ。",
-        "translation": ""
+        "translation": "{CharacterName} poked."
     },
     {
         "id": "Applause_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が拍手した。",
-        "translation": ""
+        "translation": "{CharacterName} applauded."
     },
     {
         "id": "Appease_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}がなだめた。",
-        "translation": ""
+        "translation": "{CharacterName} was soothed."
     },
     {
         "id": "Dogeza_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が土下座した。",
-        "translation": ""
+        "translation": "{CharacterName} dogezaed."
     },
     {
         "id": "Nod_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}がうなずいた。",
-        "translation": ""
+        "translation": "{CharacterName} noded."
     },
     {
         "id": "HushUp_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が口止めした。",
-        "translation": ""
+        "translation": "{CharacterName} hushed."
     },
     {
         "id": "Rejection_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が拒否した。",
-        "translation": ""
+        "translation": "{CharacterName} rejected."
     },
     {
         "id": "Cheat_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}がごまかした。",
-        "translation": ""
+        "translation": "{CharacterName} cheated."
     },
     {
         "id": "ShowOff_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}がみせびらかした。",
-        "translation": ""
+        "translation": "{CharacterName} showed off"
     },
     {
         "id": "Support_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が応援した。",
-        "translation": ""
+        "translation": "{CharacterName} cheered."
     },
     {
         "id": "SitAgura_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が座った。",
-        "translation": ""
+        "translation": "{CharacterName} sat."
     },
     {
         "id": "SitKakae_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が座った。",
-        "translation": ""
+        "translation": "{CharacterName} sat."
     },
     {
         "id": "SitSide_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が座った。",
-        "translation": ""
+        "translation": "{CharacterName} sat."
     },
     {
         "id": "SitKnee_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が座った。",
-        "translation": ""
+        "translation": "{CharacterName} sat."
     },
     {
         "id": "Squat_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}がしゃがんだ。",
-        "translation": ""
+        "translation": "{CharacterName} squatted."
     },
     {
         "id": "Revolve_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}がくるっと回った。",
-        "translation": ""
+        "translation": "{CharacterName} turned around."
     },
     {
         "id": "Jump_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}がジャンプした。",
-        "translation": ""
+        "translation": "{CharacterName} jumped"
     },
     {
         "id": "Scratch_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が頭をかいた。",
-        "translation": ""
+        "translation": "{CharacterName} scratched their head."
     },
     {
         "id": "Glasses_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}がメガネを上げた。",
-        "translation": ""
+        "translation": "{CharacterName} raised their glasses."
     },
     {
         "id": "Stretch_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が背伸びした。",
-        "translation": ""
+        "translation": "{CharacterName} streched."
     },
     {
         "id": "Wait_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が待機した。",
-        "translation": ""
+        "translation": "{CharacterName} waited."
     },
     {
         "id": "Fold_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が腕組みした。",
-        "translation": ""
+        "translation": "{CharacterName} crossed their arms."
     },
     {
         "id": "Think_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が考え込んだ。",
-        "translation": ""
+        "translation": "{CharacterName} thought."
     },
     {
         "id": "Beware_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が警戒した。",
-        "translation": ""
+        "translation": "{CharacterName} was wary."
     },
     {
         "id": "Collapse_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が倒れた。",
-        "translation": ""
+        "translation": "{CharacterName} collapsed."
     },
     {
         "id": "Proudly_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が胸を張った。",
-        "translation": ""
+        "translation": "{CharacterName} was proud."
     },
     {
         "id": "Prayer_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が祈った。",
-        "translation": ""
+        "translation": "{CharacterName} prayed."
     },
     {
         "id": "Salute_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が敬礼した。",
-        "translation": ""
+        "translation": "{CharacterName} saluted."
     },
     {
         "id": "Jake_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}があいさつした。",
-        "translation": ""
+        "translation": "{CharacterName} greeted."
     },
     {
         "id": "King_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が待機した。",
-        "translation": ""
+        "translation": "{CharacterName} waited and did some King stuff."
     },
     {
         "id": "Carvain_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が待機した。",
-        "translation": ""
+        "translation": "{CharacterName} waited."
     },
     {
         "id": "Dance_LogSelf",
         "id_number": -1,
         "value": "{CharacterName}が踊った。",
-        "translation": ""
+        "translation": "{CharacterName} danced."
     },
     {
         "id": "laugh_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に笑った。",
-        "translation": ""
+        "translation": "{CharacterName} laughed at {OtherCharacterName}."
     },
     {
         "id": "GreatJoy_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に大喜びした。",
-        "translation": ""
+        "translation": "{CharacterName} was overjoyed by {OtherCharacterName}."
     },
     {
         "id": "JoyM_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に喜んだ。",
-        "translation": ""
+        "translation": "{CharacterName} was pleased by {OtherCharacterName}."
     },
     {
         "id": "JoyF_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に喜んだ。",
-        "translation": ""
+        "translation": "{CharacterName} was pleased by {OtherCharacterName}."
     },
     {
         "id": "Shy_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に照れた。",
-        "translation": ""
+        "translation": "{CharacterName} was embarrassed by {OtherCharacterName}."
     },
     {
         "id": "Margin_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に余裕を見せた。",
-        "translation": ""
+        "translation": "{CharacterName} showed a margin to {OtherCharacterName}."
     },
     {
         "id": "Anger_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に怒った。",
-        "translation": ""
+        "translation": "{CharacterName} was angry at {OtherCharacterName}."
     },
     {
         "id": "Surprise_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に驚いた。",
-        "translation": ""
+        "translation": "{CharacterName} was surprised by {OtherCharacterName}."
     },
     {
         "id": "Amazed_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に呆れた。",
-        "translation": ""
+        "translation": "{CharacterName} was amazed at {OtherCharacterName}."
     },
     {
         "id": "Panicky_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}にうろたえた。",
-        "translation": ""
+        "translation": "{CharacterName} was upset at {OtherCharacterName}."
     },
     {
         "id": "Cry_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に泣いた。",
-        "translation": ""
+        "translation": "{CharacterName} cried to {OtherCharacterName}."
     },
     {
         "id": "Regrettable_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に悔しがった。",
-        "translation": ""
+        "translation": "{CharacterName} was disappointed with {OtherCharacterName}."
     },
     {
         "id": "FeelDown_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に落ち込んだ。",
-        "translation": ""
+        "translation": "{CharacterName} dropped to {OtherCharacterName}."
     },
     {
         "id": "BowS_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}にお辞儀した。",
-        "translation": ""
+        "translation": "{CharacterName} bowed to {OtherCharacterName}."
     },
     {
         "id": "BowL_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に丁寧にお辞儀した。",
-        "translation": ""
+        "translation": "{CharacterName} bowed politely to {OtherCharacterName}."
     },
     {
         "id": "GoodbyeM_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}にさよならした。",
-        "translation": ""
+        "translation": "{CharacterName} waved goodbye to {OtherCharacterName}."
     },
     {
         "id": "GoodbyeF_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に手をふった。",
-        "translation": ""
+        "translation": "{CharacterName} waved goodbye to {OtherCharacterName}."
     },
     {
         "id": "Pointing_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に指さした。",
-        "translation": ""
+        "translation": "{CharacterName} pointed at {OtherCharacterName}."
     },
     {
         "id": "Poke_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}につっこんだ。",
-        "translation": ""
+        "translation": "{CharacterName} poked {OtherCharacterName}."
     },
     {
         "id": "Applause_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に拍手した。",
-        "translation": ""
+        "translation": "{CharacterName} appluaded {OtherCharacterName}."
     },
     {
         "id": "Appease_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}をなだめた。",
-        "translation": ""
+        "translation": "{CharacterName} soothed {OtherCharacterName}."
     },
     {
         "id": "Dogeza_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に土下座した。",
-        "translation": ""
+        "translation": "{CharacterName} dogezaed {OtherCharacterName}."
     },
     {
         "id": "Nod_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}にうなずいた。",
-        "translation": ""
+        "translation": "{CharacterName} nodded at {OtherCharacterName}."
     },
     {
         "id": "HushUp_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に口止めした。",
-        "translation": ""
+        "translation": "{CharacterName} hushed {OtherCharacterName}."
     },
     {
         "id": "Rejection_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に拒否した。",
-        "translation": ""
+        "translation": "{CharacterName} rejected {OtherCharacterName}."
     },
     {
         "id": "Cheat_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}にごまかした。",
-        "translation": ""
+        "translation": "{CharacterName} cheated on {OtherCharacterName}."
     },
     {
         "id": "ShowOff_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}にみせびらかした。",
-        "translation": ""
+        "translation": "{CharacterName} showed off to {OtherCharacterName}."
     },
     {
         "id": "Support_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}を応援した。",
-        "translation": ""
+        "translation": "{CharacterName} supported {OtherCharacterName}."
     },
     {
         "id": "SitAgura_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に向かって座った。",
-        "translation": ""
+        "translation": "{CharacterName} sat towards {OtherCharacterName}."
     },
     {
         "id": "SitKakae_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に向かって座った。",
-        "translation": ""
+        "translation": "{CharacterName} sat towards {OtherCharacterName}."
     },
     {
         "id": "SitSide_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に向かって座った。",
-        "translation": ""
+        "translation": "{CharacterName} sat towards {OtherCharacterName}."
     },
     {
         "id": "SitKnee_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に向かって座った。",
-        "translation": ""
+        "translation": "{CharacterName} sat towards {OtherCharacterName}."
     },
     {
         "id": "Squat_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に向かってしゃがんだ。",
-        "translation": ""
+        "translation": "{CharacterName} squatted at {OtherCharacterName}."
     },
     {
         "id": "Revolve_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に向かってくるっと回った。",
-        "translation": ""
+        "translation": "{CharacterName} turned to {OtherCharacterName}."
     },
     {
         "id": "Jump_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に向かってジャンプした。",
-        "translation": ""
+        "translation": "{CharacterName} jumped at {OtherCharacterName}."
     },
     {
         "id": "Scratch_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に向かって頭をかいた。",
-        "translation": ""
+        "translation": "{CharacterName} scratched their head at {OtherCharacterName}."
     },
     {
         "id": "Glasses_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に向かってメガネを上げた。",
-        "translation": ""
+        "translation": "{CharacterName} raised their glasses towards {OtherCharacterName}."
     },
     {
         "id": "Stretch_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に向かって背伸びした。",
-        "translation": ""
+        "translation": "{CharacterName} streched at {OtherCharacterName}."
     },
     {
         "id": "Wait_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に向かって待機した。",
-        "translation": ""
+        "translation": "{CharacterName} waited for {OtherCharacterName}."
     },
     {
         "id": "Fold_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に向かって腕組みした。",
-        "translation": ""
+        "translation": "{CharacterName} crossed their arms at {OtherCharacterName}."
     },
     {
         "id": "Think_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に対して考え込んだ。",
-        "translation": ""
+        "translation": "{CharacterName} thought about {OtherCharacterName}."
     },
     {
         "id": "Beware_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に対して警戒した。",
-        "translation": ""
+        "translation": "{CharacterName} was wary of {OtherCharacterName}."
     },
     {
         "id": "Collapse_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に向かって倒れた。",
-        "translation": ""
+        "translation": "{CharacterName} collapsed at {OtherCharacterName}."
     },
     {
         "id": "Proudly_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に胸を張った。",
-        "translation": ""
+        "translation": "{CharacterName} was excited about {OtherCharacterName}."
     },
     {
         "id": "Prayer_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に祈った。",
-        "translation": ""
+        "translation": "{CharacterName} prayed to {OtherCharacterName}."
     },
     {
         "id": "Salute_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に敬礼した。",
-        "translation": ""
+        "translation": "{CharacterName} saluted {OtherCharacterName}."
     },
     {
         "id": "Jake_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}にあいさつした。",
-        "translation": ""
+        "translation": "{CharacterName} greeted {OtherCharacterName}"
     },
     {
         "id": "King_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に待機した。",
-        "translation": ""
+        "translation": "{CharacterName} waited for {OtherCharacterName}."
     },
     {
         "id": "Carvain_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に待機した。",
-        "translation": ""
+        "translation": "{CharacterName} waited for {OtherCharacterName}."
     },
     {
         "id": "Dance_LogTarget",
         "id_number": -1,
         "value": "{CharacterName}が{OtherCharacterName}に向かって踊った。",
-        "translation": ""
+        "translation": "{CharacterName} danced towards {OtherCharacterName}."
     }
 ]
