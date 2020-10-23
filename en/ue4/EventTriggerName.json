@@ -3,36 +3,36 @@
         "id": "SubEventTest_Sub1",
         "id_number": -1,
         "value": "テストイベント1",
-        "translation": ""
+        "translation": "Test event 1"
     },
     {
         "id": "SubEventTest_Sub2",
         "id_number": -1,
         "value": "テストイベント2",
-        "translation": ""
+        "translation": "Test event 2"
     },
     {
         "id": "SubEventTest_Sub3",
         "id_number": -1,
         "value": "テストイベント3",
-        "translation": ""
+        "translation": "Test event 3"
     },
     {
         "id": "Npc_ExchangeShop_HintTest001",
         "id_number": -1,
         "value": "グローリーコインの稼ぎ方について",
-        "translation": ""
+        "translation": "How to earn Glory Coins"
     },
     {
         "id": "Npc_ExchangeShop_HintTest002",
         "id_number": -1,
         "value": "緊急ミッションについて",
-        "translation": ""
+        "translation": "About emergency missions"
     },
     {
         "id": "Npc_ExchangeShop_HintTest003",
         "id_number": -1,
         "value": "お姉さん、彼女いるの？",
-        "translation": ""
+        "translation": "Do you have a girlfriend?"
     }
 ]
