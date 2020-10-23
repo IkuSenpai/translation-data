@@ -3,906 +3,906 @@
         "id": "None",
         "id_number": 0,
         "value": "なし",
-        "translation": ""
+        "translation": "None"
     },
     {
         "id": "A",
         "id_number": 0,
         "value": "A",
-        "translation": ""
+        "translation": "A"
     },
     {
         "id": "B",
         "id_number": 0,
         "value": "B",
-        "translation": ""
+        "translation": "B"
     },
     {
         "id": "C",
         "id_number": 0,
         "value": "C",
-        "translation": ""
+        "translation": "C"
     },
     {
         "id": "D",
         "id_number": 0,
         "value": "D",
-        "translation": ""
+        "translation": "D"
     },
     {
         "id": "E",
         "id_number": 0,
         "value": "E",
-        "translation": ""
+        "translation": "E"
     },
     {
         "id": "F",
         "id_number": 0,
         "value": "F",
-        "translation": ""
+        "translation": "F"
     },
     {
         "id": "G",
         "id_number": 0,
         "value": "G",
-        "translation": ""
+        "translation": "G"
     },
     {
         "id": "H",
         "id_number": 0,
         "value": "H",
-        "translation": ""
+        "translation": "H"
     },
     {
         "id": "I",
         "id_number": 0,
         "value": "I",
-        "translation": ""
+        "translation": "I"
     },
     {
         "id": "J",
         "id_number": 0,
         "value": "J",
-        "translation": ""
+        "translation": "J"
     },
     {
         "id": "K",
         "id_number": 0,
         "value": "K",
-        "translation": ""
+        "translation": "K"
     },
     {
         "id": "L",
         "id_number": 0,
         "value": "L",
-        "translation": ""
+        "translation": "L"
     },
     {
         "id": "M",
         "id_number": 0,
         "value": "M",
-        "translation": ""
+        "translation": "M"
     },
     {
         "id": "N",
         "id_number": 0,
         "value": "N",
-        "translation": ""
+        "translation": "N"
     },
     {
         "id": "O",
         "id_number": 0,
         "value": "O",
-        "translation": ""
+        "translation": "O"
     },
     {
         "id": "P",
         "id_number": 0,
         "value": "P",
-        "translation": ""
+        "translation": "P"
     },
     {
         "id": "Q",
         "id_number": 0,
         "value": "Q",
-        "translation": ""
+        "translation": "Q"
     },
     {
         "id": "R",
         "id_number": 0,
         "value": "R",
-        "translation": ""
+        "translation": "R"
     },
     {
         "id": "S",
         "id_number": 0,
         "value": "S",
-        "translation": ""
+        "translation": "S"
     },
     {
         "id": "T",
         "id_number": 0,
         "value": "T",
-        "translation": ""
+        "translation": "T"
     },
     {
         "id": "U",
         "id_number": 0,
         "value": "U",
-        "translation": ""
+        "translation": "U"
     },
     {
         "id": "V",
         "id_number": 0,
         "value": "V",
-        "translation": ""
+        "translation": "V"
     },
     {
         "id": "W",
         "id_number": 0,
         "value": "W",
-        "translation": ""
+        "translation": "W"
     },
     {
         "id": "X",
         "id_number": 0,
         "value": "X",
-        "translation": ""
+        "translation": "X"
     },
     {
         "id": "Y",
         "id_number": 0,
         "value": "Y",
-        "translation": ""
+        "translation": "Y"
     },
     {
         "id": "Z",
         "id_number": 0,
         "value": "Z",
-        "translation": ""
+        "translation": "Z"
     },
     {
         "id": "SpaceBar",
         "id_number": 0,
         "value": "Space",
-        "translation": ""
+        "translation": "Space"
     },
     {
         "id": "Enter",
         "id_number": 0,
         "value": "Enter",
-        "translation": ""
+        "translation": "Enter"
     },
     {
         "id": "Home",
         "id_number": 0,
         "value": "Home",
-        "translation": ""
+        "translation": "Home"
     },
     {
         "id": "LeftShift",
         "id_number": 0,
         "value": "Shift",
-        "translation": ""
+        "translation": "LeftShift"
     },
     {
         "id": "RightShift",
         "id_number": 0,
         "value": "Shift",
-        "translation": ""
+        "translation": "RightShift"
     },
     {
         "id": "LeftControl",
         "id_number": 0,
         "value": "Ctrl",
-        "translation": ""
+        "translation": "LeftControl"
     },
     {
         "id": "RightControl",
         "id_number": 0,
         "value": "Ctrl",
-        "translation": ""
+        "translation": "RightControl"
     },
     {
         "id": "LeftAlt",
         "id_number": 0,
         "value": "Alt",
-        "translation": ""
+        "translation": "LeftAlt"
     },
     {
         "id": "RightAlt",
         "id_number": 0,
         "value": "Alt",
-        "translation": ""
+        "translation": "RightAlt"
     },
     {
         "id": "LeftControl",
         "id_number": 0,
         "value": "Ctrl",
-        "translation": ""
+        "translation": "LeftControl"
     },
     {
         "id": "LeftShift",
         "id_number": 0,
         "value": "Shift",
-        "translation": ""
+        "translation": "LeftShift"
     },
     {
         "id": "LeftAlt",
         "id_number": 0,
         "value": "Alt",
-        "translation": ""
+        "translation": "LeftAlt"
     },
     {
         "id": "Up",
         "id_number": 0,
         "value": "↑",
-        "translation": ""
+        "translation": "↑"
     },
     {
         "id": "Down",
         "id_number": 0,
         "value": "↓",
-        "translation": ""
+        "translation": "↓"
     },
     {
         "id": "Left",
         "id_number": 0,
         "value": "←",
-        "translation": ""
+        "translation": "←"
     },
     {
         "id": "Right",
         "id_number": 0,
         "value": "→",
-        "translation": ""
+        "translation": "→"
     },
     {
         "id": "F1",
         "id_number": 0,
         "value": "F1",
-        "translation": ""
+        "translation": "F1"
     },
     {
         "id": "F2",
         "id_number": 0,
         "value": "F2",
-        "translation": ""
+        "translation": "F2"
     },
     {
         "id": "F3",
         "id_number": 0,
         "value": "F3",
-        "translation": ""
+        "translation": "F3"
     },
     {
         "id": "F4",
         "id_number": 0,
         "value": "F4",
-        "translation": ""
+        "translation": "F4"
     },
     {
         "id": "F5",
         "id_number": 0,
         "value": "F5",
-        "translation": ""
+        "translation": "F5"
     },
     {
         "id": "F6",
         "id_number": 0,
         "value": "F6",
-        "translation": ""
+        "translation": "F6"
     },
     {
         "id": "F7",
         "id_number": 0,
         "value": "F7",
-        "translation": ""
+        "translation": "F7"
     },
     {
         "id": "F8",
         "id_number": 0,
         "value": "F8",
-        "translation": ""
+        "translation": "F8"
     },
     {
         "id": "F9",
         "id_number": 0,
         "value": "F9",
-        "translation": ""
+        "translation": "F9"
     },
     {
         "id": "F10",
         "id_number": 0,
         "value": "F10",
-        "translation": ""
+        "translation": "F10"
     },
     {
         "id": "F11",
         "id_number": 0,
         "value": "F11",
-        "translation": ""
+        "translation": "F11"
     },
     {
         "id": "F12",
         "id_number": 0,
         "value": "F12",
-        "translation": ""
+        "translation": "F12"
     },
     {
         "id": "NumPadOne",
         "id_number": 0,
         "value": "テンキー1",
-        "translation": ""
+        "translation": "Numpad 1"
     },
     {
         "id": "NumPadTwo",
         "id_number": 0,
         "value": "テンキー2",
-        "translation": ""
+        "translation": "Numpad 2"
     },
     {
         "id": "NumPadThree",
         "id_number": 0,
         "value": "テンキー3",
-        "translation": ""
+        "translation": "Numpad 3"
     },
     {
         "id": "NumPadFour",
         "id_number": 0,
         "value": "テンキー4",
-        "translation": ""
+        "translation": "Numpad 4"
     },
     {
         "id": "NumPadFive",
         "id_number": 0,
         "value": "テンキー5",
-        "translation": ""
+        "translation": "Numpad 5"
     },
     {
         "id": "NumPadSix",
         "id_number": 0,
         "value": "テンキー6",
-        "translation": ""
+        "translation": "Numpad 6"
     },
     {
         "id": "NumPadSeven",
         "id_number": 0,
         "value": "テンキー7",
-        "translation": ""
+        "translation": "Numpad 7"
     },
     {
         "id": "NumPadEight",
         "id_number": 0,
         "value": "テンキー8",
-        "translation": ""
+        "translation": "Numpad 8"
     },
     {
         "id": "NumPadNine",
         "id_number": 0,
         "value": "テンキー9",
-        "translation": ""
+        "translation": "Numpad 9"
     },
     {
         "id": "NumPadZero",
         "id_number": 0,
         "value": "テンキー0",
-        "translation": ""
+        "translation": "Numpad 0"
     },
     {
         "id": "One",
         "id_number": 0,
         "value": "1",
-        "translation": ""
+        "translation": "1"
     },
     {
         "id": "Two",
         "id_number": 0,
         "value": "2",
-        "translation": ""
+        "translation": "2"
     },
     {
         "id": "Three",
         "id_number": 0,
         "value": "3",
-        "translation": ""
+        "translation": "3"
     },
     {
         "id": "Four",
         "id_number": 0,
         "value": "4",
-        "translation": ""
+        "translation": "4"
     },
     {
         "id": "Five",
         "id_number": 0,
         "value": "5",
-        "translation": ""
+        "translation": "5"
     },
     {
         "id": "Six",
         "id_number": 0,
         "value": "6",
-        "translation": ""
+        "translation": "6"
     },
     {
         "id": "Seven",
         "id_number": 0,
         "value": "7",
-        "translation": ""
+        "translation": "7"
     },
     {
         "id": "Eight",
         "id_number": 0,
         "value": "8",
-        "translation": ""
+        "translation": "8"
     },
     {
         "id": "Nine",
         "id_number": 0,
         "value": "9",
-        "translation": ""
+        "translation": "9"
     },
     {
         "id": "Zero",
         "id_number": 0,
         "value": "0",
-        "translation": ""
+        "translation": "0"
     },
     {
         "id": "Insert",
         "id_number": 0,
         "value": "Insert",
-        "translation": ""
+        "translation": "Insert"
     },
     {
         "id": "Delete",
         "id_number": 0,
         "value": "Delete",
-        "translation": ""
+        "translation": "Delete"
     },
     {
         "id": "End",
         "id_number": 0,
         "value": "End",
-        "translation": ""
+        "translation": "End"
     },
     {
         "id": "PageUp",
         "id_number": 0,
         "value": "Page Up",
-        "translation": ""
+        "translation": "Page Up"
     },
     {
         "id": "PageDown",
         "id_number": 0,
         "value": "Page Down",
-        "translation": ""
+        "translation": "Page Down"
     },
     {
         "id": "Escape",
         "id_number": 0,
         "value": "Esc",
-        "translation": ""
+        "translation": "Esc"
     },
     {
         "id": "Hyphen",
         "id_number": 0,
         "value": "-",
-        "translation": ""
+        "translation": "-"
     },
     {
         "id": "BackSlash",
         "id_number": 0,
         "value": "\\",
-        "translation": ""
+        "translation": "\\"
     },
     {
         "id": "Comma",
         "id_number": 0,
         "value": ",",
-        "translation": ""
+        "translation": ","
     },
     {
         "id": "Period",
         "id_number": 0,
         "value": ".",
-        "translation": ""
+        "translation": "."
     },
     {
         "id": "BackSpace",
         "id_number": 0,
         "value": "BackSpace",
-        "translation": ""
+        "translation": "BackSpace"
     },
     {
         "id": "Tab",
         "id_number": 0,
         "value": "Tab",
-        "translation": ""
+        "translation": "Tab"
     },
     {
         "id": "@",
         "id_number": 0,
         "value": "@",
-        "translation": ""
+        "translation": "@"
     },
     {
         "id": "Slash",
         "id_number": 0,
         "value": "/",
-        "translation": ""
+        "translation": "/"
     },
     {
         "id": "Semicolon",
         "id_number": 0,
         "value": ";",
-        "translation": ""
+        "translation": ";"
     },
     {
         "id": "Colon",
         "id_number": 0,
         "value": ":",
-        "translation": ""
+        "translation": ":"
     },
     {
         "id": "LeftBracket",
         "id_number": 0,
         "value": "[",
-        "translation": ""
+        "translation": "["
     },
     {
         "id": "RightBracket",
         "id_number": 0,
         "value": "]",
-        "translation": ""
+        "translation": "]"
     },
     {
         "id": "Caret",
         "id_number": 0,
         "value": "^",
-        "translation": ""
+        "translation": "^"
     },
     {
         "id": "Divide",
         "id_number": 0,
         "value": "テンキー/",
-        "translation": ""
+        "translation": "Numpad /"
     },
     {
         "id": "Multiply",
         "id_number": 0,
         "value": "テンキー*",
-        "translation": ""
+        "translation": "Numpad *"
     },
     {
         "id": "Subtract",
         "id_number": 0,
         "value": "テンキー-",
-        "translation": ""
+        "translation": "Numpad -"
     },
     {
         "id": "Add",
         "id_number": 0,
         "value": "テンキー+",
-        "translation": ""
+        "translation": "Numpad +"
     },
     {
         "id": "ScrollLock",
         "id_number": 0,
         "value": "ScrollLock",
-        "translation": ""
+        "translation": "ScrollLock"
     },
     {
         "id": "Pause",
         "id_number": 0,
         "value": "Break",
-        "translation": ""
+        "translation": "Break"
     },
     {
         "id": "200",
         "id_number": 200,
         "value": "なし",
-        "translation": ""
+        "translation": "None"
     },
     {
         "id": "Gamepad_FaceButton_Left",
         "id_number": 0,
         "value": "X",
-        "translation": ""
+        "translation": "X"
     },
     {
         "id": "Gamepad_FaceButton_Top",
         "id_number": 0,
         "value": "Y",
-        "translation": ""
+        "translation": "Y"
     },
     {
         "id": "Gamepad_FaceButton_Bottom",
         "id_number": 0,
         "value": "A",
-        "translation": ""
+        "translation": "A"
     },
     {
         "id": "Gamepad_FaceButton_Right",
         "id_number": 0,
         "value": "B",
-        "translation": ""
+        "translation": "B"
     },
     {
         "id": "Gamepad_LeftShoulder",
         "id_number": 0,
         "value": "LB",
-        "translation": ""
+        "translation": "LB"
     },
     {
         "id": "Gamepad_LeftTrigger",
         "id_number": 0,
         "value": "LT",
-        "translation": ""
+        "translation": "LT"
     },
     {
         "id": "Gamepad_LeftThumbStick",
         "id_number": 0,
         "value": "左スティックボタン",
-        "translation": ""
+        "translation": "Left Thumb Stick"
     },
     {
         "id": "Gamepad_RightShoulder",
         "id_number": 0,
         "value": "RB",
-        "translation": ""
+        "translation": "RB"
     },
     {
         "id": "Gamepad_RightTrigger",
         "id_number": 0,
         "value": "RT",
-        "translation": ""
+        "translation": "RT"
     },
     {
         "id": "Gamepad_RightThumbStick",
         "id_number": 0,
         "value": "右スティックボタン",
-        "translation": ""
+        "translation": "Right Thumb Stick"
     },
     {
         "id": "Gamepad_Special_Right",
         "id_number": 0,
         "value": "Start ",
-        "translation": ""
+        "translation": "Start "
     },
     {
         "id": "Gamepad_Special_Left",
         "id_number": 0,
         "value": "Select",
-        "translation": ""
+        "translation": "Select"
     },
     {
         "id": "Gamepad_LeftTriggerAxis",
         "id_number": 0,
         "value": "左スティック",
-        "translation": ""
+        "translation": "Left Trigger Axis"
     },
     {
         "id": "Gamepad_RightTriggerAxis",
         "id_number": 0,
         "value": "右スティック",
-        "translation": ""
+        "translation": "Right Trigger Axis"
     },
     {
         "id": "Gamepad_DPad_Up",
         "id_number": 0,
         "value": "方向キー・上",
-        "translation": ""
+        "translation": "DPad・Up"
     },
     {
         "id": "Gamepad_DPad_Down",
         "id_number": 0,
         "value": "方向キー・下",
-        "translation": ""
+        "translation": "DPad・Down"
     },
     {
         "id": "Gamepad_DPad_Left",
         "id_number": 0,
         "value": "方向キー・左",
-        "translation": ""
+        "translation": "DPad・Left"
     },
     {
         "id": "Gamepad_DPad_Right",
         "id_number": 0,
         "value": "方向キー・右",
-        "translation": ""
+        "translation": "DPad・Right"
     },
     {
         "id": "300",
         "id_number": 300,
         "value": "なし",
-        "translation": ""
+        "translation": "None"
     },
     {
         "id": "LeftMouseButton",
         "id_number": 0,
         "value": "左クリック",
-        "translation": ""
+        "translation": "LMB"
     },
     {
         "id": "RightMouseButton",
         "id_number": 0,
         "value": "右クリック",
-        "translation": ""
+        "translation": "RMB"
     },
     {
         "id": "MiddleMouseButton",
         "id_number": 0,
         "value": "ミドルクリック",
-        "translation": ""
+        "translation": "MMB"
     },
     {
         "id": "ThumbMouseButton",
         "id_number": 0,
         "value": "拡張1",
-        "translation": ""
+        "translation": "MB1"
     },
     {
         "id": "ThumbMouseButton2",
         "id_number": 0,
         "value": "拡張2",
-        "translation": ""
+        "translation": "MB2"
     },
     {
         "id": "MouseScrollUp",
         "id_number": 0,
         "value": "ホイール↑",
-        "translation": ""
+        "translation": "Wheel ↑"
     },
     {
         "id": "MouseScrollDown",
         "id_number": 0,
         "value": "ホイール↓",
-        "translation": ""
+        "translation": "Wheel ↓"
     },
     {
         "id": "Pause",
         "id_number": 0,
         "value": "Pause",
-        "translation": ""
+        "translation": "Pause"
     },
     {
         "id": "CapsLock",
         "id_number": 0,
         "value": "CapsLock",
-        "translation": ""
+        "translation": "CapsLock"
     },
     {
         "id": "999",
         "id_number": 999,
         "value": "変更不可",
-        "translation": ""
+        "translation": "Cannot be changed"
     },
     {
         "id": "Mouse",
         "id_number": 0,
         "value": "マウス",
-        "translation": ""
+        "translation": "Mouse"
     },
     {
         "id": "Function_A",
         "id_number": 0,
         "value": "補助ボタン1+A",
-        "translation": ""
+        "translation": "Function+A"
     },
     {
         "id": "Function_B",
         "id_number": 0,
         "value": "補助ボタン1+B",
-        "translation": ""
+        "translation": "Function+b"
     },
     {
         "id": "Function_X",
         "id_number": 0,
         "value": "補助ボタン1+X",
-        "translation": ""
+        "translation": "Function+X"
     },
     {
         "id": "Function_Y",
         "id_number": 0,
         "value": "補助ボタン1+Y",
-        "translation": ""
+        "translation": "Function+Y"
     },
     {
         "id": "Function_L3",
         "id_number": 0,
         "value": "補助ボタン1+L3",
-        "translation": ""
+        "translation": "Function+L3"
     },
     {
         "id": "Function_R3",
         "id_number": 0,
         "value": "補助ボタン1+R3",
-        "translation": ""
+        "translation": "Function+R3"
     },
     {
         "id": "Function_DPadU",
         "id_number": 0,
         "value": "補助ボタン1+方向キー・上",
-        "translation": ""
+        "translation": "Function+ArrowKey・Up"
     },
     {
         "id": "Function_DPadD",
         "id_number": 0,
         "value": "補助ボタン1+方向キー・下",
-        "translation": ""
+        "translation": "Function+ArrowKey・Down"
     },
     {
         "id": "Function_DPadR",
         "id_number": 0,
         "value": "補助ボタン1+方向キー・右",
-        "translation": ""
+        "translation": "Function+ArrowKey・Right"
     },
     {
         "id": "Function_DPadL",
         "id_number": 0,
         "value": "補助ボタン1+方向キー・左",
-        "translation": ""
+        "translation": "Function+ArrowKey・Left"
     },
     {
         "id": "Function2_A",
         "id_number": 0,
         "value": "補助ボタン2+A",
-        "translation": ""
+        "translation": "AuxiliaryBtn2+A"
     },
     {
         "id": "Function2_B",
         "id_number": 0,
         "value": "補助ボタン2+B",
-        "translation": ""
+        "translation": "AuxiliaryBtn2+B"
     },
     {
         "id": "Function2_X",
         "id_number": 0,
         "value": "補助ボタン2+X",
-        "translation": ""
+        "translation": "AuxiliaryBtn2+X"
     },
     {
         "id": "Function2_Y",
         "id_number": 0,
         "value": "補助ボタン2+Y",
-        "translation": ""
+        "translation": "AuxiliaryBtn2+Y"
     },
     {
         "id": "Function2_L3",
         "id_number": 0,
         "value": "補助ボタン2+L3",
-        "translation": ""
+        "translation": "AuxiliaryBtn2+L3"
     },
     {
         "id": "Function2_R3",
         "id_number": 0,
         "value": "補助ボタン2+R3",
-        "translation": ""
+        "translation": "AuxiliaryBtn2+R3"
     },
     {
         "id": "Function2_DPadU",
         "id_number": 0,
         "value": "補助ボタン2+方向キー・上",
-        "translation": ""
+        "translation": "AuxiliaryBtn2+ArrowKey・Up"
     },
     {
         "id": "Function2_DPadD",
         "id_number": 0,
         "value": "補助ボタン2+方向キー・下",
-        "translation": ""
+        "translation": "AuxiliaryBtn2+ArrowKey・Down"
     },
     {
         "id": "Function2_DPadR",
         "id_number": 0,
         "value": "補助ボタン2+方向キー・右",
-        "translation": ""
+        "translation": "AuxiliaryBtn2+ArrowKey・Right"
     },
     {
         "id": "Function2_DPadL",
         "id_number": 0,
         "value": "補助ボタン2+方向キー・左",
-        "translation": ""
+        "translation": "AuxiliaryBtn2+ArrowKey・Left"
     }
 ]
