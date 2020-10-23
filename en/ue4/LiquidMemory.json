@@ -3,246 +3,246 @@
         "id": "1",
         "id_number": 1,
         "value": "チャージ条件",
-        "translation": ""
+        "translation": "Charge condition"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "リキッドメモリ効果",
-        "translation": ""
+        "translation": "Liquid memory effect"
     },
     {
         "id": "3",
         "id_number": 3,
-        "value": "{use_count}回",
+        "value": "{use_count} times",
         "translation": ""
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "Lv. {level}",
-        "translation": ""
+        "translation": "Lv. {level}"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "効果量：",
-        "translation": ""
+        "translation": "Effect size："
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "効果：",
-        "translation": ""
+        "translation": "Effect："
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "・{accumulate_condition}",
-        "translation": ""
+        "translation": "・{accumulate_condition}"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "（回数制限）{use_count}回",
-        "translation": ""
+        "translation": "(Limited use count) {use_count} times"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "発動中",
-        "translation": ""
+        "translation": "Active"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "使用数",
-        "translation": ""
+        "translation": "Number of uses"
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "価格",
-        "translation": ""
+        "translation": "Price"
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "リキッドメモリを飲む",
-        "translation": ""
+        "translation": "Drink liquid memory"
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "未発動",
-        "translation": ""
+        "translation": "Inactive"
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "溜まり具合 x0 テキスト(仮)",
-        "translation": ""
+        "translation": "Accumulation condition x0 Text (provisional)"
     },
     {
         "id": "15",
         "id_number": 15,
         "value": "M1等級",
-        "translation": ""
+        "translation": "M1 grade"
     },
     {
         "id": "16",
         "id_number": 16,
         "value": "M2等級",
-        "translation": ""
+        "translation": "M2 grade"
     },
     {
         "id": "17",
         "id_number": 17,
         "value": "M3等級",
-        "translation": ""
+        "translation": "M3 grade"
     },
     {
         "id": "18",
         "id_number": 18,
         "value": "M4等級",
-        "translation": ""
+        "translation": "M4 grade"
     },
     {
         "id": "19",
         "id_number": 19,
         "value": "M5等級",
-        "translation": ""
+        "translation": "M5 grade"
     },
     {
         "id": "20",
         "id_number": 20,
         "value": "カテゴリ",
-        "translation": ""
+        "translation": "Category"
     },
     {
         "id": "21",
         "id_number": 21,
         "value": "：",
-        "translation": ""
+        "translation": "："
     },
     {
         "id": "22",
         "id_number": 22,
         "value": "Info.",
-        "translation": ""
+        "translation": "Info."
     },
     {
         "id": "23",
         "id_number": 23,
         "value": "リキッドメモリが活性化したら、メモリスタンドで\n飲めるようにしてもらい、効果を発動させましょう。",
-        "translation": ""
+        "translation": "Once the liquid memory is activated, drink\nit at the memory stand to activate the effect."
     },
     {
         "id": "24",
         "id_number": 24,
         "value": "購入",
-        "translation": ""
+        "translation": "Purchase"
     },
     {
         "id": "25",
         "id_number": 25,
         "value": "合計",
-        "translation": ""
+        "translation": "Total"
     },
     {
         "id": "26",
         "id_number": 26,
         "value": "リキッドメモリはまとめて飲むと効果が高まります。\n効果発動中のものは飲むことができません。",
-        "translation": ""
+        "translation": "Liquid memory is more effective when taken in bulk.\nYou cannot drink anything while the effect is active."
     },
     {
         "id": "51",
         "id_number": 51,
         "value": "リキッドメモリが足りません",
-        "translation": ""
+        "translation": "Not enough liquid memory"
     },
     {
         "id": "52",
         "id_number": 52,
         "value": "既に効果が同じものを選択しています",
-        "translation": ""
+        "translation": "Already selected one with the same effect"
     },
     {
         "id": "53",
         "id_number": 53,
         "value": "効果を発動したいリキッドメモリを選択してください",
-        "translation": ""
+        "translation": "Select the liquid memory you want to activate the effect of"
     },
     {
         "id": "54",
         "id_number": 54,
         "value": "リキッドメモリを使用しますか？",
-        "translation": ""
+        "translation": "Do you want to use liquid memory?"
     },
     {
         "id": "101",
         "id_number": 101,
         "value": "大成功率アップの効果が発動した",
-        "translation": ""
+        "translation": "The effect of increasing the success rate has been activated"
     },
     {
         "id": "102",
         "id_number": 102,
         "value": "アビリティ枠付き率アップの効果が発動した",
-        "translation": ""
+        "translation": "The effect of increasing the rate with the ability frame has been activated"
     },
     {
         "id": "103",
         "id_number": 103,
         "value": "アイテムレベルが高くなりやすい効果が発動した",
-        "translation": ""
+        "translation": "The effect that tends to raise the item level has been activated"
     },
     {
         "id": "104",
         "id_number": 104,
         "value": "精練経験値増加の効果が発動した",
-        "translation": ""
+        "translation": "The effect of increasing the refining experience value has been activated."
     },
     {
         "id": "105",
         "id_number": 105,
         "value": "採取モーション短縮の効果が発動した",
-        "translation": ""
+        "translation": "The effect of shortening the collection motion was activated"
     },
     {
         "id": "106",
         "id_number": 106,
         "value": "採取スポットのリポップ率上昇の効果が発動した",
-        "translation": ""
+        "translation": "The effect of increasing the repop rate of the collection spot was activated"
     },
     {
         "id": "107",
         "id_number": 107,
         "value": "エネミードロップ率上昇の効果が発動した",
-        "translation": ""
+        "translation": "The effect of increasing the enemy drop rate has been activated."
     },
     {
         "id": "108",
         "id_number": 108,
         "value": "エネミー獲得経験値上昇の効果が発動した",
-        "translation": ""
+        "translation": "The effect of increasing the experience points earned by enemies has been activated."
     },
     {
         "id": "109",
         "id_number": 109,
         "value": "エネミー獲得ルーノ上昇の効果が発動した",
-        "translation": ""
+        "translation": "Enemy acquisition The effect of increasing Luno was activated"
     },
     {
         "id": "110",
         "id_number": 110,
         "value": "ルーノ値引きの効果が発動した",
-        "translation": ""
+        "translation": "The effect of the Luno discount was activated"
     },
     {
         "id": "901",
         "id_number": 901,
         "value": "リキッドメモリの使用に失敗しました",
-        "translation": ""
+        "translation": "Failed to use liquid memory"
     }
 ]
