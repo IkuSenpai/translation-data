@@ -9,60 +9,60 @@
         "id": "1",
         "id_number": 1,
         "value": "斧（武器）",
-        "translation": ""
+        "translation": "Axe (Weapon) "
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "剣（武器）",
-        "translation": ""
+        "translation": "Sword (Weapon) "
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "ハンドガン",
-        "translation": ""
+        "translation": "Hand gun"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "ライフル",
-        "translation": ""
+        "translation": "Rifle"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "槍",
-        "translation": ""
+        "translation": "Spear"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "弓（武器）",
-        "translation": ""
+        "translation": "Bow (weapon) "
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "杖（武器）",
-        "translation": ""
+        "translation": "Cane (weapon)"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "盾",
-        "translation": ""
+        "translation": "Shield"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "混紡",
-        "translation": ""
+        "translation": "Blended"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "キャノンソード",
-        "translation": ""
+        "translation": "Canon Sword"
     }
 ]
