@@ -3,162 +3,162 @@
         "id": "1",
         "id_number": 1,
         "value": "{Name}について",
-        "translation": ""
+        "translation": "About {Name}"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "非公開",
-        "translation": ""
+        "translation": "private"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "未受注",
-        "translation": ""
+        "translation": "not ordered"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "進行中",
-        "translation": ""
+        "translation": "in progress"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "報告可能",
-        "translation": ""
+        "translation": "Reportable"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "完了",
-        "translation": ""
+        "translation": "Done"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "{Name}と話す",
-        "translation": ""
+        "translation": "Talk to {Name}"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "{Name}を討伐する",
-        "translation": ""
+        "translation": "Subdue {Name}"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "{Name}を集める",
-        "translation": ""
+        "translation": "Collect {Name}"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "{Name}を攻略",
-        "translation": ""
+        "translation": "Capture {Name}"
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "{Name}に到達する",
-        "translation": ""
+        "translation": "Reach {Name}"
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "{Name}に報告する",
-        "translation": ""
+        "translation": "Report to {Name}"
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "報告する",
-        "translation": ""
+        "translation": "Report"
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "報酬受取り可能",
-        "translation": ""
+        "translation": "Reward can be received"
     },
     {
         "id": "15",
         "id_number": 15,
-        "value": "報告できません。\n（バッグを確認してください）",
+        "value": "Can't report. \n (Please check your bag)",
         "translation": ""
     },
     {
         "id": "16",
         "id_number": 16,
         "value": "バッグがいっぱいです",
-        "translation": ""
+        "translation": "The bag is full"
     },
     {
         "id": "17",
         "id_number": 17,
         "value": "アイテムが足りません",
-        "translation": ""
+        "translation": "Not enough items"
     },
     {
         "id": "18",
         "id_number": 18,
         "value": "受注に失敗しました",
-        "translation": ""
+        "translation": "Order failed"
     },
     {
         "id": "19",
         "id_number": 19,
         "value": "すでに受注しています",
-        "translation": ""
+        "translation": "Already ordered"
     },
     {
         "id": "20",
         "id_number": 20,
         "value": "{Name}に到達する",
-        "translation": ""
+        "translation": "Reach {Name}"
     },
     {
         "id": "21",
         "id_number": 21,
         "value": "{ClassName}でのみ受注可能",
-        "translation": ""
+        "translation": "Only accept orders with {ClassName}"
     },
     {
         "id": "22",
         "id_number": 22,
         "value": "レベル{Level}以上",
-        "translation": ""
+        "translation": "Level {Level} or higher"
     },
     {
         "id": "23",
         "id_number": 23,
         "value": "サブクエスト{ClearCount}種以上クリア",
-        "translation": ""
+        "translation": "Clear more than subquest {ClearCount} species"
     },
     {
         "id": "24",
         "id_number": 24,
         "value": "受注条件を満たしていません",
-        "translation": ""
+        "translation": "Does not meet the order conditions"
     },
     {
         "id": "25",
         "id_number": 25,
         "value": "Interval",
-        "translation": ""
+        "translation": "Interval"
     },
     {
         "id": "26",
         "id_number": 26,
         "value": "冒険ランク{Rank}以上",
-        "translation": ""
+        "translation": "Adventure rank {Rank} or higher"
     },
     {
         "id": "27",
         "id_number": 27,
         "value": "NextMainQuest",
-        "translation": ""
+        "translation": "NextMainQuest"
     }
 ]
