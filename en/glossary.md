@@ -5,3 +5,4 @@ All files will need to be reviewed to made sure the spelling for these terms is 
 |---|---|---|---|
 |バファリア|Bafaria, Baffaria, Bafalia|Bapharia|Bufaria|
 |イマジン|Imajinn|Imagine, Imaginn|Imagine
+|アステルリーズ||Asterleeds|Asterleeds
