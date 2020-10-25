@@ -3,228 +3,228 @@
         "id": "Login",
         "id_number": 0,
         "value": "ようこそ{TitleName}へ！",
-        "translation": ""
+        "translation": "Welcome to {TitleName}！"
     },
     {
         "id": "EquipmentChange",
         "id_number": 0,
         "value": "{EquipmentName}を装備しました。",
-        "translation": ""
+        "translation": "Equipped with {EquipmentName}."
     },
     {
         "id": "Resurrection",
         "id_number": 0,
         "value": "{CharacterName}を救護しました。",
-        "translation": ""
+        "translation": "Resurrected {CharacterName}."
     },
     {
         "id": "MatchingTimeout",
         "id_number": 0,
         "value": "時間が超過したため、マッチングがキャンセルされました。",
-        "translation": ""
+        "translation": "Matching was canceled because the time was exceeded."
     },
     {
         "id": "InviteParty",
         "id_number": 0,
         "value": "{CharacterName}からパーティ招待を受けました。",
-        "translation": ""
+        "translation": "Received a party invitation from {CharacterName}."
     },
     {
         "id": "LeaveParty",
         "id_number": 0,
         "value": "パーティを終了しました。",
-        "translation": ""
+        "translation": "The party has ended."
     },
     {
         "id": "AppointedPartyLeader",
         "id_number": 0,
         "value": "パーティリーダー権が委譲されました。",
-        "translation": ""
+        "translation": "Party leader rights have been delegated."
     },
     {
         "id": "LeavePartyMember",
         "id_number": 0,
         "value": "{CharacterName}がパーティから抜けました。",
-        "translation": ""
+        "translation": "{CharacterName} has left the party."
     },
     {
         "id": "KickPartyMember",
         "id_number": 0,
         "value": "パーティから除名されました。",
-        "translation": ""
+        "translation": "You've been kicked from the party."
     },
     {
         "id": "GetItem",
         "id_number": 0,
         "value": "{ItemName}を入手しました。",
-        "translation": ""
+        "translation": "You got {ItemName}."
     },
     {
         "id": "GetMoney",
         "id_number": 0,
         "value": "{Money}を入手しました。",
-        "translation": ""
+        "translation": "You got {Money} Luno."
     },
     {
         "id": "LevelUpWeapon",
         "id_number": 0,
         "value": "レベルアップ！{WeaponName}はレベル{Level}になりました。",
-        "translation": ""
+        "translation": "Level up! {WeaponName} is now level {Level}."
     },
     {
         "id": "Follow",
         "id_number": 0,
         "value": "{CharacterName}をフォローしました。",
-        "translation": ""
+        "translation": "Followed {CharacterName}."
     },
     {
         "id": "Followed",
         "id_number": 0,
         "value": "{CharacterName}からフォローされました。",
-        "translation": ""
+        "translation": "Followed by {CharacterName}."
     },
     {
         "id": "MutualFollow",
         "id_number": 0,
         "value": "{CharacterName}と相互フォローになりました。",
-        "translation": ""
+        "translation": "Mutual follow with {CharacterName}."
     },
     {
         "id": "CountDown",
         "id_number": 0,
         "value": "残り{Count}分です。",
-        "translation": ""
+        "translation": "There are {Count} minutes left."
     },
     {
         "id": "TimeUp",
         "id_number": 0,
         "value": "制限時間をオーバーしたため、攻略を終了しました。",
-        "translation": ""
+        "translation": "The capture has ended because the time limit has been exceeded."
     },
     {
         "id": "DeathPenaltyTime",
         "id_number": 0,
         "value": "復活地点より復活したため制限時間が-{SubtractTime}秒されました。",
-        "translation": ""
+        "translation": "The time limit has been reduced to {SubtractTime} seconds because it was revived from the resurrection point."
     },
     {
         "id": "AchievementGained",
         "id_number": 0,
         "value": "称号：{AchievementName}を入手しました。",
-        "translation": ""
+        "translation": "You got the title: {AchievementName}"
     },
     {
         "id": "GatherPointGetItem",
         "id_number": 0,
         "value": "{ItemName}を{ItemNum}個、採取しました",
-        "translation": ""
+        "translation": "Collected {ItemNum} of {ItemName}"
     },
     {
         "id": "ItemInventoryOver",
         "id_number": 0,
         "value": "アイテムバッグがいっぱいになりました",
-        "translation": ""
+        "translation": "The item bag is full"
     },
     {
         "id": "CommonSkillName",
         "id_number": 0,
         "value": "冒険者アビリティ{CommonSkillName}レベル{SkillName}",
-        "translation": ""
+        "translation": "Adventurer Ability {CommonSkillName} Level {SkillName}"
     },
     {
         "id": "FailureCommonSkillName",
         "id_number": 0,
         "value": "冒険者アビリティ{CommonSkillName}レベルが足りず、採取できませんでした",
-        "translation": ""
+        "translation": "The adventurer ability {CommonSkillName} level was insufficient and could not be collected."
     },
     {
         "id": "GatherPointItemInventoryOver",
         "id_number": 0,
         "value": "アイテムバッグがいっぱいで採取できませんでした",
-        "translation": ""
+        "translation": "The item bag was full and could not be collected."
     },
     {
         "id": "GatherPointSkillGetItem",
         "id_number": 0,
         "value": "冒険者アビリティ{CommonSkillName}の効果！{ItemName}をさらに{ItemNum}個、採取しました",
-        "translation": ""
+        "translation": "The effect of the adventurer ability {CommonSkillName}! Collected {ItemNum} more {ItemName}"
     },
     {
         "id": "CommonSkillLevel",
         "id_number": 0,
         "value": "冒険者アビリティ{CommonSkillName}がレベル{Level}になりました。",
-        "translation": ""
+        "translation": "The adventurer ability {CommonSkillName} is now level {Level}."
     },
     {
         "id": "TreasureGetItem",
         "id_number": 0,
         "value": "宝箱から{ItemName}を{ItemNum}個、入手しました",
-        "translation": ""
+        "translation": "Obtained {ItemNum} {ItemName} from the treasure chest"
     },
     {
         "id": "TreasureGetMoney",
         "id_number": 0,
         "value": "宝箱から{Money}を入手しました",
-        "translation": ""
+        "translation": "Obtained {Money} Luno from the treasure chest"
     },
     {
         "id": "TreasureItemInventoryOver",
         "id_number": 0,
         "value": "アイテムバッグがいっぱいで入手できません",
-        "translation": ""
+        "translation": "Item bag is full and not available"
     },
     {
         "id": "GetSupply",
         "id_number": 0,
         "value": "支給品 {ItemName}を{ItemNum}個、入手。",
-        "translation": ""
+        "translation": "Obtain {ItemNum} of supplies {ItemName}."
     },
     {
         "id": "SupplyNumberUp",
         "id_number": 0,
         "value": "{DrinkName?}の効果。さらに {ItemName}を{ItemNum}個、入手。",
-        "translation": ""
+        "translation": "The effect of {DrinkName?}. Get {ItemNum} of {ItemName}."
     },
     {
         "id": "SupplyRecastTime",
         "id_number": 0,
         "value": "{DrinkName?}の効果。支給品のインターバル時間が短縮。",
-        "translation": ""
+        "translation": "The effect of {DrinkName?}. Reduced interval time for supplies."
     },
     {
         "id": "SupplyTypeIncrease",
         "id_number": 0,
         "value": "{DrinkName?}の効果。支給品の種類が増加。",
-        "translation": ""
+        "translation": "The effect of {DrinkName?}. Increased types of supplies."
     },
     {
         "id": "SupplyEmpty",
         "id_number": 0,
         "value": "支給品が回収された。",
-        "translation": ""
+        "translation": "The supplies were collected."
     },
     {
         "id": "GetQuestTrigger",
         "id_number": 0,
         "value": "{ItemName}を{ItemNum}個、入手した。",
-        "translation": ""
+        "translation": "Obtained {ItemNum} of {ItemName}."
     },
     {
         "id": "AFKWarnLog",
         "id_number": 0,
         "value": "一定時間操作がないため{LimitTime}分後にキャラクター選択に戻ります",
-        "translation": ""
+        "translation": "Since there is no operation for a certain period of time, it will return to character selection after {LimitTime} minutes."
     },
     {
         "id": "NotifyBlackListed",
         "id_number": 0,
         "value": "{CharacterId}",
-        "translation": ""
+        "translation": "{CharacterId} blacklisted."
     },
     {
         "id": "NotifyChatBan",
         "id_number": 0,
         "value": "トーク禁止状態のためトーク機能が制限されます",
-        "translation": ""
+        "translation": "The talk function is restricted because talk is prohibited."
     }
 ]
