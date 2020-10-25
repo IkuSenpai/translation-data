@@ -3,612 +3,612 @@
         "id": "cty01_Top",
         "id_number": 0,
         "value": "アステルリーズ",
-        "translation": ""
+        "translation": "Asterleeds"
     },
     {
         "id": "cty01_Top_sub",
         "id_number": 0,
         "value": "Asterleeds",
-        "translation": ""
+        "translation": "Asterleeds"
     },
     {
         "id": "cty01_001",
         "id_number": 0,
         "value": "開拓局",
-        "translation": ""
+        "translation": "Frontiering Station"
     },
     {
         "id": "cty01_001_sub",
         "id_number": 0,
         "value": "Frontiering Station",
-        "translation": ""
+        "translation": "Frontiering Station"
     },
     {
         "id": "cty01_002",
         "id_number": 0,
         "value": "双面コイン亭",
-        "translation": ""
+        "translation": "The Double-Faced Coin"
     },
     {
         "id": "cty01_002_sub",
         "id_number": 0,
         "value": "The Double-Faced Coin",
-        "translation": ""
+        "translation": "The Double-Faced Coin"
     },
     {
         "id": "cty01_003",
         "id_number": 0,
         "value": "イマジン研究所",
-        "translation": ""
+        "translation": "Imaginn Research Institute "
     },
     {
         "id": "cty01_003_sub",
         "id_number": 0,
         "value": "Imaginn Research Institute ",
-        "translation": ""
+        "translation": "Imaginn Research Institute "
     },
     {
         "id": "cty01_004",
         "id_number": 0,
         "value": "ショッピングモール",
-        "translation": ""
+        "translation": "Shopping Mall"
     },
     {
         "id": "cty01_004_sub",
         "id_number": 0,
         "value": "Shopping Mall",
-        "translation": ""
+        "translation": "Shopping Mall"
     },
     {
         "id": "cty01_005",
         "id_number": 0,
         "value": "バファリア神殿",
-        "translation": ""
+        "translation": "Bapharia Shrine"
     },
     {
         "id": "cty01_005_sub",
         "id_number": 0,
         "value": "Bapharia Shrine",
-        "translation": ""
+        "translation": "Bapharia Shrine"
     },
     {
         "id": "cty01_006",
         "id_number": 0,
         "value": "職人広場",
-        "translation": ""
+        "translation": "Craftmen's Square"
     },
     {
         "id": "cty01_006_sub",
         "id_number": 0,
         "value": "Craftmen's Square",
-        "translation": ""
+        "translation": "Craftmen's Square"
     },
     {
         "id": "cty02_Top",
         "id_number": 0,
         "value": "サラムザート・オアシス",
-        "translation": ""
+        "translation": "Salamzart Oasis"
     },
     {
         "id": "cty02_Top_sub",
         "id_number": 0,
         "value": "Salamzart Oasis",
-        "translation": ""
+        "translation": "Salamzart Oasis"
     },
     {
         "id": "cty02_001",
         "id_number": 0,
         "value": "広場",
-        "translation": ""
+        "translation": "Plaza"
     },
     {
         "id": "cty02_002",
         "id_number": 0,
         "value": "酒場",
-        "translation": ""
+        "translation": "Tavern"
     },
     {
         "id": "fld001_Top",
         "id_number": 0,
         "value": "アステリア平原",
-        "translation": ""
+        "translation": "Asteria Plain"
     },
     {
         "id": "fld001_Top_sub",
         "id_number": 0,
         "value": "Asteria Plain",
-        "translation": ""
+        "translation": "Asteria Plain"
     },
     {
         "id": "fld001_S_Top",
         "id_number": 0,
         "value": "海鳴りの草原",
-        "translation": ""
+        "translation": "Skyquake Fields"
     },
     {
         "id": "fld001_S_Top_sub",
         "id_number": 0,
         "value": "Skyquake Fields",
-        "translation": ""
+        "translation": "Skyquake Fields"
     },
     {
         "id": "fld001_N_Top",
         "id_number": 0,
         "value": "アンドラ盆地",
-        "translation": ""
+        "translation": "Andra Basin"
     },
     {
         "id": "fld001_N_Top_sub",
         "id_number": 0,
         "value": "Andra Basin",
-        "translation": ""
+        "translation": "Andra Basin"
     },
     {
         "id": "fld001_E_Top",
         "id_number": 0,
         "value": "ミンスター丘陵",
-        "translation": ""
+        "translation": "Minster Hills"
     },
     {
         "id": "fld001_E_Top_sub",
         "id_number": 0,
         "value": "Minster Hills",
-        "translation": ""
+        "translation": "Minster Hills"
     },
     {
         "id": "fld001_W_Top",
         "id_number": 0,
         "value": "夕凪の段丘",
-        "translation": ""
+        "translation": "Calm Eve Terraces"
     },
     {
         "id": "fld001_W_Top_sub",
         "id_number": 0,
         "value": "Calm Eve Terraces",
-        "translation": ""
+        "translation": "Calm Eve Terraces"
     },
     {
         "id": "fld001_001",
         "id_number": 0,
         "value": "街の外",
-        "translation": ""
+        "translation": "Outside the city"
     },
     {
         "id": "fld001_002",
         "id_number": 0,
         "value": "崖の遺跡",
-        "translation": ""
+        "translation": "Cliff Ruins"
     },
     {
         "id": "fld001_002_sub",
         "id_number": 0,
         "value": "Cliff Ruins",
-        "translation": ""
+        "translation": "Cliff Ruins"
     },
     {
         "id": "fld001_003",
         "id_number": 0,
         "value": "崖の遺跡の奥",
-        "translation": ""
+        "translation": "The Back of Cliff Ruins"
     },
     {
         "id": "fld001_004",
         "id_number": 0,
         "value": "ミンスターホルン",
-        "translation": ""
+        "translation": "Minsterhorn"
     },
     {
         "id": "fld001_004_sub",
         "id_number": 0,
         "value": "Minsterhorn",
-        "translation": ""
+        "translation": "Minsterhorn"
     },
     {
         "id": "fld001_005",
         "id_number": 0,
         "value": "北東の滝",
-        "translation": ""
+        "translation": "Northeast Waterfall"
     },
     {
         "id": "fld001_006",
         "id_number": 0,
         "value": "崖の遺跡の外",
-        "translation": ""
+        "translation": "Outside the Cliff Ruins"
     },
     {
         "id": "fld001_007",
         "id_number": 0,
         "value": "駐屯地",
-        "translation": ""
+        "translation": "Garrison"
     },
     {
         "id": "fld001_008",
         "id_number": 0,
         "value": "教団衛士駐屯地",
-        "translation": ""
+        "translation": "Bapharian Guard Post"
     },
     {
         "id": "fld001_008_sub",
         "id_number": 0,
         "value": "Bapharian Guard Post",
-        "translation": ""
+        "translation": "Bapharian Guard Post"
     },
     {
         "id": "fld001_009",
         "id_number": 0,
         "value": "古代都市ヴィルの遺跡",
-        "translation": ""
+        "translation": "Ancient City of Vill"
     },
     {
         "id": "fld001_009_sub",
         "id_number": 0,
         "value": "Ancient City of Vill",
-        "translation": ""
+        "translation": "Ancient City of Vill"
     },
     {
         "id": "fld002_Top",
         "id_number": 0,
         "value": "バハマール高原",
-        "translation": ""
+        "translation": "Bajamar Highland"
     },
     {
         "id": "fld002_Top_sub",
         "id_number": 0,
         "value": "Bajamar Highland",
-        "translation": ""
+        "translation": "Bajamar Highland"
     },
     {
         "id": "fld002_S_Top",
         "id_number": 0,
         "value": "神の見守る丘",
-        "translation": ""
+        "translation": "Divine Haven Hill"
     },
     {
         "id": "fld002_S_Top_sub",
         "id_number": 0,
         "value": "Divine Haven Hill",
-        "translation": ""
+        "translation": "Divine Haven Hill"
     },
     {
         "id": "fld002_E_Top",
         "id_number": 0,
         "value": "鎮まりの山麓",
-        "translation": ""
+        "translation": "Soundless Foothills"
     },
     {
         "id": "fld002_E_Top_sub",
         "id_number": 0,
         "value": "Soundless Foothills",
-        "translation": ""
+        "translation": "Soundless Foothills"
     },
     {
         "id": "fld002_W_Top",
         "id_number": 0,
         "value": "フィエル嶺水池",
-        "translation": ""
+        "translation": "Fiel Pond"
     },
     {
         "id": "fld002_W_Top_sub",
         "id_number": 0,
         "value": "Fiel Pond",
-        "translation": ""
+        "translation": "Fiel Pond"
     },
     {
         "id": "fld002_002",
         "id_number": 0,
         "value": "ラルパル",
-        "translation": ""
+        "translation": "Larpal"
     },
     {
         "id": "fld002_002_sub",
         "id_number": 0,
         "value": "Larpal",
-        "translation": ""
+        "translation": "Larpal"
     },
     {
         "id": "fld002_004",
         "id_number": 0,
         "value": "ベルクマール",
-        "translation": ""
+        "translation": "Bergmahl"
     },
     {
         "id": "fld002_004_sub",
         "id_number": 0,
         "value": "Bergmahl",
-        "translation": ""
+        "translation": "Bergmahl"
     },
     {
         "id": "fld002_005",
         "id_number": 0,
         "value": "オーギュラス遺跡",
-        "translation": ""
+        "translation": "Ruins of Augurass"
     },
     {
         "id": "fld002_005_sub",
         "id_number": 0,
         "value": "Ruins of Augurass",
-        "translation": ""
+        "translation": "Ruins of Augurass"
     },
     {
         "id": "dng005_Top",
         "id_number": 0,
         "value": "神懸の御柱・追加調査",
-        "translation": ""
+        "translation": "Pillar of Divinity・Additional Investigation"
     },
     {
         "id": "dng005_Top_sub",
         "id_number": 0,
         "value": "Pillar of Divinity",
-        "translation": ""
+        "translation": "Pillar of Divinity"
     },
     {
         "id": "dng005_Hard_Top",
         "id_number": 0,
         "value": "神懸の御柱・上級調査",
-        "translation": ""
+        "translation": "Pillar of Divinity・Advanced Survey"
     },
     {
         "id": "dng005_Hard_Top_sub",
         "id_number": 0,
         "value": "Pillar of Divinity",
-        "translation": ""
+        "translation": "Pillar of Divinity"
     },
     {
         "id": "dng005_001",
         "id_number": 0,
         "value": "神懸の御柱の最上階",
-        "translation": ""
+        "translation": "Top Floor of Pillar of Divinity"
     },
     {
         "id": "dng005_cty01_Top",
         "id_number": 0,
         "value": "神懸の御柱_体験会用",
-        "translation": ""
+        "translation": "Pillar of Divinity's Divine Possession - Experience Meeting"
     },
     {
         "id": "sce005_Top",
         "id_number": 0,
         "value": "神懸の御柱",
-        "translation": ""
+        "translation": "Pillar of Divinity's Divine Possession"
     },
     {
         "id": "sce005_Top_sub",
         "id_number": 0,
         "value": "Pillar of Divinity",
-        "translation": ""
+        "translation": "Pillar of Divinity"
     },
     {
         "id": "pub005_Top",
         "id_number": 0,
         "value": "神懸の御柱・自由探索",
-        "translation": ""
+        "translation": "Pillar of Divinity's Divine Possession・Free Roam"
     },
     {
         "id": "pub005_Top_sub",
         "id_number": 0,
         "value": "Pillar of Divinity",
-        "translation": ""
+        "translation": "Pillar of Divinity"
     },
     {
         "id": "dng009_Top",
         "id_number": 0,
         "value": "巨竜の爪痕・追加調査",
-        "translation": ""
+        "translation": "Dragon Claw Valley・Additional Investigation"
     },
     {
         "id": "dng009_Top_sub",
         "id_number": 0,
         "value": "Dragon Claw Valley",
-        "translation": ""
+        "translation": "Dragon Claw Valley"
     },
     {
         "id": "dng009_Hard_Top",
         "id_number": 0,
         "value": "巨竜の爪痕・上級調査",
-        "translation": ""
+        "translation": "Dragon Claw Valley・Advanced Survey"
     },
     {
         "id": "dng009_Hard_Top_sub",
         "id_number": 0,
         "value": "Dragon Claw Valley",
-        "translation": ""
+        "translation": "Dragon Claw Valley"
     },
     {
         "id": "sce009_Top",
         "id_number": 0,
         "value": "巨竜の爪痕",
-        "translation": ""
+        "translation": "Dragon Claw Valley"
     },
     {
         "id": "sce009_Top_sub",
         "id_number": 0,
         "value": "Dragon Claw Valley",
-        "translation": ""
+        "translation": "Dragon Claw Valley"
     },
     {
         "id": "pub009_Top",
         "id_number": 0,
         "value": "巨竜の爪痕・自由探索",
-        "translation": ""
+        "translation": "Dragon Claw Valley・Free Roam"
     },
     {
         "id": "pub009_Top_sub",
         "id_number": 0,
         "value": "Dragon Claw Valley",
-        "translation": ""
+        "translation": "Dragon Claw Valley"
     },
     {
         "id": "pat0101_Top",
         "id_number": 0,
         "value": "レイクリッド坑道・追加調査",
-        "translation": ""
+        "translation": "Reikrid Tunnels・Additional Investigation"
     },
     {
         "id": "pat0101_Top_sub",
         "id_number": 0,
         "value": "Reikrid Tunnels",
-        "translation": ""
+        "translation": "Reikrid Tunnels"
     },
     {
         "id": "sce0101_Top",
         "id_number": 0,
         "value": "レイクリッド坑道",
-        "translation": ""
+        "translation": "Reikrid Tunnels"
     },
     {
         "id": "sce0101_Top_sub",
         "id_number": 0,
         "value": "Reikrid Tunnels",
-        "translation": ""
+        "translation": "Reikrid Tunnels"
     },
     {
         "id": "pub0101_Top",
         "id_number": 0,
         "value": "レイクリッド坑道・自由探索",
-        "translation": ""
+        "translation": "Reikrid Tunnels・Free Roam"
     },
     {
         "id": "pub101_Top_sub",
         "id_number": 0,
         "value": "Reikrid Tunnels",
-        "translation": ""
+        "translation": "Reikrid Tunnels"
     },
     {
         "id": "pat0102_Top",
         "id_number": 0,
         "value": "機跡の谷・調査",
-        "translation": ""
+        "translation": "Valley of machines・Investigation"
     },
     {
         "id": "pat0102_Top_sub",
         "id_number": 0,
         "value": "Valley of machines",
-        "translation": ""
+        "translation": "Valley of machines"
     },
     {
         "id": "pat0102_Hard_Top",
         "id_number": 0,
         "value": "機跡の谷・上級調査",
-        "translation": ""
+        "translation": "Valley of machines・Advanced Survey"
     },
     {
         "id": "pat0102_Hard_Top_sub",
         "id_number": 0,
         "value": "Valley of machines",
-        "translation": ""
+        "translation": "Valley of machines"
     },
     {
         "id": "sce0102_Top",
         "id_number": 0,
         "value": "機跡の谷",
-        "translation": ""
+        "translation": "Valley of machines"
     },
     {
         "id": "sce0102_Top_sub",
         "id_number": 0,
         "value": "Valley of machines",
-        "translation": ""
+        "translation": "Valley of machines"
     },
     {
         "id": "pub0102_Top",
         "id_number": 0,
         "value": "機跡の谷・自由探索",
-        "translation": ""
+        "translation": "Valley of machines・Free Roam"
     },
     {
         "id": "pub0102_Top_sub",
         "id_number": 0,
         "value": "Valley of machines",
-        "translation": ""
+        "translation": "Valley of machines"
     },
     {
         "id": "ins002_Top",
         "id_number": 0,
         "value": "巨塔の遺跡",
-        "translation": ""
+        "translation": "Ruins of the Giant Tower"
     },
     {
         "id": "arn002_E_TOP",
         "id_number": 0,
         "value": "闘技場・ランクＣ",
-        "translation": ""
+        "translation": "Arena・Rank C"
     },
     {
         "id": "arn002_E_TOP_sub",
         "id_number": 0,
         "value": "Colloseum",
-        "translation": ""
+        "translation": "Arena"
     },
     {
         "id": "arn002_N_TOP",
         "id_number": 0,
         "value": "闘技場・ランクＢ",
-        "translation": ""
+        "translation": "Arena・Rank B"
     },
     {
         "id": "arn002_N_TOP_sub",
         "id_number": 0,
         "value": "Colloseum",
-        "translation": ""
+        "translation": "Arena"
     },
     {
         "id": "arn002_H_TOP",
         "id_number": 0,
         "value": "闘技場・ランクＡ",
-        "translation": ""
+        "translation": "Arena・Rank A"
     },
     {
         "id": "arn002_H_TOP_sub",
         "id_number": 0,
         "value": "Colloseum",
-        "translation": ""
+        "translation": "Arena"
     },
     {
         "id": "arn002_V_TOP",
         "id_number": 0,
         "value": "闘技場・ランクＳ",
-        "translation": ""
+        "translation": "Arena・Rank S"
     },
     {
         "id": "arn002_V_TOP_sub",
         "id_number": 0,
         "value": "Colloseum",
-        "translation": ""
+        "translation": "Arena"
     },
     {
         "id": "tad009_Top",
         "id_number": 0,
         "value": "タイムアタック・ソロ",
-        "translation": ""
+        "translation": "Time Attack・Solo"
     },
     {
         "id": "tad009_Top_sub",
         "id_number": 0,
         "value": "Time Attack",
-        "translation": ""
+        "translation": "Time Attack"
     },
     {
         "id": "tad009_PT_TOP",
         "id_number": 0,
         "value": "タイムアタック・パーティ",
-        "translation": ""
+        "translation": "Time Attack・Party"
     },
     {
         "id": "tad009_PT_TOP_sub",
         "id_number": 0,
         "value": "Time Attack",
-        "translation": ""
+        "translation": "Time Attack"
     },
     {
         "id": "rai001_Top",
         "id_number": 0,
         "value": "虚空の浮島",
-        "translation": ""
+        "translation": "Void's Island"
     },
     {
         "id": "rai001_Top_sub",
         "id_number": 0,
         "value": "Void's Island",
-        "translation": ""
+        "translation": "Void's Island"
     }
 ]
