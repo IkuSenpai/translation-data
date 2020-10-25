@@ -39,7 +39,7 @@
         "id": "sce005_DisplayDesc",
         "id_number": 0,
         "value": "バファリア文明最大の遺跡の一つ。\nバファリア教の開祖が降り立った場所としても伝えられ、\nいまだ数多くの謎に包まれている。\nその外観は、どれほどの年月が経っても美しく壮麗なままである。",
-        "translation": "One of the largest archaeological sites of the Bafalia civilization. \nIt is also said to be the place where the founder of Bafalianism landed. \nIt is still surrounded by many mysteries. \nIts appearance remains beautiful and magnificent no matter how many years have passed."
+        "translation": "One of the largest archaeological sites of the Bapharia civilization. \nIt is also said to be the place where the founder of Bapharianism landed. \nIt is still surrounded by many mysteries. \nIts appearance remains beautiful and magnificent no matter how many years have passed."
     },
     {
         "id": "sce005_RuleDesc",
@@ -57,7 +57,7 @@
         "id": "dng005_DisplayDesc",
         "id_number": 0,
         "value": "【パーティ推奨】\nバファリア文明最大の遺跡の一つ。\nバファリア教の開祖が降り立った場所としても伝えられ、\nいまだ数多くの謎に包まれている。\nその外観は、どれほどの年月が経っても美しく壮麗なままである。",
-        "translation": "【Party Recommended】\nOne of the largest archaeological sites of the Bafalia civilization. \nIt is also said to be the place where the founder of Bafalianism landed. \nIt is still surrounded by many mysteries. \nIts appearance remains beautiful and magnificent no matter how many years have passed."
+        "translation": "【Party Recommended】\nOne of the largest archaeological sites of the Bapharia civilization. \nIt is also said to be the place where the founder of Bapharianism landed. \nIt is still surrounded by many mysteries. \nIts appearance remains beautiful and magnificent no matter how many years have passed."
     },
     {
         "id": "dng005_RuleDesc",
@@ -75,7 +75,7 @@
         "id": "dng005_Hard_DisplayDesc",
         "id_number": 0,
         "value": "【パーティ推奨】\nバファリア文明最大の遺跡の一つ。\nバファリア教の開祖が降り立った場所としても伝えられ、\nいまだ数多くの謎に包まれている。\n追加調査は強大なエネミーと遭遇するため、難易度が高い。\nその分、成功報酬によって強力な武器をクラフトすることが可能。",
-        "translation": "【Party Recommended】\nOne of the largest archaeological sites of the Bafalia civilization. \nIt is also said to be the place where the founder of Bafalianism landed. \nIt is still surrounded by many mysteries. \nIts appearance remains beautiful and magnificent no matter how many years have passed. \nThe additional investigation is difficult because it encounters a mighty enemy. \nHowever, it is possible to craft powerful weapons with success rewards."
+        "translation": "【Party Recommended】\nOne of the largest archaeological sites of the Bapharia civilization. \nIt is also said to be the place where the founder of Bapharianism landed. \nIt is still surrounded by many mysteries. \nIts appearance remains beautiful and magnificent no matter how many years have passed. \nThe additional investigation is difficult because it encounters a mighty enemy. \nHowever, it is possible to craft powerful weapons with success rewards."
     },
     {
         "id": "dng005_Hard_RuleDesc",
@@ -435,7 +435,7 @@
         "id": "sce0102_DisplayDesc",
         "id_number": 0,
         "value": "バファリア文明時代の街が埋もれ、\n周辺の地形と一体化してできた遺跡の谷。\nバファリアの遺産である機械類が今もこの地を守っており、\n侵入者を迎え撃つ。",
-        "translation": "A valley of ruins that was created by burying the city of the Buffaria civilization and integrating it with the surrounding terrain.\nBafaria's heritage machinery still protects the area,\nand greets intruders."
+        "translation": "A valley of ruins that was created by burying the city of the Bapharia civilization and integrating it with the surrounding terrain.\nBapharia's heritage machinery still protects the area,\nand greets intruders."
     },
     {
         "id": "sce0102_RuleDesc",
@@ -453,7 +453,7 @@
         "id": "pat0102_DisplayDesc",
         "id_number": 0,
         "value": "【パーティ推奨】\nバファリア文明時代の街が埋もれ、\n周辺の地形と一体化してできた遺跡の谷。\nバファリアの遺産である機械類が今もこの地を守っており、\n侵入者を迎え撃つ。",
-        "translation": "【Party Recommended】\nA valley of ruins that was created by burying the city of the Buffaria civilization and integrating it with the surrounding terrain.\nBafaria's heritage machinery still protects the area,\nand greets intruders."
+        "translation": "【Party Recommended】\nA valley of ruins that was created by burying the city of the Bapharia civilization and integrating it with the surrounding terrain.\nBapharia's heritage machinery still protects the area,\nand greets intruders."
     },
     {
         "id": "pat0102_RuleDesc",
@@ -471,7 +471,7 @@
         "id": "pat0102_Hard_DisplayDesc",
         "id_number": 0,
         "value": "【パーティ推奨】\nバファリア文明時代の小規模な街が埋もれ、\n周辺の地形と一体化してできた遺跡の谷。\n追加調査では強大なエネミーと遭遇するため、難易度が高い。\nその分、成功報酬によって強力な武器をクラフトできる。",
-        "translation": "【Party Recommended】\nA valley of ruins that was created by burying the city of the Buffaria civilization and integrating it with the surrounding terrain.\nThe additional investigation is difficult because it encounters a mighty enemy.\nIt is possible to craft powerful weapons with success rewards."
+        "translation": "【Party Recommended】\nA valley of ruins that was created by burying the city of the Bapharia civilization and integrating it with the surrounding terrain.\nThe additional investigation is difficult because it encounters a mighty enemy.\nIt is possible to craft powerful weapons with success rewards."
     },
     {
         "id": "pat0102_Hard_RuleDesc",
@@ -489,7 +489,7 @@
         "id": "sce0201_DisplayDesc",
         "id_number": 0,
         "value": "バファリア文明時代の街が埋もれ、周辺の地形と一体化してできた遺跡\nの谷。バファリアの遺産である機械類が今もこの地を守っており、侵入\n者を迎撃する。",
-        "translation": "The valley of the ruins\n, which was created by burying the city of the Bafalia civilization era and integrating it with the surrounding terrain. Machinery, which is a legacy of Baffaria, still protects this land and intercepts invaders."
+        "translation": "The valley of the ruins\n, which was created by burying the city of the Bapharia civilization era and integrating it with the surrounding terrain. Machinery, which is a legacy of Bapharia, still protects this land and intercepts invaders."
     },
     {
         "id": "sce0201_RuleDesc",
@@ -507,7 +507,7 @@
         "id": "pat0201_DisplayDesc",
         "id_number": 0,
         "value": "このバファリア遺跡は、かつては保存状態も良く名所として知られてい\nたが、急速な砂漠化によって朽廃が進み、近年では近寄る者もほとんど\nいなくなった。（仮）",
-        "translation": "The Bafalia archaeological site was once well-preserved and known as a famous place, but it has been decaying due to rapid desertification, and in recent years few people have approached it. (Tentative)"
+        "translation": "The Bapharia archaeological site was once well-preserved and known as a famous place, but it has been decaying due to rapid desertification, and in recent years few people have approached it. (Tentative)"
     },
     {
         "id": "pat0201_RuleDesc",
