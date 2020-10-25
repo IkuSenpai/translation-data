@@ -3,139 +3,139 @@
         "id": "0",
         "id_number": 0,
         "value": "成功",
-        "translation": ""
+        "translation": "Success"
     },
     {
         "id": "1",
         "id_number": 1,
         "value": "予期せぬエラーが発生しました",
-        "translation": ""
+        "translation": "An unexpected error has occurred"
     },
     {
         "id": "100",
         "id_number": 100,
         "value": "入力内容に誤りがあります",
-        "translation": ""
+        "translation": "There is an error in the input content"
     },
     {
         "id": "101",
         "id_number": 101,
         "value": "サーバーへの接続に失敗したためゲームを終了します",
-        "translation": ""
+        "translation": "Quit the game because the connection to the server failed"
     },
     {
         "id": "102",
         "id_number": 102,
         "value": "認証に失敗しました",
-        "translation": ""
+        "translation": "Certification failed"
     },
     {
         "id": "103",
         "id_number": 103,
         "value": "ゲームの開始に失敗しました",
-        "translation": ""
+        "translation": "Failed to start the game"
     },
     {
         "id": "104",
         "id_number": 104,
         "value": "サーバーとの接続が切れたためゲームを終了します",
-        "translation": ""
+        "translation": "The game will end because the connection with the server has been lost."
     },
     {
         "id": "105",
         "id_number": 105,
         "value": "チャットサーバーとの接続が切れたためゲームを終了します",
-        "translation": ""
+        "translation": "The game will end because the connection with the chat server has been lost."
     },
     {
         "id": "106",
         "id_number": 106,
         "value": "パーティサーバーとの接続が切れたためゲームを終了します",
-        "translation": ""
+        "translation": "The game will end because the connection with the party server has been lost."
     },
     {
         "id": "107",
         "id_number": 107,
         "value": "サーバーから切断されました",
-        "translation": ""
+        "translation": "Disconnected from the server"
     },
     {
         "id": "108",
         "id_number": 108,
         "value": "ログインが制限されています",
-        "translation": ""
+        "translation": "Login is restricted"
     },
     {
         "id": "1000",
         "id_number": 1000,
         "value": "不使用",
-        "translation": ""
+        "translation": "Not used"
     },
     {
         "id": "1001",
         "id_number": 1001,
         "value": "不使用",
-        "translation": ""
+        "translation": "Not used"
     },
     {
         "id": "1002",
         "id_number": 1002,
         "value": "不使用",
-        "translation": ""
+        "translation": "Not used"
     },
     {
         "id": "1003",
         "id_number": 1003,
         "value": "使用できない語句が含まれています",
-        "translation": ""
+        "translation": "Contains words that cannot be used"
     },
     {
         "id": "1004",
         "id_number": 1004,
         "value": "データ取得に失敗しました",
-        "translation": ""
+        "translation": "Data acquisition failed"
     },
     {
         "id": "1005",
         "id_number": 1005,
         "value": "データ保存に失敗しました",
-        "translation": ""
+        "translation": "Data save failed"
     },
     {
         "id": "1006",
         "id_number": 1006,
         "value": "最新バージョンであることを確認してください",
-        "translation": ""
+        "translation": "Make sure you have the latest version"
     },
     {
         "id": "1007",
         "id_number": 1007,
         "value": "ログインに失敗しました",
-        "translation": ""
+        "translation": "Failed to login"
     },
     {
         "id": "1008",
         "id_number": 1008,
         "value": "ゲームサーバーの登録に失敗しました",
-        "translation": ""
+        "translation": "Game server registration failed"
     },
     {
         "id": "1009",
         "id_number": 1009,
         "value": "セッションから切断されました",
-        "translation": ""
+        "translation": "Disconnected from session"
     },
     {
         "id": "1010",
         "id_number": 1010,
         "value": "使用できない語句が含まれています",
-        "translation": ""
+        "translation": "Contains words that cannot be used"
     },
     {
         "id": "1014",
         "id_number": 1014,
         "value": "データの削除に失敗しました",
-        "translation": ""
+        "translation": "Failed to delete data"
     },
     {
         "id": "1015",
