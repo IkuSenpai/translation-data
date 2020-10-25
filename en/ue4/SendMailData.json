@@ -9,13 +9,13 @@
         "id": "mail_test_header",
         "id_number": -1,
         "value": "件名1",
-        "translation": ""
+        "translation": "Subject 1"
     },
     {
         "id": "mail_test_body",
         "id_number": -1,
         "value": "内容1",
-        "translation": ""
+        "translation": "Content 1"
     },
     {
         "id": "mail_test2_sender",
@@ -27,13 +27,13 @@
         "id": "mail_test2_header",
         "id_number": -1,
         "value": "件名2",
-        "translation": ""
+        "translation": "Subject 2"
     },
     {
         "id": "mail_test2_body",
         "id_number": -1,
         "value": "内容2\n内容2",
-        "translation": ""
+        "translation": "Content 2\nContent 2"
     },
     {
         "id": "mail_test3_sender",
@@ -45,13 +45,13 @@
         "id": "mail_test3_header",
         "id_number": -1,
         "value": "件名3",
-        "translation": ""
+        "translation": "Subject 3"
     },
     {
         "id": "mail_test3_body",
         "id_number": -1,
         "value": "内容3 内容3",
-        "translation": ""
+        "translation": "Content 3 Content 3"
     },
     {
         "id": "mail_test4_sender",
@@ -63,13 +63,13 @@
         "id": "mail_test4_header",
         "id_number": -1,
         "value": "件名4",
-        "translation": ""
+        "translation": "Subject 4"
     },
     {
         "id": "mail_test4_body",
         "id_number": -1,
         "value": "内容4",
-        "translation": ""
+        "translation": "Content 4"
     },
     {
         "id": "mail_test5_sender",
@@ -81,13 +81,13 @@
         "id": "mail_test5_header",
         "id_number": -1,
         "value": "件名5",
-        "translation": ""
+        "translation": "Subject 5"
     },
     {
         "id": "mail_test5_body",
         "id_number": -1,
         "value": "内容5",
-        "translation": ""
+        "translation": "Content 5"
     },
     {
         "id": "None",
