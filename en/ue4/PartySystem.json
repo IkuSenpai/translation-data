@@ -3,192 +3,192 @@
         "id": "1",
         "id_number": 1,
         "value": "{name}をパーティに招待しますか？",
-        "translation": ""
+        "translation": "Would you like to invite {name} to the party?"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "{name}をパーティに招待しました",
-        "translation": ""
+        "translation": "{name} has been invited to the party"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "対象が取り込み中のためパーティに誘えません",
-        "translation": ""
+        "translation": "Cannot invite to the party because the target is busy."
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "{name}へのパーティ招待はキャンセルされました",
-        "translation": ""
+        "translation": "Party invitation to {name} has been cancelled"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "パーティ招待が届いています",
-        "translation": ""
+        "translation": "Party invitation has arrived"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "{name}のパーティに参加しますか？",
-        "translation": ""
+        "translation": "Would you like to join the party of {name}?"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "{name}のパーティに参加しました",
-        "translation": ""
+        "translation": "Joined the party of {name}"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "パーティに参加できませんでした",
-        "translation": ""
+        "translation": "Could not join the party"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "{name}がパーティに参加しました",
-        "translation": ""
+        "translation": "{name} joined the party"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "パーティから脱退しますか？",
-        "translation": ""
+        "translation": "Would you like to leave the party?"
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "パーティから脱退しました",
-        "translation": ""
+        "translation": "Withdrew from the party"
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "パーティから脱退できませんでした",
-        "translation": ""
+        "translation": "Failed to leave the party"
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "{name}がパーティから脱退しました",
-        "translation": ""
+        "translation": "{name} has left the party"
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "パーティを解散しますか？",
-        "translation": ""
+        "translation": "Would you like to disband the party?"
     },
     {
         "id": "15",
         "id_number": 15,
         "value": "パーティを解散しました",
-        "translation": ""
+        "translation": "Disbanded the party"
     },
     {
         "id": "16",
         "id_number": 16,
         "value": "パーティを解散できませんでした",
-        "translation": ""
+        "translation": "Could not disband the party"
     },
     {
         "id": "17",
         "id_number": 17,
         "value": "パーティが解散されました",
-        "translation": ""
+        "translation": "The party was disbanded"
     },
     {
         "id": "18",
         "id_number": 18,
         "value": "{name}にリーダーを委譲しますか？",
-        "translation": ""
+        "translation": "Do you want to delegate the leader to {name}?"
     },
     {
         "id": "19",
         "id_number": 19,
         "value": "{name}にリーダーを委譲しました",
-        "translation": ""
+        "translation": "Delegated leader to {name}"
     },
     {
         "id": "20",
         "id_number": 20,
         "value": "{name}にリーダーを委譲できませんでした",
-        "translation": ""
+        "translation": "Could not delegate leader to {name}"
     },
     {
         "id": "21",
         "id_number": 21,
         "value": "リーダーがあなたに移譲されました",
-        "translation": ""
+        "translation": "The leader has been transferred to you"
     },
     {
         "id": "22",
         "id_number": 22,
         "value": "リーダーが{name}に移譲されました",
-        "translation": ""
+        "translation": "Leader transferred to {name}"
     },
     {
         "id": "23",
         "id_number": 23,
         "value": "{name}をパーティからキックしますか？",
-        "translation": ""
+        "translation": "Do you want to kick {name} from the party?"
     },
     {
         "id": "24",
         "id_number": 24,
         "value": "{name}をパーティからキックしました",
-        "translation": ""
+        "translation": "Kicked {name} from the party"
     },
     {
         "id": "25",
         "id_number": 25,
         "value": "{name}をパーティからキックできませんでした",
-        "translation": ""
+        "translation": "Could not kick {name} from the party"
     },
     {
         "id": "26",
         "id_number": 26,
         "value": "パーティからキックされました",
-        "translation": ""
+        "translation": "Kicked from the party"
     },
     {
         "id": "27",
         "id_number": 27,
         "value": "{name}がパーティからキックされました",
-        "translation": ""
+        "translation": "{name} was kicked from the party"
     },
     {
         "id": "28",
         "id_number": 28,
         "value": "現在パーティに参加できません",
-        "translation": ""
+        "translation": "I can't join the party right now"
     },
     {
         "id": "29",
         "id_number": 29,
         "value": "パーティ移動をキャンセルしました",
-        "translation": ""
+        "translation": "Canceled party move"
     },
     {
         "id": "30",
         "id_number": 30,
         "value": "パーティ移動はキャンセルされました",
-        "translation": ""
+        "translation": "Party move canceled"
     },
     {
         "id": "31",
         "id_number": 31,
         "value": "パーティ移動待機中は行えません",
-        "translation": ""
+        "translation": "Cannot be done while waiting for party move"
     },
     {
         "id": "32",
         "id_number": 32,
         "value": "{name}へのパーティ招待に失敗しました",
-        "translation": ""
+        "translation": "Failed to invite party to {name}"
     }
 ]
