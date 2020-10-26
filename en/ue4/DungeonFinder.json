@@ -3,54 +3,54 @@
         "id": "1",
         "id_number": 1,
         "value": "ダンジョン",
-        "translation": ""
+        "translation": "Dungeon"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "Dungeon",
-        "translation": ""
+        "translation": "Dungeon"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "ダンジョン準備中",
-        "translation": ""
+        "translation": "Preparing for the dungeon"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "サーバー予約中",
-        "translation": ""
+        "translation": "Server reserved"
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "ダンジョン",
-        "translation": ""
+        "translation": "Dungeon"
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "Dungeon",
-        "translation": ""
+        "translation": "Dungeon"
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "突入する！",
-        "translation": ""
+        "translation": "Enter abruptly!"
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "他メンバー待機中",
-        "translation": ""
+        "translation": "Waiting for other members"
     },
     {
         "id": "15",
         "id_number": 15,
         "value": "リタイアする…",
-        "translation": ""
+        "translation": "Retire..."
     }
 ]
