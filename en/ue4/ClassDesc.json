@@ -3,90 +3,90 @@
         "id": "0",
         "id_number": 0,
         "value": "ヴァンガードはどんなクラス",
-        "translation": ""
+        "translation": "What class is Vanguard?"
     },
     {
         "id": "1",
         "id_number": 1,
         "value": "ウィザードはどんなクラス",
-        "translation": ""
+        "translation": "What class is Wizard?"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "ソードスレイヤーはどんなクラス",
-        "translation": ""
+        "translation": "What class is Sword Slayer"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "アーティストはどんなクラス",
-        "translation": ""
+        "translation": "What class is Artist?"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "ガンスリンガーストラトス",
-        "translation": ""
+        "translation": "Gunslinger Stratos"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "スプラッシュはどんなクラス",
-        "translation": ""
+        "translation": "What class is Splash?"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "遠距離攻撃クラス\n機敏性の高い弓を操り、全てを貫く。\n距離を保ちながら戦闘状況を判断し、\n弱点を狙ったり範囲攻撃をしたり\n戦術の幅が広いクラス。",
-        "translation": ""
+        "translation": "Ranged attack class\nManipulate a highly agile bow and pierce everything.\nJudge the battle situation while keeping the distance,\nAim at weak points and make range attacks\nA class with a wide range of tactics."
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "近距離攻撃クラス\n巨大な二本の斧で、敵を断ち切る。\n自身へ強靭な力を与えるスキルを\n使いこなし、常に戦闘の前線で戦い続ける\n勇猛なクラス。",
-        "translation": ""
+        "translation": "Short-range attack class\nCut off enemies with two huge axes.\nA brave class who uses skills that give him strong power\nand always keeps fighting at the front line of battle."
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "エンジニアの説明 (仮)",
-        "translation": ""
+        "translation": "Description of the Engineer (provisional)"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "ストライカーの説明 (仮)",
-        "translation": ""
+        "translation": "Description of the Striker (provisional)"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "スレイヤーの説明 (仮)",
-        "translation": ""
+        "translation": "Description of the Slayer (provisional)"
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "遠距離攻撃クラス\n杖を用いてエングラムを操作、変換する。\n炎・氷・雷等を操り、連続してスキルを\n繰り出すことが可能な、\n瞬発力の高いクラス。",
-        "translation": ""
+        "translation": "Ranged Attack Class\nManipulate and transform engrams with a wand.\nA class with high instantaneous power that can control flames, ice, thunder, etc., and\ncontinuously deliver skills."
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "近距離攻撃クラス\n剣と強固な盾を駆使し、前線を維持する。\n防衛力に長け、相手の戦術を\n見極めながら、確実に敵撃破を狙う\n攻守バランスの良いクラス。",
-        "translation": ""
+        "translation": "Short-range attack class\nUse your sword and strong shield to maintain your front line.\nA class with a good balance of offense and defense, who is good at defense and aims to defeat the enemy surely while identifying the opponent's tactics."
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "近距離の検証で使うクラス",
-        "translation": ""
+        "translation": "Class used for short-range verification"
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "遠距離の検証で使うクラス",
-        "translation": ""
+        "translation": "Class used for long-distance verification"
     }
 ]
