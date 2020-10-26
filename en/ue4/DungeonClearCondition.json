@@ -3,13 +3,13 @@
         "id": "DngeonClearConditionTestMap_00_00",
         "id_number": -1,
         "value": "テスト ステップ1 Id0",
-        "translation": ""
+        "translation": "Test step 1 Id0"
     },
     {
         "id": "DngeonClearConditionTestMap_01_01",
         "id_number": -1,
         "value": "テスト ステップ1 Id1",
-        "translation": ""
+        "translation": "Test step 1 Id1"
     },
     {
         "id": "dng009_00_00",

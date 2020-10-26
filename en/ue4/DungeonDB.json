@@ -3,7 +3,7 @@
         "id": "dng004_DisplayDesc",
         "id_number": -1,
         "value": "埋もれた都の説明",
-        "translation": ""
+        "translation": "Description of the buried city"
     },
     {
         "id": "dng004_RuleDesc",
@@ -39,7 +39,7 @@
         "id": "dng007_DisplayDesc",
         "id_number": -1,
         "value": "枷神の産屋の説明",
-        "translation": ""
+        "translation": "Explanation of the god's production house"
     },
     {
         "id": "dng007_RuleDesc",
@@ -75,7 +75,7 @@
         "id": "dng011_DisplayDesc",
         "id_number": -1,
         "value": "天恵の聖堂の説明",
-        "translation": ""
+        "translation": "Description of the Blessed Basilica"
     },
     {
         "id": "dng011_RuleDesc",
@@ -93,7 +93,7 @@
         "id": "dng013_DisplayDesc",
         "id_number": -1,
         "value": "バーンハルトへの隠し通路の説明",
-        "translation": ""
+        "translation": "Description of secret passages to Bernhard"
     },
     {
         "id": "dng013_RuleDesc",
@@ -129,7 +129,7 @@
         "id": "dng017_DisplayDesc",
         "id_number": -1,
         "value": "GB調整中\nバーンハルト城の地下研究所\nアバリティヨルクイマジンとダンケルクと戦闘",
-        "translation": ""
+        "translation": "GB Adjusting\nUnderground Laboratory at Bernhard Castle\nBattle with Avality Jorku Imagine and Dunkirk"
     },
     {
         "id": "dng017_RuleDesc",
@@ -183,7 +183,7 @@
         "id": "dng019_DisplayDesc",
         "id_number": -1,
         "value": "海神窟についての説明",
-        "translation": ""
+        "translation": "海神窟についての説明"
     },
     {
         "id": "dng019_RuleDesc",
@@ -201,19 +201,19 @@
         "id": "GDI_TOP_DisplayDesc",
         "id_number": -1,
         "value": "トレーニングマップの説明",
-        "translation": ""
+        "translation": "Training map description"
     },
     {
         "id": "GDI_TOP_RuleDesc",
         "id_number": -1,
         "value": "動きや戦い方を習得せよ！",
-        "translation": ""
+        "translation": "Learn how to move and fight!"
     },
     {
         "id": "GDI_TOP_RuleName",
         "id_number": -1,
         "value": "トレーニング",
-        "translation": ""
+        "translation": "training"
     },
     {
         "id": "cat_dng009_DisplayDesc",
@@ -255,19 +255,19 @@
         "id": "RockDungeon_DisplayDesc",
         "id_number": -1,
         "value": "汎用ダンジョン(試験用)",
-        "translation": ""
+        "translation": "General-purpose dungeon (for testing)"
     },
     {
         "id": "RockDungeon_RuleDesc",
         "id_number": -1,
         "value": "汎用ダンジョンの試験結果の確認",
-        "translation": ""
+        "translation": "Confirmation of test results for general-purpose dungeons"
     },
     {
         "id": "RockDungeon_RuleName",
         "id_number": -1,
         "value": "試験",
-        "translation": ""
+        "translation": "test"
     },
     {
         "id": "cat_dng009_H_DisplayDesc",

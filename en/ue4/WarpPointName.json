@@ -27,7 +27,7 @@
         "id": "cty01:5",
         "id_number": -1,
         "value": "闘技場前",
-        "translation": ""
+        "translation": "In front of the Arena"
     },
     {
         "id": "cty01:6",
@@ -45,7 +45,7 @@
         "id": "cty01:8",
         "id_number": -1,
         "value": "アステルリーズビーチ",
-        "translation": ""
+        "translation": "Asterleeds Beach"
     },
     {
         "id": "cty01:9",
@@ -75,7 +75,7 @@
         "id": "cty02",
         "id_number": -1,
         "value": "サラムザード入口",
-        "translation": ""
+        "translation": "Salamzard Entrance"
     },
     {
         "id": "fld004:1",
@@ -129,25 +129,25 @@
         "id": "test:1",
         "id_number": -1,
         "value": "test_1",
-        "translation": ""
+        "translation": "test_1"
     },
     {
         "id": "test:2",
         "id_number": -1,
         "value": "test_2",
-        "translation": ""
+        "translation": "test_2"
     },
     {
         "id": "test:3",
         "id_number": -1,
         "value": "test_3",
-        "translation": ""
+        "translation": "test_3"
     },
     {
         "id": "test:4",
         "id_number": -1,
         "value": "test_4",
-        "translation": ""
+        "translation": "test_4"
     },
     {
         "id": "fld003:2",
@@ -159,12 +159,12 @@
         "id": "cty02:2",
         "id_number": -1,
         "value": "開拓局前",
-        "translation": ""
+        "translation": "In front of the Pioneer Bureau"
     },
     {
         "id": "cty02:3",
         "id_number": -1,
         "value": "サラムザード北",
-        "translation": ""
+        "translation": "Salamzard North"
     }
 ]

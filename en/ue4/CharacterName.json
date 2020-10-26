@@ -9,13 +9,13 @@
         "id": "Unknown",
         "id_number": -1,
         "value": "???",
-        "translation": ""
+        "translation": "???"
     },
     {
         "id": "Npc_All",
         "id_number": -1,
         "value": "仲間全員",
-        "translation": ""
+        "translation": "All Of My Friends"
     },
     {
         "id": "Npc_Questguide_CAT",
@@ -27,7 +27,7 @@
         "id": "Npc_Receptionist",
         "id_number": -1,
         "value": "クエスト受付嬢",
-        "translation": ""
+        "translation": "Quest Receptionist"
     },
     {
         "id": "Npc_MainQuestguide",
@@ -39,13 +39,13 @@
         "id": "Npc_Craft_M",
         "id_number": -1,
         "value": "職人",
-        "translation": ""
+        "translation": "Craftsman"
     },
     {
         "id": "Npc_Craft_F",
         "id_number": -1,
         "value": "職人",
-        "translation": ""
+        "translation": "Craftsman"
     },
     {
         "id": "Npc_CraftBox",
@@ -57,19 +57,19 @@
         "id": "Npc_Guild",
         "id_number": -1,
         "value": "マスター",
-        "translation": ""
+        "translation": "Guild Master"
     },
     {
         "id": "Npc_ImagineShop",
         "id_number": -1,
         "value": "イマジン研究所",
-        "translation": ""
+        "translation": "Imagine Research Institute"
     },
     {
         "id": "Npc_Transaction",
         "id_number": -1,
         "value": "取引所",
-        "translation": ""
+        "translation": "Exchange"
     },
     {
         "id": "Npc_BeautySalon",
@@ -81,13 +81,13 @@
         "id": "Npc_DyersShop",
         "id_number": -1,
         "value": "染色屋",
-        "translation": ""
+        "translation": "Dyeing Shop"
     },
     {
         "id": "Npc_Coliseum",
         "id_number": -1,
         "value": "闘技場",
-        "translation": ""
+        "translation": "Arena"
     },
     {
         "id": "Npc_Mullie",
@@ -99,67 +99,67 @@
         "id": "Npc_FoodShop",
         "id_number": -1,
         "value": "料理屋",
-        "translation": ""
+        "translation": "Restaurant"
     },
     {
         "id": "Npc_Heal",
         "id_number": -1,
         "value": "治癒所",
-        "translation": ""
+        "translation": "Healing Place"
     },
     {
         "id": "Npc_Warehouse",
         "id_number": -1,
         "value": "倉庫番",
-        "translation": ""
+        "translation": "Warehouse"
     },
     {
         "id": "Npc_ArmorShop",
         "id_number": -1,
         "value": "衣装屋",
-        "translation": ""
+        "translation": "Armor Shop"
     },
     {
         "id": "Npc_ItemShop",
         "id_number": -1,
         "value": "道具屋",
-        "translation": ""
+        "translation": "Tool Shop"
     },
     {
         "id": "Npc_Colosseum",
         "id_number": -1,
         "value": "闘技場案内人",
-        "translation": ""
+        "translation": "Arena Guide"
     },
     {
         "id": "Npc_Blacksmith",
         "id_number": -1,
         "value": "鍛冶屋",
-        "translation": ""
+        "translation": "Blacksmith"
     },
     {
         "id": "Npc_Peddler",
         "id_number": -1,
         "value": "行商人",
-        "translation": ""
+        "translation": "Peddler"
     },
     {
         "id": "Npc_ExchangeShop",
         "id_number": -1,
         "value": "GC交換所",
-        "translation": ""
+        "translation": "GC Exchange Shop"
     },
     {
         "id": "Npc_GeneralStore",
         "id_number": -1,
         "value": "よろず屋",
-        "translation": ""
+        "translation": "General Store"
     },
     {
         "id": "Npc_Peddler",
         "id_number": -1,
         "value": "行商人",
-        "translation": ""
+        "translation": "Peddler"
     },
     {
         "id": "Npc_dng009",
@@ -183,67 +183,67 @@
         "id": "Npc_Coin_Owner",
         "id_number": -1,
         "value": "コイン亭亭主",
-        "translation": ""
+        "translation": "Coin Owner"
     },
     {
         "id": "Npc_Jake",
         "id_number": -1,
         "value": "ジェイク",
-        "translation": ""
+        "translation": "Jake"
     },
     {
         "id": "Npc_Mysteriousgirl",
         "id_number": -1,
         "value": "謎の少女",
-        "translation": ""
+        "translation": "Mysterious Girl"
     },
     {
         "id": "Npc_Milene",
         "id_number": -1,
         "value": "ミルレーネ",
-        "translation": ""
+        "translation": "Milene"
     },
     {
         "id": "Npc_Priest3rdClass",
         "id_number": -1,
         "value": "三等神官",
-        "translation": ""
+        "translation": "Priest 3rd Class"
     },
     {
         "id": "Npc_Gatekeeper",
         "id_number": -1,
         "value": "門番",
-        "translation": ""
+        "translation": "Gatekeeper"
     },
     {
         "id": "Npc_Tyris",
         "id_number": -1,
         "value": "ティリス",
-        "translation": ""
+        "translation": "Tyris"
     },
     {
         "id": "Npc_Aerinse",
         "id_number": -1,
         "value": "エーリンゼ",
-        "translation": ""
+        "translation": "Aerinse"
     },
     {
         "id": "Npc_Feste",
         "id_number": -1,
         "value": "フェステ",
-        "translation": ""
+        "translation": "Feste"
     },
     {
         "id": "Npc_AstelreasPriest",
         "id_number": -1,
         "value": "司祭",
-        "translation": ""
+        "translation": "Astelrea's Priest"
     },
     {
         "id": "Npc_Believer",
         "id_number": -1,
         "value": "信徒",
-        "translation": ""
+        "translation": "Beliner"
     },
     {
         "id": "Npc_Joerg",
@@ -261,31 +261,31 @@
         "id": "Npc_Einrain",
         "id_number": -1,
         "value": "アインレイン",
-        "translation": ""
+        "translation": "Einrain"
     },
     {
         "id": "Npc_Voldigen",
         "id_number": -1,
         "value": "ヴォルディゲン",
-        "translation": ""
+        "translation": "Voldigen"
     },
     {
         "id": "Npc_Avaritia",
         "id_number": -1,
         "value": "アバリティア",
-        "translation": ""
+        "translation": "Avaritia"
     },
     {
         "id": "Npc_Knight_A",
         "id_number": -1,
         "value": "騎士A",
-        "translation": ""
+        "translation": "Knight A"
     },
     {
         "id": "Npc_Knight_B",
         "id_number": -1,
         "value": "騎士B",
-        "translation": ""
+        "translation": "Knight B"
     },
     {
         "id": "Npc_Dunkirk",
@@ -297,7 +297,7 @@
         "id": "Npc_Merlouf",
         "id_number": -1,
         "value": "メルロウフ",
-        "translation": ""
+        "translation": "Merluof"
     },
     {
         "id": "Npc_Carvain",
@@ -309,7 +309,7 @@
         "id": "Npc_Traveller",
         "id_number": -1,
         "value": "旅人",
-        "translation": ""
+        "translation": "Traveller"
     },
     {
         "id": "Npc_Elektra",
@@ -333,7 +333,7 @@
         "id": "Npc_Audience",
         "id_number": -1,
         "value": "観客",
-        "translation": ""
+        "translation": "Audience"
     },
     {
         "id": "Npc_Armedgroup",
@@ -351,25 +351,25 @@
         "id": "Npc_SalamzartGirl",
         "id_number": -1,
         "value": "女の子",
-        "translation": ""
+        "translation": "Girl"
     },
     {
         "id": "Npc_SalamzartBoy",
         "id_number": -1,
         "value": "男の子",
-        "translation": ""
+        "translation": "Boy"
     },
     {
         "id": "Npc_ChildrenA",
         "id_number": -1,
         "value": "子供A",
-        "translation": ""
+        "translation": "Child A"
     },
     {
         "id": "Npc_ChildrenB",
         "id_number": -1,
         "value": "子供B",
-        "translation": ""
+        "translation": "Child B"
     },
     {
         "id": "Npc_Veronica",
@@ -393,7 +393,7 @@
         "id": "Npc_Adventurer",
         "id_number": -1,
         "value": "冒険者",
-        "translation": ""
+        "translation": "Adventurer"
     },
     {
         "id": "Npc_Ryugerio",
@@ -429,241 +429,241 @@
         "id": "Npc_Rytha",
         "id_number": -1,
         "value": "リザ",
-        "translation": ""
+        "translation": "Rytha"
     },
     {
         "id": "Npc_Merchant",
         "id_number": -1,
         "value": "商人",
-        "translation": ""
+        "translation": "Merchant"
     },
     {
         "id": "Npc_Melis",
         "id_number": -1,
         "value": "メリス",
-        "translation": ""
+        "translation": "Melis"
     },
     {
         "id": "Npc_Catrla",
         "id_number": -1,
         "value": "カチュア",
-        "translation": ""
+        "translation": "Catrla"
     },
     {
         "id": "Npc_Kriffe",
         "id_number": -1,
         "value": "クリス",
-        "translation": ""
+        "translation": "Kriffe"
     },
     {
         "id": "Npc_Ariane",
         "id_number": -1,
         "value": "アリアネ",
-        "translation": ""
+        "translation": "Ariane"
     },
     {
         "id": "Npc_Muir",
         "id_number": -1,
         "value": "ミュア",
-        "translation": ""
+        "translation": "Muir"
     },
     {
         "id": "Npc_Lynsey",
         "id_number": -1,
         "value": "リンゼイ",
-        "translation": ""
+        "translation": "Lynsey"
     },
     {
         "id": "Npc_Erushi",
         "id_number": -1,
         "value": "エルシ",
-        "translation": ""
+        "translation": "Erushi"
     },
     {
         "id": "Npc_Blurin",
         "id_number": -1,
         "value": "ブルーリン",
-        "translation": ""
+        "translation": "Blurin"
     },
     {
         "id": "Npc_Loddie",
         "id_number": -1,
         "value": "ロディ",
-        "translation": ""
+        "translation": "Loddie"
     },
     {
         "id": "Mairys",
         "id_number": -1,
         "value": "メリス",
-        "translation": ""
+        "translation": "Mairys"
     },
     {
         "id": "Father",
         "id_number": -1,
         "value": "父親",
-        "translation": ""
+        "translation": "Father"
     },
     {
         "id": "Son",
         "id_number": -1,
         "value": "男の子",
-        "translation": ""
+        "translation": "Son"
     },
     {
         "id": "Mother",
         "id_number": -1,
         "value": "母親",
-        "translation": ""
+        "translation": "Mother"
     },
     {
         "id": "Girl",
         "id_number": -1,
         "value": "女の子",
-        "translation": ""
+        "translation": "Girl"
     },
     {
         "id": "Npc_Lucas",
         "id_number": -1,
         "value": "ルーカス",
-        "translation": ""
+        "translation": "Lucas"
     },
     {
         "id": "Npc_Crouse",
         "id_number": -1,
         "value": "クラウス",
-        "translation": ""
+        "translation": "Crouse"
     },
     {
         "id": "Npc_SecurityGuard",
         "id_number": -1,
         "value": "警備兵",
-        "translation": ""
+        "translation": "Security Guard"
     },
     {
         "id": "Npc_Adventurer01",
         "id_number": -1,
         "value": "冒険者風の男",
-        "translation": ""
+        "translation": "Adventurer-like man"
     },
     {
         "id": "Npc_Cyril",
         "id_number": -1,
         "value": "シリル",
-        "translation": ""
+        "translation": "Cyril"
     },
     {
         "id": "Npc_Walkin",
         "id_number": -1,
         "value": "ワールキン",
-        "translation": ""
+        "translation": "Walkin"
     },
     {
         "id": "Npc_Lonsdale",
         "id_number": -1,
         "value": "ロンズデール",
-        "translation": ""
+        "translation": "Lonsdale"
     },
     {
         "id": "Npc_Willy",
         "id_number": -1,
         "value": "ウィリー",
-        "translation": ""
+        "translation": "Willy"
     },
     {
         "id": "Npc_Tiely",
         "id_number": -1,
         "value": "ティエリ",
-        "translation": ""
+        "translation": "Tiely"
     },
     {
         "id": "Npc_Lecktole",
         "id_number": -1,
         "value": "レクトール",
-        "translation": ""
+        "translation": "Lecktole"
     },
     {
         "id": "Npc_Bookshelf",
         "id_number": -1,
         "value": "開拓局の本棚",
-        "translation": ""
+        "translation": "Development Buereau Bookshelf"
     },
     {
         "id": "Npc_Kirufe",
         "id_number": -1,
         "value": "キルフェ",
-        "translation": ""
+        "translation": "Kirufe"
     },
     {
         "id": "Npc_Nicola",
         "id_number": -1,
         "value": "二コラ",
-        "translation": ""
+        "translation": "Nicola"
     },
     {
         "id": "Npc_Captain",
         "id_number": -1,
         "value": "船主",
-        "translation": ""
+        "translation": "Captain"
     },
     {
         "id": "NPC_Skewers",
         "id_number": -1,
         "value": "串焼き屋の老婆",
-        "translation": ""
+        "translation": "Old woman at a kushiyaki restaurant"
     },
     {
         "id": "Npc_WeaponShop",
         "id_number": -1,
         "value": "武器屋",
-        "translation": ""
+        "translation": "Weapon Shop"
     },
     {
         "id": "Npc_Researcher",
         "id_number": -1,
         "value": "イマジン研究家",
-        "translation": ""
+        "translation": "Imagine Researcher"
     },
     {
         "id": "Npc_Priest",
         "id_number": -1,
         "value": "神官",
-        "translation": ""
+        "translation": "Priest"
     },
     {
         "id": "Npc_Habii",
         "id_number": -1,
         "value": "ハビー",
-        "translation": ""
+        "translation": "Priest"
     },
     {
         "id": "Npc_Sheila",
         "id_number": -1,
         "value": "シェイラ",
-        "translation": ""
+        "translation": "Sheila"
     },
     {
         "id": "Npc_Layc",
         "id_number": -1,
         "value": "ライク",
-        "translation": ""
+        "translation": "Layc"
     },
     {
         "id": "Npc_Blandel",
         "id_number": -1,
         "value": "ブランデル",
-        "translation": ""
+        "translation": "Blandel"
     },
     {
         "id": "Npc_Aelin",
         "id_number": -1,
         "value": "アイリーン",
-        "translation": ""
+        "translation": "Aelin"
     },
     {
         "id": "Npc_Rabori",
         "id_number": -1,
         "value": "ラボリ",
-        "translation": ""
+        "translation": "Rabori"
     },
     {
         "id": "Npc_Laity01",
@@ -675,163 +675,163 @@
         "id": "Npc_PilgrimageMan",
         "id_number": -1,
         "value": "巡礼団の男性",
-        "translation": ""
+        "translation": "Pilgrimage Man"
     },
     {
         "id": "Npc_PilgrimageWoman",
         "id_number": -1,
         "value": "巡礼団の女性",
-        "translation": ""
+        "translation": "Pilgrimage Women"
     },
     {
         "id": "Npc_Goblin",
         "id_number": -1,
         "value": "ゴブリン",
-        "translation": ""
+        "translation": "Goblin"
     },
     {
         "id": "Npc_Cikory",
         "id_number": -1,
         "value": "チコリ",
-        "translation": ""
+        "translation": "Cikory"
     },
     {
         "id": "Npc_Kitly",
         "id_number": -1,
         "value": "キトリー",
-        "translation": ""
+        "translation": "Kitly"
     },
     {
         "id": "Npc_Girsh",
         "id_number": -1,
         "value": "ギルシュ",
-        "translation": ""
+        "translation": "Girsh"
     },
     {
         "id": "Npc_Goccaz",
         "id_number": -1,
         "value": "ゴッカス",
-        "translation": ""
+        "translation": "Goccaz"
     },
     {
         "id": "Npc_Riry",
         "id_number": -1,
         "value": "リリー",
-        "translation": ""
+        "translation": "Riry"
     },
     {
         "id": "Npc_Miscell",
         "id_number": -1,
         "value": "ミッシェル",
-        "translation": ""
+        "translation": "Miscell"
     },
     {
         "id": "Npc_Madam",
         "id_number": -1,
         "value": "ご婦人",
-        "translation": ""
+        "translation": "Madam"
     },
     {
         "id": "Npc_Lodeney",
         "id_number": -1,
         "value": "ロドニー",
-        "translation": ""
+        "translation": "Lodeney"
     },
     {
         "id": "Npc_ShinyObj",
         "id_number": -1,
         "value": "光るオブジェクト",
-        "translation": ""
+        "translation": "Shiny Object"
     },
     {
         "id": "Npc_Ennice",
         "id_number": -1,
         "value": "エニス",
-        "translation": ""
+        "translation": "Ennice"
     },
     {
         "id": "Npc_RietzeVillager",
         "id_number": -1,
         "value": "村人",
-        "translation": ""
+        "translation": "Rietze Villager"
     },
     {
         "id": "Npc_Tutorial",
         "id_number": -1,
         "value": "開拓局の指導員",
-        "translation": ""
+        "translation": "Development Buearu Instructor"
     },
     {
         "id": "Npc_MQ103",
         "id_number": -1,
         "value": "第三章確認",
-        "translation": ""
+        "translation": "Third Chapter Confirmation"
     },
     {
         "id": "Npc_Eris",
         "id_number": -1,
         "value": "エリス",
-        "translation": ""
+        "translation": "Eris"
     },
     {
         "id": "Npc_Villager01",
         "id_number": -1,
         "value": "村のおじさん",
-        "translation": ""
+        "translation": "Village Uncle"
     },
     {
         "id": "Npc_Villager02",
         "id_number": -1,
         "value": "村の老人",
-        "translation": ""
+        "translation": "Village Old Man"
     },
     {
         "id": "Npc_Manda",
         "id_number": -1,
         "value": "マンダ",
-        "translation": ""
+        "translation": "Manda"
     },
     {
         "id": "Npc_DungeonGuide",
         "id_number": -1,
         "value": "ダンジョンガイド",
-        "translation": ""
+        "translation": "Dungeon Guide"
     },
     {
         "id": "Npc_Minsterhorn",
         "id_number": -1,
         "value": "村人",
-        "translation": ""
+        "translation": "Villager"
     },
     {
         "id": "Npc_Rietze",
         "id_number": -1,
         "value": "村人",
-        "translation": ""
+        "translation": "Villager"
     },
     {
         "id": "Npc_Neko",
         "id_number": -1,
         "value": "ねこ",
-        "translation": ""
+        "translation": "Neko"
     },
     {
         "id": "Npc_Niki",
         "id_number": -1,
         "value": "ニキ",
-        "translation": ""
+        "translation": "Niki"
     },
     {
         "id": "Npc_Cosimo",
         "id_number": -1,
         "value": "コシモ",
-        "translation": ""
+        "translation": "Cosimo"
     },
     {
         "id": "Npc_Steed",
         "id_number": -1,
         "value": "スティード",
-        "translation": ""
+        "translation": "Steed"
     },
     {
         "id": "Npc_Dangour",
@@ -843,43 +843,43 @@
         "id": "Npc_Volker",
         "id_number": -1,
         "value": "フォルカー",
-        "translation": ""
+        "translation": "Volker"
     },
     {
         "id": "Npc_Giresse",
         "id_number": -1,
         "value": "ジレス",
-        "translation": ""
+        "translation": "Giresse"
     },
     {
         "id": "Npc_Ryuk",
         "id_number": -1,
         "value": "リューク",
-        "translation": ""
+        "translation": "Ryuk"
     },
     {
         "id": "Npc_Burt",
         "id_number": -1,
         "value": "バート",
-        "translation": ""
+        "translation": "Burt"
     },
     {
         "id": "Npc_Mino",
         "id_number": -1,
         "value": "ミーノ",
-        "translation": ""
+        "translation": "Mino"
     },
     {
         "id": "Npc_Bessemer",
         "id_number": -1,
         "value": "ベッセマー",
-        "translation": ""
+        "translation": "Bessemer"
     },
     {
         "id": "Npc_Hanna",
         "id_number": -1,
         "value": "ハンナ",
-        "translation": ""
+        "translation": "Hanna"
     },
     {
         "id": "Npc_SQ059_Thief",
@@ -891,109 +891,109 @@
         "id": "Npc_trm",
         "id_number": -1,
         "value": "トレーニング",
-        "translation": ""
+        "translation": "Training"
     },
     {
         "id": "Npc_Feodor",
         "id_number": -1,
         "value": "フェオドール",
-        "translation": ""
+        "translation": "Feodor"
     },
     {
         "id": "Npc_Mrs",
         "id_number": -1,
         "value": "主婦",
-        "translation": ""
+        "translation": "Housewife"
     },
     {
         "id": "Npc_Toria",
         "id_number": -1,
         "value": "トリア",
-        "translation": ""
+        "translation": "Toria"
     },
     {
         "id": "Npc_Innart",
         "id_number": -1,
         "value": "インナート",
-        "translation": ""
+        "translation": "Innart"
     },
     {
         "id": "Npc_HealShop1",
         "id_number": -1,
         "value": "テス子",
-        "translation": ""
+        "translation": "Tesuko"
     },
     {
         "id": "Npc_905_RietzeGirl",
         "id_number": -1,
         "value": "村の女性",
-        "translation": ""
+        "translation": "Villager Woman"
     },
     {
         "id": "Npc_Adventurer02",
         "id_number": -1,
         "value": "冒険者",
-        "translation": ""
+        "translation": "Adventurer"
     },
     {
         "id": "Npc_Adonis",
         "id_number": -1,
         "value": "アドニス",
-        "translation": ""
+        "translation": "Adonis"
     },
     {
         "id": "Npc_Lasha",
         "id_number": -1,
         "value": "ラシャ",
-        "translation": ""
+        "translation": "Lasha"
     },
     {
         "id": "Npc_Tlass",
         "id_number": -1,
         "value": "トラース",
-        "translation": ""
+        "translation": "Tlass"
     },
     {
         "id": "Npc_Lleshi",
         "id_number": -1,
         "value": "レシ",
-        "translation": ""
+        "translation": "Lleshi"
     },
     {
         "id": "Npc_Selma",
         "id_number": -1,
         "value": "セルマ",
-        "translation": ""
+        "translation": "Selma"
     },
     {
         "id": "Npc_Erika",
         "id_number": -1,
         "value": "エリカ",
-        "translation": ""
+        "translation": "Erika"
     },
     {
         "id": "Npc_Cliff",
         "id_number": -1,
         "value": "クリフ",
-        "translation": ""
+        "translation": "Cliff"
     },
     {
         "id": "Npc_Chaznnay",
         "id_number": -1,
         "value": "シャズネィ",
-        "translation": ""
+        "translation": "Chaznnay"
     },
     {
         "id": "Npc_Renata",
         "id_number": -1,
         "value": "レナータ",
-        "translation": ""
+        "translation": "Renata"
     },
     {
         "id": "Npc_Guido",
         "id_number": -1,
         "value": "グイド",
-        "translation": ""
+        "translation": "Guido"
     },
     {
         "id": "Npc_Natalia",
@@ -1017,13 +1017,13 @@
         "id": "Npc_Paulette",
         "id_number": -1,
         "value": "ポーレット",
-        "translation": ""
+        "translation": "Paulette"
     },
     {
         "id": "Npc_Siiri",
         "id_number": -1,
         "value": "シーリ",
-        "translation": ""
+        "translation": "Siiri"
     },
     {
         "id": "Npc_Classchange",
@@ -1041,55 +1041,55 @@
         "id": "Npc_Jin",
         "id_number": -1,
         "value": "ジン",
-        "translation": ""
+        "translation": "Jin"
     },
     {
         "id": "Npc_Richter",
         "id_number": -1,
         "value": "リクター",
-        "translation": ""
+        "translation": "Richter"
     },
     {
         "id": "Npc_cat_male",
         "id_number": -1,
         "value": "雄猫",
-        "translation": ""
+        "translation": "Male Cat"
     },
     {
         "id": "Npc_cat_female",
         "id_number": -1,
         "value": "雌猫",
-        "translation": ""
+        "translation": "Female Cat"
     },
     {
         "id": "Npc_cat_child",
         "id_number": -1,
         "value": "子猫",
-        "translation": ""
+        "translation": "Kitten"
     },
     {
         "id": "Npc_Attacker",
         "id_number": -1,
         "value": "襲撃者",
-        "translation": ""
+        "translation": "Attacker"
     },
     {
         "id": "Npc_Barrier_gatekeeper",
         "id_number": -1,
         "value": "関所の門番",
-        "translation": ""
+        "translation": "Barrier Gatekeeper"
     },
     {
         "id": "Npc_EQ101_903_Walkin",
         "id_number": -1,
         "value": "ワールキン",
-        "translation": ""
+        "translation": "Walkin"
     },
     {
         "id": "Npc_Buyer",
         "id_number": -1,
         "value": "客",
-        "translation": ""
+        "translation": "Buyer"
     },
     {
         "id": "Npc_harlie_test_001",
@@ -1101,48 +1101,48 @@
         "id": "Npc_Tini",
         "id_number": -1,
         "value": "ティーニ",
-        "translation": ""
+        "translation": "Tini"
     },
     {
         "id": "Npc_Cat_Min",
         "id_number": -1,
         "value": "ミン",
-        "translation": ""
+        "translation": "Min"
     },
     {
         "id": "Npc_SQ101_027_Neko",
         "id_number": -1,
         "value": "ケガをした猫",
-        "translation": ""
+        "translation": "Injured Cat"
     },
     {
         "id": "Npc_Null",
         "id_number": -1,
         "value": "　",
-        "translation": ""
+        "translation": "　"
     },
     {
         "id": "Npc_Enemey",
         "id_number": -1,
         "value": "敵",
-        "translation": ""
+        "translation": "Enemy"
     },
     {
         "id": "Npc_Troupe_Member",
         "id_number": -1,
         "value": "一座の団員",
-        "translation": ""
+        "translation": "Troupe Member"
     },
     {
         "id": "Npc_Old_Drinker",
         "id_number": -1,
         "value": "酒場の老人",
-        "translation": ""
+        "translation": "Old Drunk"
     },
     {
         "id": "Npc_Young_Messenger",
         "id_number": -1,
         "value": "代理人の青年",
-        "translation": ""
+        "translation": "Young Messenger"
     }
 ]

@@ -3,25 +3,25 @@
         "id": "fld001_Top",
         "id_number": -1,
         "value": "アステリア平原",
-        "translation": ""
+        "translation": "Asteria Plain"
     },
     {
         "id": "fld001_Top_sub",
         "id_number": -1,
         "value": "Asteria Plain",
-        "translation": ""
+        "translation": "Asteria Plain"
     },
     {
         "id": "fld002_Top",
         "id_number": -1,
         "value": "バハマール高原",
-        "translation": ""
+        "translation": "Bajamar Highland"
     },
     {
         "id": "fld002_Top_sub",
         "id_number": -1,
         "value": "Bajamar Highland",
-        "translation": ""
+        "translation": "Bajamar Highland"
     },
     {
         "id": "fld003_Top",
@@ -63,19 +63,19 @@
         "id": "cty01_Top",
         "id_number": -1,
         "value": "アステルリーズ",
-        "translation": ""
+        "translation": "Asterleeds"
     },
     {
         "id": "cty01_Top_sub",
         "id_number": -1,
         "value": "Asterleeds",
-        "translation": ""
+        "translation": "Asterleeds"
     },
     {
         "id": "cty01_001",
         "id_number": -1,
         "value": "開拓局",
-        "translation": ""
+        "translation": "Frontiering Station"
     },
     {
         "id": "cty02_top",
@@ -87,13 +87,13 @@
         "id": "cty02_001",
         "id_number": -1,
         "value": "広場",
-        "translation": ""
+        "translation": "Plaza"
     },
     {
         "id": "cty02_002",
         "id_number": -1,
         "value": "酒場",
-        "translation": ""
+        "translation": "Tavern"
     },
     {
         "id": "PlaceGuideTestMap",
@@ -111,79 +111,79 @@
         "id": "fld001_001",
         "id_number": -1,
         "value": "街の外",
-        "translation": ""
+        "translation": "Outside the city"
     },
     {
         "id": "fld001_002",
         "id_number": -1,
         "value": "崖の遺跡",
-        "translation": ""
+        "translation": "Cliff Ruins"
     },
     {
         "id": "fld001_002_sub",
         "id_number": -1,
         "value": "Cliff Ruins",
-        "translation": ""
+        "translation": "Cliff Ruins"
     },
     {
         "id": "fld001_003",
         "id_number": -1,
         "value": "崖の遺跡の奥",
-        "translation": ""
+        "translation": "The Back of Cliff Ruins"
     },
     {
         "id": "fld001_004",
         "id_number": -1,
         "value": "ミンスターホルン",
-        "translation": ""
+        "translation": "Minsterhorn"
     },
     {
         "id": "fld001_004_sub",
         "id_number": -1,
         "value": "Minsterhorn",
-        "translation": ""
+        "translation": "Minsterhorn"
     },
     {
         "id": "fld001_005",
         "id_number": -1,
         "value": "北東の滝",
-        "translation": ""
+        "translation": "Northeast Waterfall"
     },
     {
         "id": "fld001_006",
         "id_number": -1,
         "value": "崖の遺跡の外",
-        "translation": ""
+        "translation": "Outside the Cliff Ruins"
     },
     {
         "id": "fld001_007",
         "id_number": -1,
         "value": "駐屯地",
-        "translation": ""
+        "translation": "Garrison"
     },
     {
         "id": "fld002_002",
         "id_number": -1,
         "value": "ラルパル",
-        "translation": ""
+        "translation": "Larpal"
     },
     {
         "id": "fld002_002_sub",
         "id_number": -1,
         "value": "Larpal",
-        "translation": ""
+        "translation": "Larpal"
     },
     {
         "id": "fld002_004",
         "id_number": -1,
         "value": "ベルクマール",
-        "translation": ""
+        "translation": "Bergmahl"
     },
     {
         "id": "fld002_004_sub",
         "id_number": -1,
         "value": "Bergmahl",
-        "translation": ""
+        "translation": "Bergmahl"
     },
     {
         "id": "fld003_001",
@@ -237,7 +237,7 @@
         "id": "dng005_001",
         "id_number": -1,
         "value": "神懸の御柱の最上階",
-        "translation": ""
+        "translation": "Top Floor of Pillar of Divinity"
     },
     {
         "id": "dng004_Top",
@@ -267,7 +267,7 @@
         "id": "dng005_cty01_Top",
         "id_number": -1,
         "value": "神懸の御柱_体験会用",
-        "translation": ""
+        "translation": "Pillar of Divinity's Divine Possession - Experience Meeting"
     },
     {
         "id": "dng007_Top",
@@ -285,7 +285,7 @@
         "id": "dng009_Top_sub",
         "id_number": -1,
         "value": "Dragon Claw Valley",
-        "translation": ""
+        "translation": "Dragon Claw Valley"
     },
     {
         "id": "dng011_Top",

@@ -3,121 +3,121 @@
         "id": "Login",
         "id_number": -1,
         "value": "ようこそ{TitleName}へ！",
-        "translation": ""
+        "translation": "Welcome to {TitleName}！"
     },
     {
         "id": "EquipmentChange",
         "id_number": -1,
         "value": "{EquipmentName}を装備しました。",
-        "translation": ""
+        "translation": "Equipped with {EquipmentName}."
     },
     {
         "id": "Resurrection",
         "id_number": -1,
         "value": "{CharacterName}を救護しました。",
-        "translation": ""
+        "translation": "Resurrected {CharacterName}."
     },
     {
         "id": "MatchingTimeout",
         "id_number": -1,
         "value": "時間が超過したため、マッチングがキャンセルされました。",
-        "translation": ""
+        "translation": "Matching was canceled because the time was exceeded."
     },
     {
         "id": "InviteParty",
         "id_number": -1,
         "value": "{CharacterName}からパーティ招待を受けました。",
-        "translation": ""
+        "translation": "Received a party invitation from {CharacterName}."
     },
     {
         "id": "LeaveParty",
         "id_number": -1,
         "value": "パーティを終了しました。",
-        "translation": ""
+        "translation": "The party has ended."
     },
     {
         "id": "AppointedPartyLeader",
         "id_number": -1,
         "value": "パーティリーダー権が委譲されました。",
-        "translation": ""
+        "translation": "Party leader rights have been delegated."
     },
     {
         "id": "LeavePartyMember",
         "id_number": -1,
         "value": "{CharacterName}がパーティから抜けました。",
-        "translation": ""
+        "translation": "{CharacterName} has left the party."
     },
     {
         "id": "KickPartyMember",
         "id_number": -1,
         "value": "パーティから除名されました。",
-        "translation": ""
+        "translation": "You've been kicked from the party."
     },
     {
         "id": "GetItem",
         "id_number": -1,
         "value": "{ItemName}を入手しました。",
-        "translation": ""
+        "translation": "You got {ItemName}."
     },
     {
         "id": "GetMoney",
         "id_number": -1,
         "value": "{Money}を入手しました。",
-        "translation": ""
+        "translation": "You got {Money} Luno."
     },
     {
         "id": "LevelUpWeapon",
         "id_number": -1,
         "value": "レベルアップ！{WeaponName}はレベル{Level}になりました。",
-        "translation": ""
+        "translation": "Level up! {WeaponName} is now level {Level}."
     },
     {
         "id": "Follow",
         "id_number": -1,
         "value": "{CharacterName}をフォローしました。",
-        "translation": ""
+        "translation": "Followed {CharacterName}."
     },
     {
         "id": "Followed",
         "id_number": -1,
         "value": "{CharacterName}からフォローされました。",
-        "translation": ""
+        "translation": "Followed by {CharacterName}."
     },
     {
         "id": "MutualFollow",
         "id_number": -1,
         "value": "{CharacterName}と相互フォローになりました。",
-        "translation": ""
+        "translation": "Mutual follow with {CharacterName}."
     },
     {
         "id": "CountDown",
         "id_number": -1,
         "value": "残り{Count}分です。",
-        "translation": ""
+        "translation": "There are {Count} minutes left."
     },
     {
         "id": "TimeUp",
         "id_number": -1,
         "value": "制限時間をオーバーしたため、攻略を終了しました。",
-        "translation": ""
+        "translation": "The capture has ended because the time limit has been exceeded."
     },
     {
         "id": "DeathPenaltyTime",
         "id_number": -1,
         "value": "復活地点より復活したため制限時間が-{SubtractTime}秒されました。",
-        "translation": ""
+        "translation": "The time limit has been reduced to {SubtractTime} seconds because it was revived from the resurrection point."
     },
     {
         "id": "AchievementGained",
         "id_number": -1,
         "value": "称号：{AchievementName}を入手しました。",
-        "translation": ""
+        "translation": "You got the title: {AchievementName}"
     },
     {
         "id": "GatherPointGetItem",
         "id_number": -1,
         "value": "{ItemName}を{ItemNum}個、採取しました",
-        "translation": ""
+        "translation": "Collected {ItemNum} of {ItemName}"
     },
     {
         "id": "ItemInventoryOver",
@@ -129,13 +129,13 @@
         "id": "CommonSkillName",
         "id_number": -1,
         "value": "冒険者アビリティ{CommonSkillName}レベル{SkillName}",
-        "translation": ""
+        "translation": "Adventurer Ability {CommonSkillName} Level {SkillName}"
     },
     {
         "id": "FailureCommonSkillName",
         "id_number": -1,
         "value": "冒険者アビリティ{CommonSkillName}レベルが足りず、採取できませんでした",
-        "translation": ""
+        "translation": "The adventurer ability {CommonSkillName} level was insufficient and could not be collected."
     },
     {
         "id": "GatherPointItemInventoryOver",
@@ -147,25 +147,25 @@
         "id": "GatherPointSkillGetItem",
         "id_number": -1,
         "value": "冒険者アビリティ{CommonSkillName}の効果！{ItemName}をさらに{ItemNum}個、採取しました",
-        "translation": ""
+        "translation": "The effect of the adventurer ability {CommonSkillName}! Collected {ItemNum} more {ItemName}"
     },
     {
         "id": "CommonSkillLevel",
         "id_number": -1,
         "value": "冒険者アビリティ{CommonSkillName}がレベル{Level}になりました。",
-        "translation": ""
+        "translation": "The adventurer ability {CommonSkillName} is now level {Level}."
     },
     {
         "id": "TreasureGetItem",
         "id_number": -1,
         "value": "宝箱から{ItemName}を{ItemNum}個、入手しました",
-        "translation": ""
+        "translation": "Obtained {ItemNum} {ItemName} from the treasure chest"
     },
     {
         "id": "TreasureGetMoney",
         "id_number": -1,
         "value": "宝箱から{Money}を入手しました",
-        "translation": ""
+        "translation": "Obtained {Money} Luno from the treasure chest"
     },
     {
         "id": "TreasureItemInventoryOver",
