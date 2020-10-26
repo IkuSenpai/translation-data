@@ -3,30 +3,30 @@
         "id": "0",
         "id_number": 0,
         "value": "コモン",
-        "translation": ""
+        "translation": "Common"
     },
     {
         "id": "1",
         "id_number": 1,
         "value": "アンコモン",
-        "translation": ""
+        "translation": "Uncommon"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "レア",
-        "translation": ""
+        "translation": "Rare"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "エピック",
-        "translation": ""
+        "translation": "Epic"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "レジェンド",
-        "translation": ""
+        "translation": "Legend"
     }
 ]
