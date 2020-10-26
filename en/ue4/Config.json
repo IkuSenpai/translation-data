@@ -3,48 +3,48 @@
         "id": "None",
         "id_number": 1,
         "value": "全般",
-        "translation": ""
+        "translation": "General"
     },
     {
         "id": "None",
         "id_number": 2,
         "value": "操作設定",
-        "translation": ""
+        "translation": "Operation"
     },
     {
         "id": "None",
         "id_number": 3,
         "value": "サウンド",
-        "translation": ""
+        "translation": "Sound"
     },
     {
         "id": "None",
         "id_number": 4,
         "value": "グラフィック",
-        "translation": ""
+        "translation": "Graphic"
     },
     {
         "id": "None",
         "id_number": 5,
         "value": "コミュニケート",
-        "translation": ""
+        "translation": "Communication"
     },
     {
         "id": "None",
         "id_number": 6,
         "value": "その他",
-        "translation": ""
+        "translation": "Other"
     },
     {
         "id": "None",
         "id_number": 7,
         "value": "HUD",
-        "translation": ""
+        "translation": "HUD"
     },
     {
         "id": "None",
         "id_number": 8,
         "value": "Config",
-        "translation": ""
+        "translation": "Config"
     }
 ]
