@@ -8,7 +8,7 @@
     {
         "id": "1",
         "id_number": 1,
-        "value": "予期せぬエラーが発生しました",
+        "value": "不明なエラー",
         "translation": ""
     },
     {
@@ -20,7 +20,7 @@
     {
         "id": "101",
         "id_number": 101,
-        "value": "サーバーへの接続に失敗したためゲームを終了します",
+        "value": "通信に失敗しました",
         "translation": ""
     },
     {
@@ -33,36 +33,6 @@
         "id": "103",
         "id_number": 103,
         "value": "ゲームの開始に失敗しました",
-        "translation": ""
-    },
-    {
-        "id": "104",
-        "id_number": 104,
-        "value": "サーバーとの接続が切れたためゲームを終了します",
-        "translation": ""
-    },
-    {
-        "id": "105",
-        "id_number": 105,
-        "value": "チャットサーバーとの接続が切れたためゲームを終了します",
-        "translation": ""
-    },
-    {
-        "id": "106",
-        "id_number": 106,
-        "value": "パーティサーバーとの接続が切れたためゲームを終了します",
-        "translation": ""
-    },
-    {
-        "id": "107",
-        "id_number": 107,
-        "value": "サーバーから切断されました",
-        "translation": ""
-    },
-    {
-        "id": "108",
-        "id_number": 108,
-        "value": "ログインが制限されています",
         "translation": ""
     },
     {
@@ -86,79 +56,79 @@
     {
         "id": "1003",
         "id_number": 1003,
-        "value": "使用できない語句が含まれています",
+        "value": "NGワードに抵触",
         "translation": ""
     },
     {
         "id": "1004",
         "id_number": 1004,
-        "value": "データ取得に失敗しました",
+        "value": "データ取得エラー",
         "translation": ""
     },
     {
         "id": "1005",
         "id_number": 1005,
-        "value": "データ保存に失敗しました",
+        "value": "データ保存エラー",
         "translation": ""
     },
     {
         "id": "1006",
         "id_number": 1006,
-        "value": "最新バージョンであることを確認してください",
+        "value": "バージョンエラー",
         "translation": ""
     },
     {
         "id": "1007",
         "id_number": 1007,
-        "value": "ログインに失敗しました",
+        "value": "ログイン失敗",
         "translation": ""
     },
     {
         "id": "1008",
         "id_number": 1008,
-        "value": "ゲームサーバーの登録に失敗しました",
+        "value": "ゲームサーバー登録エラー",
         "translation": ""
     },
     {
         "id": "1009",
         "id_number": 1009,
-        "value": "セッションから切断されました",
+        "value": "セッション失敗",
         "translation": ""
     },
     {
         "id": "1010",
         "id_number": 1010,
-        "value": "使用できない語句が含まれています",
+        "value": "使用禁止文字が検出されたエラー",
         "translation": ""
     },
     {
         "id": "1014",
         "id_number": 1014,
-        "value": "データの削除に失敗しました",
+        "value": "データ削除失敗",
         "translation": ""
     },
     {
         "id": "1015",
         "id_number": 1015,
-        "value": "他クライアントからのログインにより、サーバーから切断されました",
+        "value": "多重ログイン",
         "translation": ""
     },
     {
         "id": "1016",
         "id_number": 1016,
-        "value": "アイテムバッグがいっぱいになっています",
+        "value": "アイテムストレージ容量エラー",
         "translation": ""
     },
     {
         "id": "1017",
         "id_number": 1017,
-        "value": "アイテムバッグがいっぱいのため、取得できませんでした",
+        "value": "アイテムストレージに空きがない",
         "translation": ""
     },
     {
         "id": "1018",
         "id_number": 1018,
-        "value": "時間をおいてから、もう一度試してください",
+        "value": "採集ポイントのリスポン日時が不正",
         "translation": ""
     },
     {
@@ -168,45 +138,27 @@
         "translation": ""
     },
     {
-        "id": "1020",
-        "id_number": 1020,
-        "value": "一定時間操作がなかったためサーバーから切断されました",
-        "translation": ""
-    },
-    {
-        "id": "1021",
-        "id_number": 1021,
-        "value": "アイテムインターバル中です",
-        "translation": ""
-    },
-    {
-        "id": "1022",
-        "id_number": 1022,
-        "value": "キャラクター作成数が上限を超えています",
-        "translation": ""
-    },
-    {
         "id": "2000",
         "id_number": 2000,
-        "value": "メンテナンス中のため、ゲームプレイできません",
+        "value": "ただいま入場を制限させて頂いております\nCAT実施まで今しばらくお待ちください",
         "translation": ""
     },
     {
         "id": "3000",
         "id_number": 3000,
-        "value": "すでに装備中の武器です",
+        "value": "装備済み武器",
         "translation": ""
     },
     {
         "id": "3001",
         "id_number": 3001,
-        "value": "必要な素材が不足しています",
+        "value": "素材不足",
         "translation": ""
     },
     {
         "id": "3002",
         "id_number": 3002,
-        "value": "所持ルーノが足りません",
+        "value": "エングラム不足",
         "translation": ""
     },
     {
@@ -219,12 +171,6 @@
         "id": "3004",
         "id_number": 3004,
         "value": "最大強化",
-        "translation": ""
-    },
-    {
-        "id": "3005",
-        "id_number": 3005,
-        "value": "所持ルーノが足りません",
         "translation": ""
     },
     {
@@ -260,7 +206,7 @@
     {
         "id": "5001",
         "id_number": 5001,
-        "value": "所持ルーノが足りません",
+        "value": "クラフト:エングラム不足",
         "translation": ""
     },
     {
@@ -272,13 +218,13 @@
     {
         "id": "5003",
         "id_number": 5003,
-        "value": "クラフト素材が足りません",
+        "value": "クラフト:素材不足",
         "translation": ""
     },
     {
         "id": "5004",
         "id_number": 5004,
-        "value": "未開放のクラフトレシピです",
+        "value": "クラフト:レシピ未所持",
         "translation": ""
     },
     {
@@ -390,27 +336,15 @@
         "translation": ""
     },
     {
-        "id": "7008",
-        "id_number": 7008,
-        "value": "キャラクタークラスが存在しない",
-        "translation": ""
-    },
-    {
-        "id": "7009",
-        "id_number": 7009,
-        "value": "マスタースキルデータが見つからない",
-        "translation": ""
-    },
-    {
         "id": "8001",
         "id_number": 8001,
-        "value": "売却する個数を指定してください",
+        "value": "売る量がない",
         "translation": ""
     },
     {
         "id": "8002",
         "id_number": 8002,
-        "value": "指定された個数を購入できません",
+        "value": "購入可能数違反",
         "translation": ""
     },
     {
@@ -500,337 +434,73 @@
     {
         "id": "11000",
         "id_number": 11000,
-        "value": "戦闘中に武器の変更はできません",
+        "value": "戦闘中に武器を変更しようとした",
         "translation": ""
     },
     {
         "id": "11001",
         "id_number": 11001,
-        "value": "戦闘不能中に武器の変更はできません",
+        "value": "死亡中に武器を変更しようとした",
         "translation": ""
     },
     {
         "id": "11010",
         "id_number": 11010,
-        "value": "戦闘中にスキルの変更はできません",
+        "value": "戦闘中にアクティブアーツを変更しようとした",
         "translation": ""
     },
     {
         "id": "11011",
         "id_number": 11011,
-        "value": "戦闘不能中にスキルの変更はできません",
+        "value": "死亡中にアクティブアーツを変更しようとした",
         "translation": ""
     },
     {
         "id": "11020",
         "id_number": 11020,
-        "value": "戦闘中にアビリティの変更はできません",
+        "value": "戦闘中にパッシブアーツを変更しようとした",
         "translation": ""
     },
     {
         "id": "11021",
         "id_number": 11021,
-        "value": "戦闘不能中にアビリティの変更はできません",
-        "translation": ""
-    },
-    {
-        "id": "11022",
-        "id_number": 11022,
-        "value": "他の芸術を排除する装備芸術",
+        "value": "死亡中にパッシブアーツを変更しようとした",
         "translation": ""
     },
     {
         "id": "11030",
         "id_number": 11030,
-        "value": "戦闘中にバトルイマジンの変更はできません",
+        "value": "戦闘中にアクティブイマジンを変更しようとした",
         "translation": ""
     },
     {
         "id": "11031",
         "id_number": 11031,
-        "value": "戦闘不能中にバトルイマジンの変更はできません",
+        "value": "死亡中にアクティブイマジンを変更しようとした",
         "translation": ""
     },
     {
         "id": "11040",
         "id_number": 11040,
-        "value": "戦闘中にインナーイマジンの変更はできません",
+        "value": "戦闘中にパッシブイマジンを変更しようとした",
         "translation": ""
     },
     {
         "id": "11041",
         "id_number": 11041,
-        "value": "戦闘不能中にインナーイマジンの変更はできません",
+        "value": "死亡中にパッシブイマジンを変更しようとした",
         "translation": ""
     },
     {
         "id": "11050",
         "id_number": 11050,
-        "value": "戦闘中に衣装の変更はできません",
+        "value": "戦闘中に衣装を変更しようとした",
         "translation": ""
     },
     {
         "id": "11051",
         "id_number": 11051,
-        "value": "戦闘不能中に衣装の変更はできません",
-        "translation": ""
-    },
-    {
-        "id": "12000",
-        "id_number": 12000,
-        "value": "スキルが存在しません",
-        "translation": ""
-    },
-    {
-        "id": "12001",
-        "id_number": 12001,
-        "value": "すでにスキルを習得しています",
-        "translation": ""
-    },
-    {
-        "id": "12002",
-        "id_number": 12002,
-        "value": "スキルリセットチケットが足りません",
-        "translation": ""
-    },
-    {
-        "id": "12003",
-        "id_number": 12003,
-        "value": "スキルポイントが足りません",
-        "translation": ""
-    },
-    {
-        "id": "12004",
-        "id_number": 12004,
-        "value": "キャラクターのレベル足りません",
-        "translation": ""
-    },
-    {
-        "id": "12005",
-        "id_number": 12005,
-        "value": "スキルはもう最大レベルです",
-        "translation": ""
-    },
-    {
-        "id": "12006",
-        "id_number": 12006,
-        "value": "キャラクターは必要なスキルはない",
-        "translation": ""
-    },
-    {
-        "id": "15000",
-        "id_number": 15000,
-        "value": "ミッション用の支給品プリセットが存在しません",
-        "translation": ""
-    },
-    {
-        "id": "15001",
-        "id_number": 15001,
-        "value": "ミッション用の支給品プリセットの中に無効アイテムがあります",
-        "translation": ""
-    },
-    {
-        "id": "16000",
-        "id_number": 16000,
-        "value": "量が不正",
-        "translation": ""
-    },
-    {
-        "id": "17000",
-        "id_number": 17000,
-        "value": "このゲームモードにストレージが見えません",
-        "translation": ""
-    },
-    {
-        "id": "17002",
-        "id_number": 17002,
-        "value": "マップのマスターデータがない",
-        "translation": ""
-    },
-    {
-        "id": "17003",
-        "id_number": 17003,
-        "value": "マップのインベントリーアクセスタイプは不正",
-        "translation": ""
-    },
-    {
-        "id": "17004",
-        "id_number": 17004,
-        "value": "ミッションのキャラクター",
-        "translation": ""
-    },
-    {
-        "id": "17005",
-        "id_number": 17005,
-        "value": "接続されていないキャラクター",
-        "translation": ""
-    },
-    {
-        "id": "18000",
-        "id_number": 18000,
-        "value": "アイテムの条件を満たしていない",
-        "translation": ""
-    },
-    {
-        "id": "18001",
-        "id_number": 18001,
-        "value": "使えないアイテムです",
-        "translation": ""
-    },
-    {
-        "id": "18002",
-        "id_number": 18002,
-        "value": "アイテムはカギかかっています",
-        "translation": ""
-    },
-    {
-        "id": "18003",
-        "id_number": 18003,
-        "value": "アイテムが存在しない",
-        "translation": ""
-    },
-    {
-        "id": "18004",
-        "id_number": 18004,
-        "value": "アイテムは削除できません",
-        "translation": ""
-    },
-    {
-        "id": "18005",
-        "id_number": 18005,
-        "value": "アイテムは販売できません",
-        "translation": ""
-    },
-    {
-        "id": "18006",
-        "id_number": 18006,
-        "value": "バッグがいっぱいです",
-        "translation": ""
-    },
-    {
-        "id": "18007",
-        "id_number": 18007,
-        "value": "ストレージ情報がない",
-        "translation": ""
-    },
-    {
-        "id": "18008",
-        "id_number": 18008,
-        "value": "これ以上枠拡張できません",
-        "translation": ""
-    },
-    {
-        "id": "18009",
-        "id_number": 18009,
-        "value": "素材アイテムが倉庫からバッグに移動できません",
-        "translation": ""
-    },
-    {
-        "id": "18010",
-        "id_number": 18010,
-        "value": "ストレージタイプが不正",
-        "translation": ""
-    },
-    {
-        "id": "18011",
-        "id_number": 18011,
-        "value": "未鑑定アイテムはロックできません",
-        "translation": ""
-    },
-    {
-        "id": "18012",
-        "id_number": 18012,
-        "value": "武器は同じperk_idを2回持つことはできません",
-        "translation": ""
-    },
-    {
-        "id": "18013",
-        "id_number": 18013,
-        "value": "指定した個数を所持していません",
-        "translation": ""
-    },
-    {
-        "id": "19000",
-        "id_number": 19000,
-        "value": "報酬タイプが不正",
-        "translation": ""
-    },
-    {
-        "id": "20000",
-        "id_number": 20000,
-        "value": "クラスが存在しない",
-        "translation": ""
-    },
-    {
-        "id": "20001",
-        "id_number": 20001,
-        "value": "イマジンのマスターデータが存在しない",
-        "translation": ""
-    },
-    {
-        "id": "20002",
-        "id_number": 20002,
-        "value": "コスチュームのマスターデータが存在しない",
-        "translation": ""
-    },
-    {
-        "id": "20003",
-        "id_number": 20003,
-        "value": "武器のマスターデータが存在しない",
-        "translation": ""
-    },
-    {
-        "id": "20004",
-        "id_number": 20004,
-        "value": "マウントイマジンのマスターデータが存在しない",
-        "translation": ""
-    },
-    {
-        "id": "20005",
-        "id_number": 20005,
-        "value": "JSONのフィールドがない",
-        "translation": ""
-    },
-    {
-        "id": "20006",
-        "id_number": 20006,
-        "value": "アイテムタイプが不正",
-        "translation": ""
-    },
-    {
-        "id": "21000",
-        "id_number": 21000,
-        "value": "プレイヤーはもうマウントに乗っています。",
-        "translation": ""
-    },
-    {
-        "id": "21001",
-        "id_number": 21001,
-        "value": "プレイヤーはマウントに乗っていません。",
-        "translation": ""
-    },
-    {
-        "id": "21002",
-        "id_number": 21002,
-        "value": "マウントイマジンの現在の耐久性は最大耐久性よりも高い",
-        "translation": ""
-    },
-    {
-        "id": "21003",
-        "id_number": 21003,
-        "value": "マウントuidは装備されていません",
-        "translation": ""
-    },
-    {
-        "id": "22000",
-        "id_number": 22000,
-        "value": "クラスレベルが低すぎます",
-        "translation": ""
-    },
-    {
-        "id": "22001",
-        "id_number": 22001,
-        "value": "武器はすでに最大値を超えています",
+        "value": "死亡中に衣装を変更しようとした",
         "translation": ""
     }
 ]

@@ -1,128 +1,170 @@
 [
     {
         "id": "cty01",
-        "id_number": 0,
-        "value": "アステルリーズ街門広場",
+        "id_number": -1,
+        "value": "交易都市アステルリーズ入り口",
         "translation": ""
     },
     {
         "id": "cty01:2",
-        "id_number": 0,
-        "value": "双面コイン亭前",
+        "id_number": -1,
+        "value": "宿屋前",
         "translation": ""
     },
     {
         "id": "cty01:3",
-        "id_number": 0,
-        "value": "天紋広場",
+        "id_number": -1,
+        "value": "港入り口",
         "translation": ""
     },
     {
         "id": "cty01:4",
-        "id_number": 0,
-        "value": "廻る舵輪亭前",
+        "id_number": -1,
+        "value": "酒場前",
         "translation": ""
     },
     {
         "id": "cty01:5",
-        "id_number": 0,
+        "id_number": -1,
         "value": "闘技場前",
         "translation": ""
     },
     {
         "id": "cty01:6",
-        "id_number": 0,
-        "value": "神殿前",
+        "id_number": -1,
+        "value": "バファリア大聖堂前",
         "translation": ""
     },
     {
         "id": "cty01:7",
-        "id_number": 0,
-        "value": "アステルリーズ港",
+        "id_number": -1,
+        "value": "ギルド前",
         "translation": ""
     },
     {
         "id": "cty01:8",
-        "id_number": 0,
+        "id_number": -1,
         "value": "アステルリーズビーチ",
         "translation": ""
     },
     {
         "id": "cty01:9",
-        "id_number": 0,
-        "value": "開拓局前広場",
-        "translation": ""
-    },
-    {
-        "id": "cty02",
-        "id_number": 0,
-        "value": "サラムザード入口",
-        "translation": ""
-    },
-    {
-        "id": "cty02:2",
-        "id_number": 0,
+        "id_number": -1,
         "value": "開拓局前",
         "translation": ""
     },
     {
-        "id": "cty02:3",
-        "id_number": 0,
-        "value": "サラムザード北",
+        "id": "fld001:1",
+        "id_number": -1,
+        "value": "アステリア平原",
         "translation": ""
     },
     {
-        "id": "pub009_MW",
-        "id_number": 0,
-        "value": "巨竜の爪痕 - 入り口",
+        "id": "fld002:1",
+        "id_number": -1,
+        "value": "バハマール高原",
         "translation": ""
     },
     {
-        "id": "pub009_W1",
-        "id_number": 0,
-        "value": "巨竜の爪痕 - 滝の横",
+        "id": "fld003:1",
+        "id_number": -1,
+        "value": "モンテノール渓谷",
         "translation": ""
     },
     {
-        "id": "pub009_W2",
-        "id_number": 0,
-        "value": "巨竜の爪痕 - 奥の遺跡",
+        "id": "cty02",
+        "id_number": -1,
+        "value": "サラムザード入口",
         "translation": ""
     },
     {
-        "id": "fld001_E:1",
-        "id_number": 0,
-        "value": "ミンスターホルン",
+        "id": "fld004:1",
+        "id_number": -1,
+        "value": "エバーグリーン平原（渓谷方面）",
         "translation": ""
     },
     {
-        "id": "fld002_S:1",
-        "id_number": 0,
-        "value": "ラルパル",
+        "id": "fld004:2",
+        "id_number": -1,
+        "value": "エバーグリーン平原（熱砂荒漠の奈落方面）",
+        "translation": ""
+    },
+    {
+        "id": "fld004:3",
+        "id_number": -1,
+        "value": "エバーグリーン平原（カルトゥーム集落）",
+        "translation": ""
+    },
+    {
+        "id": "fld004:4",
+        "id_number": -1,
+        "value": "エバーグリーン平原（キャラバンの道標前）",
+        "translation": ""
+    },
+    {
+        "id": "fld004:5",
+        "id_number": -1,
+        "value": "エバーグリーン平原（北部集落前）",
+        "translation": ""
+    },
+    {
+        "id": "fld004:6",
+        "id_number": -1,
+        "value": "エバーグリーン平原（蟲砦前）",
+        "translation": ""
+    },
+    {
+        "id": "fld004:7",
+        "id_number": -1,
+        "value": "エバーグリーン平原（ボルオム前）",
+        "translation": ""
+    },
+    {
+        "id": "fld004:8",
+        "id_number": -1,
+        "value": "エバーグリーン平原（サラムザード前）",
         "translation": ""
     },
     {
         "id": "test:1",
-        "id_number": 0,
+        "id_number": -1,
         "value": "test_1",
         "translation": ""
     },
     {
         "id": "test:2",
-        "id_number": 0,
+        "id_number": -1,
         "value": "test_2",
         "translation": ""
     },
     {
         "id": "test:3",
-        "id_number": 0,
+        "id_number": -1,
         "value": "test_3",
         "translation": ""
     },
     {
         "id": "test:4",
-        "id_number": 0,
+        "id_number": -1,
         "value": "test_4",
+        "translation": ""
+    },
+    {
+        "id": "fld003:2",
+        "id_number": -1,
+        "value": "モンテノール渓谷（テスト）",
+        "translation": ""
+    },
+    {
+        "id": "cty02:2",
+        "id_number": -1,
+        "value": "開拓局前",
+        "translation": ""
+    },
+    {
+        "id": "cty02:3",
+        "id_number": -1,
+        "value": "サラムザード北",
         "translation": ""
     }
 ]

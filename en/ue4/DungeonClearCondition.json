@@ -1,86 +1,20 @@
 [
     {
         "id": "DngeonClearConditionTestMap_00_00",
-        "id_number": 0,
+        "id_number": -1,
         "value": "テスト ステップ1 Id0",
-        "translation": "Test step 1 Id0"
+        "translation": ""
     },
     {
         "id": "DngeonClearConditionTestMap_01_01",
-        "id_number": 0,
+        "id_number": -1,
         "value": "テスト ステップ1 Id1",
-        "translation": "Test step 1 Id1"
-    },
-    {
-        "id": "sce0101_00_00",
-        "id_number": 0,
-        "value": "強大なモンスターを討伐せよ！",
-        "translation": "Defeat the mighty monsters!"
-    },
-    {
-        "id": "pat0101_00_00",
-        "id_number": 0,
-        "value": "制限時間以内にボスを討伐せよ！",
-        "translation": "Defeat the boss within the time limit!"
-    },
-    {
-        "id": "sce009_00_00",
-        "id_number": 0,
-        "value": "強大なモンスターを討伐せよ！",
-        "translation": "Defeat the mighty monsters!"
+        "translation": ""
     },
     {
         "id": "dng009_00_00",
-        "id_number": 0,
-        "value": "制限時間以内にボスを討伐せよ！",
-        "translation": "Defeat the boss within the time limit!"
-    },
-    {
-        "id": "dng009_Hard_00_00",
-        "id_number": 0,
-        "value": "制限時間以内にボスを討伐せよ！",
-        "translation": "Defeat the boss within the time limit!"
-    },
-    {
-        "id": "sce005_00_00",
-        "id_number": 0,
-        "value": "最上階へ到達せよ！",
-        "translation": "Reach the top floor!"
-    },
-    {
-        "id": "dng005_00_00",
-        "id_number": 0,
-        "value": "制限時間以内にボスを討伐せよ！",
-        "translation": "Defeat the boss within the time limit!"
-    },
-    {
-        "id": "dng005_Hard_00_00",
-        "id_number": 0,
-        "value": "制限時間以内にボスを討伐せよ！",
-        "translation": "Defeat the boss within the time limit!"
-    },
-    {
-        "id": "pat0102_00_00",
-        "id_number": 0,
-        "value": "制限時間以内にボスを討伐せよ！",
-        "translation": "Defeat the boss within the time limit!"
-    },
-    {
-        "id": "pat0102_Hard_00_00",
-        "id_number": 0,
-        "value": "制限時間以内にボスを討伐せよ！",
-        "translation": "Defeat the boss within the time limit!"
-    },
-    {
-        "id": "tad009_00_00",
-        "id_number": 0,
-        "value": "制限時間以内にすばやくボスを討伐せよ！",
-        "translation": "Defeat the boss quickly within the time limit!"
-    },
-    {
-        "id": "rai001_00_00",
-        "id_number": 0,
-        "value": "デミドラゴンを討伐せよ！",
-        "translation": "Defeat the Demi Dragon!"
+        "id_number": -1,
+        "value": "奥地を目指す",
+        "translation": ""
     }
 ]

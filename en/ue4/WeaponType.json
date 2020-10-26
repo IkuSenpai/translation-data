@@ -8,61 +8,61 @@
     {
         "id": "1",
         "id_number": 1,
-        "value": "斧（武器）",
-        "translation": "Axe (Weapon) "
+        "value": "剣（イージスファイター専用）",
+        "translation": ""
     },
     {
         "id": "2",
         "id_number": 2,
-        "value": "剣（武器）",
-        "translation": "Sword (Weapon) "
+        "value": "斧（ツインストライカー専用）",
+        "translation": ""
     },
     {
         "id": "3",
         "id_number": 3,
-        "value": "ハンドガン",
-        "translation": "Hand gun"
+        "value": "槍",
+        "translation": ""
     },
     {
         "id": "4",
         "id_number": 4,
-        "value": "ライフル",
-        "translation": "Rifle"
+        "value": "ハンドガン",
+        "translation": ""
     },
     {
         "id": "5",
         "id_number": 5,
-        "value": "槍",
-        "translation": "Spear"
+        "value": "ライフル",
+        "translation": ""
     },
     {
         "id": "6",
         "id_number": 6,
-        "value": "弓（武器）",
-        "translation": "Bow (weapon) "
+        "value": "弓（ブラストアーチャー専用）",
+        "translation": ""
     },
     {
         "id": "7",
         "id_number": 7,
-        "value": "杖（武器）",
-        "translation": "Cane (weapon)"
+        "value": "ヘビーアーム",
+        "translation": ""
     },
     {
         "id": "8",
         "id_number": 8,
-        "value": "盾",
-        "translation": "Shield"
+        "value": "杖（スペルキャスター専用）",
+        "translation": ""
     },
     {
         "id": "9",
         "id_number": 9,
-        "value": "混紡",
-        "translation": "Blended"
+        "value": "キャノンソード",
+        "translation": ""
     },
     {
         "id": "10",
         "id_number": 10,
-        "value": "キャノンソード",
-        "translation": "Canon Sword"
+        "value": "盾",
+        "translation": ""
     }
 ]

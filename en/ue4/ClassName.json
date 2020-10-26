@@ -100,17 +100,5 @@
         "id_number": 16,
         "value": "ヴァンガード",
         "translation": "Vanguard"
-    },
-    {
-        "id": "17",
-        "id_number": 17,
-        "value": "センチネル",
-        "translation": "Sentinel"
-    },
-    {
-        "id": "18",
-        "id_number": 18,
-        "value": "ヘビィアーム",
-        "translation": "Heavy Arm"
     }
 ]

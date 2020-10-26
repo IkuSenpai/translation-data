@@ -1,8 +1,56 @@
 [
     {
-        "id": "2",
+        "id": "None",
+        "id_number": 1,
+        "value": "テスト地方",
+        "translation": ""
+    },
+    {
+        "id": "None",
         "id_number": 2,
         "value": "アステルリーズ地方",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 3,
+        "value": "カルトゥーム沙漠",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 4,
+        "value": "ケープコーラル",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 5,
+        "value": "ファルファラン樹海",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 6,
+        "value": "バーンハルト城",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 7,
+        "value": "霊峰ベルナルドゥス",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 8,
+        "value": "西バーンハルト地方",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 9,
+        "value": "聖バファリア島",
         "translation": ""
     }
 ]

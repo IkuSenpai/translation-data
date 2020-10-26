@@ -152,13 +152,7 @@
     {
         "id": "26",
         "id_number": 26,
-        "value": "冒険ランク{Rank}以上",
-        "translation": ""
-    },
-    {
-        "id": "27",
-        "id_number": 27,
-        "value": "NextMainQuest",
+        "value": "魂ランク{Rank}以上",
         "translation": ""
     }
 ]

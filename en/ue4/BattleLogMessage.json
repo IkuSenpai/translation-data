@@ -116,7 +116,7 @@
     {
         "id": "19",
         "id_number": 19,
-        "value": "{EnemyName}討伐：{Exp}の経験値を得た",
-        "translation": "{EnemyName} Subjugation： gained {Exp} experience."
+        "value": "{EnemyName}討伐：{Exp}EXP、{Money}ルーノ獲得",
+        "translation": ""
     }
 ]

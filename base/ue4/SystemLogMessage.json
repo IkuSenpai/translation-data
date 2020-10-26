@@ -1,230 +1,176 @@
 [
     {
         "id": "Login",
-        "id_number": 0,
+        "id_number": -1,
         "value": "ようこそ{TitleName}へ！",
         "translation": ""
     },
     {
         "id": "EquipmentChange",
-        "id_number": 0,
+        "id_number": -1,
         "value": "{EquipmentName}を装備しました。",
         "translation": ""
     },
     {
         "id": "Resurrection",
-        "id_number": 0,
+        "id_number": -1,
         "value": "{CharacterName}を救護しました。",
         "translation": ""
     },
     {
         "id": "MatchingTimeout",
-        "id_number": 0,
+        "id_number": -1,
         "value": "時間が超過したため、マッチングがキャンセルされました。",
         "translation": ""
     },
     {
         "id": "InviteParty",
-        "id_number": 0,
+        "id_number": -1,
         "value": "{CharacterName}からパーティ招待を受けました。",
         "translation": ""
     },
     {
         "id": "LeaveParty",
-        "id_number": 0,
+        "id_number": -1,
         "value": "パーティを終了しました。",
         "translation": ""
     },
     {
         "id": "AppointedPartyLeader",
-        "id_number": 0,
+        "id_number": -1,
         "value": "パーティリーダー権が委譲されました。",
         "translation": ""
     },
     {
         "id": "LeavePartyMember",
-        "id_number": 0,
+        "id_number": -1,
         "value": "{CharacterName}がパーティから抜けました。",
         "translation": ""
     },
     {
         "id": "KickPartyMember",
-        "id_number": 0,
+        "id_number": -1,
         "value": "パーティから除名されました。",
         "translation": ""
     },
     {
         "id": "GetItem",
-        "id_number": 0,
+        "id_number": -1,
         "value": "{ItemName}を入手しました。",
         "translation": ""
     },
     {
         "id": "GetMoney",
-        "id_number": 0,
+        "id_number": -1,
         "value": "{Money}を入手しました。",
         "translation": ""
     },
     {
         "id": "LevelUpWeapon",
-        "id_number": 0,
+        "id_number": -1,
         "value": "レベルアップ！{WeaponName}はレベル{Level}になりました。",
         "translation": ""
     },
     {
         "id": "Follow",
-        "id_number": 0,
+        "id_number": -1,
         "value": "{CharacterName}をフォローしました。",
         "translation": ""
     },
     {
         "id": "Followed",
-        "id_number": 0,
+        "id_number": -1,
         "value": "{CharacterName}からフォローされました。",
         "translation": ""
     },
     {
         "id": "MutualFollow",
-        "id_number": 0,
+        "id_number": -1,
         "value": "{CharacterName}と相互フォローになりました。",
         "translation": ""
     },
     {
         "id": "CountDown",
-        "id_number": 0,
+        "id_number": -1,
         "value": "残り{Count}分です。",
         "translation": ""
     },
     {
         "id": "TimeUp",
-        "id_number": 0,
+        "id_number": -1,
         "value": "制限時間をオーバーしたため、攻略を終了しました。",
         "translation": ""
     },
     {
         "id": "DeathPenaltyTime",
-        "id_number": 0,
+        "id_number": -1,
         "value": "復活地点より復活したため制限時間が-{SubtractTime}秒されました。",
         "translation": ""
     },
     {
         "id": "AchievementGained",
-        "id_number": 0,
+        "id_number": -1,
         "value": "称号：{AchievementName}を入手しました。",
         "translation": ""
     },
     {
         "id": "GatherPointGetItem",
-        "id_number": 0,
+        "id_number": -1,
         "value": "{ItemName}を{ItemNum}個、採取しました",
         "translation": ""
     },
     {
         "id": "ItemInventoryOver",
-        "id_number": 0,
-        "value": "アイテムバッグがいっぱいになりました",
+        "id_number": -1,
+        "value": "アイテムの所持数が超過しました",
         "translation": ""
     },
     {
         "id": "CommonSkillName",
-        "id_number": 0,
+        "id_number": -1,
         "value": "冒険者アビリティ{CommonSkillName}レベル{SkillName}",
         "translation": ""
     },
     {
         "id": "FailureCommonSkillName",
-        "id_number": 0,
+        "id_number": -1,
         "value": "冒険者アビリティ{CommonSkillName}レベルが足りず、採取できませんでした",
         "translation": ""
     },
     {
         "id": "GatherPointItemInventoryOver",
-        "id_number": 0,
-        "value": "アイテムバッグがいっぱいで採取できませんでした",
+        "id_number": -1,
+        "value": "アイテム枠がいっぱいで採取できませんでした",
         "translation": ""
     },
     {
         "id": "GatherPointSkillGetItem",
-        "id_number": 0,
+        "id_number": -1,
         "value": "冒険者アビリティ{CommonSkillName}の効果！{ItemName}をさらに{ItemNum}個、採取しました",
         "translation": ""
     },
     {
         "id": "CommonSkillLevel",
-        "id_number": 0,
+        "id_number": -1,
         "value": "冒険者アビリティ{CommonSkillName}がレベル{Level}になりました。",
         "translation": ""
     },
     {
         "id": "TreasureGetItem",
-        "id_number": 0,
+        "id_number": -1,
         "value": "宝箱から{ItemName}を{ItemNum}個、入手しました",
         "translation": ""
     },
     {
         "id": "TreasureGetMoney",
-        "id_number": 0,
+        "id_number": -1,
         "value": "宝箱から{Money}を入手しました",
         "translation": ""
     },
     {
         "id": "TreasureItemInventoryOver",
-        "id_number": 0,
-        "value": "アイテムバッグがいっぱいで入手できません",
-        "translation": ""
-    },
-    {
-        "id": "GetSupply",
-        "id_number": 0,
-        "value": "支給品 {ItemName}を{ItemNum}個、入手。",
-        "translation": ""
-    },
-    {
-        "id": "SupplyNumberUp",
-        "id_number": 0,
-        "value": "{DrinkName?}の効果。さらに {ItemName}を{ItemNum}個、入手。",
-        "translation": ""
-    },
-    {
-        "id": "SupplyRecastTime",
-        "id_number": 0,
-        "value": "{DrinkName?}の効果。支給品のインターバル時間が短縮。",
-        "translation": ""
-    },
-    {
-        "id": "SupplyTypeIncrease",
-        "id_number": 0,
-        "value": "{DrinkName?}の効果。支給品の種類が増加。",
-        "translation": ""
-    },
-    {
-        "id": "SupplyEmpty",
-        "id_number": 0,
-        "value": "支給品が回収された。",
-        "translation": ""
-    },
-    {
-        "id": "GetQuestTrigger",
-        "id_number": 0,
-        "value": "{ItemName}を{ItemNum}個、入手した。",
-        "translation": ""
-    },
-    {
-        "id": "AFKWarnLog",
-        "id_number": 0,
-        "value": "一定時間操作がないため{LimitTime}分後にキャラクター選択に戻ります",
-        "translation": ""
-    },
-    {
-        "id": "NotifyBlackListed",
-        "id_number": 0,
-        "value": "{CharacterId}",
-        "translation": ""
-    },
-    {
-        "id": "NotifyChatBan",
-        "id_number": 0,
-        "value": "トーク禁止状態のためトーク機能が制限されます",
+        "id_number": -1,
+        "value": "バッグがいっぱいで宝箱を開くことができません",
         "translation": ""
     }
 ]

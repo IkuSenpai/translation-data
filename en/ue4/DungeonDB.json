@@ -1,740 +1,308 @@
 [
     {
-        "id": "sce004_DisplayDesc",
-        "id_number": 0,
-        "value": "埋もれた都の説明",
-        "translation": "Description of the buried city"
-    },
-    {
-        "id": "sce004_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間以内にボスエネミーを討伐せよ！",
-        "translation": "Defeat the boss enemies within the time limit!"
-    },
-    {
-        "id": "sce004_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
-    },
-    {
         "id": "dng004_DisplayDesc",
-        "id_number": 0,
+        "id_number": -1,
         "value": "埋もれた都の説明",
-        "translation": "Description of the buried city"
+        "translation": ""
     },
     {
         "id": "dng004_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間以内にボスエネミーを討伐せよ！",
-        "translation": "Defeat the boss enemies within the time limit!"
+        "id_number": -1,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
     },
     {
         "id": "dng004_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
-    },
-    {
-        "id": "sce005_DisplayDesc",
-        "id_number": 0,
-        "value": "バファリア文明最大の遺跡の一つ。\nバファリア教の開祖が降り立った場所としても伝えられ、\nいまだ数多くの謎に包まれている。\nその外観は、どれほどの年月が経っても美しく壮麗なままである。",
-        "translation": "One of the largest archaeological sites of the Bapharia civilization. \nIt is also said to be the place where the founder of Bapharianism landed. \nIt is still surrounded by many mysteries. \nIts appearance remains beautiful and magnificent no matter how many years have passed."
-    },
-    {
-        "id": "sce005_RuleDesc",
-        "id_number": 0,
-        "value": "最上階へ到達せよ！",
-        "translation": "Reach the top flooer!"
-    },
-    {
-        "id": "sce005_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
+        "id_number": -1,
+        "value": "ボス討伐",
+        "translation": ""
     },
     {
         "id": "dng005_DisplayDesc",
-        "id_number": 0,
-        "value": "【パーティ推奨】\nバファリア文明最大の遺跡の一つ。\nバファリア教の開祖が降り立った場所としても伝えられ、\nいまだ数多くの謎に包まれている。\nその外観は、どれほどの年月が経っても美しく壮麗なままである。",
-        "translation": "【Party Recommended】\nOne of the largest archaeological sites of the Bapharia civilization. \nIt is also said to be the place where the founder of Bapharianism landed. \nIt is still surrounded by many mysteries. \nIts appearance remains beautiful and magnificent no matter how many years have passed."
+        "id_number": -1,
+        "value": "バファリア教における最も重要な聖地であり、バファリア文明最大の遺跡の一つ。\n未だ生きている遺跡で、中には人智を超えた力が眠るとされている。\nバファリア教の開祖が降り立った場所としても伝えられ、未だ数多くの謎に包まれている。\nその外観は、どれほどの年月が経っても美しく壮大なままである",
+        "translation": ""
     },
     {
         "id": "dng005_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間以内にボスエネミーを討伐せよ！",
-        "translation": "Defeat the boss enemies within the time limit!"
+        "id_number": -1,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
     },
     {
         "id": "dng005_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
-    },
-    {
-        "id": "dng005_Hard_DisplayDesc",
-        "id_number": 0,
-        "value": "【パーティ推奨】\nバファリア文明最大の遺跡の一つ。\nバファリア教の開祖が降り立った場所としても伝えられ、\nいまだ数多くの謎に包まれている。\n追加調査は強大なエネミーと遭遇するため、難易度が高い。\nその分、成功報酬によって強力な武器をクラフトすることが可能。",
-        "translation": "【Party Recommended】\nOne of the largest archaeological sites of the Bapharia civilization. \nIt is also said to be the place where the founder of Bapharianism landed. \nIt is still surrounded by many mysteries. \nIts appearance remains beautiful and magnificent no matter how many years have passed. \nThe additional investigation is difficult because it encounters a mighty enemy. \nHowever, it is possible to craft powerful weapons with success rewards."
-    },
-    {
-        "id": "dng005_Hard_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間以内にボスエネミーを討伐せよ！",
-        "translation": "Defeat the boss enemies within the time limit!"
-    },
-    {
-        "id": "dng005_Hard_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
+        "id_number": -1,
+        "value": "ボス討伐",
+        "translation": ""
     },
     {
         "id": "dng007_DisplayDesc",
-        "id_number": 0,
+        "id_number": -1,
         "value": "枷神の産屋の説明",
-        "translation": "Explanation of the god's production house"
+        "translation": ""
     },
     {
         "id": "dng007_RuleDesc",
-        "id_number": 0,
-        "value": "仲間と協力して制限時間以内にボスエネミーを討伐せよ！",
-        "translation": "Work with your friends to defeat the boss enemies within the time limit!"
+        "id_number": -1,
+        "value": "仲間と協力して制限時間以内にボスを討伐せよ！",
+        "translation": ""
     },
     {
         "id": "dng007_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
-    },
-    {
-        "id": "sce009_DisplayDesc",
-        "id_number": 0,
-        "value": "ドラゴンの爪で抉られたかのような深い峡谷地帯。\n複雑に入り組んだ谷が冒険者の行く手を阻む。\n崖を流れ落ちる滝は迫力に満ちて荒々しく、\nそれこそ竜の姿に例えられている。",
-        "translation": "A deep canyon area as if it was carved by a dragon's claws.\nA complex and intricate valley blocks the adventurer's path.\n The waterfall that runs down the cliff is powerful and rough,\n it is likened to a dragon."
-    },
-    {
-        "id": "sce009_RuleDesc",
-        "id_number": 0,
-        "value": "強大なエネミーを討伐せよ！",
-        "translation": "Defeat the mighty enemies!"
-    },
-    {
-        "id": "sce009_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
+        "id_number": -1,
+        "value": "ボス討伐",
+        "translation": ""
     },
     {
         "id": "dng009_DisplayDesc",
-        "id_number": 0,
-        "value": "ドラゴンの爪で抉られたかのような深い峡谷地帯。\n複雑に入り組んだ谷が冒険者の行く手を阻む。\n崖を流れ落ちる滝は迫力に満ちて荒々しく、\nそれこそ竜の姿に例えられている。",
-        "translation": "A deep canyon area as if it was carved by a dragon's claws.\nA complex and intricate valley blocks the adventurer's path.\n The waterfall that runs down the cliff is powerful and rough,\n it is likened to a dragon."
+        "id_number": -1,
+        "value": "ドラゴンの爪で抉られたかのような深い峡谷地帯。\n複雑に入り組んだ谷と崖が行く手を阻む。\n周囲の地形や足元に気を配りつつ、着実にエネミーを退けていくことが攻略のカギ。\n激しい音を立てながら流れ落ちる滝は迫力に満ち、それこそ荒々しい竜の姿に例えられている。",
+        "translation": ""
     },
     {
         "id": "dng009_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間以内にボスエネミーを討伐せよ！",
-        "translation": "Defeat the boss enemies within the time limit!"
+        "id_number": -1,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
     },
     {
         "id": "dng009_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
-    },
-    {
-        "id": "dng009_Hard_DisplayDesc",
-        "id_number": 0,
-        "value": "【パーティ推奨】\nドラゴンの爪で抉られたかのような深い峡谷地帯。\n複雑に入り組んだ谷が冒険者の行く手を阻む。\n追加調査は強大なエネミーと遭遇するため、難易度が高い。\nその分、成功報酬によって強力な武器をクラフトすることが可能。",
-        "translation": "【Party Recommended】\nA deep canyon area as if it was carved by a dragon's claws.\nA complex and intricate valley blocks the adventurer's path.\n The waterfall that runs down the cliff is powerful and rough,\n it is likened to a dragon.\nThe additional investigation is difficult because it encounters a mighty enemy.\nIt is possible to craft powerful weapons with success rewards."
-    },
-    {
-        "id": "dng009_Hard_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間以内にボスエネミーを討伐せよ！",
-        "translation": "Defeat the boss enemies within the time limit!"
-    },
-    {
-        "id": "dng009_Hard_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
-    },
-    {
-        "id": "tad009_DisplayDesc",
-        "id_number": 0,
-        "value": "冒険者の力量を測るために用意されたクリアタイムを競う競技。\n最速を目指す者たちが、日夜己の限界に挑み続けている。\n\n【舞台】巨竜の爪痕\n・最奥部まで進み、ボスエネミー討伐までのタイムを競え\n・クリアタイムに応じて報酬を獲得\n・誰よりも早くクリアし、ランキング入りを狙え",
-        "translation": "A competition to compete for clear time prepared to measure the ability of adventurers.\nThose who aim for the fastest continue to push their limits day and night.\n\n【Stage】Giant Dragon's Claw Mark\n・Go to the innermost part and compete for the time to subdue the boss enemy\n・Earn rewards according to the clear time\n・Clear faster than anyone and enter the ranking."
-    },
-    {
-        "id": "tad009_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間以内にすばやくボスエネミーを討伐せよ！",
-        "translation": "Quickly defeat the boss enemies within the time limit!"
-    },
-    {
-        "id": "tad009_RuleName",
-        "id_number": 0,
-        "value": "制限時間以内にすばやくボスエネミーを討伐せよ！",
-        "translation": "Quickly defeat the boss enemies within the time limit!"
-    },
-    {
-        "id": "tad009_PT_DisplayDesc",
-        "id_number": 0,
-        "value": "冒険者の力量を測るために用意されたクリアタイムを競う競技。\n最速を目指す者たちが、日夜己の限界に挑み続けている。\n\n【舞台】巨竜の爪痕\n・最奥部まで進み、ボスエネミー討伐までのタイムを競え\n・クリアタイムに応じて報酬を獲得\n・誰よりも早くクリアし、ランキング入りを狙え",
-        "translation": "A competition to compete for clear time prepared to measure the ability of adventurers.\nThose who aim for the fastest continue to push their limits day and night.\n\n【Stage】Giant Dragon's Claw Mark\n・Go to the innermost part and compete for the time to subdue the boss enemy\n・Earn rewards according to the clear time\n・Clear faster than anyone and enter the ranking."
-    },
-    {
-        "id": "tad009_PT_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間以内にすばやくボスエネミーを討伐せよ！",
-        "translation": "Quickly defeat the boss enemies within the time limit!"
-    },
-    {
-        "id": "tad009_PT_RuleName",
-        "id_number": 0,
-        "value": "制限時間以内にすばやくボスエネミーを討伐せよ！",
-        "translation": "Quickly defeat the boss enemies within the time limit!"
+        "id_number": -1,
+        "value": "ボス討伐",
+        "translation": ""
     },
     {
         "id": "dng011_DisplayDesc",
-        "id_number": 0,
+        "id_number": -1,
         "value": "天恵の聖堂の説明",
-        "translation": "Description of the Blessed Basilica"
+        "translation": ""
     },
     {
         "id": "dng011_RuleDesc",
-        "id_number": 0,
-        "value": "仲間と協力して制限時間以内にボスエネミーを討伐せよ！",
-        "translation": "Work with your friends to defeat the boss enemies within the time limit!"
+        "id_number": -1,
+        "value": "仲間と協力して制限時間以内にボスを討伐せよ！",
+        "translation": ""
     },
     {
         "id": "dng011_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
+        "id_number": -1,
+        "value": "ボス討伐",
+        "translation": ""
     },
     {
         "id": "dng013_DisplayDesc",
-        "id_number": 0,
+        "id_number": -1,
         "value": "バーンハルトへの隠し通路の説明",
-        "translation": "Description of secret passages to Bernhard"
+        "translation": ""
     },
     {
         "id": "dng013_RuleDesc",
-        "id_number": 0,
-        "value": "仲間と協力して制限時間以内にボスエネミーを討伐せよ！",
-        "translation": "Work with your friends to defeat the boss enemies within the time limit!"
+        "id_number": -1,
+        "value": "仲間と協力して制限時間以内にボスを討伐せよ！",
+        "translation": ""
     },
     {
         "id": "dng013_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
+        "id_number": -1,
+        "value": "ボス討伐",
+        "translation": ""
     },
     {
         "id": "dng015_DisplayDesc",
-        "id_number": 0,
-        "value": "長い長い年月を経て作られた巨大な蟲塚。\n遠目にもわかるほど大きく、旅人やキャラバンの目印になっている。\n内部は空洞で、ゴブリンをはじめとした亜人のエネミーたちが\n棲みついている。\n最奥部には、かなり手強いエネミーの存在が確認されている。",
-        "translation": "A huge bug mound made after many years.\nIt's big enough to be seen from a distance, and it's a landmark for travelers and caravans.\nThe inside is hollow, and\nare inhabited by subhuman enemies such as goblins.\nAt the innermost part, the existence of a fairly formidable enemy has been confirmed."
+        "id_number": -1,
+        "value": "長い長い年月を経て作られた巨大な蟲塚。\n遠目にもわかるほど大きく、旅人やキャラバンの目印になっている。\n内部は空洞で、ゴブリンをはじめとした亜人のモンスターたちが棲みついている。\n最奥部には、かなり手強いモンスターの存在が確認されている。",
+        "translation": ""
     },
     {
         "id": "dng015_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間以内にボスエネミーを討伐せよ！",
-        "translation": "Defeat the boss enemies within the time limit!"
+        "id_number": -1,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
     },
     {
         "id": "dng015_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
-    },
-    {
-        "id": "sce015_DisplayDesc",
-        "id_number": 0,
-        "value": "長い長い年月を経て作られた巨大な蟲塚。\n遠目にもわかるほど大きく、旅人やキャラバンの目印になっている。\n内部は空洞で、ゴブリンをはじめとした亜人のエネミーたちが\n棲みついている。\n最奥部には、かなり手強いエネミーの存在が確認されている。",
-        "translation": "A huge bug mound made after many years.\nIt's big enough to be seen from a distance, and it's a landmark for travelers and caravans.\nThe inside is hollow, and\nare inhabited by subhuman enemies such as goblins.\nAt the innermost part, the existence of a fairly formidable enemy has been confirmed."
-    },
-    {
-        "id": "sce015_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間以内にボスエネミーを討伐せよ！",
-        "translation": "Defeat the boss enemies within the time limit!"
-    },
-    {
-        "id": "sce015_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
+        "id_number": -1,
+        "value": "ボス討伐",
+        "translation": ""
     },
     {
         "id": "dng017_DisplayDesc",
-        "id_number": 0,
+        "id_number": -1,
         "value": "GB調整中\nバーンハルト城の地下研究所\nアバリティヨルクイマジンとダンケルクと戦闘",
-        "translation": "GB Adjusting\nUnderground Laboratory at Bernhard Castle\nBattle with Avality Jorku Imagine and Dunkirk"
+        "translation": ""
     },
     {
         "id": "dng017_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間以内にボスエネミーを討伐せよ！",
-        "translation": "Defeat the boss enemies within the time limit!"
+        "id_number": -1,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
     },
     {
         "id": "dng017_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
+        "id_number": -1,
+        "value": "ボス討伐",
+        "translation": ""
+    },
+    {
+        "id": "sdg_dng009_DisplayDesc",
+        "id_number": -1,
+        "value": "ドラゴンの爪で抉られたかのような深い峡谷地帯。\n複雑に入り組んだ谷と崖が行く手を阻む。\n周囲の地形や足元に気を配りつつ、着実にエネミーを退けていくことが攻略のカギ。\n激しい音を立てながら流れ落ちる滝は迫力に満ち、それこそ荒々しい竜の姿に例えられている。",
+        "translation": ""
+    },
+    {
+        "id": "sdg_dng009_RuleDesc",
+        "id_number": -1,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "sdg_dng009_RuleName",
+        "id_number": -1,
+        "value": "ボス討伐",
+        "translation": ""
+    },
+    {
+        "id": "tdg_dng009_DisplayDesc",
+        "id_number": -1,
+        "value": "ドラゴンの爪で抉られたかのような深い峡谷地帯。\n複雑に入り組んだ谷と崖が行く手を阻む。\n周囲の地形や足元に気を配りつつ、着実にエネミーを退けていくことが攻略のカギ。\n激しい音を立てながら流れ落ちる滝は迫力に満ち、それこそ荒々しい竜の姿に例えられている。",
+        "translation": ""
+    },
+    {
+        "id": "tdg_dng009_RuleDesc",
+        "id_number": -1,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "tdg_dng009_RuleName",
+        "id_number": -1,
+        "value": "ボス討伐",
+        "translation": ""
     },
     {
         "id": "dng019_DisplayDesc",
-        "id_number": 0,
+        "id_number": -1,
         "value": "海神窟についての説明",
-        "translation": "海神窟についての説明"
+        "translation": ""
     },
     {
         "id": "dng019_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間以内にボスエネミーを討伐せよ！",
-        "translation": "Defeat the boss enemies within the time limit!"
+        "id_number": -1,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
     },
     {
         "id": "dng019_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
-    },
-    {
-        "id": "ins002_DisplayDesc",
-        "id_number": 0,
-        "value": "崩れ落ちた巨塔を思わせる古代遺跡。\n『来者』について詳しいという神官ワールキンが\nここに調査に赴いたまま、帰ってこないらしい。\nなにごともなければ良いのだが……。",
-        "translation": "Ancient ruins reminiscent of a collapsed giant tower.\nIt seems that the priest Warkin, who is familiar with 『visitors』,\nhas gone to investigate here and has not come back.\nI hope there is nothing wrong..."
-    },
-    {
-        "id": "ins002_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間内に全てのエネミーを討伐せよ！",
-        "translation": "Defeat all enemies within the time limit!"
-    },
-    {
-        "id": "ins002_RuleName",
-        "id_number": 0,
-        "value": "エネミー全滅",
-        "translation": "Enemy Annihilation"
-    },
-    {
-        "id": "ins003_DisplayDesc",
-        "id_number": 0,
-        "value": "第一のアバリティア",
-        "translation": "First Avalitia"
-    },
-    {
-        "id": "ins003_RuleDesc",
-        "id_number": 0,
-        "value": "インスタンスバトル ins003",
-        "translation": "Instance battle ins003"
-    },
-    {
-        "id": "ins003_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
-    },
-    {
-        "id": "ins004_DisplayDesc",
-        "id_number": 0,
-        "value": "囮となった子を探そう",
-        "translation": "Find the decoy child"
-    },
-    {
-        "id": "ins004_RuleDesc",
-        "id_number": 0,
-        "value": "インスタンスバトル ins004",
-        "translation": "Instance battle ins004"
-    },
-    {
-        "id": "ins004_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
-    },
-    {
-        "id": "ins005_DisplayDesc",
-        "id_number": 0,
-        "value": "歌姫救出",
-        "translation": "Diva rescue"
-    },
-    {
-        "id": "ins005_RuleDesc",
-        "id_number": 0,
-        "value": "インスタンスバトル ins005",
-        "translation": "Instance battle ins005"
-    },
-    {
-        "id": "ins005_RuleName",
-        "id_number": 0,
-        "value": "エネミー全滅",
-        "translation": "Enemy Annihilation"
-    },
-    {
-        "id": "ins006_DisplayDesc",
-        "id_number": 0,
-        "value": "囁きの崖",
-        "translation": "Whispering cliff"
-    },
-    {
-        "id": "ins006_RuleDesc",
-        "id_number": 0,
-        "value": "インスタンスバトル ins006",
-        "translation": "Instance battle ins006"
-    },
-    {
-        "id": "ins006_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
-    },
-    {
-        "id": "sce0101_DisplayDesc",
-        "id_number": 0,
-        "value": "『レイクリッド結晶』などの産地として使われていた坑道の一角。\nすでに役目を終え、大規模な採掘は行われていないが、\nたまに冒険者が素材を求めてやってくる。\n最近、モンスターが棲みついてしまったらしい。",
-        "translation": "A corner of a tunnel that was used as a production center for 『Racred Crystals』.\nIt has already finished its role and has not been mined on a large scale, but\noccasionally adventurers come in search of materials.\nIt seems that monsters have recently settled in."
-    },
-    {
-        "id": "sce0101_RuleDesc",
-        "id_number": 0,
-        "value": "強大なエネミーを討伐せよ！",
-        "translation": "Defeat the mighty enemies!"
-    },
-    {
-        "id": "sce0101_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
-    },
-    {
-        "id": "pat0101_DisplayDesc",
-        "id_number": 0,
-        "value": "『レイクリッド結晶』などの産地として使われていた坑道の一角。\nすでに役目を終え、大規模な採掘は行われていないが、\nたまに冒険者が素材を求めてやってくる。\n最近、モンスターが棲みついてしまったらしい。",
-        "translation": "A corner of a tunnel that was used as a production center for 『Racred Crystals』.\nIt has already finished its role and has not been mined on a large scale, but\noccasionally adventurers come in search of materials.\nIt seems that monsters have recently settled in."
-    },
-    {
-        "id": "pat0101_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間以内にボスエネミーを討伐せよ！",
-        "translation": "Defeat the boss enemies within the time limit!"
-    },
-    {
-        "id": "pat0101_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
-    },
-    {
-        "id": "sce0102_DisplayDesc",
-        "id_number": 0,
-        "value": "バファリア文明時代の街が埋もれ、\n周辺の地形と一体化してできた遺跡の谷。\nバファリアの遺産である機械類が今もこの地を守っており、\n侵入者を迎え撃つ。",
-        "translation": "A valley of ruins that was created by burying the city of the Bapharia civilization and integrating it with the surrounding terrain.\nBapharia's heritage machinery still protects the area,\nand greets intruders."
-    },
-    {
-        "id": "sce0102_RuleDesc",
-        "id_number": 0,
-        "value": "強大なエネミーを討伐せよ！",
-        "translation": "Defeat the mighty enemies!"
-    },
-    {
-        "id": "sce0102_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
-    },
-    {
-        "id": "pat0102_DisplayDesc",
-        "id_number": 0,
-        "value": "【パーティ推奨】\nバファリア文明時代の街が埋もれ、\n周辺の地形と一体化してできた遺跡の谷。\nバファリアの遺産である機械類が今もこの地を守っており、\n侵入者を迎え撃つ。",
-        "translation": "【Party Recommended】\nA valley of ruins that was created by burying the city of the Bapharia civilization and integrating it with the surrounding terrain.\nBapharia's heritage machinery still protects the area,\nand greets intruders."
-    },
-    {
-        "id": "pat0102_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間以内にボスエネミーを討伐せよ！",
-        "translation": "Defeat the boss enemies within the time limit!"
-    },
-    {
-        "id": "pat0102_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
-    },
-    {
-        "id": "pat0102_Hard_DisplayDesc",
-        "id_number": 0,
-        "value": "【パーティ推奨】\nバファリア文明時代の小規模な街が埋もれ、\n周辺の地形と一体化してできた遺跡の谷。\n追加調査では強大なエネミーと遭遇するため、難易度が高い。\nその分、成功報酬によって強力な武器をクラフトできる。",
-        "translation": "【Party Recommended】\nA valley of ruins that was created by burying the city of the Bapharia civilization and integrating it with the surrounding terrain.\nThe additional investigation is difficult because it encounters a mighty enemy.\nIt is possible to craft powerful weapons with success rewards."
-    },
-    {
-        "id": "pat0102_Hard_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間以内にボスエネミーを討伐せよ！",
-        "translation": "Defeat the boss enemies within the time limit!"
-    },
-    {
-        "id": "pat0102_Hard_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
-    },
-    {
-        "id": "sce0201_DisplayDesc",
-        "id_number": 0,
-        "value": "バファリア文明時代の街が埋もれ、周辺の地形と一体化してできた遺跡\nの谷。バファリアの遺産である機械類が今もこの地を守っており、侵入\n者を迎撃する。",
-        "translation": "The valley of the ruins\n, which was created by burying the city of the Bapharia civilization era and integrating it with the surrounding terrain. Machinery, which is a legacy of Bapharia, still protects this land and intercepts invaders."
-    },
-    {
-        "id": "sce0201_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間以内にボスエネミーを討伐せよ！",
-        "translation": "Defeat the boss enemies within the time limit!"
-    },
-    {
-        "id": "sce0201_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
-    },
-    {
-        "id": "pat0201_DisplayDesc",
-        "id_number": 0,
-        "value": "このバファリア遺跡は、かつては保存状態も良く名所として知られてい\nたが、急速な砂漠化によって朽廃が進み、近年では近寄る者もほとんど\nいなくなった。（仮）",
-        "translation": "The Bapharia archaeological site was once well-preserved and known as a famous place, but it has been decaying due to rapid desertification, and in recent years few people have approached it. (Tentative)"
-    },
-    {
-        "id": "pat0201_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間以内にボスエネミーを討伐せよ！",
-        "translation": "Defeat the boss enemies within the time limit!"
-    },
-    {
-        "id": "pat0201_RuleName",
-        "id_number": 0,
-        "value": "ボスエネミー討伐",
-        "translation": "Subjugation of boss enemies"
-    },
-    {
-        "id": "arn001_DisplayDesc",
-        "id_number": 0,
-        "value": "闘技場ポイント競争！\nエネミーを倒し、コインをたくさん集め、収納箱に納品しよう。\n一番多く納品したプレイヤーの勝利！\n※納品し忘れに要注意※",
-        "translation": "Arena point competition!\nDefeat enemies, collect lots of coins, and deliver them to your storage box.\nThe player who delivered the most wins!\n* Be careful not to forget to deliver *"
-    },
-    {
-        "id": "arn001_RuleDesc",
-        "id_number": 0,
-        "value": "コインを集めて納品しよう",
-        "translation": "Collect and deliver coins"
-    },
-    {
-        "id": "arn001_RuleName",
-        "id_number": 0,
-        "value": "ポイント競争",
-        "translation": "Point competition"
-    },
-    {
-        "id": "arn002_E_DisplayDesc",
-        "id_number": 0,
-        "value": "【パーティ推奨】\n日夜激しい戦いが繰り広げられる闘技場。\n課されたルールに挑み、その力を示せ。\n\n・次々と現れるエネミーを制限時間内に倒せ\n・時間切れになるとミッション失敗\n・チャレンジをクリアすると戦闘が有利になる効果が発動",
-        "translation": "[Party Recommended]\nA arena where fierce battles take place day and night.\nChallenge the imposed rules and show their power.\n\n-Defeat the enemies that appear one after another within the time limit\n-Mission fails when the time runs out\n-Clear the challenge to activate the effect that the battle becomes advantageous"
-    },
-    {
-        "id": "arn002_E_RuleDesc",
-        "id_number": 0,
-        "value": "25体のエネミーを討伐せよ！",
-        "translation": "Defeat 25 enemies!"
-    },
-    {
-        "id": "arn002_E_RuleName",
-        "id_number": 0,
-        "value": "25体のエネミーを討伐せよ！",
-        "translation": "Defeat 25 enemies!"
-    },
-    {
-        "id": "arn002_N_DisplayDesc",
-        "id_number": 0,
-        "value": "【パーティ推奨】\n日夜激しい戦いが繰り広げられる闘技場。\n課されたルールに挑み、その力を示せ。\n\n・次々と現れるエネミーを制限時間内に倒せ\n・時間切れになるとミッション失敗\n・チャレンジをクリアすると戦闘が有利になる効果が発動",
-        "translation": "[Party Recommended]\nA arena where fierce battles take place day and night.\nChallenge the imposed rules and show their power.\n\n-Defeat the enemies that appear one after another within the time limit\n-Mission fails when the time runs out\n-Clear the challenge to activate the effect that the battle becomes advantageous"
-    },
-    {
-        "id": "arn002_N_RuleDesc",
-        "id_number": 0,
-        "value": "50体のエネミーを討伐せよ！",
-        "translation": "Defeat 50 enemies!"
-    },
-    {
-        "id": "arn002_N_RuleName",
-        "id_number": 0,
-        "value": "50体のエネミーを討伐せよ！",
-        "translation": "Defeat 50 enemies!"
-    },
-    {
-        "id": "arn002_H_DisplayDesc",
-        "id_number": 0,
-        "value": "【パーティ推奨】\n日夜激しい戦いが繰り広げられる闘技場。\n課されたルールに挑み、その力を示せ。\n\n・次々と現れるエネミーを制限時間内に倒せ\n・時間切れになるとミッション失敗\n・チャレンジをクリアすると戦闘が有利になる効果が発動",
-        "translation": "[Party Recommended]\nA arena where fierce battles take place day and night.\nChallenge the imposed rules and show their power.\n\n-Defeat the enemies that appear one after another within the time limit\n-Mission fails when the time runs out\n-Clear the challenge to activate the effect that the battle becomes advantageous"
-    },
-    {
-        "id": "arn002_H_RuleDesc",
-        "id_number": 0,
-        "value": "75体のエネミーを討伐せよ！",
-        "translation": "Defeat 75 enemies!"
-    },
-    {
-        "id": "arn002_H_RuleName",
-        "id_number": 0,
-        "value": "75体のエネミーを討伐せよ！",
-        "translation": "Defeat 75 enemies!"
-    },
-    {
-        "id": "arn002_V_DisplayDesc",
-        "id_number": 0,
-        "value": "【パーティ推奨】\n日夜激しい戦いが繰り広げられる闘技場。\n課されたルールに挑み、その力を示せ。\n\n・次々と現れるエネミーを制限時間内に倒せ\n・時間切れになるとミッション失敗\n・チャレンジをクリアすると戦闘が有利になる効果が発動",
-        "translation": "[Party Recommended]\nA arena where fierce battles take place day and night.\nChallenge the imposed rules and show their power.\n\n-Defeat the enemies that appear one after another within the time limit\n-Mission fails when the time runs out\n-Clear the challenge to activate the effect that the battle becomes advantageous"
-    },
-    {
-        "id": "arn002_V_RuleDesc",
-        "id_number": 0,
-        "value": "100体のエネミーを討伐せよ！",
-        "translation": "Defeat 100 enemies!"
-    },
-    {
-        "id": "arn002_V_RuleName",
-        "id_number": 0,
-        "value": "100体のエネミーを討伐せよ！",
-        "translation": "Defeat 100 enemies!"
-    },
-    {
-        "id": "rai001_DisplayDesc",
-        "id_number": 0,
-        "value": "バハマール高原に突如現れた謎の「星脈孔」\n調査に向かった冒険者たちが見たものは…\n\n・巨大なボスエネミーを制限時間内に倒せ\n・時間切れになるとミッション失敗\n・ランキング上位入賞で報酬にボーナス",
-        "translation": "The mysterious 【star vein hole】that suddenly appeared on the Bahamar Plateau\nWhat the adventurers who went to investigate saw ...\n\n・Defeat the huge boss enemy within the time limit\n・When the time runs out Mission failure\n・Bonus to reward for top ranking"
-    },
-    {
-        "id": "rai001_RuleDesc",
-        "id_number": 0,
-        "value": "制限時間以内にボスを討伐せよ！",
-        "translation": "Defeat the boss within the time limit!"
-    },
-    {
-        "id": "rai001_RuleName",
-        "id_number": 0,
-        "value": "レイドボスエネミーバトル３",
-        "translation": "Raid Boss Enemy Battle 3"
-    },
-    {
-        "id": "RockDungeon_DisplayDesc",
-        "id_number": 0,
-        "value": "汎用ダンジョン(試験用)",
-        "translation": "General-purpose dungeon (for testing)"
-    },
-    {
-        "id": "RockDungeon_RuleDesc",
-        "id_number": 0,
-        "value": "汎用ダンジョンの試験結果の確認",
-        "translation": "Confirmation of test results for general-purpose dungeons"
-    },
-    {
-        "id": "RockDungeon_RuleName",
-        "id_number": 0,
-        "value": "試験",
-        "translation": "test"
-    },
-    {
-        "id": "BattleArena_TreasureHunt_DisplayDesc",
-        "id_number": 0,
-        "value": "エネミーが次々襲いかかってくるミッション\n腕に自信のある者のみ参加可能な闘技場",
-        "translation": "Missions where enemies attack one after another\nA arena where only those who are confident in their arms can participate"
-    },
-    {
-        "id": "BattleArena_TreasureHunt_RuleDesc",
-        "id_number": 0,
-        "value": "エネミーすべて倒せ！",
-        "translation": "Defeat all the enemies!"
-    },
-    {
-        "id": "BattleArena_TreasureHunt_RuleName",
-        "id_number": 0,
-        "value": "エネミー討伐",
-        "translation": "Enemy subjugation"
-    },
-    {
-        "id": "TowerTest_DisplayDesc",
-        "id_number": 0,
-        "value": "塔コンテンツ(サバイバル試験用)",
-        "translation": "Tower content (for survival test)"
-    },
-    {
-        "id": "TowerTest_RuleDesc",
-        "id_number": 0,
-        "value": "塔コンテンツの試験結果の確認",
-        "translation": "Confirmation of test results of tower contents"
-    },
-    {
-        "id": "TowerTest_RuleName",
-        "id_number": 0,
-        "value": "試験",
-        "translation": "test"
-    },
-    {
-        "id": "Tower_ODB_DisplayDesc",
-        "id_number": 0,
-        "value": "塔コンテンツ(お題バトル試験用)",
-        "translation": "Tower content (for theme battle test)"
-    },
-    {
-        "id": "Tower_ODB_RuleDesc",
-        "id_number": 0,
-        "value": "塔コンテンツの試験結果の確認",
-        "translation": "Confirmation of test results of tower contents"
-    },
-    {
-        "id": "Tower_ODB_RuleName",
-        "id_number": 0,
-        "value": "試験",
-        "translation": "test"
-    },
-    {
-        "id": "BattleRoom_DisplayDesc",
-        "id_number": 0,
-        "value": "バトルチェック用ダンジョン。\n確認会のときに使用",
-        "translation": "Battle check dungeon.\nUsed at confirmation meeting"
-    },
-    {
-        "id": "BattleRoom_RuleDesc",
-        "id_number": 0,
-        "value": "バトルチェック用のダンジョン",
-        "translation": "Dungeon for battle check"
-    },
-    {
-        "id": "BattleRoom_RuleName",
-        "id_number": 0,
-        "value": "バトルチェック",
-        "translation": "Battle check"
+        "id_number": -1,
+        "value": "ボス討伐",
+        "translation": ""
     },
     {
         "id": "GDI_TOP_DisplayDesc",
-        "id_number": 0,
+        "id_number": -1,
         "value": "トレーニングマップの説明",
-        "translation": "Training map description"
+        "translation": ""
     },
     {
         "id": "GDI_TOP_RuleDesc",
-        "id_number": 0,
+        "id_number": -1,
         "value": "動きや戦い方を習得せよ！",
-        "translation": "Learn how to move and fight!"
+        "translation": ""
     },
     {
         "id": "GDI_TOP_RuleName",
-        "id_number": 0,
+        "id_number": -1,
         "value": "トレーニング",
-        "translation": "training"
+        "translation": ""
+    },
+    {
+        "id": "cat_dng009_DisplayDesc",
+        "id_number": -1,
+        "value": "※パーティプレイ推奨\nドラゴンの爪で抉られたかのような深い峡谷地帯。\n複雑に入り組んだ谷と崖が行く手を阻む。\n周囲の地形や足元に気を配りつつ、着実にエネミーを退けていくことが攻略のカギ。\n激しい音を立てながら流れ落ちる滝は迫力に満ち、それこそ荒々しい竜の姿に例えられている。",
+        "translation": ""
+    },
+    {
+        "id": "cat_dng009_RuleDesc",
+        "id_number": -1,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "cat_dng009_RuleName",
+        "id_number": -1,
+        "value": "ボス撃破",
+        "translation": ""
+    },
+    {
+        "id": "cat_dng015_DisplayDesc",
+        "id_number": -1,
+        "value": "長い長い年月を経て作られた巨大な虫塚。\n内部は広々とした空洞となっているため、亜人など虫以外にもモンスターが棲みついている。\n壁や床は岩のように固く、人の手で崩すことは到底できないが、最奥部には、非常に強力で危険なモンスターの存在が確認されている。",
+        "translation": ""
+    },
+    {
+        "id": "cat_dng015_RuleDesc",
+        "id_number": -1,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "cat_dng015_RuleName",
+        "id_number": -1,
+        "value": "ボス討伐",
+        "translation": ""
+    },
+    {
+        "id": "RockDungeon_DisplayDesc",
+        "id_number": -1,
+        "value": "汎用ダンジョン(試験用)",
+        "translation": ""
+    },
+    {
+        "id": "RockDungeon_RuleDesc",
+        "id_number": -1,
+        "value": "汎用ダンジョンの試験結果の確認",
+        "translation": ""
+    },
+    {
+        "id": "RockDungeon_RuleName",
+        "id_number": -1,
+        "value": "試験",
+        "translation": ""
+    },
+    {
+        "id": "cat_dng009_H_DisplayDesc",
+        "id_number": -1,
+        "value": "※パーティプレイ推奨\nドラゴンの爪で抉られたかのような深い峡谷地帯。\n複雑に入り組んだ谷と崖が行く手を阻む。\n周囲の地形や足元に気を配りつつ、着実にエネミーを退けていくことが攻略のカギ。\n激しい音を立てながら流れ落ちる滝は迫力に満ち、それこそ荒々しい竜の姿に例えられている。",
+        "translation": ""
+    },
+    {
+        "id": "cat_dng009_H_RuleDesc",
+        "id_number": -1,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "cat_dng009_H_RuleName",
+        "id_number": -1,
+        "value": "ボス討伐",
+        "translation": ""
+    },
+    {
+        "id": "cat_dng015_H_DisplayDesc",
+        "id_number": -1,
+        "value": "※パーティプレイ推奨\n長い長い年月を経て作られた巨大な虫塚。\n内部は広々とした空洞となっているため、亜人など虫以外にもモンスターが棲みついている。\n壁や床は岩のように固く、人の手で崩すことは到底できないが、最奥部には、非常に強力で危険なモンスターの存在が確認されている。",
+        "translation": ""
+    },
+    {
+        "id": "cat_dng015_H_RuleDesc",
+        "id_number": -1,
+        "value": "制限時間以内にボスを討伐せよ！",
+        "translation": ""
+    },
+    {
+        "id": "cat_dng015_H_RuleName",
+        "id_number": -1,
+        "value": "ボス討伐",
+        "translation": ""
     }
 ]

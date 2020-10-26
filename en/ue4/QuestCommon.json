@@ -86,7 +86,7 @@
     {
         "id": "15",
         "id_number": 15,
-        "value": "Can't report. \n (Please check your bag)",
+        "value": "報告できません。\n（バッグを確認してください）",
         "translation": ""
     },
     {
@@ -152,13 +152,7 @@
     {
         "id": "26",
         "id_number": 26,
-        "value": "冒険ランク{Rank}以上",
-        "translation": "Adventure rank {Rank} or higher"
-    },
-    {
-        "id": "27",
-        "id_number": 27,
-        "value": "NextMainQuest",
-        "translation": "NextMainQuest"
+        "value": "魂ランク{Rank}以上",
+        "translation": ""
     }
 ]
