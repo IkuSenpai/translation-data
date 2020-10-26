@@ -3,246 +3,246 @@
         "id": "1",
         "id_number": 1,
         "value": "解像度の設定",
-        "translation": ""
+        "translation": "Resolution setting"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "ウィンドウ",
-        "translation": ""
+        "translation": "Windowed"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "フルスクリーン",
-        "translation": ""
+        "translation": "Full Screen"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "仮想フルスクリーン",
-        "translation": ""
+        "translation": "Virtual Full Screen"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "グラフィック設定",
-        "translation": ""
+        "translation": "Graphics settings"
     },
     {
         "id": "100",
         "id_number": 100,
         "value": "スケーリング解像度",
-        "translation": ""
+        "translation": "Scaling resolution"
     },
     {
         "id": "101",
         "id_number": 101,
         "value": "表示距離",
-        "translation": ""
+        "translation": "Display Distance"
     },
     {
         "id": "102",
         "id_number": 102,
         "value": "アンチエイリアシング",
-        "translation": ""
+        "translation": "Antialiasing"
     },
     {
         "id": "103",
         "id_number": 103,
         "value": "ポストプロセス",
-        "translation": ""
+        "translation": "Post Process"
     },
     {
         "id": "104",
         "id_number": 104,
         "value": "シャドウ",
-        "translation": ""
+        "translation": "Shadow"
     },
     {
         "id": "105",
         "id_number": 105,
         "value": "テクスチャ",
-        "translation": ""
+        "translation": "Texture"
     },
     {
         "id": "106",
         "id_number": 106,
         "value": "エフェクト",
-        "translation": ""
+        "translation": "Effect"
     },
     {
         "id": "107",
         "id_number": 107,
         "value": "草の量",
-        "translation": ""
+        "translation": "Grass Density"
     },
     {
         "id": "108",
         "id_number": 108,
         "value": "LOD",
-        "translation": ""
+        "translation": "LOD"
     },
     {
         "id": "200",
         "id_number": 200,
         "value": "最高画質",
-        "translation": ""
+        "translation": "Highest quality"
     },
     {
         "id": "201",
         "id_number": 201,
         "value": "高画質",
-        "translation": ""
+        "translation": "High quality"
     },
     {
         "id": "202",
         "id_number": 202,
         "value": "中画質",
-        "translation": ""
+        "translation": "Medium quality"
     },
     {
         "id": "203",
         "id_number": 203,
         "value": "低画質",
-        "translation": ""
+        "translation": "Low quality"
     },
     {
         "id": "204",
         "id_number": 204,
         "value": "カスタム",
-        "translation": ""
+        "translation": "Custom"
     },
     {
         "id": "210",
         "id_number": 210,
         "value": "無制限",
-        "translation": ""
+        "translation": "Unlimited"
     },
     {
         "id": "211",
         "id_number": 211,
         "value": "30FPS",
-        "translation": ""
+        "translation": "30FPS"
     },
     {
         "id": "212",
         "id_number": 212,
         "value": "60FPS",
-        "translation": ""
+        "translation": "60FPS"
     },
     {
         "id": "213",
         "id_number": 213,
         "value": "120FPS",
-        "translation": ""
+        "translation": "120FPS"
     },
     {
         "id": "500",
         "id_number": 500,
         "value": "プリセット",
-        "translation": ""
+        "translation": "Preset"
     },
     {
         "id": "501",
         "id_number": 501,
         "value": "詳細設定",
-        "translation": ""
+        "translation": "Advanced Setting"
     },
     {
         "id": "502",
         "id_number": 502,
         "value": "メインディスプレイ選択",
-        "translation": ""
+        "translation": "Main display selection"
     },
     {
         "id": "503",
         "id_number": 503,
         "value": "スクリーンモード設定",
-        "translation": ""
+        "translation": "Screen mode setting"
     },
     {
         "id": "504",
         "id_number": 504,
         "value": "リフレッシュレート設定",
-        "translation": ""
+        "translation": "Refresh rate setting"
     },
     {
         "id": "505",
         "id_number": 505,
         "value": "キャラクター表示限界数",
-        "translation": ""
+        "translation": "Character display limit"
     },
     {
         "id": "506",
         "id_number": 506,
         "value": "ミニマップの通過度",
-        "translation": ""
+        "translation": "Mini-map pass"
     },
     {
         "id": "507",
         "id_number": 507,
         "value": "ガンマ値の設定",
-        "translation": ""
+        "translation": "Gamma value setting"
     },
     {
         "id": "508",
         "id_number": 508,
         "value": "フライテキストの表示",
-        "translation": ""
+        "translation": "Display fly text"
     },
     {
         "id": "509",
         "id_number": 509,
         "value": "FPSを表示する",
-        "translation": ""
+        "translation": "Show FPS"
     },
     {
         "id": "510",
         "id_number": 510,
         "value": "FPSの最大レートの制限",
-        "translation": ""
+        "translation": "Maximum FPS rate limit"
     },
     {
         "id": "800",
         "id_number": 800,
         "value": "この画面サイズを適用しますか？{sec}秒で元に戻ります",
-        "translation": ""
+        "translation": "Do you want to apply this screen size? It will return in {sec} seconds"
     },
     {
         "id": "998",
         "id_number": 998,
         "value": "適用",
-        "translation": ""
+        "translation": "Application"
     },
     {
         "id": "999",
         "id_number": 999,
         "value": "キャンセル",
-        "translation": ""
+        "translation": "Cancel"
     },
     {
         "id": "600",
         "id_number": 600,
         "value": "戦闘エフェクト表示設定",
-        "translation": ""
+        "translation": "Combat effect display settings"
     },
     {
         "id": "601",
         "id_number": 601,
         "value": "全員",
-        "translation": ""
+        "translation": "Everyone"
     },
     {
         "id": "602",
         "id_number": 602,
         "value": "パーティのみ",
-        "translation": ""
+        "translation": "Party only"
     },
     {
         "id": "603",
         "id_number": 603,
         "value": "自身のみ",
-        "translation": ""
+        "translation": "Only myself"
     }
 ]
