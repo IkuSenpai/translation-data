@@ -3,246 +3,246 @@
         "id": "1",
         "id_number": 1,
         "value": "お気に入りに登録",
-        "translation": ""
+        "translation": "Add to favorites"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "プロフィール",
-        "translation": ""
+        "translation": "Profile"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "パーティに招待",
-        "translation": ""
+        "translation": "Invite to party"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "コミュニケート",
-        "translation": ""
+        "translation": "Communicate"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "フォローリスト",
-        "translation": ""
+        "translation": "Follow list"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "フォロワーリスト",
-        "translation": ""
+        "translation": "Follower list"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "ブラックリスト",
-        "translation": ""
+        "translation": "blacklist"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "プレイヤーサーチ",
-        "translation": ""
+        "translation": "Player search"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "設定",
-        "translation": ""
+        "translation": "Setting"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "ブラックリスト解除",
-        "translation": ""
+        "translation": "Unblacklist"
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "オフライン",
-        "translation": ""
+        "translation": "Offline"
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "フォローを解除しました",
-        "translation": ""
+        "translation": "Unfollowed"
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "お気に入りのみ表示",
-        "translation": ""
+        "translation": "Show only favorites"
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "全て表示",
-        "translation": ""
+        "translation": "Show all"
     },
     {
         "id": "15",
         "id_number": 15,
         "value": "フォローしているプレイヤーを表示します",
-        "translation": ""
+        "translation": "Show the players you are following"
     },
     {
         "id": "17",
         "id_number": 17,
         "value": "ブラックリストに登録したプレイヤーを表示します",
-        "translation": ""
+        "translation": "Shows blacklisted players"
     },
     {
         "id": "18",
         "id_number": 18,
         "value": "検索したプレイヤーが表示されます",
-        "translation": ""
+        "translation": "The searched player is displayed"
     },
     {
         "id": "19",
         "id_number": 19,
         "value": "条件に一致するプレイヤーが存在しませんでした",
-        "translation": ""
+        "translation": "There was no player that matched the conditions"
     },
     {
         "id": "20",
         "id_number": 20,
         "value": "ブラックリストから解除しますか？",
-        "translation": ""
+        "translation": "Do you want to remove it from the blacklist?"
     },
     {
         "id": "23",
         "id_number": 23,
         "value": "フォロー中",
-        "translation": ""
+        "translation": "Following"
     },
     {
         "id": "24",
         "id_number": 24,
         "value": "フォローされています",
-        "translation": ""
+        "translation": "Being followed"
     },
     {
         "id": "25",
         "id_number": 25,
         "value": "プレイヤーネーム",
-        "translation": ""
+        "translation": "Player's name"
     },
     {
         "id": "26",
         "id_number": 26,
         "value": "ID",
-        "translation": ""
+        "translation": "ID"
     },
     {
         "id": "27",
         "id_number": 27,
         "value": "オンラインのみ",
-        "translation": ""
+        "translation": "Online only"
     },
     {
         "id": "28",
         "id_number": 28,
         "value": "クラス",
-        "translation": ""
+        "translation": "Class"
     },
     {
         "id": "29",
         "id_number": 29,
         "value": "ムードアイコン",
-        "translation": ""
+        "translation": "Mood icon"
     },
     {
         "id": "30",
         "id_number": 30,
         "value": "条件をリセット",
-        "translation": ""
+        "translation": "Reset conditions"
     },
     {
         "id": "31",
         "id_number": 31,
         "value": "サーチ",
-        "translation": ""
+        "translation": "Search"
     },
     {
         "id": "32",
         "id_number": 32,
         "value": "再サーチ",
-        "translation": ""
+        "translation": "Research"
     },
     {
         "id": "33",
         "id_number": 33,
         "value": "人のプレイヤーが見つかりました",
-        "translation": ""
+        "translation": "Found 1 player"
     },
     {
         "id": "34",
         "id_number": 34,
         "value": "フォローしているお気に入りプレイヤーを表示します",
-        "translation": ""
+        "translation": "Show your favorite players you are following"
     },
     {
         "id": "35",
         "id_number": 35,
         "value": "Lv.",
-        "translation": ""
+        "translation": "Lv."
     },
     {
         "id": "100",
         "id_number": 100,
         "value": "Follow List",
-        "translation": ""
+        "translation": "Follow List"
     },
     {
         "id": "101",
         "id_number": 101,
         "value": "Follower List",
-        "translation": ""
+        "translation": "Follower List"
     },
     {
         "id": "102",
         "id_number": 102,
         "value": "Black List",
-        "translation": ""
+        "translation": "Black List"
     },
     {
         "id": "103",
         "id_number": 103,
         "value": "Character Search",
-        "translation": ""
+        "translation": "Character Search"
     },
     {
         "id": "104",
         "id_number": 104,
         "value": "My Profile",
-        "translation": ""
+        "translation": "My Profile"
     },
     {
         "id": "110",
         "id_number": 110,
         "value": "リストを選択するとプロフィールを表示できます",
-        "translation": ""
+        "translation": "You can view your profile by selecting a list"
     },
     {
         "id": "111",
         "id_number": 111,
         "value": "検索条件を入力してください",
-        "translation": ""
+        "translation": "Please enter search conditions"
     },
     {
         "id": "105",
         "id_number": 105,
         "value": "Mail Box",
-        "translation": ""
+        "translation": "Mail Box"
     },
     {
         "id": "36",
         "id_number": 36,
         "value": "メール",
-        "translation": ""
+        "translation": "Mail"
     }
 ]
