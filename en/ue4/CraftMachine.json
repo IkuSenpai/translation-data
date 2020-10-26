@@ -3,42 +3,42 @@
         "id": "1",
         "id_number": 1,
         "value": "クラフトマシーン",
-        "translation": ""
+        "translation": "Craft machine"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "エングラムの力を使い、武器やアイテムの作成や、武器の強化を行います。",
-        "translation": ""
+        "translation": "Use the power of engrams to create weapons and items, and strengthen weapons."
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "クラフト",
-        "translation": ""
+        "translation": "Craft"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "武器やアイテムの作成を行います。\n作成には特定の素材やレシピ、スキルが必要です。",
-        "translation": ""
+        "translation": "Create weapons and items.\nCreating requires specific ingredients, recipes, and skills."
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "武器強化",
-        "translation": ""
+        "translation": "Weapon enhancement"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "武器の強化を行います。\n武器の【レアリティ（仮）】によって強化できる回数が異なります。",
-        "translation": ""
+        "translation": "Weapons will be strengthened.\nThe number of times you can strengthen depends on the [Rarity (provisional)] of the weapon."
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "やめる",
-        "translation": ""
+        "translation": "Stop"
     }
 ]
