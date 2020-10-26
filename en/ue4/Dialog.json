@@ -3,42 +3,42 @@
         "id": "1",
         "id_number": 1,
         "value": "OK",
-        "translation": ""
+        "translation": "OK"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "はい",
-        "translation": ""
+        "translation": "Yes"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "いいえ",
-        "translation": ""
+        "translation": "No"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "Cancel",
-        "translation": ""
+        "translation": "Cancel"
     },
     {
         "id": "100",
         "id_number": 100,
         "value": "{ItemName}を捨てますか？",
-        "translation": ""
+        "translation": "Do you want to discard {ItemName}?"
     },
     {
         "id": "101",
         "id_number": 101,
         "value": "{ItemName}を捨てました",
-        "translation": ""
+        "translation": "Discarded {ItemName}"
     },
     {
         "id": "102",
         "id_number": 102,
         "value": "{ItemName}は装備中です",
-        "translation": ""
+        "translation": "{ItemName} is equipped"
     }
 ]
