@@ -3,132 +3,132 @@
         "id": "0",
         "id_number": 0,
         "value": "Hat",
-        "translation": ""
+        "translation": "Hat"
     },
     {
         "id": "1",
         "id_number": 1,
         "value": "Upper",
-        "translation": ""
+        "translation": "Upper"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "Lower",
-        "translation": ""
+        "translation": "Lower"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "Gloves",
-        "translation": ""
+        "translation": "Gloves"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "Shoes",
-        "translation": ""
+        "translation": "Shoes"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "Accessory1",
-        "translation": ""
+        "translation": "Accessory1"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "Accessory2",
-        "translation": ""
+        "translation": "Accessory2"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "Accessory3",
-        "translation": ""
+        "translation": "Accessory3"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "Accessory4",
-        "translation": ""
+        "translation": "Accessory4"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "衣装",
-        "translation": ""
+        "translation": "Costume"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "彩度",
-        "translation": ""
+        "translation": "Saturation"
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "明度",
-        "translation": ""
+        "translation": "Brightness"
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "リセット",
-        "translation": ""
+        "translation": "Reset"
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "以下が不足しているため、決定できません。",
-        "translation": ""
+        "translation": "The following are missing and cannot be determined."
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "-所持ルーノ",
-        "translation": ""
+        "translation": "-Possessed Luno"
     },
     {
         "id": "15",
         "id_number": 15,
         "value": "-必要アイテム",
-        "translation": ""
+        "translation": "-Required items"
     },
     {
         "id": "16",
         "id_number": 16,
         "value": "アイテムとルーノを消費して、アバターに設定を反映しますか？",
-        "translation": ""
+        "translation": "Do you want to consume items and Luno to reflect your settings on your avatar?"
     },
     {
         "id": "17",
         "id_number": 17,
         "value": "うまく染色できました。\n染色を続けますか？",
-        "translation": ""
+        "translation": "I was able to dye it well.\nDo you want to continue dyeing?"
     },
     {
         "id": "18",
         "id_number": 18,
         "value": "設定を反映させずに、前の画面に戻りますか？\n（アイテムとルーノは消費されません）",
-        "translation": ""
+        "translation": "Do you want to return to the previous screen without reflecting the settings?\n(Items and Luno are not consumed)"
     },
     {
         "id": "19",
         "id_number": 19,
         "value": "reserve",
-        "translation": ""
+        "translation": "reserve"
     },
     {
         "id": "20",
         "id_number": 20,
         "value": "Accessory4",
-        "translation": ""
+        "translation": "Accessory4"
     },
     {
         "id": "21",
         "id_number": 21,
         "value": "Accessory4",
-        "translation": ""
+        "translation": "Accessory4"
     }
 ]
