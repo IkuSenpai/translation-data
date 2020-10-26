@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "フォローされています",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "フォロー開始",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "フォロー解除",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "フォロワー",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "プロフィールを見る",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "パーティに誘う",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "ジェスチャー",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "トレード",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "ギルド情報",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "ギルドに勧誘する",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "人",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "プライベートトーク",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "{CharacterName}をフォローしました。",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "{CharacterName}をフォロー解除しました。",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "gesture",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "追従する",
+        "translation": ""
+    }
+]

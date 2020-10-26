@@ -1,0 +1,14 @@
+[
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "{commonskillname}がレベルアップしました",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "{skillname}を取得しました。",
+        "translation": ""
+    }
+]

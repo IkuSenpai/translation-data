@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "IDまたはパスワードが間違っています",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "ゲーム開始",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "オプション",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "終了",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "IDとパスワードを入力して下さい",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "ID",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "PASS",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "次回から入力を省略",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "ログイン",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "新規登録",
+        "translation": ""
+    }
+]

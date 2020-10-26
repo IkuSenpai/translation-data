@@ -1,0 +1,32 @@
+[
+    {
+        "id": "None",
+        "id_number": 1,
+        "value": "お知らせ",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 2,
+        "value": "コンフィグ",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 3,
+        "value": "プレイガイド",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 4,
+        "value": "サポート",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 5,
+        "value": "ライセンス",
+        "translation": ""
+    }
+]

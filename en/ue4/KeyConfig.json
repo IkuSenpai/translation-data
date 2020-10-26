@@ -1,0 +1,608 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "----",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "移動・前",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "移動・左",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "移動・右",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "移動・後",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "ジャンプ",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "アクション・納刀",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "通常攻撃",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "レギュラースキル",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "タクティカルスキル１",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "タクティカルスキル２",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "アルティメットスキル",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "回避/ダッシュ",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "リロード",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "コマンドメニュー",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "カメラリセット",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "トークモード",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "トークモード終了",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "パレット1",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "パレット2",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "パレット3",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "パレット4",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "パレット5",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "パレット6",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "パレット7",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "パレット8",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "マウス感度",
+        "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "パッド操作スティック入れ替え",
+        "translation": ""
+    },
+    {
+        "id": "29",
+        "id_number": 29,
+        "value": "照準感度 垂直",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "照準感度 水平",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "イマジンスキル１",
+        "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "キーボード&マウス",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "ゲームパッド",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "移動",
+        "translation": ""
+    },
+    {
+        "id": "103",
+        "id_number": 103,
+        "value": "攻撃",
+        "translation": ""
+    },
+    {
+        "id": "104",
+        "id_number": 104,
+        "value": "補助",
+        "translation": ""
+    },
+    {
+        "id": "105",
+        "id_number": 105,
+        "value": "パレット",
+        "translation": ""
+    },
+    {
+        "id": "106",
+        "id_number": 106,
+        "value": "その他",
+        "translation": ""
+    },
+    {
+        "id": "107",
+        "id_number": 107,
+        "value": "マウス",
+        "translation": ""
+    },
+    {
+        "id": "108",
+        "id_number": 108,
+        "value": "パッド",
+        "translation": ""
+    },
+    {
+        "id": "150",
+        "id_number": 150,
+        "value": "ターゲットアシスト強度",
+        "translation": ""
+    },
+    {
+        "id": "151",
+        "id_number": 151,
+        "value": "カメラアシスト強度",
+        "translation": ""
+    },
+    {
+        "id": "152",
+        "id_number": 152,
+        "value": "トラッキングアシスト強度",
+        "translation": ""
+    },
+    {
+        "id": "200",
+        "id_number": 200,
+        "value": "すべてのクラス",
+        "translation": ""
+    },
+    {
+        "id": "201",
+        "id_number": 201,
+        "value": "通常",
+        "translation": ""
+    },
+    {
+        "id": "202",
+        "id_number": 202,
+        "value": "反転",
+        "translation": ""
+    },
+    {
+        "id": "203",
+        "id_number": 203,
+        "value": "マウス入力反転 水平",
+        "translation": ""
+    },
+    {
+        "id": "204",
+        "id_number": 204,
+        "value": "マウス入力反転 垂直",
+        "translation": ""
+    },
+    {
+        "id": "205",
+        "id_number": 205,
+        "value": "パッド入力反転 水平",
+        "translation": ""
+    },
+    {
+        "id": "206",
+        "id_number": 206,
+        "value": "パッド入力反転 垂直",
+        "translation": ""
+    },
+    {
+        "id": "300",
+        "id_number": 300,
+        "value": "初期設定に戻す",
+        "translation": ""
+    },
+    {
+        "id": "301",
+        "id_number": 301,
+        "value": "変更を適用する",
+        "translation": ""
+    },
+    {
+        "id": "302",
+        "id_number": 302,
+        "value": "変更を取り消す",
+        "translation": ""
+    },
+    {
+        "id": "303",
+        "id_number": 303,
+        "value": "すべてのクラス設定に戻す",
+        "translation": ""
+    },
+    {
+        "id": "400",
+        "id_number": 400,
+        "value": "設定クラス",
+        "translation": ""
+    },
+    {
+        "id": "500",
+        "id_number": 500,
+        "value": "すべてのクラスの操作設定を初期化しますか？",
+        "translation": ""
+    },
+    {
+        "id": "501",
+        "id_number": 501,
+        "value": "設定が変更されています、保存しますか？",
+        "translation": ""
+    },
+    {
+        "id": "502",
+        "id_number": 502,
+        "value": "設定されていない項目があります、よろしいですか？",
+        "translation": ""
+    },
+    {
+        "id": "503",
+        "id_number": 503,
+        "value": "すべてのクラス設定を使用しますか？",
+        "translation": ""
+    },
+    {
+        "id": "504",
+        "id_number": 504,
+        "value": "変更を取り消しますか？",
+        "translation": ""
+    },
+    {
+        "id": "505",
+        "id_number": 505,
+        "value": "変更を取り消しました",
+        "translation": ""
+    },
+    {
+        "id": "506",
+        "id_number": 506,
+        "value": "操作設定を適用しました",
+        "translation": ""
+    },
+    {
+        "id": "507",
+        "id_number": 507,
+        "value": "すべての操作設定を初期化しました",
+        "translation": ""
+    },
+    {
+        "id": "550",
+        "id_number": 550,
+        "value": "設定したいキーまたはボタンを押下してください",
+        "translation": ""
+    },
+    {
+        "id": "551",
+        "id_number": 551,
+        "value": "設定できないキーです",
+        "translation": ""
+    },
+    {
+        "id": "800",
+        "id_number": 800,
+        "value": "{ActionName}を設定してください",
+        "translation": ""
+    },
+    {
+        "id": "999",
+        "id_number": 999,
+        "value": "設定不可",
+        "translation": ""
+    },
+    {
+        "id": "600",
+        "id_number": 600,
+        "value": "キー設定",
+        "translation": ""
+    },
+    {
+        "id": "601",
+        "id_number": 601,
+        "value": "その他設定",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "ヒールスキル",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "タクティカルスキル１",
+        "translation": ""
+    },
+    {
+        "id": "34",
+        "id_number": 34,
+        "value": "タクティカルスキル２",
+        "translation": ""
+    },
+    {
+        "id": "35",
+        "id_number": 35,
+        "value": "タクティカルスキル３",
+        "translation": ""
+    },
+    {
+        "id": "36",
+        "id_number": 36,
+        "value": "タクティカルスキル４",
+        "translation": ""
+    },
+    {
+        "id": "37",
+        "id_number": 37,
+        "value": "補助ボタン1",
+        "translation": ""
+    },
+    {
+        "id": "38",
+        "id_number": 38,
+        "value": "補助ボタン2",
+        "translation": ""
+    },
+    {
+        "id": "39",
+        "id_number": 39,
+        "value": "歩き",
+        "translation": ""
+    },
+    {
+        "id": "40",
+        "id_number": 40,
+        "value": "ロックオン",
+        "translation": ""
+    },
+    {
+        "id": "41",
+        "id_number": 41,
+        "value": "パレット次",
+        "translation": ""
+    },
+    {
+        "id": "42",
+        "id_number": 42,
+        "value": "パレット前",
+        "translation": ""
+    },
+    {
+        "id": "43",
+        "id_number": 43,
+        "value": "イマジンスキル2",
+        "translation": ""
+    },
+    {
+        "id": "44",
+        "id_number": 44,
+        "value": "ロックオン切り替え・右",
+        "translation": ""
+    },
+    {
+        "id": "45",
+        "id_number": 45,
+        "value": "ロックオン切り替え・左",
+        "translation": ""
+    },
+    {
+        "id": "109",
+        "id_number": 109,
+        "value": "クイックアクセス",
+        "translation": ""
+    },
+    {
+        "id": "46",
+        "id_number": 46,
+        "value": "キャラクターを開く",
+        "translation": ""
+    },
+    {
+        "id": "47",
+        "id_number": 47,
+        "value": "バッグを開く",
+        "translation": ""
+    },
+    {
+        "id": "48",
+        "id_number": 48,
+        "value": "クエストを開く",
+        "translation": ""
+    },
+    {
+        "id": "49",
+        "id_number": 49,
+        "value": "マップを開く",
+        "translation": ""
+    },
+    {
+        "id": "50",
+        "id_number": 50,
+        "value": "図鑑を開く",
+        "translation": ""
+    },
+    {
+        "id": "51",
+        "id_number": 51,
+        "value": "ダンジョンメニューを開く",
+        "translation": ""
+    },
+    {
+        "id": "52",
+        "id_number": 52,
+        "value": "パーティメニューを開く",
+        "translation": ""
+    },
+    {
+        "id": "53",
+        "id_number": 53,
+        "value": "ギルドメニューを開く",
+        "translation": ""
+    },
+    {
+        "id": "54",
+        "id_number": 54,
+        "value": "ガシャ",
+        "translation": ""
+    },
+    {
+        "id": "55",
+        "id_number": 55,
+        "value": "オプションを開く",
+        "translation": ""
+    },
+    {
+        "id": "56",
+        "id_number": 56,
+        "value": "フォトモード",
+        "translation": ""
+    },
+    {
+        "id": "57",
+        "id_number": 57,
+        "value": "ＨＵＤの表示切替",
+        "translation": ""
+    },
+    {
+        "id": "207",
+        "id_number": 207,
+        "value": "ダッシュモードの変更",
+        "translation": ""
+    },
+    {
+        "id": "208",
+        "id_number": 208,
+        "value": "ホールド",
+        "translation": ""
+    },
+    {
+        "id": "209",
+        "id_number": 209,
+        "value": "トグル",
+        "translation": ""
+    },
+    {
+        "id": "58",
+        "id_number": 58,
+        "value": "オートラン",
+        "translation": ""
+    },
+    {
+        "id": "59",
+        "id_number": 59,
+        "value": "コミュニケート",
+        "translation": ""
+    }
+]

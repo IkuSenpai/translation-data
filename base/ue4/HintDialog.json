@@ -1,0 +1,80 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "<key action=\"Ok\">で次頁へ",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "<key action=\"Ok\">で閉じる",
+        "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "マイキャラクター",
+        "translation": ""
+    },
+    {
+        "id": "110",
+        "id_number": 110,
+        "value": "所持品",
+        "translation": ""
+    },
+    {
+        "id": "120",
+        "id_number": 120,
+        "value": "クエスト",
+        "translation": ""
+    },
+    {
+        "id": "130",
+        "id_number": 130,
+        "value": "マップ",
+        "translation": ""
+    },
+    {
+        "id": "140",
+        "id_number": 140,
+        "value": "コミュニケート",
+        "translation": ""
+    },
+    {
+        "id": "150",
+        "id_number": 150,
+        "value": "ジェスチャー",
+        "translation": ""
+    },
+    {
+        "id": "160",
+        "id_number": 160,
+        "value": "ダンジョン",
+        "translation": ""
+    },
+    {
+        "id": "170",
+        "id_number": 170,
+        "value": "パーティ",
+        "translation": ""
+    },
+    {
+        "id": "180",
+        "id_number": 180,
+        "value": "オプション",
+        "translation": ""
+    },
+    {
+        "id": "190",
+        "id_number": 190,
+        "value": "ダンジョン",
+        "translation": ""
+    },
+    {
+        "id": "999",
+        "id_number": 999,
+        "value": "ヘルプを表示する",
+        "translation": ""
+    }
+]

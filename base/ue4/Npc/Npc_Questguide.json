@@ -1,0 +1,152 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "今日も元気に依頼をこなしましょう！",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "様々な依頼を斡旋します！\nクエストはご覧になりましたか？",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "クエスト受けませんか？",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "ありがとうございます！",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "またお願いしま～す！",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "わぁ！さすがです！",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "あらら……。\n大丈夫、次がありますよ！",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "え～やめちゃうんですか？",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "やめる",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "会話",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "クエストボード",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "こちらの依頼ですね。\nよろしくお願いします",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "そうですか、残念です。\nまたお願いしますね",
+        "translation": ""
+    },
+    {
+        "id": "103",
+        "id_number": 103,
+        "value": "こちらの依頼ですね。\n激しい戦いになりそうです。お気をつけて",
+        "translation": ""
+    },
+    {
+        "id": "104",
+        "id_number": 104,
+        "value": "そうですか、残念です。\nまたお願いしますね",
+        "translation": ""
+    },
+    {
+        "id": "105",
+        "id_number": 105,
+        "value": "遺跡の中では何が起こるかわかりません。\n難易度の高い依頼です。十分に注意してくださいね",
+        "translation": ""
+    },
+    {
+        "id": "106",
+        "id_number": 106,
+        "value": "そうですか、残念です。\nまたお願いしますね",
+        "translation": ""
+    },
+    {
+        "id": "107",
+        "id_number": 107,
+        "value": "依頼のほうは順調ですか？\n無理をしないでくださいね",
+        "translation": ""
+    },
+    {
+        "id": "108",
+        "id_number": 108,
+        "value": "困ったときは情報を見直しましょう。\nどこかにヒントがあるはずです",
+        "translation": ""
+    },
+    {
+        "id": "109",
+        "id_number": 109,
+        "value": "カメに頼んだほうが早く終わったかしら？",
+        "translation": ""
+    },
+    {
+        "id": "110",
+        "id_number": 110,
+        "value": "すべて達成されたんですね！　すごい！\nあなたにお願いしてよかった！",
+        "translation": ""
+    },
+    {
+        "id": "111",
+        "id_number": 111,
+        "value": "ありがとうございました。\nこれからも頼りにしていますね",
+        "translation": ""
+    },
+    {
+        "id": "112",
+        "id_number": 112,
+        "value": "いいんですよ。これくらいで浮かれてしまうのも\n新人さんの特権ですから",
+        "translation": ""
+    },
+    {
+        "id": "113",
+        "id_number": 113,
+        "value": "すみません。冒険者登録をされていない方に依頼をお出しすることができません。",
+        "translation": ""
+    },
+    {
+        "id": "114",
+        "id_number": 114,
+        "value": "MQ101_030 を完了にすることで\n冒険者登録が完了となります。",
+        "translation": ""
+    }
+]

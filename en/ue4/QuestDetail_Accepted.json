@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "報告する",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "報酬を受取る",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "破棄",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "閉じる",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "報酬",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "選択報酬",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "依頼内容",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "進捗状況",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "依頼詳細",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "受注",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "キャンセル",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "マップ表示",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "報酬",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "貢献度報酬",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "クエスト受注条件",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "達成条件",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "攻略履歴",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "基本報酬",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "GC",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "クエストを破棄します。よろしいですか？",
+        "translation": ""
+    }
+]

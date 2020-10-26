@@ -1,0 +1,248 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "解像度の設定",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "ウィンドウ",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "フルスクリーン",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "仮想フルスクリーン",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "グラフィック設定",
+        "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "スケーリング解像度",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "表示距離",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "アンチエイリアシング",
+        "translation": ""
+    },
+    {
+        "id": "103",
+        "id_number": 103,
+        "value": "ポストプロセス",
+        "translation": ""
+    },
+    {
+        "id": "104",
+        "id_number": 104,
+        "value": "シャドウ",
+        "translation": ""
+    },
+    {
+        "id": "105",
+        "id_number": 105,
+        "value": "テクスチャ",
+        "translation": ""
+    },
+    {
+        "id": "106",
+        "id_number": 106,
+        "value": "エフェクト",
+        "translation": ""
+    },
+    {
+        "id": "107",
+        "id_number": 107,
+        "value": "草の量",
+        "translation": ""
+    },
+    {
+        "id": "108",
+        "id_number": 108,
+        "value": "LOD",
+        "translation": ""
+    },
+    {
+        "id": "200",
+        "id_number": 200,
+        "value": "最高画質",
+        "translation": ""
+    },
+    {
+        "id": "201",
+        "id_number": 201,
+        "value": "高画質",
+        "translation": ""
+    },
+    {
+        "id": "202",
+        "id_number": 202,
+        "value": "中画質",
+        "translation": ""
+    },
+    {
+        "id": "203",
+        "id_number": 203,
+        "value": "低画質",
+        "translation": ""
+    },
+    {
+        "id": "204",
+        "id_number": 204,
+        "value": "カスタム",
+        "translation": ""
+    },
+    {
+        "id": "210",
+        "id_number": 210,
+        "value": "無制限",
+        "translation": ""
+    },
+    {
+        "id": "211",
+        "id_number": 211,
+        "value": "30FPS",
+        "translation": ""
+    },
+    {
+        "id": "212",
+        "id_number": 212,
+        "value": "60FPS",
+        "translation": ""
+    },
+    {
+        "id": "213",
+        "id_number": 213,
+        "value": "120FPS",
+        "translation": ""
+    },
+    {
+        "id": "500",
+        "id_number": 500,
+        "value": "プリセット",
+        "translation": ""
+    },
+    {
+        "id": "501",
+        "id_number": 501,
+        "value": "詳細設定",
+        "translation": ""
+    },
+    {
+        "id": "502",
+        "id_number": 502,
+        "value": "メインディスプレイ選択",
+        "translation": ""
+    },
+    {
+        "id": "503",
+        "id_number": 503,
+        "value": "スクリーンモード設定",
+        "translation": ""
+    },
+    {
+        "id": "504",
+        "id_number": 504,
+        "value": "リフレッシュレート設定",
+        "translation": ""
+    },
+    {
+        "id": "505",
+        "id_number": 505,
+        "value": "キャラクター表示限界数",
+        "translation": ""
+    },
+    {
+        "id": "506",
+        "id_number": 506,
+        "value": "ミニマップの通過度",
+        "translation": ""
+    },
+    {
+        "id": "507",
+        "id_number": 507,
+        "value": "ガンマ値の設定",
+        "translation": ""
+    },
+    {
+        "id": "508",
+        "id_number": 508,
+        "value": "フライテキストの表示",
+        "translation": ""
+    },
+    {
+        "id": "509",
+        "id_number": 509,
+        "value": "FPSを表示する",
+        "translation": ""
+    },
+    {
+        "id": "510",
+        "id_number": 510,
+        "value": "FPSの最大レートの制限",
+        "translation": ""
+    },
+    {
+        "id": "800",
+        "id_number": 800,
+        "value": "この画面サイズを適用しますか？{sec}秒で元に戻ります",
+        "translation": ""
+    },
+    {
+        "id": "998",
+        "id_number": 998,
+        "value": "適用",
+        "translation": ""
+    },
+    {
+        "id": "999",
+        "id_number": 999,
+        "value": "キャンセル",
+        "translation": ""
+    },
+    {
+        "id": "600",
+        "id_number": 600,
+        "value": "戦闘エフェクト表示設定",
+        "translation": ""
+    },
+    {
+        "id": "601",
+        "id_number": 601,
+        "value": "全員",
+        "translation": ""
+    },
+    {
+        "id": "602",
+        "id_number": 602,
+        "value": "パーティのみ",
+        "translation": ""
+    },
+    {
+        "id": "603",
+        "id_number": 603,
+        "value": "自身のみ",
+        "translation": ""
+    }
+]

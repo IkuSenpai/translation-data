@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "個人結果",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "獲得報酬",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "貢献ランキング",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "{Point}PT",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "獲得ポイント",
+        "translation": ""
+    }
+]

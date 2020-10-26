@@ -1,0 +1,50 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "ムードアイコン未設定",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "いつでもパーティＯＫ",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "手伝ってください",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "取り込み中",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "ダンジョン行きましょう",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "フォロー歓迎",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "クエストやろう！",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "手伝います",
+        "translation": ""
+    }
+]

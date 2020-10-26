@@ -1,0 +1,104 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "交換",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "Exchange",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "BC：",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "合計",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "交換アイテム",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": " x {exchange_num}",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "交換するアイテムを選択してください",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "交換済み",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "交換する数が入力されてません",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "コインで交換する",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "コインで交換する\n（現在のクラスでは装備できないアイテムが選択されています）",
+        "translation": ""
+    },
+    {
+        "id": "34",
+        "id_number": 34,
+        "value": "コインが足りません",
+        "translation": ""
+    },
+    {
+        "id": "35",
+        "id_number": 35,
+        "value": "これ以上アイテムを所持できません",
+        "translation": ""
+    },
+    {
+        "id": "36",
+        "id_number": 36,
+        "value": "これ以上武器を所持できません",
+        "translation": ""
+    },
+    {
+        "id": "37",
+        "id_number": 37,
+        "value": "これ以上衣装を所持できません",
+        "translation": ""
+    },
+    {
+        "id": "38",
+        "id_number": 38,
+        "value": "バッグがいっぱいです\nこれ以上所持できません",
+        "translation": ""
+    },
+    {
+        "id": "91",
+        "id_number": 91,
+        "value": "交換に失敗しました",
+        "translation": ""
+    }
+]

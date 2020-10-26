@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "消費アイテム",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "装備品",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "キーアイテム",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "イマジンシード",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "素材アイテム",
+        "translation": ""
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "id": "Summon_I001_01",
+        "id_number": -1,
+        "value": "踏みつけ",
+        "translation": ""
+    },
+    {
+        "id": "Summon_HealingSphere",
+        "id_number": -1,
+        "value": "癒しの祈り",
+        "translation": ""
+    },
+    {
+        "id": "Summon_I005_00",
+        "id_number": -1,
+        "value": "ウリボの癒し",
+        "translation": ""
+    },
+    {
+        "id": "Summon_I006_01",
+        "id_number": -1,
+        "value": "飛びかかり",
+        "translation": ""
+    },
+    {
+        "id": "Summon_I015_00",
+        "id_number": -1,
+        "value": "針を飛ばす",
+        "translation": ""
+    },
+    {
+        "id": "Summon_I014_00",
+        "id_number": -1,
+        "value": "有毒ガス噴射",
+        "translation": ""
+    },
+    {
+        "id": "Summon_I000:19",
+        "id_number": -1,
+        "value": "狙撃",
+        "translation": ""
+    },
+    {
+        "id": "Summon_I000_01",
+        "id_number": -1,
+        "value": "打撃",
+        "translation": ""
+    },
+    {
+        "id": "Summon_I002_00",
+        "id_number": -1,
+        "value": "突進",
+        "translation": ""
+    },
+    {
+        "id": "Summon_I300_00",
+        "id_number": -1,
+        "value": "斬りつけ",
+        "translation": ""
+    },
+    {
+        "id": "Summon_I000:18",
+        "id_number": -1,
+        "value": "連続攻撃",
+        "translation": ""
+    },
+    {
+        "id": "Summon_I003_00",
+        "id_number": -1,
+        "value": "回転攻撃",
+        "translation": ""
+    },
+    {
+        "id": "Summon_I000_02",
+        "id_number": -1,
+        "value": "ファイアボール",
+        "translation": ""
+    },
+    {
+        "id": "Summon_I001_03",
+        "id_number": -1,
+        "value": "タックル",
+        "translation": ""
+    },
+    {
+        "id": "Summon_I002_03",
+        "id_number": -1,
+        "value": "ショックウェーブ ",
+        "translation": ""
+    }
+]

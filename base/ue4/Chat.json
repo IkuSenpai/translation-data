@@ -1,0 +1,146 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "オープン",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "パーティ",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "チーム",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "プライベート",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "システム",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "バトル",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "To:",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "近距離",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "フィールド全域",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "バトルログ",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "システムログ",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "NEW MESSAGE",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "ジェスチャー",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "ID:",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "メイン",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "サブ１",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "サブ２",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "専用ウィンドウ追加",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "専用ウィンドウ削除",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "新着！",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "テキストチャット",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "レイアウトをリセット",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "一致するキャラクターが存在しませんでした",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "検索したキャラクターはオフラインでした",
+        "translation": ""
+    }
+]

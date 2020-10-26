@@ -1,0 +1,50 @@
+[
+    {
+        "id": "None",
+        "id_number": 1,
+        "value": "全般",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 2,
+        "value": "操作設定",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 3,
+        "value": "サウンド",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 4,
+        "value": "グラフィック",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 5,
+        "value": "コミュニケート",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 6,
+        "value": "その他",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 7,
+        "value": "HUD",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 8,
+        "value": "Config",
+        "translation": ""
+    }
+]

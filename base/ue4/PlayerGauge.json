@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "HP",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "ST",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "Lv.",
+        "translation": ""
+    }
+]

@@ -1,0 +1,524 @@
+[
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "ソート",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "名前順",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "攻撃力順",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "レアリティ順",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "Hat",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "Upper",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "Gloves",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "Lower",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "Shoes",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "Accessories",
+        "translation": ""
+    },
+    {
+        "id": "40",
+        "id_number": 40,
+        "value": "非表示",
+        "translation": ""
+    },
+    {
+        "id": "41",
+        "id_number": 41,
+        "value": "？？？",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "武器装備変更エラー",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "装備イマジンシード変更エラー",
+        "translation": ""
+    },
+    {
+        "id": "103",
+        "id_number": 103,
+        "value": "衣装変更エラー",
+        "translation": ""
+    },
+    {
+        "id": "105",
+        "id_number": 105,
+        "value": "獲得した称号情報のロードエラー",
+        "translation": ""
+    },
+    {
+        "id": "106",
+        "id_number": 106,
+        "value": "選択した称号のセーブエラー",
+        "translation": ""
+    },
+    {
+        "id": "200",
+        "id_number": 200,
+        "value": "Status",
+        "translation": ""
+    },
+    {
+        "id": "201",
+        "id_number": 201,
+        "value": "所属ギルド",
+        "translation": ""
+    },
+    {
+        "id": "202",
+        "id_number": 202,
+        "value": "称号",
+        "translation": ""
+    },
+    {
+        "id": "203",
+        "id_number": 203,
+        "value": "Lv.",
+        "translation": ""
+    },
+    {
+        "id": "204",
+        "id_number": 204,
+        "value": "総合力",
+        "translation": ""
+    },
+    {
+        "id": "210",
+        "id_number": 210,
+        "value": "Base",
+        "translation": ""
+    },
+    {
+        "id": "211",
+        "id_number": 211,
+        "value": "筋力",
+        "translation": ""
+    },
+    {
+        "id": "212",
+        "id_number": 212,
+        "value": "耐久力",
+        "translation": ""
+    },
+    {
+        "id": "213",
+        "id_number": 213,
+        "value": "器用さ",
+        "translation": ""
+    },
+    {
+        "id": "214",
+        "id_number": 214,
+        "value": "知力",
+        "translation": ""
+    },
+    {
+        "id": "215",
+        "id_number": 215,
+        "value": "精神力",
+        "translation": ""
+    },
+    {
+        "id": "216",
+        "id_number": 216,
+        "value": "最大HP",
+        "translation": ""
+    },
+    {
+        "id": "220",
+        "id_number": 220,
+        "value": "Attack",
+        "translation": ""
+    },
+    {
+        "id": "221",
+        "id_number": 221,
+        "value": "攻撃力",
+        "translation": ""
+    },
+    {
+        "id": "222",
+        "id_number": 222,
+        "value": "会心発生率",
+        "translation": ""
+    },
+    {
+        "id": "223",
+        "id_number": 223,
+        "value": "会心倍率",
+        "translation": ""
+    },
+    {
+        "id": "230",
+        "id_number": 230,
+        "value": "Defense",
+        "translation": ""
+    },
+    {
+        "id": "231",
+        "id_number": 231,
+        "value": "防御力",
+        "translation": ""
+    },
+    {
+        "id": "232",
+        "id_number": 232,
+        "value": "回復力",
+        "translation": ""
+    },
+    {
+        "id": "240",
+        "id_number": 240,
+        "value": "発動中の効果",
+        "translation": ""
+    },
+    {
+        "id": "241",
+        "id_number": 241,
+        "value": "詳細",
+        "translation": ""
+    },
+    {
+        "id": "250",
+        "id_number": 250,
+        "value": "変更",
+        "translation": ""
+    },
+    {
+        "id": "260",
+        "id_number": 260,
+        "value": "武器",
+        "translation": ""
+    },
+    {
+        "id": "261",
+        "id_number": 261,
+        "value": "クラススキル",
+        "translation": ""
+    },
+    {
+        "id": "262",
+        "id_number": 262,
+        "value": "バトルイマジン",
+        "translation": ""
+    },
+    {
+        "id": "263",
+        "id_number": 263,
+        "value": "アタッチメント",
+        "translation": ""
+    },
+    {
+        "id": "264",
+        "id_number": 264,
+        "value": "イマジンスキル",
+        "translation": ""
+    },
+    {
+        "id": "271",
+        "id_number": 271,
+        "value": "装備変更",
+        "translation": ""
+    },
+    {
+        "id": "274",
+        "id_number": 274,
+        "value": "攻撃力",
+        "translation": ""
+    },
+    {
+        "id": "275",
+        "id_number": 275,
+        "value": "属性",
+        "translation": ""
+    },
+    {
+        "id": "276",
+        "id_number": 276,
+        "value": "アビリティ１",
+        "translation": ""
+    },
+    {
+        "id": "277",
+        "id_number": 277,
+        "value": "アビリティ２",
+        "translation": ""
+    },
+    {
+        "id": "278",
+        "id_number": 278,
+        "value": "アビリティ３",
+        "translation": ""
+    },
+    {
+        "id": "279",
+        "id_number": 279,
+        "value": "アビリティ４",
+        "translation": ""
+    },
+    {
+        "id": "280",
+        "id_number": 280,
+        "value": "変更したい武器を選んでください",
+        "translation": ""
+    },
+    {
+        "id": "281",
+        "id_number": 281,
+        "value": "変更する",
+        "translation": ""
+    },
+    {
+        "id": "282",
+        "id_number": 282,
+        "value": "表示設定",
+        "translation": ""
+    },
+    {
+        "id": "283",
+        "id_number": 283,
+        "value": "絞り込み",
+        "translation": ""
+    },
+    {
+        "id": "284",
+        "id_number": 284,
+        "value": "レア度",
+        "translation": ""
+    },
+    {
+        "id": "285",
+        "id_number": 285,
+        "value": "コモン",
+        "translation": ""
+    },
+    {
+        "id": "286",
+        "id_number": 286,
+        "value": "アンコモン",
+        "translation": ""
+    },
+    {
+        "id": "287",
+        "id_number": 287,
+        "value": "レア",
+        "translation": ""
+    },
+    {
+        "id": "288",
+        "id_number": 288,
+        "value": "エピック",
+        "translation": ""
+    },
+    {
+        "id": "289",
+        "id_number": 289,
+        "value": "レジェンド",
+        "translation": ""
+    },
+    {
+        "id": "290",
+        "id_number": 290,
+        "value": "並び順",
+        "translation": ""
+    },
+    {
+        "id": "291",
+        "id_number": 291,
+        "value": "入手",
+        "translation": ""
+    },
+    {
+        "id": "292",
+        "id_number": 292,
+        "value": "強化度",
+        "translation": ""
+    },
+    {
+        "id": "293",
+        "id_number": 293,
+        "value": "アビリティ数",
+        "translation": ""
+    },
+    {
+        "id": "294",
+        "id_number": 294,
+        "value": "リセット",
+        "translation": ""
+    },
+    {
+        "id": "295",
+        "id_number": 295,
+        "value": "設定する",
+        "translation": ""
+    },
+    {
+        "id": "300",
+        "id_number": 300,
+        "value": "Skill",
+        "translation": ""
+    },
+    {
+        "id": "301",
+        "id_number": 301,
+        "value": "Ability",
+        "translation": ""
+    },
+    {
+        "id": "302",
+        "id_number": 302,
+        "value": "インターバル",
+        "translation": ""
+    },
+    {
+        "id": "303",
+        "id_number": 303,
+        "value": "はずす",
+        "translation": ""
+    },
+    {
+        "id": "304",
+        "id_number": 304,
+        "value": "効果値",
+        "translation": ""
+    },
+    {
+        "id": "305",
+        "id_number": 305,
+        "value": "アビリティ",
+        "translation": ""
+    },
+    {
+        "id": "306",
+        "id_number": 306,
+        "value": "変更したいバトルイマジンを選んでください",
+        "translation": ""
+    },
+    {
+        "id": "307",
+        "id_number": 307,
+        "value": "変更したいアタッチメントイマジンを選んでください",
+        "translation": ""
+    },
+    {
+        "id": "308",
+        "id_number": 308,
+        "value": "sec.",
+        "translation": ""
+    },
+    {
+        "id": "309",
+        "id_number": 309,
+        "value": "【】",
+        "translation": ""
+    },
+    {
+        "id": "400",
+        "id_number": 400,
+        "value": "Costume",
+        "translation": ""
+    },
+    {
+        "id": "401",
+        "id_number": 401,
+        "value": "衣装を変更します",
+        "translation": ""
+    },
+    {
+        "id": "500",
+        "id_number": 500,
+        "value": "Skill",
+        "translation": ""
+    },
+    {
+        "id": "501",
+        "id_number": 501,
+        "value": "現在習得している冒険者アビリティです",
+        "translation": ""
+    },
+    {
+        "id": "502",
+        "id_number": 502,
+        "value": "クラスレベル{level}で習得",
+        "translation": ""
+    },
+    {
+        "id": "800",
+        "id_number": 800,
+        "value": "AutoStamp",
+        "translation": ""
+    },
+    {
+        "id": "801",
+        "id_number": 801,
+        "value": "自動で表示されるスタンプを設定します",
+        "translation": ""
+    },
+    {
+        "id": "1001",
+        "id_number": 1001,
+        "value": "装備スキル情報の読み込みに失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "1002",
+        "id_number": 1002,
+        "value": "装備スキル情報の保存に失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "1003",
+        "id_number": 1003,
+        "value": "スキルの装備変更に失敗しました",
+        "translation": ""
+    }
+]

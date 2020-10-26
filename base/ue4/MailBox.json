@@ -1,0 +1,134 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "未読",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "削除",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "受け取り",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "保護",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "保護解除",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "転送",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "ギルドから",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "相互フォローから",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "詳細",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "すべて選択",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "選択を既読",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "選択を削除",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "選択を保管",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "保管から削除する",
+        "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "{character_name}に転送します。よろしいですか？",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "受け取っていないアイテムが含まれています。よろしいですか",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "選択したファイルを削除します、よろしいですか",
+        "translation": ""
+    },
+    {
+        "id": "103",
+        "id_number": 103,
+        "value": "選択したファイルをすべて保管箱に入れます",
+        "translation": ""
+    },
+    {
+        "id": "500",
+        "id_number": 500,
+        "value": "運営",
+        "translation": ""
+    },
+    {
+        "id": "501",
+        "id_number": 501,
+        "value": "システム",
+        "translation": ""
+    },
+    {
+        "id": "502",
+        "id_number": 502,
+        "value": "アバター",
+        "translation": ""
+    },
+    {
+        "id": "503",
+        "id_number": 503,
+        "value": "保管箱",
+        "translation": ""
+    }
+]

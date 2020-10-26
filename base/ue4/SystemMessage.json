@@ -1,0 +1,62 @@
+[
+    {
+        "id": "GetItemFailure_InventoryFull",
+        "id_number": -1,
+        "value": "バッグが一杯で取得できません",
+        "translation": ""
+    },
+    {
+        "id": "HealStation_HealDone",
+        "id_number": -1,
+        "value": "体力を回復しました",
+        "translation": ""
+    },
+    {
+        "id": "UnlockHunterQuestRank",
+        "id_number": -1,
+        "value": "討伐クエストが開放されました",
+        "translation": ""
+    },
+    {
+        "id": "GetEmote",
+        "id_number": -1,
+        "value": "ジェスチャーを入手しました",
+        "translation": ""
+    },
+    {
+        "id": "FailedQuitGame",
+        "id_number": -1,
+        "value": "ゲーム終了できませんでした",
+        "translation": ""
+    },
+    {
+        "id": "CantOpenDuringDead",
+        "id_number": -1,
+        "value": "戦闘不能中は開くことができません",
+        "translation": ""
+    },
+    {
+        "id": "CantOpenDuringBattle",
+        "id_number": -1,
+        "value": "戦闘中は開くことができません",
+        "translation": ""
+    },
+    {
+        "id": "CantOpenDuringAction",
+        "id_number": -1,
+        "value": "アクション中は開くことができません",
+        "translation": ""
+    },
+    {
+        "id": "CantStartDungeonDuringDead",
+        "id_number": -1,
+        "value": "戦闘不能中はダンジョンを開始できません",
+        "translation": ""
+    },
+    {
+        "id": "CantStartDungeonDuringBattle",
+        "id_number": -1,
+        "value": "戦闘中はダンジョンを開始できません",
+        "translation": ""
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "TOTAL",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "体力",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "AP",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "筋力",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "耐久力",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "器用さ",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "知力",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "精神力",
+        "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "昇順",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "降順",
+        "translation": ""
+    },
+    {
+        "id": "200",
+        "id_number": 200,
+        "value": "種類",
+        "translation": ""
+    },
+    {
+        "id": "201",
+        "id_number": 201,
+        "value": "強化レベル",
+        "translation": ""
+    },
+    {
+        "id": "202",
+        "id_number": 202,
+        "value": "必要素材",
+        "translation": ""
+    },
+    {
+        "id": "203",
+        "id_number": 203,
+        "value": "お守りを使う",
+        "translation": ""
+    },
+    {
+        "id": "204",
+        "id_number": 204,
+        "value": "強化する",
+        "translation": ""
+    },
+    {
+        "id": "205",
+        "id_number": 205,
+        "value": "傾向",
+        "translation": ""
+    },
+    {
+        "id": "206",
+        "id_number": 206,
+        "value": "必要エングラム",
+        "translation": ""
+    },
+    {
+        "id": "207",
+        "id_number": 207,
+        "value": "装備可能レベル",
+        "translation": ""
+    },
+    {
+        "id": "208",
+        "id_number": 208,
+        "value": "素材化ポイント",
+        "translation": ""
+    },
+    {
+        "id": "209",
+        "id_number": 209,
+        "value": "攻撃力",
+        "translation": ""
+    },
+    {
+        "id": "210",
+        "id_number": 210,
+        "value": "属性",
+        "translation": ""
+    },
+    {
+        "id": "211",
+        "id_number": 211,
+        "value": "特殊効果",
+        "translation": ""
+    },
+    {
+        "id": "212",
+        "id_number": 212,
+        "value": "%",
+        "translation": ""
+    },
+    {
+        "id": "213",
+        "id_number": 213,
+        "value": "必要アイテム",
+        "translation": ""
+    },
+    {
+        "id": "214",
+        "id_number": 214,
+        "value": "保護アイテム",
+        "translation": ""
+    },
+    {
+        "id": "215",
+        "id_number": 215,
+        "value": "必要数",
+        "translation": ""
+    },
+    {
+        "id": "216",
+        "id_number": 216,
+        "value": "所持数",
+        "translation": ""
+    },
+    {
+        "id": "217",
+        "id_number": 217,
+        "value": "倉庫",
+        "translation": ""
+    },
+    {
+        "id": "218",
+        "id_number": 218,
+        "value": "強化",
+        "translation": ""
+    },
+    {
+        "id": "219",
+        "id_number": 219,
+        "value": "強化する武器を選択してください。",
+        "translation": ""
+    },
+    {
+        "id": "220",
+        "id_number": 220,
+        "value": "武器総合力",
+        "translation": ""
+    },
+    {
+        "id": "300",
+        "id_number": 300,
+        "value": "成功",
+        "translation": ""
+    },
+    {
+        "id": "301",
+        "id_number": 301,
+        "value": "失敗",
+        "translation": ""
+    },
+    {
+        "id": "400",
+        "id_number": 400,
+        "value": "なし",
+        "translation": ""
+    }
+]

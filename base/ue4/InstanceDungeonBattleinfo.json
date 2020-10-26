@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "ボス戦待機中",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "Time Over",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "Battle Result",
+        "translation": ""
+    }
+]

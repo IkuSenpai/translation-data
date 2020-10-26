@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "いらっしゃいませ～\nこちらでGCと交換できますよ～",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "GCは貯めるだけじゃダメよ？\nちゃんと交換しなきゃ",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "何か欲しいものはある？",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "また来てね～",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "交換する",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "会話",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "やめる",
+        "translation": ""
+    }
+]

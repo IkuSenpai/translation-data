@@ -1,0 +1,254 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "バッグ",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "消費アイテム",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "武器",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "イマジンシード",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "キーアイテム",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "エングラム",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "衣装",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "キャラクター倉庫",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "アカウント倉庫",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "預ける",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "捨てる",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "移動",
+        "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "移動元をクリックしてください。",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "移動したいアイテムをクリックしてください。",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "移動する個数",
+        "translation": ""
+    },
+    {
+        "id": "103",
+        "id_number": 103,
+        "value": "移動先を選ぶ",
+        "translation": ""
+    },
+    {
+        "id": "900",
+        "id_number": 900,
+        "value": "武器装備変更エラー",
+        "translation": ""
+    },
+    {
+        "id": "901",
+        "id_number": 901,
+        "value": "衣装変更エラー",
+        "translation": ""
+    },
+    {
+        "id": "902",
+        "id_number": 902,
+        "value": "キャラクタークリエイトデータアップロードエラー",
+        "translation": ""
+    },
+    {
+        "id": "903",
+        "id_number": 903,
+        "value": "不明なエラーです",
+        "translation": ""
+    },
+    {
+        "id": "904",
+        "id_number": 904,
+        "value": "データの保存に失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "905",
+        "id_number": 905,
+        "value": "装備品枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "906",
+        "id_number": 906,
+        "value": "アイテム枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "907",
+        "id_number": 907,
+        "value": "収納ボックスがいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "908",
+        "id_number": 908,
+        "value": "このアイテムはそれ以上預けられません",
+        "translation": ""
+    },
+    {
+        "id": "909",
+        "id_number": 909,
+        "value": "このアイテムはそれ以上所持できません",
+        "translation": ""
+    },
+    {
+        "id": "910",
+        "id_number": 910,
+        "value": "装備中のため移動できません",
+        "translation": ""
+    },
+    {
+        "id": "920",
+        "id_number": 920,
+        "value": "バッグの衣装枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "921",
+        "id_number": 921,
+        "value": "バッグの消費アイテム枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "922",
+        "id_number": 922,
+        "value": "バッグの武器枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "923",
+        "id_number": 923,
+        "value": "バッグのイマジンシード枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "924",
+        "id_number": 924,
+        "value": "バッグのチケット枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "930",
+        "id_number": 930,
+        "value": "キャラクター倉庫の衣装枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "931",
+        "id_number": 931,
+        "value": "キャラクター倉庫の消費アイテム枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "932",
+        "id_number": 932,
+        "value": "キャラクター倉庫の武器枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "933",
+        "id_number": 933,
+        "value": "キャラクター倉庫のイマジンシード枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "934",
+        "id_number": 934,
+        "value": "キャラクター倉庫のチケット枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "940",
+        "id_number": 940,
+        "value": "アカウント倉庫の衣装枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "941",
+        "id_number": 941,
+        "value": "アカウント倉庫の消費アイテム枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "942",
+        "id_number": 942,
+        "value": "アカウント倉庫の武器枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "943",
+        "id_number": 943,
+        "value": "アカウント倉庫のイマジンシード枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "944",
+        "id_number": 944,
+        "value": "アカウント倉庫のチケット枠がいっぱいです",
+        "translation": ""
+    }
+]

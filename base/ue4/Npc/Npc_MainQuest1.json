@@ -1,0 +1,146 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "困ったわ……",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "この時期になるとゴブリンが悪だくみをしていて、\nこのまま放っておくと街に被害が及んじゃうの。",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "あなた、見たところ冒険者のようだけど、\nゴブリン退治を引き受けてくれないかしら？",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "こんにちは",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "欠番",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "困ったわ……。\n誰に頼めば良いかしら？",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "引き受けてくれて、ありがとう！\nゴブリンは集団でいるから気を付けてね",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "欠番",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "どう、ゴブリン退治は順調？",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "本当にできるなんてすごい！",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "実はもうひとつお願いしたいことがあるの",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "ちょっとした手違いで<span color=\"Word\">バハ鉱石</>と<span color=\"Word\">マール草</>の\n備蓄数が足りなくなっちゃったの",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "この事がアステル知事にバレたら\n私、クビになっちゃうかも！？",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "だからお願い！\n<span color=\"Word\">バハ鉱石</>と<span color=\"Word\">マール草</>を採ってきてぇー！",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "<span color=\"Word\">バハ鉱石</>と<span color=\"Word\">マール草</>は<span color=\"Emphasis\">バハマール高原</>で採れるわ。\n冒険者のあなたなら簡単に違いないわ！",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "私の未来があなたにかかっているのよ！？\n絶対、採ってきてね！",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "<span color=\"Word\">バハ鉱石</>と<span color=\"Word\">マール草</>は<span color=\"Emphasis\">バハマール高原</>で採れるわ。\n私の未来のため、頼んだわよ！",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "集めてきてくれて、ありがとう！\nあなたのおかげでクビにならずにすみそうよ",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "そういえば、あなた、冒険者登録は済んでるの？",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "もし、まだのようだったら登録が必要だから、\nここの<span color=\"Emphasis\">2F</>にいる<span color=\"Emphasis\">アステル知事</>のところに行くと良いわ",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "あなたならきっと良い冒険者になれるわ！",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "冒険者登録は済んだ？",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "まだのようなら、ここの<span color=\"Emphasis\">2F</>にいる\n<span color=\"Emphasis\">アステル知事</>に頼んでみると良いわ",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "無事に冒険者になれたようね\nまた資材が無くなった時はよろしくね！",
+        "translation": ""
+    }
+]

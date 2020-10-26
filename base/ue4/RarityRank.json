@@ -1,0 +1,32 @@
+[
+    {
+        "id": "None",
+        "id_number": 0,
+        "value": "コモン",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 1,
+        "value": "アンコモン",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 2,
+        "value": "レア",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 3,
+        "value": "エピック",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 4,
+        "value": "レジェンド",
+        "translation": ""
+    }
+]

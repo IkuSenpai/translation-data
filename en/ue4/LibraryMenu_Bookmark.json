@@ -1,0 +1,38 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "全体",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "街",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "フィールド",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "バトル",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "マルチプレイ",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "その他",
+        "translation": ""
+    }
+]

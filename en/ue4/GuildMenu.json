@@ -1,0 +1,368 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "申請一覧",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "ギルド設定",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "メンバーリスト",
+        "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "ギルド",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "ギルド設定",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "メンバー設定",
+        "translation": ""
+    },
+    {
+        "id": "103",
+        "id_number": 103,
+        "value": "個人設定",
+        "translation": ""
+    },
+    {
+        "id": "104",
+        "id_number": 104,
+        "value": "Guild",
+        "translation": ""
+    },
+    {
+        "id": "110",
+        "id_number": 110,
+        "value": "手動承認",
+        "translation": ""
+    },
+    {
+        "id": "111",
+        "id_number": 111,
+        "value": "自動承認",
+        "translation": ""
+    },
+    {
+        "id": "112",
+        "id_number": 112,
+        "value": "申請拒否",
+        "translation": ""
+    },
+    {
+        "id": "200",
+        "id_number": 200,
+        "value": "申請",
+        "translation": ""
+    },
+    {
+        "id": "201",
+        "id_number": 201,
+        "value": "勧誘",
+        "translation": ""
+    },
+    {
+        "id": "203",
+        "id_number": 203,
+        "value": "脱退",
+        "translation": ""
+    },
+    {
+        "id": "204",
+        "id_number": 204,
+        "value": "ギルド解散",
+        "translation": ""
+    },
+    {
+        "id": "205",
+        "id_number": 205,
+        "value": "任命",
+        "translation": ""
+    },
+    {
+        "id": "206",
+        "id_number": 206,
+        "value": "交代",
+        "translation": ""
+    },
+    {
+        "id": "207",
+        "id_number": 207,
+        "value": "検索",
+        "translation": ""
+    },
+    {
+        "id": "208",
+        "id_number": 208,
+        "value": "更新",
+        "translation": ""
+    },
+    {
+        "id": "209",
+        "id_number": 209,
+        "value": "方針",
+        "translation": ""
+    },
+    {
+        "id": "303",
+        "id_number": 303,
+        "value": "承認設定",
+        "translation": ""
+    },
+    {
+        "id": "304",
+        "id_number": 304,
+        "value": "ギルド紹介文",
+        "translation": ""
+    },
+    {
+        "id": "305",
+        "id_number": 305,
+        "value": "ギルド結成",
+        "translation": ""
+    },
+    {
+        "id": "306",
+        "id_number": 306,
+        "value": "コメント",
+        "translation": ""
+    },
+    {
+        "id": "307",
+        "id_number": 307,
+        "value": "活動時間帯",
+        "translation": ""
+    },
+    {
+        "id": "308",
+        "id_number": 308,
+        "value": "結成日:{day}日前",
+        "translation": ""
+    },
+    {
+        "id": "500",
+        "id_number": 500,
+        "value": "未定",
+        "translation": ""
+    },
+    {
+        "id": "501",
+        "id_number": 501,
+        "value": "早朝",
+        "translation": ""
+    },
+    {
+        "id": "502",
+        "id_number": 502,
+        "value": "朝",
+        "translation": ""
+    },
+    {
+        "id": "503",
+        "id_number": 503,
+        "value": "昼",
+        "translation": ""
+    },
+    {
+        "id": "504",
+        "id_number": 504,
+        "value": "夕",
+        "translation": ""
+    },
+    {
+        "id": "505",
+        "id_number": 505,
+        "value": "夜",
+        "translation": ""
+    },
+    {
+        "id": "506",
+        "id_number": 506,
+        "value": "深夜",
+        "translation": ""
+    },
+    {
+        "id": "700",
+        "id_number": 700,
+        "value": "招待が届きました",
+        "translation": ""
+    },
+    {
+        "id": "701",
+        "id_number": 701,
+        "value": "申請が届きました",
+        "translation": ""
+    },
+    {
+        "id": "800",
+        "id_number": 800,
+        "value": "{guild_name}への申請を取り消しますか？",
+        "translation": ""
+    },
+    {
+        "id": "801",
+        "id_number": 801,
+        "value": "{guild_name}からの勧誘を断りますか？",
+        "translation": ""
+    },
+    {
+        "id": "802",
+        "id_number": 802,
+        "value": "{guild_name}からの勧誘を受諾しますか",
+        "translation": ""
+    },
+    {
+        "id": "803",
+        "id_number": 803,
+        "value": "ギルドを解散します。よろしいですか",
+        "translation": ""
+    },
+    {
+        "id": "804",
+        "id_number": 804,
+        "value": "ギルドから脱退します",
+        "translation": ""
+    },
+    {
+        "id": "805",
+        "id_number": 805,
+        "value": "本当に脱退してしまってよろしいですか",
+        "translation": ""
+    },
+    {
+        "id": "806",
+        "id_number": 806,
+        "value": "マスター交代",
+        "translation": ""
+    },
+    {
+        "id": "807",
+        "id_number": 807,
+        "value": "ギルドマスターをサブマスターと交代します",
+        "translation": ""
+    },
+    {
+        "id": "809",
+        "id_number": 809,
+        "value": "{name}を追放してしまってよろしいですか",
+        "translation": ""
+    },
+    {
+        "id": "810",
+        "id_number": 810,
+        "value": "ギルド名を変更しますか？",
+        "translation": ""
+    },
+    {
+        "id": "811",
+        "id_number": 811,
+        "value": "紹介文を変更しますか？",
+        "translation": ""
+    },
+    {
+        "id": "812",
+        "id_number": 812,
+        "value": "遺言は？",
+        "translation": ""
+    },
+    {
+        "id": "900",
+        "id_number": 900,
+        "value": "受諾",
+        "translation": ""
+    },
+    {
+        "id": "901",
+        "id_number": 901,
+        "value": "否認",
+        "translation": ""
+    },
+    {
+        "id": "902",
+        "id_number": 902,
+        "value": "脱退する",
+        "translation": ""
+    },
+    {
+        "id": "903",
+        "id_number": 903,
+        "value": "解散する",
+        "translation": ""
+    },
+    {
+        "id": "904",
+        "id_number": 904,
+        "value": "ギルド名変更",
+        "translation": ""
+    },
+    {
+        "id": "905",
+        "id_number": 905,
+        "value": "ギルド紹介変更",
+        "translation": ""
+    },
+    {
+        "id": "906",
+        "id_number": 906,
+        "value": "追放",
+        "translation": ""
+    },
+    {
+        "id": "907",
+        "id_number": 907,
+        "value": "変更",
+        "translation": ""
+    },
+    {
+        "id": "908",
+        "id_number": 908,
+        "value": "結成",
+        "translation": ""
+    },
+    {
+        "id": "910",
+        "id_number": 910,
+        "value": "ロール変更",
+        "translation": ""
+    },
+    {
+        "id": "911",
+        "id_number": 911,
+        "value": "ギルドマスター",
+        "translation": ""
+    },
+    {
+        "id": "912",
+        "id_number": 912,
+        "value": "サブギルドマスター",
+        "translation": ""
+    },
+    {
+        "id": "913",
+        "id_number": 913,
+        "value": "メンバー",
+        "translation": ""
+    },
+    {
+        "id": "1000",
+        "id_number": 1000,
+        "value": "NGワードが含まれています",
+        "translation": ""
+    }
+]

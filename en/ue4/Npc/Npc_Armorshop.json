@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "いらっしゃいませ～",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "色々な衣装をオシャレに着こなすと\n楽しいですよ～",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "素敵なコスチュームを揃えていますよ～",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "ありがとうございます～",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "またお待ちしてます～",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "やめる",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "会話",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "衣装を買う",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "アイテムを売る",
+        "translation": ""
+    }
+]

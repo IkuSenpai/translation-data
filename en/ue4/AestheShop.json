@@ -1,0 +1,182 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "利用するチケットを選択してください。\nチケットは最終決定時に消費します。",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "アイテム名",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "所持数：",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "倉庫数：",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "/",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "決定",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "外見データセーブ",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "外見データロード",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "利用したい外見データを選択してください",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "外見データをセーブするスロットを選んだください",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "日付",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "性別",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "男",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "女",
+        "translation": ""
+    },
+    {
+        "id": "51",
+        "id_number": 51,
+        "value": "エステを利用しますか？",
+        "translation": ""
+    },
+    {
+        "id": "52",
+        "id_number": 52,
+        "value": "(チケットを所持していない場合は最終決定できません)",
+        "translation": ""
+    },
+    {
+        "id": "53",
+        "id_number": 53,
+        "value": "保存済の外見データを利用しますか？",
+        "translation": ""
+    },
+    {
+        "id": "54",
+        "id_number": 54,
+        "value": "外見データをセーブしますか？",
+        "translation": ""
+    },
+    {
+        "id": "55",
+        "id_number": 55,
+        "value": "外見データをセーブしました",
+        "translation": ""
+    },
+    {
+        "id": "56",
+        "id_number": 56,
+        "value": "この外見データをロードしますか？",
+        "translation": ""
+    },
+    {
+        "id": "57",
+        "id_number": 57,
+        "value": "この外見データはロードできません",
+        "translation": ""
+    },
+    {
+        "id": "58",
+        "id_number": 58,
+        "value": "{TicketName}を消費して、アバターに設定を反映しますか？",
+        "translation": ""
+    },
+    {
+        "id": "59",
+        "id_number": 59,
+        "value": "アバターに設定を反映しますか？",
+        "translation": ""
+    },
+    {
+        "id": "60",
+        "id_number": 60,
+        "value": "{TicketName}を所持していないため、アバターに設定を反映できません",
+        "translation": ""
+    },
+    {
+        "id": "61",
+        "id_number": 61,
+        "value": "設定を反映せずに、終了しますか？",
+        "translation": ""
+    },
+    {
+        "id": "62",
+        "id_number": 62,
+        "value": "(チケットは消費されません)",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "プレイヤーのキャラメイク情報のロードに失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "外見データのロードに失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "103",
+        "id_number": 103,
+        "value": "外見データのセーブに失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "104",
+        "id_number": 104,
+        "value": "外見データのアップロードに失敗しました",
+        "translation": ""
+    }
+]

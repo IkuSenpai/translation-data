@@ -1,0 +1,248 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "決定",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "戻る",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "衣装表示",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "ON",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "OFF",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "ポーズ切替",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "表示切替",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "カメラ操作",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "クラス",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "性別・体格",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "顔・髪型",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "衣装",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "ボイス",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "クラスを選択します",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "性別と体格を選択します(体格によって選択できる顔タイプが異なります)",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "顔と髪型を選択します",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "衣装を選択します",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "ボイスを選択します",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "キャラクターの名前を入力してください",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "決定",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "タイプ",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "カラー",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "明るさ",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "彩度",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "明度",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "リセット",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "Type",
+        "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "プリセット",
+        "translation": ""
+    },
+    {
+        "id": "29",
+        "id_number": 29,
+        "value": "プリセットを選択します",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "グラデーション",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "反転",
+        "translation": ""
+    },
+    {
+        "id": "50",
+        "id_number": 50,
+        "value": "チュートリアルをプレイしますか？",
+        "translation": ""
+    },
+    {
+        "id": "51",
+        "id_number": 51,
+        "value": "前の画面に戻りますか？",
+        "translation": ""
+    },
+    {
+        "id": "99",
+        "id_number": 99,
+        "value": "シューズが選択されていません",
+        "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "名前を入力してください",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "画像のアップロードに失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "作成したキャラクターの登録に失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "103",
+        "id_number": 103,
+        "value": "編集した衣装を初期装備アイテムとして保存する処理に失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "104",
+        "id_number": 104,
+        "value": "CharaCreateHUD Cast Error.",
+        "translation": ""
+    },
+    {
+        "id": "105",
+        "id_number": 105,
+        "value": "(最大12文字)",
+        "translation": ""
+    },
+    {
+        "id": "106",
+        "id_number": 106,
+        "value": "「{name}」でよろしいですか？",
+        "translation": ""
+    }
+]

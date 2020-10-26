@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "予期せぬエラーが発生しました",
+        "translation": ""
+    },
+    {
+        "id": "1000",
+        "id_number": 1000,
+        "value": "フォローリクエストに失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "1001",
+        "id_number": 1001,
+        "value": "お気に入りリクエストに失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "1002",
+        "id_number": 1002,
+        "value": "フォローリクエストを拒否しています",
+        "translation": ""
+    },
+    {
+        "id": "1004",
+        "id_number": 1004,
+        "value": "データ取得に失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "9002",
+        "id_number": 9002,
+        "value": "ブロックされています",
+        "translation": ""
+    },
+    {
+        "id": "9003",
+        "id_number": 9003,
+        "value": "ブロックされています",
+        "translation": ""
+    },
+    {
+        "id": "9005",
+        "id_number": 9005,
+        "value": "フォローリストに空きがありません",
+        "translation": ""
+    },
+    {
+        "id": "11000",
+        "id_number": 11000,
+        "value": "戦闘中に武器の変更はできません",
+        "translation": ""
+    },
+    {
+        "id": "11001",
+        "id_number": 11001,
+        "value": "戦闘不能中に武器の変更はできません",
+        "translation": ""
+    },
+    {
+        "id": "11010",
+        "id_number": 11010,
+        "value": "戦闘中にスキルの変更はできません",
+        "translation": ""
+    },
+    {
+        "id": "11011",
+        "id_number": 11011,
+        "value": "戦闘不能中にスキルの変更はできません",
+        "translation": ""
+    },
+    {
+        "id": "11020",
+        "id_number": 11020,
+        "value": "戦闘中にアビリティの変更はできません",
+        "translation": ""
+    },
+    {
+        "id": "11021",
+        "id_number": 11021,
+        "value": "戦闘不能中にアビリティの変更はできません",
+        "translation": ""
+    },
+    {
+        "id": "11030",
+        "id_number": 11030,
+        "value": "戦闘中にバトルイマジンの変更はできません",
+        "translation": ""
+    },
+    {
+        "id": "11031",
+        "id_number": 11031,
+        "value": "戦闘不能中にバトルイマジンの変更はできません",
+        "translation": ""
+    },
+    {
+        "id": "11040",
+        "id_number": 11040,
+        "value": "戦闘中にアタッチメントイマジンの変更はできません",
+        "translation": ""
+    },
+    {
+        "id": "11041",
+        "id_number": 11041,
+        "value": "戦闘不能中にアタッチメントイマジンの変更はできません",
+        "translation": ""
+    },
+    {
+        "id": "11050",
+        "id_number": 11050,
+        "value": "戦闘中に衣装の変更はできません",
+        "translation": ""
+    },
+    {
+        "id": "11051",
+        "id_number": 11051,
+        "value": "戦闘不能中に衣装の変更はできません",
+        "translation": ""
+    }
+]

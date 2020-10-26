@@ -1,0 +1,80 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "ギルド管理です",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "他になにか？",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "対応しておきます",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "結成",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "一覧",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "解散",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "やめる",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "またどうぞ",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "ギルドを解散しました",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "ギルドを結成しました",
+        "translation": ""
+    },
+    {
+        "id": "50",
+        "id_number": 50,
+        "value": "権限がありません",
+        "translation": ""
+    },
+    {
+        "id": "51",
+        "id_number": 51,
+        "value": "ギルドに所属してください",
+        "translation": ""
+    },
+    {
+        "id": "52",
+        "id_number": 52,
+        "value": "ギルドに所属しているので不可能です",
+        "translation": ""
+    }
+]

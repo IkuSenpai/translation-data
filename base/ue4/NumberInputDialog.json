@@ -1,0 +1,32 @@
+[
+    {
+        "id": "None",
+        "id_number": 1,
+        "value": "決定",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 2,
+        "value": "やめる",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 3,
+        "value": "あずける",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 4,
+        "value": "捨てる",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 5,
+        "value": "閉じる",
+        "translation": ""
+    }
+]

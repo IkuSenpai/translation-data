@@ -1,0 +1,32 @@
+[
+    {
+        "id": "None",
+        "id_number": 1,
+        "value": "帽子",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 2,
+        "value": "衣装上",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 3,
+        "value": "グローブ",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 4,
+        "value": "衣装下",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 5,
+        "value": "シューズ",
+        "translation": ""
+    }
+]

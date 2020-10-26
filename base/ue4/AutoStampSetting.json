@@ -1,0 +1,62 @@
+[
+    {
+        "id": "Spawn",
+        "id_number": -1,
+        "value": "ゲーム開始に自動的に発信する\nスタンプです。",
+        "translation": ""
+    },
+    {
+        "id": "Respawn",
+        "id_number": -1,
+        "value": "復活地点に復活した時に自動的に\n発信するスタンプです。",
+        "translation": ""
+    },
+    {
+        "id": "FewHp",
+        "id_number": -1,
+        "value": "体力が一定以下になった時に\n自動的に発信するスタンプです。",
+        "translation": ""
+    },
+    {
+        "id": "ReceiveHeal",
+        "id_number": -1,
+        "value": "他者から回復を受けた時に\n自動的に発信するスタンプです。",
+        "translation": ""
+    },
+    {
+        "id": "Dead",
+        "id_number": -1,
+        "value": "戦闘不能になった時に自動的に\n発信するスタンプです。",
+        "translation": ""
+    },
+    {
+        "id": "Resurrection",
+        "id_number": -1,
+        "value": "他者から救護を受けた時に\n自動的に発信するスタンプです。",
+        "translation": ""
+    },
+    {
+        "id": "DisableAutoStamp",
+        "id_number": -1,
+        "value": "オートスタンプを表示しない",
+        "translation": ""
+    },
+    {
+        "id": "AreaSetting",
+        "id_number": -1,
+        "value": "範囲設定",
+        "translation": ""
+    },
+    {
+        "id": "StampList",
+        "id_number": -1,
+        "value": "設定するスタンプを選んでください",
+        "translation": ""
+    },
+    {
+        "id": "Purge",
+        "id_number": -1,
+        "value": "はずす",
+        "translation": ""
+    }
+]

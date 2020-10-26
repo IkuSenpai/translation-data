@@ -1,0 +1,404 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "購入するアイテムを選択してください",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "売却するアイテムを選択してください",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "合計",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "購入",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "売却",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "売りたい数",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "所持数：",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "価格：",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "GC：",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "交換",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "Lv.",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "攻撃力",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "属性",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "アビリティ１",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "アビリティ2",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "アビリティ3",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "アビリティ4",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "/",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "筋力",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "耐久力",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "器用さ",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "知力",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "精神力",
+        "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "最大HP",
+        "translation": ""
+    },
+    {
+        "id": "29",
+        "id_number": 29,
+        "value": "TOTAL\nINVENTORY",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "帽子",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "衣装上",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "グローブ",
+        "translation": ""
+    },
+    {
+        "id": "34",
+        "id_number": 34,
+        "value": "衣装下",
+        "translation": ""
+    },
+    {
+        "id": "35",
+        "id_number": 35,
+        "value": "シューズ",
+        "translation": ""
+    },
+    {
+        "id": "36",
+        "id_number": 36,
+        "value": "アクセサリ",
+        "translation": ""
+    },
+    {
+        "id": "37",
+        "id_number": 37,
+        "value": "装備品",
+        "translation": ""
+    },
+    {
+        "id": "38",
+        "id_number": 38,
+        "value": "アイテム",
+        "translation": ""
+    },
+    {
+        "id": "39",
+        "id_number": 39,
+        "value": "武器",
+        "translation": ""
+    },
+    {
+        "id": "40",
+        "id_number": 40,
+        "value": "衣装",
+        "translation": ""
+    },
+    {
+        "id": "41",
+        "id_number": 41,
+        "value": "女性着用",
+        "translation": ""
+    },
+    {
+        "id": "42",
+        "id_number": 42,
+        "value": "男性着用",
+        "translation": ""
+    },
+    {
+        "id": "43",
+        "id_number": 43,
+        "value": "交換アイテム",
+        "translation": ""
+    },
+    {
+        "id": "44",
+        "id_number": 44,
+        "value": " x {exchange_num}",
+        "translation": ""
+    },
+    {
+        "id": "45",
+        "id_number": 45,
+        "value": "イマジンシード",
+        "translation": ""
+    },
+    {
+        "id": "46",
+        "id_number": 46,
+        "value": "バトルイマジン",
+        "translation": ""
+    },
+    {
+        "id": "47",
+        "id_number": 47,
+        "value": "アタッチメント",
+        "translation": ""
+    },
+    {
+        "id": "50",
+        "id_number": 50,
+        "value": "売却するアイテムをクリック",
+        "translation": ""
+    },
+    {
+        "id": "51",
+        "id_number": 51,
+        "value": "バッグ",
+        "translation": ""
+    },
+    {
+        "id": "61",
+        "id_number": 61,
+        "value": "購入数が入力されてません",
+        "translation": ""
+    },
+    {
+        "id": "62",
+        "id_number": 62,
+        "value": "{money_unit}で購入しますか？",
+        "translation": ""
+    },
+    {
+        "id": "63",
+        "id_number": 63,
+        "value": "所持ルーノが足りません",
+        "translation": ""
+    },
+    {
+        "id": "64",
+        "id_number": 64,
+        "value": "アイテム枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "65",
+        "id_number": 65,
+        "value": "装備品枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "66",
+        "id_number": 66,
+        "value": "装備中のアイテムを売ることはできません",
+        "translation": ""
+    },
+    {
+        "id": "67",
+        "id_number": 67,
+        "value": "{money_unit}で売却しますか？",
+        "translation": ""
+    },
+    {
+        "id": "68",
+        "id_number": 68,
+        "value": "売却するアイテムが選ばれていません",
+        "translation": ""
+    },
+    {
+        "id": "69",
+        "id_number": 69,
+        "value": "{money_unit}で購入しますか？\n (装備できないアイテムが選択されています)",
+        "translation": ""
+    },
+    {
+        "id": "70",
+        "id_number": 70,
+        "value": "装備中のイマジンシードを売ることはできません",
+        "translation": ""
+    },
+    {
+        "id": "81",
+        "id_number": 81,
+        "value": "Item",
+        "translation": ""
+    },
+    {
+        "id": "82",
+        "id_number": 82,
+        "value": "Weapon",
+        "translation": ""
+    },
+    {
+        "id": "83",
+        "id_number": 83,
+        "value": "Costume",
+        "translation": ""
+    },
+    {
+        "id": "84",
+        "id_number": 84,
+        "value": "General",
+        "translation": ""
+    },
+    {
+        "id": "85",
+        "id_number": 85,
+        "value": "Exchange",
+        "translation": ""
+    },
+    {
+        "id": "99",
+        "id_number": 99,
+        "value": "購入に失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "売却に失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "200",
+        "id_number": 200,
+        "value": "スキル：",
+        "translation": ""
+    },
+    {
+        "id": "201",
+        "id_number": 201,
+        "value": "効果：",
+        "translation": ""
+    },
+    {
+        "id": "202",
+        "id_number": 202,
+        "value": "装備部位",
+        "translation": ""
+    },
+    {
+        "id": "203",
+        "id_number": 203,
+        "value": "経験値",
+        "translation": ""
+    },
+    {
+        "id": "204",
+        "id_number": 204,
+        "value": "インターバル：",
+        "translation": ""
+    },
+    {
+        "id": "205",
+        "id_number": 205,
+        "value": "効果値：",
+        "translation": ""
+    }
+]

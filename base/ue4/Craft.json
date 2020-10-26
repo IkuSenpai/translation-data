@@ -1,0 +1,410 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "成功しやすさ",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "質の高さ",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "アビリティ付与",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "必要アイテム",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "触媒",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "保護アイテム",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "使用しない",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "銘入れ",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "毎回聞く",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "自動で入れる",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "入れない",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "銘を入れますか？",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "作成時間",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "時間短縮アイテムを使用する",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "必要エングラム",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "傾向",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "必要数",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "所持数",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "倉庫",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "簡易クラフト",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "選択してください",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "Cost",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "グラフを設定してコストを振り分けてください",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "仕上げる",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "難易度：",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "所持数：",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "以上",
+        "translation": ""
+    },
+    {
+        "id": "34",
+        "id_number": 34,
+        "value": "武器",
+        "translation": ""
+    },
+    {
+        "id": "35",
+        "id_number": 35,
+        "value": "アイテム",
+        "translation": ""
+    },
+    {
+        "id": "36",
+        "id_number": 36,
+        "value": "種類",
+        "translation": ""
+    },
+    {
+        "id": "37",
+        "id_number": 37,
+        "value": "難易度",
+        "translation": ""
+    },
+    {
+        "id": "38",
+        "id_number": 38,
+        "value": "レシピを選択してください。",
+        "translation": ""
+    },
+    {
+        "id": "39",
+        "id_number": 39,
+        "value": "オーダーするアイテムを選択してください。",
+        "translation": ""
+    },
+    {
+        "id": "40",
+        "id_number": 40,
+        "value": "依頼中アイテム",
+        "translation": ""
+    },
+    {
+        "id": "41",
+        "id_number": 41,
+        "value": "受け取る",
+        "translation": ""
+    },
+    {
+        "id": "42",
+        "id_number": 42,
+        "value": "依頼取り消し",
+        "translation": ""
+    },
+    {
+        "id": "43",
+        "id_number": 43,
+        "value": "製作中：",
+        "translation": ""
+    },
+    {
+        "id": "44",
+        "id_number": 44,
+        "value": "Complete",
+        "translation": ""
+    },
+    {
+        "id": "51",
+        "id_number": 51,
+        "value": "属性",
+        "translation": ""
+    },
+    {
+        "id": "52",
+        "id_number": 52,
+        "value": "攻撃力：",
+        "translation": ""
+    },
+    {
+        "id": "53",
+        "id_number": 53,
+        "value": "ランク：",
+        "translation": ""
+    },
+    {
+        "id": "54",
+        "id_number": 54,
+        "value": "アビリティ：",
+        "translation": ""
+    },
+    {
+        "id": "55",
+        "id_number": 55,
+        "value": "筋力",
+        "translation": ""
+    },
+    {
+        "id": "56",
+        "id_number": 56,
+        "value": "耐久力",
+        "translation": ""
+    },
+    {
+        "id": "57",
+        "id_number": 57,
+        "value": "器用さ",
+        "translation": ""
+    },
+    {
+        "id": "58",
+        "id_number": 58,
+        "value": "知力",
+        "translation": ""
+    },
+    {
+        "id": "59",
+        "id_number": 59,
+        "value": "精神力",
+        "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "Success",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "大成功",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "失敗",
+        "translation": ""
+    },
+    {
+        "id": "200",
+        "id_number": 200,
+        "value": "つくる",
+        "translation": ""
+    },
+    {
+        "id": "201",
+        "id_number": 201,
+        "value": "クラフト開始",
+        "translation": ""
+    },
+    {
+        "id": "202",
+        "id_number": 202,
+        "value": "戻る",
+        "translation": ""
+    },
+    {
+        "id": "203",
+        "id_number": 203,
+        "value": "仕上げる",
+        "translation": ""
+    },
+    {
+        "id": "204",
+        "id_number": 204,
+        "value": "依頼していいかな？",
+        "translation": ""
+    },
+    {
+        "id": "205",
+        "id_number": 205,
+        "value": "ロックされた素材がありますが実行しますか？",
+        "translation": ""
+    },
+    {
+        "id": "206",
+        "id_number": 206,
+        "value": "ロックされた触媒がありますが実行しますか？",
+        "translation": ""
+    },
+    {
+        "id": "300",
+        "id_number": 300,
+        "value": "無理かも",
+        "translation": ""
+    },
+    {
+        "id": "301",
+        "id_number": 301,
+        "value": "行けるかも",
+        "translation": ""
+    },
+    {
+        "id": "302",
+        "id_number": 302,
+        "value": "普通",
+        "translation": ""
+    },
+    {
+        "id": "303",
+        "id_number": 303,
+        "value": "余裕",
+        "translation": ""
+    },
+    {
+        "id": "304",
+        "id_number": 304,
+        "value": "朝飯前",
+        "translation": ""
+    },
+    {
+        "id": "800",
+        "id_number": 800,
+        "value": "使用しない",
+        "translation": ""
+    },
+    {
+        "id": "801",
+        "id_number": 801,
+        "value": "お守りを使用する",
+        "translation": ""
+    },
+    {
+        "id": "500",
+        "id_number": 500,
+        "value": "CAT",
+        "translation": ""
+    },
+    {
+        "id": "501",
+        "id_number": 501,
+        "value": "消費ルーノ",
+        "translation": ""
+    },
+    {
+        "id": "502",
+        "id_number": 502,
+        "value": "{ItemName}を手に入れた",
+        "translation": ""
+    },
+    {
+        "id": "503",
+        "id_number": 503,
+        "value": "クラフトを続けますか？",
+        "translation": ""
+    }
+]

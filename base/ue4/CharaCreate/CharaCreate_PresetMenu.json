@@ -1,0 +1,80 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "男",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "女",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "リセット",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "プリセット1",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "プリセット2",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "プリセット3",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "プリセット4",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "プリセット5",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "プリセット6",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "プリセット7",
+        "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "プリセット8",
+        "translation": ""
+    },
+    {
+        "id": "29",
+        "id_number": 29,
+        "value": "プリセット9",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "プリセット10",
+        "translation": ""
+    }
+]

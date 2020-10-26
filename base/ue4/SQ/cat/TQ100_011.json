@@ -1,0 +1,26 @@
+[
+    {
+        "id": "0",
+        "id_number": -1,
+        "value": "冒険者として登録されました！",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": -1,
+        "value": "サブクエストが解放されました！",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": -1,
+        "value": "クラスチェンジが解放されました！",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": -1,
+        "value": "クラフトが解放されました！",
+        "translation": ""
+    }
+]

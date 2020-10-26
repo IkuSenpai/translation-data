@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "パーティリーダーによって申請がされました。",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "パーティリーダーがリタイアしたためメンバーもリタイアします。",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "問題が起きたため、マッチングをキャンセルしました。",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "マッチングをキャンセルしました。",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "他の参加者が辞退しました。",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "パーティリーダーでないためダンジョンを開始できませんでした。",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "規定人数をオーバーしているためダンジョンを開始できません。",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "別のマッチングに申請中のため開始できませんでした。",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "複数選択されているため開始できません。",
+        "translation": ""
+    }
+]

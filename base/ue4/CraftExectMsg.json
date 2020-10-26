@@ -1,0 +1,92 @@
+[
+    {
+        "id": "ERROR CODE SUCCESS",
+        "id_number": -1,
+        "value": "依頼しました",
+        "translation": ""
+    },
+    {
+        "id": "ERROR_CODE_CRAFT_LACK_ENGRAM",
+        "id_number": -1,
+        "value": "所持金が足りません",
+        "translation": ""
+    },
+    {
+        "id": "ERROR_CODE_CRAFT_POINT_VALIDATION_ERROR",
+        "id_number": -1,
+        "value": "ポイント振り分けがおかしいです",
+        "translation": ""
+    },
+    {
+        "id": "ERROR_CODE_CRAFT_LACK_RESOURCE",
+        "id_number": -1,
+        "value": "素材が足りません",
+        "translation": ""
+    },
+    {
+        "id": "ERROR_CODE_CRAFT_HASNT_RECEPI",
+        "id_number": -1,
+        "value": "レシピを所持していません",
+        "translation": ""
+    },
+    {
+        "id": "ERROR_CODE_CRAFT_INVALID_DIFFICULTY",
+        "id_number": -1,
+        "value": "作成できない難易度です",
+        "translation": ""
+    },
+    {
+        "id": "ERROR_CODE_CRAFT_LACK_CATALYST",
+        "id_number": -1,
+        "value": "触媒が足りません",
+        "translation": ""
+    },
+    {
+        "id": "ERROR_CODE_CRAFT_LACK_OPTION_ITEM",
+        "id_number": -1,
+        "value": "追加素材が足りません",
+        "translation": ""
+    },
+    {
+        "id": "ERROR_CODE_CRAFT_NOT_FOUND_MASTER_DATA",
+        "id_number": -1,
+        "value": "マスターデータに存在しません",
+        "translation": ""
+    },
+    {
+        "id": "ERROR_CODE_CRAFT_NOT_FOUND_ENTRY_DATA",
+        "id_number": -1,
+        "value": "依頼データが見つかりません",
+        "translation": ""
+    },
+    {
+        "id": "ERROR_CODE_CRAFT_RECEIVE_ONLY",
+        "id_number": -1,
+        "value": "受け取りしか受け付けていません",
+        "translation": ""
+    },
+    {
+        "id": "ERROR_CODE_CRAFT_CANCEL_REJECT",
+        "id_number": -1,
+        "value": "キャンセルできませんでした",
+        "translation": ""
+    },
+    {
+        "id": "ERROR_CODE_CRAFT_UNFINISHED",
+        "id_number": -1,
+        "value": "未完成なので受け取れませんでした",
+        "translation": ""
+    },
+    {
+        "id": "ERROR_CODE_CRAFT_MAX_INVENTORY",
+        "id_number": -1,
+        "value": "アイテム枠がいっぱいでクラフトできません",
+        "translation": ""
+    },
+    {
+        "id": "ERROR_CODE_UNKNOWN_ERROR",
+        "id_number": -1,
+        "value": "不明なエラー",
+        "translation": ""
+    }
+]

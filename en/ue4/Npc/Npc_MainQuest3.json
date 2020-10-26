@@ -1,0 +1,116 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "ここはアステルリーズ\n私はこの街の知事をしているアステルよ",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "いつもは街の事について話してあげられるんだけど、\nちょっと立て込んでるから、<span color=\"Emphasis\">また後で</>来てもらえる？",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "あら、君、冒険者登録したいの？",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "冒険者登録には<span color=\"Emphasis\">試練</>が必要だけど、大丈夫？",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "一人前の冒険者として認められるには\n<span color=\"Emphasis\">火山</>の奥地にいる<span color=\"Emphasis\">ゴーレム</>を倒す必要があるの",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "どう、挑戦する？",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "いつでも挑戦できるから、準備が出来たら\nまた声をかけてちょうだい",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "<span color=\"Emphasis\">火山</>へは<span color=\"Emphasis\">モンテノール渓谷</>に設置してある\nゲートから移動できるわ",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "がんばって！",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "<span color=\"Emphasis\">火山</>へは<span color=\"Emphasis\">モンテノール渓谷</>に設置してある\nゲートから移動できるわ",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "1人では難しいと思ったら\n仲間と一緒に挑戦しても良いわよ",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "自身の力量を見極めて他者を頼るのも\n冒険者にとって必要なことよ？",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "無事、<span color=\"Emphasis\">ゴーレム</>を倒せたようね",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "おめでとう！\nこれであなたも一人前の冒険者よ",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "今回はこれでひとまず終わりだけど、\n<span color=\"Emphasis\">本当の冒険</>はこんなものじゃないわ",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "……でも、あなたなら大丈夫そうね",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "いつかあなたの名声が\nこの街に響くことを願っているわ",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "<span color=\"Emphasis\">To Be Continued..</>ってやつね",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "あなたのこれからの活躍、期待しているわ",
+        "translation": ""
+    }
+]

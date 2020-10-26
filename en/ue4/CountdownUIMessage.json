@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "「{Interaction}」長押しでチェックポイントへ戻ります。",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "「{Interaction}」長押しで転送をキャンセルします。",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "「{Interaction}」長押しでゲーム終了をキャンセルします。",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "バトルエリア内では自力で復活できません。\n仲間から救護してもらうか、戦闘が終了する必要があります。",
+        "translation": ""
+    },
+    {
+        "id": "50",
+        "id_number": 50,
+        "value": "キー",
+        "translation": ""
+    },
+    {
+        "id": "51",
+        "id_number": 51,
+        "value": "ボタン",
+        "translation": ""
+    }
+]

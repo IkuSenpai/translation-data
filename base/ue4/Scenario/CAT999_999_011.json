@@ -1,0 +1,20 @@
+[
+    {
+        "id": "0",
+        "id_number": -1,
+        "value": "　　　　　　 ここが開拓局です",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": -1,
+        "value": "　　　開拓局ではさまざまなクエストを\r\n　　　　　 受けることができます",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": -1,
+        "value": "　　　　クエスト受付嬢に話しかけて\r\n　　　クエストに挑戦してみましょう！",
+        "translation": ""
+    }
+]

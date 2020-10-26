@@ -1,0 +1,284 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "戻る",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "装備変更",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "バッグ",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "クエスト",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "ジェスチャー",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "マッチング",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "マップ",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "ゲームを終了する",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "パーティ",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "コミュニケート",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "オプション",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "キャラクター",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "キャラ選択へ戻る",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "Command\nMenu",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "Character",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "Bag",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "Quest",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "Gesture",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "Map",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "Communicate",
+        "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "Option",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "フォローリスト",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "フォロワーリスト",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "ブラックリスト",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "キャラクターサーチ",
+        "translation": ""
+    },
+    {
+        "id": "34",
+        "id_number": 34,
+        "value": "プロフィール設定",
+        "translation": ""
+    },
+    {
+        "id": "40",
+        "id_number": 40,
+        "value": "ステータス",
+        "translation": ""
+    },
+    {
+        "id": "41",
+        "id_number": 41,
+        "value": "衣装変更",
+        "translation": ""
+    },
+    {
+        "id": "42",
+        "id_number": 42,
+        "value": "冒険者アビリティ",
+        "translation": ""
+    },
+    {
+        "id": "43",
+        "id_number": 43,
+        "value": "reserve",
+        "translation": ""
+    },
+    {
+        "id": "44",
+        "id_number": 44,
+        "value": "アチーブメント",
+        "translation": ""
+    },
+    {
+        "id": "45",
+        "id_number": 45,
+        "value": "闘技場戦績",
+        "translation": ""
+    },
+    {
+        "id": "46",
+        "id_number": 46,
+        "value": "オートスタンプ",
+        "translation": ""
+    },
+    {
+        "id": "49",
+        "id_number": 49,
+        "value": "図鑑",
+        "translation": ""
+    },
+    {
+        "id": "50",
+        "id_number": 50,
+        "value": "Library",
+        "translation": ""
+    },
+    {
+        "id": "51",
+        "id_number": 51,
+        "value": "モンスター",
+        "translation": ""
+    },
+    {
+        "id": "52",
+        "id_number": 52,
+        "value": "アイテム",
+        "translation": ""
+    },
+    {
+        "id": "53",
+        "id_number": 53,
+        "value": "レシピ集",
+        "translation": ""
+    },
+    {
+        "id": "54",
+        "id_number": 54,
+        "value": "地域",
+        "translation": ""
+    },
+    {
+        "id": "55",
+        "id_number": 55,
+        "value": "イマジン",
+        "translation": ""
+    },
+    {
+        "id": "56",
+        "id_number": 56,
+        "value": "旅の手引き",
+        "translation": ""
+    },
+    {
+        "id": "57",
+        "id_number": 57,
+        "value": "レターボックス",
+        "translation": ""
+    },
+    {
+        "id": "58",
+        "id_number": 58,
+        "value": "reserve",
+        "translation": ""
+    },
+    {
+        "id": "59",
+        "id_number": 59,
+        "value": "reserve",
+        "translation": ""
+    },
+    {
+        "id": "60",
+        "id_number": 60,
+        "value": "魂ランク",
+        "translation": ""
+    },
+    {
+        "id": "61",
+        "id_number": 61,
+        "value": "ランキング一覧",
+        "translation": ""
+    },
+    {
+        "id": "62",
+        "id_number": 62,
+        "value": "個人結果",
+        "translation": ""
+    }
+]

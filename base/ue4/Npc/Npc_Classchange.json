@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "お主は何で身を立てるつもりじゃ？\n扱う武器が無ければ、どうしようもないがな。",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "会話は無い",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "頑張れよ！",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "じゃあな",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "クラスチェンジ",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "やめる",
+        "translation": ""
+    }
+]

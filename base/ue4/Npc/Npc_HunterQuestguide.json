@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "バウンティーリストが欲しい者はいないか？",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "ハンターランクが上がれば、\nより強い魔物のリストを渡そう。",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "クエスト受けねえのか？",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "ありがとよ！",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "また頼むな！",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "おぉ！流石だな！",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "まあ、次があるさ！\n気を落とすなよ。",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "おいおい\n辞めちゃうのかよ？",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "リストをもらう",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "会話",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "別れる",
+        "translation": ""
+    }
+]

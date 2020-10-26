@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "貢献度不足のため報酬が獲得できませんでした",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "Mission Clear !",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "Mission Failed !",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "Emergency Mission !",
+        "translation": ""
+    }
+]

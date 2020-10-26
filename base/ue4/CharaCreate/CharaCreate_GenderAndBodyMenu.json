@@ -1,0 +1,44 @@
+[
+    {
+        "id": "None",
+        "id_number": 1,
+        "value": "男 体型1",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 2,
+        "value": "男 体型2",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 3,
+        "value": "女 体型1",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 4,
+        "value": "女 体型2",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 10,
+        "value": "身長",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 11,
+        "value": "肉付",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 12,
+        "value": "胸囲",
+        "translation": ""
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "クラスアクション",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "装備武器",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "ヴァンガードの説明 (仮)",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "ウィザードの説明 (仮)",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "ソードスレイヤーの説明 (仮)",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "ガンスリンガーの説明 (仮)",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "スプラッシュの説明 (仮)",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "遠距離攻撃クラス\n機敏性の高い弓を操り、全てを貫く。\n距離を保ちながら戦闘状況を判断し、弱点を\n狙ったり範囲攻撃をしたり戦術の幅が広いクラス。",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "近距離攻撃クラス\n巨大な二本の斧で、敵を断ち切る。\n自身へ強靭な力を与えるスキルを使いこなし、\n常に戦闘の前線で戦い続ける勇猛なクラス。",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "エンジニアの説明 (仮)",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "ストライカーの説明 (仮)",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "スレイヤーの説明 (仮)",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "遠距離攻撃クラス\n杖を用いてエングラムを操作、変換する。\n炎・氷・雷等を操り、連続してスキルを繰り出す\nことが可能な、瞬発力の高いクラス。",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "近距離攻撃クラス\n剣と強固な盾を駆使し、前線を維持する。\n防衛力に長け、相手の戦術を見極めながら、\n確実に敵撃破を狙う攻守バランスの良いクラス。",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "近距離検証クラスの説明 (仮)",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "遠距離検証クラスの説明 (仮)",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "の説明 (仮)",
+        "translation": ""
+    },
+    {
+        "id": "99",
+        "id_number": 99,
+        "value": "Unknown",
+        "translation": ""
+    }
+]

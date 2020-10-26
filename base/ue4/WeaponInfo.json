@@ -1,0 +1,26 @@
+[
+    {
+        "id": "None",
+        "id_number": 1,
+        "value": "Lv.",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 2,
+        "value": "フォース",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 3,
+        "value": "攻撃力",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 4,
+        "value": "装備変更",
+        "translation": ""
+    }
+]

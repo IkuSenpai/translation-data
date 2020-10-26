@@ -1,0 +1,38 @@
+[
+    {
+        "id": "0",
+        "id_number": -1,
+        "value": "(泣き)",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": -1,
+        "value": "フェステセリフ",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": -1,
+        "value": "アインレインセリフ",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": -1,
+        "value": "会話アクション0",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": -1,
+        "value": "連続でしゃべる場合に解除されないことを確認",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": -1,
+        "value": "会話アクション1",
+        "translation": ""
+    }
+]

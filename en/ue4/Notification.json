@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "パーティに勧誘\nされました",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "パーティに参加申請\nがあります",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "申請中",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "コンテンツ\n突入OK！",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "突入待機中",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "パーティ移動\n依頼が来ています",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "メンバーの決定を\n待っています",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "ギルドに勧誘\nされました",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "ギルドに参加申請が\nあります",
+        "translation": ""
+    }
+]

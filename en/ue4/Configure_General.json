@@ -1,0 +1,74 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "操作モード切替",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "マウス＆キーボード操作",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "ゲームパッド操作",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "画面設定",
+        "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "マウスとキーボードを使って操作を行います。\n表示されているキーヘルプやヘルプ表示内容がマウス＆キーボードに対応したものになります。",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "ゲームパッドを使って操作を行います。\n表示されているキーヘルプやヘルプ表示内容がゲームパッドに対応したものになります。",
+        "translation": ""
+    },
+    {
+        "id": "500",
+        "id_number": 500,
+        "value": "自動",
+        "translation": ""
+    },
+    {
+        "id": "501",
+        "id_number": 501,
+        "value": "表示しない",
+        "translation": ""
+    },
+    {
+        "id": "502",
+        "id_number": 502,
+        "value": "表示する",
+        "translation": ""
+    },
+    {
+        "id": "503",
+        "id_number": 503,
+        "value": "ゲーム設定",
+        "translation": ""
+    },
+    {
+        "id": "504",
+        "id_number": 504,
+        "value": "チャットの吹き出しを非表示にする",
+        "translation": ""
+    },
+    {
+        "id": "505",
+        "id_number": 505,
+        "value": "パーティ招待、マッチングの割り込み表示を無効にする",
+        "translation": ""
+    }
+]

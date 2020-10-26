@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "闘技場へようこそ",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "私はカスタムマッチを担当しております。\nお好みのルールで対戦を楽しめますよ。",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "対戦に参加されますか？",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "対戦に参加されますか？",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "またのご利用をお待ちしております。",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "別れる",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "会話",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "対戦する",
+        "translation": ""
+    }
+]

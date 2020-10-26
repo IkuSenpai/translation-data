@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "よく来たな！",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "ランクの高い武器ほど強く希少価値も高い！\nロマンだろ？",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "ガハハハハ、任せろ！",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "武器はロマンだ！",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "ガハハ、また来てくれ！",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "やめる",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "会話",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "進化する",
+        "translation": ""
+    }
+]

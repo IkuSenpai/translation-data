@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "ジェスチャー",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "パレット登録",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "スタンプ",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "履歴",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "送り先",
+        "translation": ""
+    }
+]

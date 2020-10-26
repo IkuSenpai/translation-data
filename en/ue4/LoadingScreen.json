@@ -1,0 +1,44 @@
+[
+    {
+        "id": "None",
+        "id_number": 1,
+        "value": "Tips",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 10,
+        "value": "ペイロード",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 11,
+        "value": "馬車を目的地まで護衛しろ",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 20,
+        "value": "ドミネーション",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 21,
+        "value": "相手の陣地を奪い取れ",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 30,
+        "value": "バウンティ",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 31,
+        "value": "相手より先にツボをゴールに運び込め",
+        "translation": ""
+    }
+]

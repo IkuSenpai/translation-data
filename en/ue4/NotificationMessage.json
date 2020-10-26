@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "を受注しました",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "を達成しました",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "時間制限によって\nクエストが破棄されました",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "が発生しました",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "が更新されました",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "討伐ハンタークエストの\n項目を達成しました",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "称号：{achievement}\nを入手しました。",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "チュートリアル：{tutorial}を開放しました。",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "ミッションクエスト:{mission_type}を達成しました",
+        "translation": ""
+    }
+]

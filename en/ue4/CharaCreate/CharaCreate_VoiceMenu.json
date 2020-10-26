@@ -1,0 +1,38 @@
+[
+    {
+        "id": "None",
+        "id_number": 1,
+        "value": "ボイス１",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 2,
+        "value": "ボイス２",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 3,
+        "value": "ボイス３",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 4,
+        "value": "ボイス４",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 5,
+        "value": "ボイス５",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 99,
+        "value": "Unknown",
+        "translation": ""
+    }
+]

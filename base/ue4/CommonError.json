@@ -1,0 +1,44 @@
+[
+    {
+        "id": "Connect_Error",
+        "id_number": -1,
+        "value": "通信に失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "hasNgWord",
+        "id_number": -1,
+        "value": "使用できない語句が含まれています",
+        "translation": ""
+    },
+    {
+        "id": "HackDialogTitle",
+        "id_number": -1,
+        "value": "Error",
+        "translation": ""
+    },
+    {
+        "id": "DisconnectServer",
+        "id_number": -1,
+        "value": "サーバーとの接続が切れたため\nゲームを終了します",
+        "translation": ""
+    },
+    {
+        "id": "DisconnectChatSystem",
+        "id_number": -1,
+        "value": "チャットサーバーとの接続が切れたため\nゲームを終了します",
+        "translation": ""
+    },
+    {
+        "id": "DisconnectPartySystem",
+        "id_number": -1,
+        "value": "パーティサーバーとの接続が切れたため\nゲームを終了します",
+        "translation": ""
+    },
+    {
+        "id": "ConnectionError",
+        "id_number": -1,
+        "value": "サーバーに接続できなかったため\nゲームを終了します",
+        "translation": ""
+    }
+]

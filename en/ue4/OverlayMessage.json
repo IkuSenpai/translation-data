@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "OK",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "はい",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "いいえ",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "ゲームを終了します、よろしいですか？",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "キャラ選択に戻ります、よろしいですか？",
+        "translation": ""
+    }
+]

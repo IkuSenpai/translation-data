@@ -1,0 +1,362 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "バッグ",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "消費アイテム",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "武器",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "イマジンシード",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "キーアイテム",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "エングラム",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "衣装",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "パレット登録",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "パレット解除",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "使う",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "捨てる",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "装備",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "効果 : ",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "分解",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "ロック切替",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "整理",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "倉庫",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "閉じる",
+        "translation": ""
+    },
+    {
+        "id": "50",
+        "id_number": 50,
+        "value": "Item",
+        "translation": ""
+    },
+    {
+        "id": "51",
+        "id_number": 51,
+        "value": "Weapon",
+        "translation": ""
+    },
+    {
+        "id": "52",
+        "id_number": 52,
+        "value": "Costume",
+        "translation": ""
+    },
+    {
+        "id": "53",
+        "id_number": 53,
+        "value": "Imajinn Seed",
+        "translation": ""
+    },
+    {
+        "id": "54",
+        "id_number": 54,
+        "value": "KeyItem",
+        "translation": ""
+    },
+    {
+        "id": "55",
+        "id_number": 55,
+        "value": "入庫",
+        "translation": ""
+    },
+    {
+        "id": "56",
+        "id_number": 56,
+        "value": "出庫",
+        "translation": ""
+    },
+    {
+        "id": "57",
+        "id_number": 57,
+        "value": "TOTAL\nINVENTORY",
+        "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "Lv.",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "攻撃力",
+        "translation": ""
+    },
+    {
+        "id": "103",
+        "id_number": 103,
+        "value": "属性",
+        "translation": ""
+    },
+    {
+        "id": "110",
+        "id_number": 110,
+        "value": "筋力",
+        "translation": ""
+    },
+    {
+        "id": "111",
+        "id_number": 111,
+        "value": "耐久力",
+        "translation": ""
+    },
+    {
+        "id": "112",
+        "id_number": 112,
+        "value": "器用さ",
+        "translation": ""
+    },
+    {
+        "id": "113",
+        "id_number": 113,
+        "value": "知力",
+        "translation": ""
+    },
+    {
+        "id": "114",
+        "id_number": 114,
+        "value": "精神力",
+        "translation": ""
+    },
+    {
+        "id": "115",
+        "id_number": 115,
+        "value": "最大HP",
+        "translation": ""
+    },
+    {
+        "id": "120",
+        "id_number": 120,
+        "value": "アビリティ１",
+        "translation": ""
+    },
+    {
+        "id": "121",
+        "id_number": 121,
+        "value": "アビリティ２",
+        "translation": ""
+    },
+    {
+        "id": "122",
+        "id_number": 122,
+        "value": "アビリティ３",
+        "translation": ""
+    },
+    {
+        "id": "123",
+        "id_number": 123,
+        "value": "アビリティ４",
+        "translation": ""
+    },
+    {
+        "id": "124",
+        "id_number": 124,
+        "value": "効果値",
+        "translation": ""
+    },
+    {
+        "id": "125",
+        "id_number": 125,
+        "value": "スキル",
+        "translation": ""
+    },
+    {
+        "id": "126",
+        "id_number": 126,
+        "value": "インターバル",
+        "translation": ""
+    },
+    {
+        "id": "127",
+        "id_number": 127,
+        "value": "s",
+        "translation": ""
+    },
+    {
+        "id": "900",
+        "id_number": 900,
+        "value": "武器装備変更エラー",
+        "translation": ""
+    },
+    {
+        "id": "901",
+        "id_number": 901,
+        "value": "衣装変更エラー",
+        "translation": ""
+    },
+    {
+        "id": "902",
+        "id_number": 902,
+        "value": "キャラクタークリエイトデータアップロードエラー",
+        "translation": ""
+    },
+    {
+        "id": "903",
+        "id_number": 903,
+        "value": "不明なエラーです",
+        "translation": ""
+    },
+    {
+        "id": "904",
+        "id_number": 904,
+        "value": "データの保存に失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "905",
+        "id_number": 905,
+        "value": "装備品枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "906",
+        "id_number": 906,
+        "value": "アイテム枠がいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "907",
+        "id_number": 907,
+        "value": "収納ボックスがいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "908",
+        "id_number": 908,
+        "value": "このアイテムはそれ以上預けられません",
+        "translation": ""
+    },
+    {
+        "id": "909",
+        "id_number": 909,
+        "value": "このアイテムはそれ以上所持できません",
+        "translation": ""
+    },
+    {
+        "id": "910",
+        "id_number": 910,
+        "value": "装備中のため移動できません",
+        "translation": ""
+    },
+    {
+        "id": "800",
+        "id_number": 800,
+        "value": "武器を強化素材に変換しますか？(※武器は消失します)",
+        "translation": ""
+    },
+    {
+        "id": "801",
+        "id_number": 801,
+        "value": "武器が{n}個の{itemname}に変換されました",
+        "translation": ""
+    },
+    {
+        "id": "802",
+        "id_number": 802,
+        "value": "武器が{n}個の{itemname}に変換されました、追加で{m}個できました",
+        "translation": ""
+    },
+    {
+        "id": "810",
+        "id_number": 810,
+        "value": "装備中の武器は変換できません",
+        "translation": ""
+    },
+    {
+        "id": "811",
+        "id_number": 811,
+        "value": "武器が見つかりませんでした",
+        "translation": ""
+    },
+    {
+        "id": "999",
+        "id_number": 999,
+        "value": "不明なエラー",
+        "translation": ""
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "コメント:",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "個別に設定する",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "プロフィール公開設定",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "パーティ招待の受付",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "フォロワー",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "フォローを拒否",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "ID:",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "戦績",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "アクティビティ",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "人",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "スクリーンショット",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "公開する",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "公開しない",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "非公開",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "フォロワーに公開",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "全員に公開",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "旅団員に公開",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "Lv.",
+        "translation": ""
+    },
+    {
+        "id": "41",
+        "id_number": 41,
+        "value": "アルバムを開く",
+        "translation": ""
+    },
+    {
+        "id": "42",
+        "id_number": 42,
+        "value": "設定する",
+        "translation": ""
+    },
+    {
+        "id": "43",
+        "id_number": 43,
+        "value": "プロフィールに表示するスクリーンショットを選択してください",
+        "translation": ""
+    },
+    {
+        "id": "44",
+        "id_number": 44,
+        "value": "表示する範囲を設定します キーボードのWASDや矢印キー、ゲームパッドの方向キーで表示範囲を移動します",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "アップロード画像のロードに失敗しました。",
+        "translation": ""
+    }
+]

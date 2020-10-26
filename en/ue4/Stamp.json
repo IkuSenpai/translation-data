@@ -1,0 +1,242 @@
+[
+    {
+        "id": "log_message",
+        "id_number": -1,
+        "value": "{CharacterName}は{CategoryName}：{StampName}のスタンプを送った",
+        "translation": ""
+    },
+    {
+        "id": "001_category",
+        "id_number": -1,
+        "value": "気分",
+        "translation": ""
+    },
+    {
+        "id": "003_category",
+        "id_number": -1,
+        "value": "ネコ",
+        "translation": ""
+    },
+    {
+        "id": "004_category",
+        "id_number": -1,
+        "value": "ニワトリ",
+        "translation": ""
+    },
+    {
+        "id": "007_category",
+        "id_number": -1,
+        "value": "クエスト嬢",
+        "translation": ""
+    },
+    {
+        "id": "1001",
+        "id_number": -1,
+        "value": "ハート",
+        "translation": ""
+    },
+    {
+        "id": "1002",
+        "id_number": -1,
+        "value": "怒り",
+        "translation": ""
+    },
+    {
+        "id": "1003",
+        "id_number": -1,
+        "value": "どんより",
+        "translation": ""
+    },
+    {
+        "id": "1004",
+        "id_number": -1,
+        "value": "音符",
+        "translation": ""
+    },
+    {
+        "id": "1005",
+        "id_number": -1,
+        "value": "汗",
+        "translation": ""
+    },
+    {
+        "id": "3007",
+        "id_number": -1,
+        "value": "よろしく",
+        "translation": ""
+    },
+    {
+        "id": "3008",
+        "id_number": -1,
+        "value": "お疲れ様です",
+        "translation": ""
+    },
+    {
+        "id": "3009",
+        "id_number": -1,
+        "value": "ありがとう",
+        "translation": ""
+    },
+    {
+        "id": "3013",
+        "id_number": -1,
+        "value": "ごめんなさい",
+        "translation": ""
+    },
+    {
+        "id": "3016",
+        "id_number": -1,
+        "value": "助けてください",
+        "translation": ""
+    },
+    {
+        "id": "3023",
+        "id_number": -1,
+        "value": "パーティに入れてください",
+        "translation": ""
+    },
+    {
+        "id": "3025",
+        "id_number": -1,
+        "value": "パーティメンバー募集",
+        "translation": ""
+    },
+    {
+        "id": "3028",
+        "id_number": -1,
+        "value": "ナイス",
+        "translation": ""
+    },
+    {
+        "id": "3032",
+        "id_number": -1,
+        "value": "回復ほしいな",
+        "translation": ""
+    },
+    {
+        "id": "3035",
+        "id_number": -1,
+        "value": "蘇生お願いします",
+        "translation": ""
+    },
+    {
+        "id": "4007",
+        "id_number": -1,
+        "value": "よろしく",
+        "translation": ""
+    },
+    {
+        "id": "4008",
+        "id_number": -1,
+        "value": "お疲れ様です",
+        "translation": ""
+    },
+    {
+        "id": "4009",
+        "id_number": -1,
+        "value": "ありがとう",
+        "translation": ""
+    },
+    {
+        "id": "4013",
+        "id_number": -1,
+        "value": "ごめんなさい",
+        "translation": ""
+    },
+    {
+        "id": "4016",
+        "id_number": -1,
+        "value": "助けてください",
+        "translation": ""
+    },
+    {
+        "id": "4023",
+        "id_number": -1,
+        "value": "パーティに入れてください",
+        "translation": ""
+    },
+    {
+        "id": "4025",
+        "id_number": -1,
+        "value": "パーティメンバー募集",
+        "translation": ""
+    },
+    {
+        "id": "4028",
+        "id_number": -1,
+        "value": "ナイス",
+        "translation": ""
+    },
+    {
+        "id": "4032",
+        "id_number": -1,
+        "value": "回復ほしいな",
+        "translation": ""
+    },
+    {
+        "id": "4035",
+        "id_number": -1,
+        "value": "蘇生お願いします",
+        "translation": ""
+    },
+    {
+        "id": "7007",
+        "id_number": -1,
+        "value": "よろしく",
+        "translation": ""
+    },
+    {
+        "id": "7008",
+        "id_number": -1,
+        "value": "お疲れ様です",
+        "translation": ""
+    },
+    {
+        "id": "7009",
+        "id_number": -1,
+        "value": "ありがとう",
+        "translation": ""
+    },
+    {
+        "id": "7013",
+        "id_number": -1,
+        "value": "ごめんなさい",
+        "translation": ""
+    },
+    {
+        "id": "7016",
+        "id_number": -1,
+        "value": "助けてください",
+        "translation": ""
+    },
+    {
+        "id": "7023",
+        "id_number": -1,
+        "value": "パーティに入れてください",
+        "translation": ""
+    },
+    {
+        "id": "7025",
+        "id_number": -1,
+        "value": "パーティメンバー募集",
+        "translation": ""
+    },
+    {
+        "id": "7028",
+        "id_number": -1,
+        "value": "ナイス",
+        "translation": ""
+    },
+    {
+        "id": "7032",
+        "id_number": -1,
+        "value": "回復ほしいな",
+        "translation": ""
+    },
+    {
+        "id": "7035",
+        "id_number": -1,
+        "value": "蘇生お願いします",
+        "translation": ""
+    }
+]

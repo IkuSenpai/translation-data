@@ -1,0 +1,26 @@
+[
+    {
+        "id": "None",
+        "id_number": 1,
+        "value": "今日",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 2,
+        "value": "昨日",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 3,
+        "value": "{Day}日前",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 4,
+        "value": "ずっと前",
+        "translation": ""
+    }
+]

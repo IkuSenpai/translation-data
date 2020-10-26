@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "［ <key action=\"Interaction\"/> ］  調べる",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "［ <key action=\"Interaction\"/> ］  話す",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "［ <key action=\"Interaction\"/> ］  空間転送",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "［ <key action=\"Interaction\"/> ］  (移動)",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "［ <key action=\"Interaction\"/> ］  クライム",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "［ <key action=\"Interaction\"/> ］  救護",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "［ <key action=\"Interaction\"/> ］  (陸に上がる)",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "［ <key action=\"Interaction\"/> ］ 情報を見る",
+        "translation": ""
+    }
+]

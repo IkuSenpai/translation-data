@@ -1,0 +1,110 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "ん、おぬし、冒険者か？",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "おぬしに頼みたいことがあるんじゃ",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "実はのぉ、わしの大事な大事な宝物が\nゴブリンに盗られてしまったのじゃ",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "あれがないと心にポッカリ穴が開いてしまったようで、\n夜もおちおち眠れないんじゃ",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "どうか、わしの頼みを聞いてくれんかのぉ？",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "そうか、こんな年寄りの頼みは聞けんか\nそうか、そうかぁ",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "今日も夜は眠れんかぁ",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "おぉ、わしの頼みを聞いてくれるのか！？",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "わしの宝物を盗んだゴブリンは\nいつも<span color=\"Emphasis\">アステリア平原</>の端っこの方におるぞ",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "見た目が普通のと違って、\n<span color=\"Emphasis\">白い</>からすぐにわかるはずじゃ",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "頼んだぞい！",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "おぉ、もう取り返してきてくれたのか？",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "……なんじゃ、まだか",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "わしの宝物を盗んだゴブリンは\nいつも<span color=\"Emphasis\">アステリア平原</>の端っこの方におるぞ",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "見た目が普通のと違って、\n<span color=\"Emphasis\">白い</>からすぐにわかるはずじゃ",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "頼んだぞい！",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "おぉ、それは紛うことなく、わしの大事な宝物！！",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "冒険者の方よ、\nありがとう、ありがとう",
+        "translation": ""
+    }
+]

@@ -1,0 +1,488 @@
+[
+    {
+        "id": "HP_MaxUp_Name",
+        "id_number": -1,
+        "value": "HP強化",
+        "translation": ""
+    },
+    {
+        "id": "HP_MaxUp_Desc",
+        "id_number": -1,
+        "value": "HP最大値アップ",
+        "translation": ""
+    },
+    {
+        "id": "Stamina_MaxUp_Name",
+        "id_number": -1,
+        "value": "ST強化",
+        "translation": ""
+    },
+    {
+        "id": "Stamina_MaxUp_Desc",
+        "id_number": -1,
+        "value": "ST最大値アップ",
+        "translation": ""
+    },
+    {
+        "id": "Dodge_DistanceUp_Name",
+        "id_number": -1,
+        "value": "回避強化",
+        "translation": ""
+    },
+    {
+        "id": "Dodge_DistanceUp_Desc",
+        "id_number": -1,
+        "value": "回避距離を伸ばす",
+        "translation": ""
+    },
+    {
+        "id": "Resurrection_SpeedUp_Name",
+        "id_number": -1,
+        "value": "リザレクション強化",
+        "translation": ""
+    },
+    {
+        "id": "Resurrection_SpeedUp_Desc",
+        "id_number": -1,
+        "value": "救護にかかる時間を短縮する",
+        "translation": ""
+    },
+    {
+        "id": "SpinAxe_ArmorUp_Name",
+        "id_number": -1,
+        "value": "アクストルネード強化",
+        "translation": ""
+    },
+    {
+        "id": "SpinAxe_ArmorUp_Desc",
+        "id_number": -1,
+        "value": "レギュラースキル「アクストルネード」強化\nアクストルネード中に受けるダメージダウン",
+        "translation": ""
+    },
+    {
+        "id": "LifeDrain_DrainRateUp_Name",
+        "id_number": -1,
+        "value": "ライフドレイン強化",
+        "translation": ""
+    },
+    {
+        "id": "LifeDrain_DrainRateUp_Desc",
+        "id_number": -1,
+        "value": "ヒールスキル「ライフドレイン」強化\nライフドレインで回復するHPの量が増加",
+        "translation": ""
+    },
+    {
+        "id": "BrutalBlow_ChargeSpeedUp_Name",
+        "id_number": -1,
+        "value": "ブルータルブロウ強化",
+        "translation": ""
+    },
+    {
+        "id": "BrutalBlow_ChargeSpeedUp_Desc",
+        "id_number": -1,
+        "value": "タクティカルスキル「ブルータルブロウ」強化\nチャージ速度上昇",
+        "translation": ""
+    },
+    {
+        "id": "HavocStomp_AreaUp_Name",
+        "id_number": -1,
+        "value": "フォールインパクトを強化",
+        "translation": ""
+    },
+    {
+        "id": "HavocStomp_AreaUp_Desc",
+        "id_number": -1,
+        "value": "タクティカルスキル「フォールインパクト」強化\n攻撃範囲拡大",
+        "translation": ""
+    },
+    {
+        "id": "4AxeSlash_RecastDown_Name",
+        "id_number": -1,
+        "value": "ストームラッシュを強化",
+        "translation": ""
+    },
+    {
+        "id": "4AxeSlash_RecastDown_Desc",
+        "id_number": -1,
+        "value": "タクティカルスキル「ストームラッシュ」強化\nストームラッシュのインターバルを短縮",
+        "translation": ""
+    },
+    {
+        "id": "BerserkerPowerUp_TimeExtend_Name",
+        "id_number": -1,
+        "value": "ウォークライ強化",
+        "translation": ""
+    },
+    {
+        "id": "BerserkerPowerUp_TimeExtend_Desc",
+        "id_number": -1,
+        "value": "タクティカルスキル「ウォークライ」強化\nウォークライの効果時間を延長する",
+        "translation": ""
+    },
+    {
+        "id": "StepShot_2ndShotPowerUp_Name",
+        "id_number": -1,
+        "value": "スラロームショット強化",
+        "translation": ""
+    },
+    {
+        "id": "StepShot_2ndShotPowerUp_Desc",
+        "id_number": -1,
+        "value": "レギュラースキル「スラロームショット」強化\n２射目の矢の与えるダメージアップ",
+        "translation": ""
+    },
+    {
+        "id": "HealRain_TimeExtend_Name",
+        "id_number": -1,
+        "value": "ヒールレイン強化",
+        "translation": ""
+    },
+    {
+        "id": "HealRain_TimeExtend_Desc",
+        "id_number": -1,
+        "value": "ヒールスキル「ヒールレイン」強化\nヒールレインの持続時間を延長",
+        "translation": ""
+    },
+    {
+        "id": "PowerShot_Pierce_Name",
+        "id_number": -1,
+        "value": "チャージアロー強化",
+        "translation": ""
+    },
+    {
+        "id": "PowerShot_Pierce_Desc",
+        "id_number": -1,
+        "value": "タクティカルスキル「チャージアロー」強化\nエネミーを貫通する矢になる",
+        "translation": ""
+    },
+    {
+        "id": "MultiShot_NumUp_Name",
+        "id_number": -1,
+        "value": "スタンピードアロー強化",
+        "translation": ""
+    },
+    {
+        "id": "MultiShot_NumUp_Desc",
+        "id_number": -1,
+        "value": "タクティカルスキル「スタンピードアロー」強化\n発射される矢の本数が増える。",
+        "translation": ""
+    },
+    {
+        "id": "ArrowRain_AreaUp_Name",
+        "id_number": -1,
+        "value": "リーサルシャワー強化",
+        "translation": ""
+    },
+    {
+        "id": "ArrowRain_AreaUp_Desc",
+        "id_number": -1,
+        "value": "タクティカルスキル「リーサルシャワー」強化\n攻撃範囲拡大",
+        "translation": ""
+    },
+    {
+        "id": "FireUp_TimeExtend_Name",
+        "id_number": -1,
+        "value": "ハンタースピリット強化",
+        "translation": ""
+    },
+    {
+        "id": "FireUp_TimeExtend_Desc",
+        "id_number": -1,
+        "value": "タクティカルスキル「ハンタースピリット」強化\nハンタースピリットの効果時間を延長する",
+        "translation": ""
+    },
+    {
+        "id": "MagicCannon_RecastDown_Name",
+        "id_number": -1,
+        "value": "エングラムバースト強化",
+        "translation": ""
+    },
+    {
+        "id": "MagicCannon_RecastDown_Desc",
+        "id_number": -1,
+        "value": "レギュラースキル「エングラムバースト」強化\nインターバルを短縮する",
+        "translation": ""
+    },
+    {
+        "id": "MagicianHealingArea_TimeExtend_Name",
+        "id_number": -1,
+        "value": "ヒーリングエリア強化",
+        "translation": ""
+    },
+    {
+        "id": "MagicianHealingArea_TimeExtend_Desc",
+        "id_number": -1,
+        "value": "ヒールスキル「ヒーリングエリア」強化\nヒーリングエリアの効果時間を延長する",
+        "translation": ""
+    },
+    {
+        "id": "FireBall_DotDamage_Name",
+        "id_number": -1,
+        "value": "ファイアブラスト強化",
+        "translation": ""
+    },
+    {
+        "id": "FireBall_DotDamage_Desc",
+        "id_number": -1,
+        "value": "タクティカルスキル「ファイアブラスト」強化\n命中した相手を炎上状態にし、持続ダメージを与える",
+        "translation": ""
+    },
+    {
+        "id": "ThunderBeam_BuffTimeExtend_Name",
+        "id_number": -1,
+        "value": "ライトニング強化",
+        "translation": ""
+    },
+    {
+        "id": "ThunderBeam_BuffTimeExtend_Desc",
+        "id_number": -1,
+        "value": "タクティカルスキル「ライトニング」強化\nライトニングを最大まで溜めたときの\n発生効果の発生時間を延長する",
+        "translation": ""
+    },
+    {
+        "id": "IceStorm_MPDown_Name",
+        "id_number": -1,
+        "value": "ブリザード強化",
+        "translation": ""
+    },
+    {
+        "id": "IceStorm_MPDown_Desc",
+        "id_number": -1,
+        "value": "タクティカルスキル「ブリザード」強化\nブリザードの消費EPが減少",
+        "translation": ""
+    },
+    {
+        "id": "MagicUp_TimeExtend_Name",
+        "id_number": -1,
+        "value": "コンセントレーション強化",
+        "translation": ""
+    },
+    {
+        "id": "MagicUp_TimeExtend_Desc",
+        "id_number": -1,
+        "value": "タクティカルスキル「コンセントレーション」強化\nコンセントレーションの効果時間を延長する",
+        "translation": ""
+    },
+    {
+        "id": "RebellionGuard_ShieldDamageDown_Name",
+        "id_number": -1,
+        "value": "シールドガード強化",
+        "translation": ""
+    },
+    {
+        "id": "RebellionGuard_ShieldDamageDown_Desc",
+        "id_number": -1,
+        "value": "レギュラースキル「シールドガード」強化\nガード成功時の盾ゲージ消費量を減少する",
+        "translation": ""
+    },
+    {
+        "id": "RebellionHeal_AmountUp_Name",
+        "id_number": -1,
+        "value": "ヒール強化",
+        "translation": ""
+    },
+    {
+        "id": "RebellionHeal_AmountUp_Desc",
+        "id_number": -1,
+        "value": "ヒールスキル「ヒール」強化\nヒールの回復量が増加する。",
+        "translation": ""
+    },
+    {
+        "id": "ShieldCharge_StunExtend_Name",
+        "id_number": -1,
+        "value": "シールドバッシュ強化",
+        "translation": ""
+    },
+    {
+        "id": "ShieldCharge_StunExtend_Desc",
+        "id_number": -1,
+        "value": "タクティカルスキル「シールドバッシュ」強化\nエネミーをスタンする時間を１秒延長",
+        "translation": ""
+    },
+    {
+        "id": "ShieldAttract_AreaUp_Name",
+        "id_number": -1,
+        "value": "ブロウビート強化",
+        "translation": ""
+    },
+    {
+        "id": "ShieldAttract_AreaUp_Desc",
+        "id_number": -1,
+        "value": "タクティカルスキル「ブロウビート」強化\n攻撃範囲拡大",
+        "translation": ""
+    },
+    {
+        "id": "DoubleCutter_SizeUp_Name",
+        "id_number": -1,
+        "value": "ディバイドスラッシュ強化",
+        "translation": ""
+    },
+    {
+        "id": "DoubleCutter_SizeUp_Desc",
+        "id_number": -1,
+        "value": "タクティカルスキル「ディバイドスラッシュ」強化\n放つ衝撃波の範囲を拡大する",
+        "translation": ""
+    },
+    {
+        "id": "Protection_TimeExtend_Name",
+        "id_number": -1,
+        "value": "フォートレス強化",
+        "translation": ""
+    },
+    {
+        "id": "Protection_TimeExtend_Desc",
+        "id_number": -1,
+        "value": "タクティカルスキル「フォートレス」強化\nフォートレスの持続時間を延長する",
+        "translation": ""
+    },
+    {
+        "id": "IncreaseGiveDamage",
+        "id_number": -1,
+        "value": "与えるダメージアップ",
+        "translation": ""
+    },
+    {
+        "id": "DecreaseGiveDamage",
+        "id_number": -1,
+        "value": "与えるダメージダウン",
+        "translation": ""
+    },
+    {
+        "id": "IncreaseReceiveDamage",
+        "id_number": -1,
+        "value": "受けるダメージダウン",
+        "translation": ""
+    },
+    {
+        "id": "DecreaseReceiveDamage",
+        "id_number": -1,
+        "value": "受けるダメージアップ",
+        "translation": ""
+    },
+    {
+        "id": "Stun",
+        "id_number": -1,
+        "value": "スタン",
+        "translation": ""
+    },
+    {
+        "id": "InvalidStun",
+        "id_number": -1,
+        "value": "スタン無効",
+        "translation": ""
+    },
+    {
+        "id": "Fire",
+        "id_number": -1,
+        "value": "炎上",
+        "translation": ""
+    },
+    {
+        "id": "Ice",
+        "id_number": -1,
+        "value": "帯電",
+        "translation": ""
+    },
+    {
+        "id": "Thunder",
+        "id_number": -1,
+        "value": "凍傷",
+        "translation": ""
+    },
+    {
+        "id": "Poison",
+        "id_number": -1,
+        "value": "毒",
+        "translation": ""
+    },
+    {
+        "id": "Regenerate",
+        "id_number": -1,
+        "value": "体力自動回復",
+        "translation": ""
+    },
+    {
+        "id": "MPRegenerate",
+        "id_number": -1,
+        "value": "EP自動回復",
+        "translation": ""
+    },
+    {
+        "id": "RapidChargeSpeed",
+        "id_number": -1,
+        "value": "チャージ短縮",
+        "translation": ""
+    },
+    {
+        "id": "SlowChargeSpeed",
+        "id_number": -1,
+        "value": "チャージ遅延",
+        "translation": ""
+    },
+    {
+        "id": "ReduceSkillRecastTime",
+        "id_number": -1,
+        "value": "インターバル短縮：通常スキル",
+        "translation": ""
+    },
+    {
+        "id": "ExpansionSkillRecastTime",
+        "id_number": -1,
+        "value": "インターバル遅延：通常スキル",
+        "translation": ""
+    },
+    {
+        "id": "ReduceSpecialSkillRecastTime",
+        "id_number": -1,
+        "value": "インターバル短縮：ULTスキル",
+        "translation": ""
+    },
+    {
+        "id": "ExpansionSpecialSkillRecastTime",
+        "id_number": -1,
+        "value": "インターバル遅延：ULTスキル",
+        "translation": ""
+    },
+    {
+        "id": "ReduceImagineSkillRecastTime",
+        "id_number": -1,
+        "value": "インターバル短縮：イマジン",
+        "translation": ""
+    },
+    {
+        "id": "ExpansionImagineSkillRecastTime",
+        "id_number": -1,
+        "value": "インターバル遅延：イマジン",
+        "translation": ""
+    },
+    {
+        "id": "RepidMoveSpeed",
+        "id_number": -1,
+        "value": "移動速度アップ",
+        "translation": ""
+    },
+    {
+        "id": "SlowMoveSpeed",
+        "id_number": -1,
+        "value": "移動速度ダウン",
+        "translation": ""
+    },
+    {
+        "id": "SuperArmor",
+        "id_number": -1,
+        "value": "怯み無効",
+        "translation": ""
+    },
+    {
+        "id": "Invincible    ",
+        "id_number": -1,
+        "value": "攻撃無効",
+        "translation": ""
+    },
+    {
+        "id": " Drain",
+        "id_number": -1,
+        "value": "体力吸収",
+        "translation": ""
+    }
+]

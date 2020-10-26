@@ -1,0 +1,44 @@
+[
+    {
+        "id": "None",
+        "id_number": 1,
+        "value": "衣装セット",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 2,
+        "value": "帽子",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 3,
+        "value": "衣装上",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 4,
+        "value": "衣装下",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 5,
+        "value": "グローブ",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 6,
+        "value": "シューズ",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 20,
+        "value": "デフォルト",
+        "translation": ""
+    }
+]
