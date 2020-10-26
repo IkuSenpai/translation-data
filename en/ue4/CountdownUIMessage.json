@@ -3,36 +3,36 @@
         "id": "1",
         "id_number": 1,
         "value": "「{Interaction}」長押しでチェックポイントへ戻ります。",
-        "translation": ""
+        "translation": "Press and hold 「{Interaction}」 to return to the checkpoint."
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "「{Interaction}」長押しで転送をキャンセルします。",
-        "translation": ""
+        "translation": "Press and hold 「{Interaction}」 to cancel the transfer."
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "「{Interaction}」長押しでゲーム終了をキャンセルします。",
-        "translation": ""
+        "translation": "Press and hold 「{Interaction}」 to cancel the end of the game."
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "バトルエリア内では自力で復活できません。\n仲間から救護してもらうか、戦闘が終了する必要があります。",
-        "translation": ""
+        "translation": "You cannot revive by yourself in the battle area.\nYou need to be rescued by a companion or the battle is over."
     },
     {
         "id": "50",
         "id_number": 50,
         "value": "キー",
-        "translation": ""
+        "translation": "Key"
     },
     {
         "id": "51",
         "id_number": 51,
         "value": "ボタン",
-        "translation": ""
+        "translation": "Button"
     }
 ]
