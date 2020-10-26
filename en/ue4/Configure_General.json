@@ -3,72 +3,72 @@
         "id": "0",
         "id_number": 0,
         "value": "操作モード切替",
-        "translation": ""
+        "translation": "Operation mode switching"
     },
     {
         "id": "1",
         "id_number": 1,
         "value": "マウス＆キーボード操作",
-        "translation": ""
+        "translation": "Mouse & keyboard operation"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "ゲームパッド操作",
-        "translation": ""
+        "translation": "Gamepad operation"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "画面設定",
-        "translation": ""
+        "translation": "Screen settings"
     },
     {
         "id": "100",
         "id_number": 100,
         "value": "マウスとキーボードを使って操作を行います。\n表示されているキーヘルプやヘルプ表示内容がマウス＆キーボードに対応したものになります。",
-        "translation": ""
+        "translation": "Operate using the mouse and keyboard.\nThe displayed key help and help display contents correspond to the mouse & keyboard."
     },
     {
         "id": "101",
         "id_number": 101,
         "value": "ゲームパッドを使って操作を行います。\n表示されているキーヘルプやヘルプ表示内容がゲームパッドに対応したものになります。",
-        "translation": ""
+        "translation": "Operate using the game pad.\nThe displayed key help and help display contents are compatible with the game pad."
     },
     {
         "id": "500",
         "id_number": 500,
         "value": "自動",
-        "translation": ""
+        "translation": "Automatic"
     },
     {
         "id": "501",
         "id_number": 501,
         "value": "表示しない",
-        "translation": ""
+        "translation": "Do not show"
     },
     {
         "id": "502",
         "id_number": 502,
         "value": "表示する",
-        "translation": ""
+        "translation": "Indicate"
     },
     {
         "id": "503",
         "id_number": 503,
         "value": "ゲーム設定",
-        "translation": ""
+        "translation": "Game settings"
     },
     {
         "id": "504",
         "id_number": 504,
         "value": "チャットの吹き出しを非表示にする",
-        "translation": ""
+        "translation": "Hide chat balloons"
     },
     {
         "id": "505",
         "id_number": 505,
         "value": "パーティ招待、マッチングの割り込み表示を無効にする",
-        "translation": ""
+        "translation": "Disable party invitation and matching interrupt display"
     }
 ]
