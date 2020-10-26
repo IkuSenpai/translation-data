@@ -3,60 +3,60 @@
         "id": "Spawn",
         "id_number": -1,
         "value": "ゲーム開始に自動的に発信する\nスタンプです。",
-        "translation": ""
+        "translation": "This is a stamp that is automatically sent\nwhen the game starts."
     },
     {
         "id": "Respawn",
         "id_number": -1,
         "value": "復活地点に復活した時に自動的に\n発信するスタンプです。",
-        "translation": ""
+        "translation": "It is a stamp that automatically sends\n when you return to the resurrection point."
     },
     {
         "id": "FewHp",
         "id_number": -1,
         "value": "体力が一定以下になった時に\n自動的に発信するスタンプです。",
-        "translation": ""
+        "translation": "This stamp is automatically sent\nwhen your physical strength drops below a certain level."
     },
     {
         "id": "ReceiveHeal",
         "id_number": -1,
         "value": "他者から回復を受けた時に\n自動的に発信するスタンプです。",
-        "translation": ""
+        "translation": "This stamp is automatically sent\nwhen recovery is received from another person."
     },
     {
         "id": "Dead",
         "id_number": -1,
         "value": "戦闘不能になった時に自動的に\n発信するスタンプです。",
-        "translation": ""
+        "translation": "It is a stamp that automatically sends\nwhen it becomes impossible to fight."
     },
     {
         "id": "Resurrection",
         "id_number": -1,
         "value": "他者から救護を受けた時に\n自動的に発信するスタンプです。",
-        "translation": ""
+        "translation": "This is a stamp that is automatically sent\nwhen you receive help from another person."
     },
     {
         "id": "DisableAutoStamp",
         "id_number": -1,
         "value": "オートスタンプを表示しない",
-        "translation": ""
+        "translation": "Do not display auto stamp"
     },
     {
         "id": "AreaSetting",
         "id_number": -1,
         "value": "範囲設定",
-        "translation": ""
+        "translation": "Range setting"
     },
     {
         "id": "StampList",
         "id_number": -1,
         "value": "設定するスタンプを選んでください",
-        "translation": ""
+        "translation": "Please select the stamp to set"
     },
     {
         "id": "Purge",
         "id_number": -1,
         "value": "はずす",
-        "translation": ""
+        "translation": "Remove"
     }
 ]
