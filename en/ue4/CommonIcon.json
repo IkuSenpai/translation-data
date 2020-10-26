@@ -3,126 +3,126 @@
         "id": "1",
         "id_number": 1,
         "value": "不明なデータです",
-        "translation": ""
+        "translation": "Unknown data"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "ルーノ",
-        "translation": ""
+        "translation": "Luno"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "Lv.",
-        "translation": ""
+        "translation": "Lv."
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "攻撃力",
-        "translation": ""
+        "translation": "Offensive power"
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "属性",
-        "translation": ""
+        "translation": "Attribute"
     },
     {
         "id": "15",
         "id_number": 15,
         "value": "筋力",
-        "translation": ""
+        "translation": "STR"
     },
     {
         "id": "16",
         "id_number": 16,
         "value": "耐久力",
-        "translation": ""
+        "translation": "END"
     },
     {
         "id": "17",
         "id_number": 17,
         "value": "器用さ",
-        "translation": ""
+        "translation": "DEX"
     },
     {
         "id": "18",
         "id_number": 18,
         "value": "知力",
-        "translation": ""
+        "translation": "INT"
     },
     {
         "id": "19",
         "id_number": 19,
         "value": "精神力",
-        "translation": ""
+        "translation": "MND"
     },
     {
         "id": "20",
         "id_number": 20,
         "value": "最大HP",
-        "translation": ""
+        "translation": "Max HP"
     },
     {
         "id": "21",
         "id_number": 21,
         "value": "アビリティ１",
-        "translation": ""
+        "translation": "Ability 1"
     },
     {
         "id": "22",
         "id_number": 22,
         "value": "アビリティ２",
-        "translation": ""
+        "translation": "Ability 2"
     },
     {
         "id": "23",
         "id_number": 23,
         "value": "アビリティ３",
-        "translation": ""
+        "translation": "Ability 3"
     },
     {
         "id": "24",
         "id_number": 24,
         "value": "アビリティ４",
-        "translation": ""
+        "translation": "Ability 4"
     },
     {
         "id": "25",
         "id_number": 25,
         "value": "アビリティ",
-        "translation": ""
+        "translation": "Ability"
     },
     {
         "id": "26",
         "id_number": 26,
         "value": "インターバル",
-        "translation": ""
+        "translation": "Interval"
     },
     {
         "id": "27",
         "id_number": 27,
         "value": "スキル",
-        "translation": ""
+        "translation": "Skill"
     },
     {
         "id": "28",
         "id_number": 28,
         "value": "効果値",
-        "translation": ""
+        "translation": "Effect value"
     },
     {
         "id": "29",
         "id_number": 29,
         "value": "装着部位",
-        "translation": ""
+        "translation": "Mounting site"
     },
     {
         "id": "30",
         "id_number": 30,
         "value": "s",
-        "translation": ""
+        "translation": "s"
     }
 ]
