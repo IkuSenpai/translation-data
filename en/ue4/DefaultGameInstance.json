@@ -3,54 +3,54 @@
         "id": "1",
         "id_number": 1,
         "value": "パーティリーダーによって申請がされました。",
-        "translation": ""
+        "translation": "The application was submitted by the party leader."
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "パーティリーダーがリタイアしたためメンバーもリタイアします。",
-        "translation": ""
+        "translation": "Since the party leader has retired, the members will also retire."
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "問題が起きたため、マッチングをキャンセルしました。",
-        "translation": ""
+        "translation": "I canceled the match because of a problem."
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "マッチングをキャンセルしました。",
-        "translation": ""
+        "translation": "Matching has been cancelled."
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "他の参加者が辞退しました。",
-        "translation": ""
+        "translation": "Other participants declined."
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "パーティリーダーでないためダンジョンを開始できませんでした。",
-        "translation": ""
+        "translation": "I couldn't start the dungeon because I'm not the party leader."
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "規定人数をオーバーしているためダンジョンを開始できません。",
-        "translation": ""
+        "translation": "The dungeon cannot be started because the number of people has exceeded the specified number."
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "別のマッチングに申請中のため開始できませんでした。",
-        "translation": ""
+        "translation": "Could not start because we are applying for another match."
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "複数選択されているため開始できません。",
-        "translation": ""
+        "translation": "Cannot start because multiple selections have been made."
     }
 ]
