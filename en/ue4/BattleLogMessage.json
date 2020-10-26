@@ -117,6 +117,6 @@
         "id": "19",
         "id_number": 19,
         "value": "{EnemyName}討伐：{Exp}EXP、{Money}ルーノ獲得",
-        "translation": ""
+        "translation": "{EnemyName} Subjugation: obtained {Exp} EXP, {Money} Luno"
     }
 ]
