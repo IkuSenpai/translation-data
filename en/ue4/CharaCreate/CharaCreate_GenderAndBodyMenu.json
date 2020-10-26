@@ -3,42 +3,42 @@
         "id": "None",
         "id_number": 1,
         "value": "男 体型1",
-        "translation": ""
+        "translation": "Male body type 1"
     },
     {
         "id": "None",
         "id_number": 2,
         "value": "男 体型2",
-        "translation": ""
+        "translation": "Male body type 2"
     },
     {
         "id": "None",
         "id_number": 3,
         "value": "女 体型1",
-        "translation": ""
+        "translation": "Female body type 1"
     },
     {
         "id": "None",
         "id_number": 4,
         "value": "女 体型2",
-        "translation": ""
+        "translation": "Female body type 1"
     },
     {
         "id": "None",
         "id_number": 10,
         "value": "身長",
-        "translation": ""
+        "translation": "Height"
     },
     {
         "id": "None",
         "id_number": 11,
         "value": "肉付",
-        "translation": ""
+        "translation": "Meat"
     },
     {
         "id": "None",
         "id_number": 12,
         "value": "胸囲",
-        "translation": ""
+        "translation": "Chest Circumference"
     }
 ]

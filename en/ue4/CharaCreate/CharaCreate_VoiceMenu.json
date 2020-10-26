@@ -3,36 +3,36 @@
         "id": "None",
         "id_number": 1,
         "value": "ボイス１",
-        "translation": ""
+        "translation": "Voice 1"
     },
     {
         "id": "None",
         "id_number": 2,
         "value": "ボイス２",
-        "translation": ""
+        "translation": "Voice 2"
     },
     {
         "id": "None",
         "id_number": 3,
         "value": "ボイス３",
-        "translation": ""
+        "translation": "Voice 3"
     },
     {
         "id": "None",
         "id_number": 4,
         "value": "ボイス４",
-        "translation": ""
+        "translation": "Voice 4"
     },
     {
         "id": "None",
         "id_number": 5,
         "value": "ボイス５",
-        "translation": ""
+        "translation": "Voice 5"
     },
     {
         "id": "None",
         "id_number": 99,
         "value": "Unknown",
-        "translation": ""
+        "translation": "Unknown"
     }
 ]

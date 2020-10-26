@@ -3,246 +3,246 @@
         "id": "1",
         "id_number": 1,
         "value": "決定",
-        "translation": ""
+        "translation": "Decision"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "戻る",
-        "translation": ""
+        "translation": "Return"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "衣装表示",
-        "translation": ""
+        "translation": "Costume display"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "ON",
-        "translation": ""
+        "translation": "ON"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "OFF",
-        "translation": ""
+        "translation": "OFF"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "ポーズ切替",
-        "translation": ""
+        "translation": "Pose switching"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "表示切替",
-        "translation": ""
+        "translation": "Display switching"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "カメラ操作",
-        "translation": ""
+        "translation": "Camera operation"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "クラス",
-        "translation": ""
+        "translation": "Class"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "性別・体格",
-        "translation": ""
+        "translation": "Gender / Body"
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "顔・髪型",
-        "translation": ""
+        "translation": "Face / Hair"
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "衣装",
-        "translation": ""
+        "translation": "Costume"
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "ボイス",
-        "translation": ""
+        "translation": "Voice"
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "クラスを選択します",
-        "translation": ""
+        "translation": "Select a class"
     },
     {
         "id": "15",
         "id_number": 15,
         "value": "性別と体格を選択します(体格によって選択できる顔タイプが異なります)",
-        "translation": ""
+        "translation": "Select your gender and body (the face types you can select depend on your body)"
     },
     {
         "id": "16",
         "id_number": 16,
         "value": "顔と髪型を選択します",
-        "translation": ""
+        "translation": "Select face and hairstyle"
     },
     {
         "id": "17",
         "id_number": 17,
         "value": "衣装を選択します",
-        "translation": ""
+        "translation": "Choose a costume"
     },
     {
         "id": "18",
         "id_number": 18,
         "value": "ボイスを選択します",
-        "translation": ""
+        "translation": "Select a voice"
     },
     {
         "id": "19",
         "id_number": 19,
         "value": "キャラクターの名前を入力してください",
-        "translation": ""
+        "translation": "Please enter the name of the character"
     },
     {
         "id": "20",
         "id_number": 20,
         "value": "決定",
-        "translation": ""
+        "translation": "Decision"
     },
     {
         "id": "21",
         "id_number": 21,
         "value": "タイプ",
-        "translation": ""
+        "translation": "Type"
     },
     {
         "id": "22",
         "id_number": 22,
         "value": "カラー",
-        "translation": ""
+        "translation": "Color"
     },
     {
         "id": "23",
         "id_number": 23,
         "value": "明るさ",
-        "translation": ""
+        "translation": "Brightness"
     },
     {
         "id": "24",
         "id_number": 24,
         "value": "彩度",
-        "translation": ""
+        "translation": "Saturation"
     },
     {
         "id": "25",
         "id_number": 25,
         "value": "明度",
-        "translation": ""
+        "translation": "Brightness"
     },
     {
         "id": "26",
         "id_number": 26,
         "value": "リセット",
-        "translation": ""
+        "translation": "Reset"
     },
     {
         "id": "27",
         "id_number": 27,
         "value": "Type",
-        "translation": ""
+        "translation": "Type"
     },
     {
         "id": "28",
         "id_number": 28,
         "value": "プリセット",
-        "translation": ""
+        "translation": "Preset"
     },
     {
         "id": "29",
         "id_number": 29,
         "value": "プリセットを選択します",
-        "translation": ""
+        "translation": "Select a preset"
     },
     {
         "id": "30",
         "id_number": 30,
         "value": "グラデーション",
-        "translation": ""
+        "translation": "Gradation"
     },
     {
         "id": "31",
         "id_number": 31,
         "value": "反転",
-        "translation": ""
+        "translation": "Inversion"
     },
     {
         "id": "50",
         "id_number": 50,
         "value": "チュートリアルをプレイしますか？",
-        "translation": ""
+        "translation": "Do you want to play the tutorial?"
     },
     {
         "id": "51",
         "id_number": 51,
         "value": "前の画面に戻りますか？",
-        "translation": ""
+        "translation": "Do you want to return to the previous screen?"
     },
     {
         "id": "99",
         "id_number": 99,
         "value": "シューズが選択されていません",
-        "translation": ""
+        "translation": "Shoes not selected"
     },
     {
         "id": "100",
         "id_number": 100,
         "value": "名前を入力してください",
-        "translation": ""
+        "translation": "Please enter your name"
     },
     {
         "id": "101",
         "id_number": 101,
         "value": "画像のアップロードに失敗しました",
-        "translation": ""
+        "translation": "Image upload failed"
     },
     {
         "id": "102",
         "id_number": 102,
         "value": "作成したキャラクターの登録に失敗しました",
-        "translation": ""
+        "translation": "Failed to register the created character"
     },
     {
         "id": "103",
         "id_number": 103,
         "value": "編集した衣装を初期装備アイテムとして保存する処理に失敗しました",
-        "translation": ""
+        "translation": "Failed to save the edited costume as the initial equipment item"
     },
     {
         "id": "104",
         "id_number": 104,
         "value": "CharaCreateHUD Cast Error.",
-        "translation": ""
+        "translation": "CharaCreateHUD Cast Error."
     },
     {
         "id": "105",
         "id_number": 105,
         "value": "(最大12文字)",
-        "translation": ""
+        "translation": "(Maximum 12 characters)"
     },
     {
         "id": "106",
         "id_number": 106,
         "value": "「{name}」でよろしいですか？",
-        "translation": ""
+        "translation": "Are you sure you want 「{name}」？"
     }
 ]

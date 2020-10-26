@@ -3,42 +3,42 @@
         "id": "None",
         "id_number": 1,
         "value": "衣装セット",
-        "translation": ""
+        "translation": "Costume set"
     },
     {
         "id": "None",
         "id_number": 2,
         "value": "帽子",
-        "translation": ""
+        "translation": "Hat"
     },
     {
         "id": "None",
         "id_number": 3,
         "value": "衣装上",
-        "translation": ""
+        "translation": "On costume"
     },
     {
         "id": "None",
         "id_number": 4,
         "value": "衣装下",
-        "translation": ""
+        "translation": "Under costume"
     },
     {
         "id": "None",
         "id_number": 5,
         "value": "グローブ",
-        "translation": ""
+        "translation": "Gloves"
     },
     {
         "id": "None",
         "id_number": 6,
         "value": "シューズ",
-        "translation": ""
+        "translation": "Shoes"
     },
     {
         "id": "None",
         "id_number": 20,
         "value": "デフォルト",
-        "translation": ""
+        "translation": "Default"
     }
 ]

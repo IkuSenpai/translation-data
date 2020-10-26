@@ -3,150 +3,150 @@
         "id": "1",
         "id_number": 1,
         "value": "顔タイプ",
-        "translation": ""
+        "translation": "Face type"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "肌色",
-        "translation": ""
+        "translation": "Skin color"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "髪型",
-        "translation": ""
+        "translation": "Hairstyle"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "輪郭",
-        "translation": ""
+        "translation": "Contour"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "眉",
-        "translation": ""
+        "translation": "Eyebrow"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "目",
-        "translation": ""
+        "translation": "Eye"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "瞳",
-        "translation": ""
+        "translation": "Pupil"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "鼻",
-        "translation": ""
+        "translation": "Nose"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "口",
-        "translation": ""
+        "translation": "Mouth"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "ヒゲ",
-        "translation": ""
+        "translation": "Beard"
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "アイメイク",
-        "translation": ""
+        "translation": "Eye make up"
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "リップ",
-        "translation": ""
+        "translation": "Lip"
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "チーク・ペイント",
-        "translation": ""
+        "translation": "Cheek paint"
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "肌ベース",
-        "translation": ""
+        "translation": "Skin base"
     },
     {
         "id": "31",
         "id_number": 31,
         "value": "オッドアイ",
-        "translation": ""
+        "translation": "Odd eye"
     },
     {
         "id": "32",
         "id_number": 32,
         "value": "ON",
-        "translation": ""
+        "translation": "ON"
     },
     {
         "id": "33",
         "id_number": 33,
         "value": "OFF",
-        "translation": ""
+        "translation": "OFF"
     },
     {
         "id": "34",
         "id_number": 34,
         "value": "左目",
-        "translation": ""
+        "translation": "Left eye"
     },
     {
         "id": "35",
         "id_number": 35,
         "value": "右目",
-        "translation": ""
+        "translation": "Right eye"
     },
     {
         "id": "36",
         "id_number": 36,
         "value": "左目に合わせる",
-        "translation": ""
+        "translation": "Match to the left eye"
     },
     {
         "id": "37",
         "id_number": 37,
         "value": "右目に合わせる",
-        "translation": ""
+        "translation": "Match to the right eye"
     },
     {
         "id": "38",
         "id_number": 38,
         "value": "アイシャドウ",
-        "translation": ""
+        "translation": "Eye shadow"
     },
     {
         "id": "39",
         "id_number": 39,
         "value": "チーク",
-        "translation": ""
+        "translation": "Cheek"
     },
     {
         "id": "40",
         "id_number": 40,
         "value": "リップ",
-        "translation": ""
+        "translation": "Lip"
     },
     {
         "id": "101",
         "id_number": 101,
         "value": "顔タイプによって選択可能なパーツが一部異なります",
-        "translation": ""
+        "translation": "Some parts that can be selected differ depending on the face type"
     }
 ]
