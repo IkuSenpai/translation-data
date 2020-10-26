@@ -3,48 +3,48 @@
         "id": "1",
         "id_number": 1,
         "value": "冒険者ランク",
-        "translation": ""
+        "translation": "Adventurer rank"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "アテニオン",
-        "translation": ""
+        "translation": "Athenion"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "クラル",
-        "translation": ""
+        "translation": "Kral"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "ミディア",
-        "translation": ""
+        "translation": "Medium"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "マクリノス",
-        "translation": ""
+        "translation": "Maclinos"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "ローナノワ",
-        "translation": ""
+        "translation": "Ronanova"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "Lv : ",
-        "translation": ""
+        "translation": "Lv : "
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "外す",
-        "translation": ""
+        "translation": "remove"
     }
 ]
