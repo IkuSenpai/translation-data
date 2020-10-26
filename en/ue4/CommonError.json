@@ -3,42 +3,42 @@
         "id": "Connect_Error",
         "id_number": -1,
         "value": "通信に失敗しました",
-        "translation": ""
+        "translation": "Communication failed"
     },
     {
         "id": "hasNgWord",
         "id_number": -1,
         "value": "使用できない語句が含まれています",
-        "translation": ""
+        "translation": "Contains words that cannot be used"
     },
     {
         "id": "HackDialogTitle",
         "id_number": -1,
         "value": "Error",
-        "translation": ""
+        "translation": "Hack Error"
     },
     {
         "id": "DisconnectServer",
         "id_number": -1,
         "value": "サーバーとの接続が切れたため\nゲームを終了します",
-        "translation": ""
+        "translation": "Connection with the server has been lost"
     },
     {
         "id": "DisconnectChatSystem",
         "id_number": -1,
         "value": "チャットサーバーとの接続が切れたため\nゲームを終了します",
-        "translation": ""
+        "translation": "Connection with the chat server has been lost."
     },
     {
         "id": "DisconnectPartySystem",
         "id_number": -1,
         "value": "パーティサーバーとの接続が切れたため\nゲームを終了します",
-        "translation": ""
+        "translation": "connection with the party server has been lost."
     },
     {
         "id": "ConnectionError",
         "id_number": -1,
         "value": "サーバーに接続できなかったため\nゲームを終了します",
-        "translation": ""
+        "translation": "Could not connect to the server\nQuit the game"
     }
 ]
