@@ -3,48 +3,48 @@
         "id": "None",
         "id_number": 1,
         "value": "マスター",
-        "translation": ""
+        "translation": "Master"
     },
     {
         "id": "None",
         "id_number": 2,
         "value": "効果音",
-        "translation": ""
+        "translation": "Sound effects"
     },
     {
         "id": "None",
         "id_number": 3,
         "value": "BGM",
-        "translation": ""
+        "translation": "BGM"
     },
     {
         "id": "None",
         "id_number": 4,
         "value": "ボイス",
-        "translation": ""
+        "translation": "Voice"
     },
     {
         "id": "None",
         "id_number": 5,
         "value": "システム音",
-        "translation": ""
+        "translation": "System sound"
     },
     {
         "id": "None",
         "id_number": 6,
         "value": "環境音",
-        "translation": ""
+        "translation": "Environmental sound"
     },
     {
         "id": "None",
         "id_number": 10,
         "value": "サウンド設定",
-        "translation": ""
+        "translation": "Sound settings"
     },
     {
         "id": "None",
         "id_number": 999,
         "value": "サウンドデバイスが見つからないため設定できません",
-        "translation": ""
+        "translation": "Cannot set because the sound device cannot be found"
     }
 ]
