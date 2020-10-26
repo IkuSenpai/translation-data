@@ -3,7 +3,7 @@
         "id": "Npc_information",
         "id_number": -1,
         "value": "インフォメーション",
-        "translation": ""
+        "translation": "Information"
     },
     {
         "id": "Unknown",
@@ -21,7 +21,7 @@
         "id": "Npc_Questguide_CAT",
         "id_number": -1,
         "value": "クエスト受付嬢",
-        "translation": ""
+        "translation": "Quest Receptionist"
     },
     {
         "id": "Npc_Receptionist",
@@ -33,7 +33,7 @@
         "id": "Npc_MainQuestguide",
         "id_number": -1,
         "value": "クエスト受付嬢",
-        "translation": ""
+        "translation": "Quest Receptionist"
     },
     {
         "id": "Npc_Craft_M",
@@ -51,7 +51,7 @@
         "id": "Npc_CraftBox",
         "id_number": -1,
         "value": "クラフトマシン",
-        "translation": ""
+        "translation": "Craft Machine"
     },
     {
         "id": "Npc_Guild",
@@ -75,7 +75,7 @@
         "id": "Npc_BeautySalon",
         "id_number": -1,
         "value": "美容師",
-        "translation": ""
+        "translation": "Beauty Artist"
     },
     {
         "id": "Npc_DyersShop",
@@ -93,7 +93,7 @@
         "id": "Npc_Mullie",
         "id_number": -1,
         "value": "案内嬢ミューリィ",
-        "translation": ""
+        "translation": "Guidance Miss Mullie"
     },
     {
         "id": "Npc_FoodShop",
@@ -165,19 +165,19 @@
         "id": "Npc_dng009",
         "id_number": -1,
         "value": "巨竜の爪痕",
-        "translation": ""
+        "translation": "Dragon Claw Valley"
     },
     {
         "id": "Npc_dng015",
         "id_number": -1,
         "value": "約束の道標",
-        "translation": ""
+        "translation": "Promised Signpost"
     },
     {
         "id": "Npc_dng005",
         "id_number": -1,
         "value": "神懸の御柱",
-        "translation": ""
+        "translation": "Pillar of Divinity"
     },
     {
         "id": "Npc_Coin_Owner",
@@ -243,19 +243,19 @@
         "id": "Npc_Believer",
         "id_number": -1,
         "value": "信徒",
-        "translation": "Beliner"
+        "translation": "Believer"
     },
     {
         "id": "Npc_Joerg",
         "id_number": -1,
         "value": "ヨルク",
-        "translation": ""
+        "translation": "Joerg"
     },
     {
         "id": "Npc_Frelbe",
         "id_number": -1,
         "value": "フレルベ",
-        "translation": ""
+        "translation": "Frelbe"
     },
     {
         "id": "Npc_Einrain",
@@ -291,7 +291,7 @@
         "id": "Npc_Dunkirk",
         "id_number": -1,
         "value": "ダンケルク",
-        "translation": ""
+        "translation": "Dunkirk"
     },
     {
         "id": "Npc_Merlouf",
@@ -303,7 +303,7 @@
         "id": "Npc_Carvain",
         "id_number": -1,
         "value": "カーヴェイン",
-        "translation": ""
+        "translation": "Carvain"
     },
     {
         "id": "Npc_Traveller",
@@ -315,19 +315,19 @@
         "id": "Npc_Elektra",
         "id_number": -1,
         "value": "エレクトラ",
-        "translation": ""
+        "translation": "Elektra"
     },
     {
         "id": "Npc_Charlotte",
         "id_number": -1,
         "value": "シャルロット",
-        "translation": ""
+        "translation": "Charlotte"
     },
     {
         "id": "Npc_Troupe_Leader",
         "id_number": -1,
         "value": "一座の団長",
-        "translation": ""
+        "translation": "Troupe Leader"
     },
     {
         "id": "Npc_Audience",
@@ -339,13 +339,13 @@
         "id": "Npc_Armedgroup",
         "id_number": -1,
         "value": "武装集団",
-        "translation": ""
+        "translation": "Armed Group"
     },
     {
         "id": "Npc_Armedgroup_Leader",
         "id_number": -1,
         "value": "武装集団のリーダー",
-        "translation": ""
+        "translation": "Armed Group Leader"
     },
     {
         "id": "Npc_SalamzartGirl",
@@ -375,19 +375,19 @@
         "id": "Npc_Veronica",
         "id_number": -1,
         "value": "ヴェロニカ",
-        "translation": ""
+        "translation": "Veronica"
     },
     {
         "id": "Npc_Norbert",
         "id_number": -1,
         "value": "公王ノルベルト",
-        "translation": ""
+        "translation": "Norbert"
     },
     {
         "id": "Npc_Bachelard",
         "id_number": -1,
         "value": "バシュラール",
-        "translation": ""
+        "translation": "Bachelard"
     },
     {
         "id": "Npc_Adventurer",
@@ -399,31 +399,31 @@
         "id": "Npc_Ryugerio",
         "id_number": -1,
         "value": "リュゲリオ",
-        "translation": ""
+        "translation": "Ryugerio"
     },
     {
         "id": "Npc_Hugo",
         "id_number": -1,
         "value": "ユーゴ",
-        "translation": ""
+        "translation": "Hugo"
     },
     {
         "id": "Npc_Principality_Knight_A",
         "id_number": -1,
         "value": "公国騎士団員A",
-        "translation": ""
+        "translation": "Principality Knight A"
     },
     {
         "id": "Npc_Principality_Knight_B",
         "id_number": -1,
         "value": "公国騎士団員B",
-        "translation": ""
+        "translation": "Principality Knight B"
     },
     {
         "id": "Npc_Linblum",
         "id_number": -1,
         "value": "リーンブルム",
-        "translation": ""
+        "translation": "Linblum"
     },
     {
         "id": "Npc_Rytha",
@@ -669,7 +669,7 @@
         "id": "Npc_Laity01",
         "id_number": -1,
         "value": "巡礼団の男性",
-        "translation": ""
+        "translation": "Pilgrimage Man"
     },
     {
         "id": "Npc_PilgrimageMan",
@@ -681,7 +681,7 @@
         "id": "Npc_PilgrimageWoman",
         "id_number": -1,
         "value": "巡礼団の女性",
-        "translation": "Pilgrimage Women"
+        "translation": "Pilgrimage Woman"
     },
     {
         "id": "Npc_Goblin",
@@ -837,7 +837,7 @@
         "id": "Npc_Dangour",
         "id_number": -1,
         "value": "ダングール",
-        "translation": ""
+        "translation": "Dangour"
     },
     {
         "id": "Npc_Volker",
@@ -885,7 +885,7 @@
         "id": "Npc_SQ059_Thief",
         "id_number": -1,
         "value": "盗賊",
-        "translation": ""
+        "translation": "Thief"
     },
     {
         "id": "Npc_trm",
@@ -999,19 +999,19 @@
         "id": "Npc_Natalia",
         "id_number": -1,
         "value": "ナタリア",
-        "translation": ""
+        "translation": "Natalia"
     },
     {
         "id": "Npc_Giacomo",
         "id_number": -1,
         "value": "ジャコモ",
-        "translation": ""
+        "translation": "Giacomo"
     },
     {
         "id": "Npc_Milla",
         "id_number": -1,
         "value": "ミラ",
-        "translation": ""
+        "translation": "Milla"
     },
     {
         "id": "Npc_Paulette",
@@ -1029,13 +1029,13 @@
         "id": "Npc_Classchange",
         "id_number": -1,
         "value": "クラスチェンジ",
-        "translation": ""
+        "translation": "Class Change"
     },
     {
         "id": "Npc_Loic",
         "id_number": -1,
         "value": "ロイク",
-        "translation": ""
+        "translation": "Loic"
     },
     {
         "id": "Npc_Jin",
@@ -1095,7 +1095,7 @@
         "id": "Npc_harlie_test_001",
         "id_number": -1,
         "value": "テストクエストおじさん",
-        "translation": ""
+        "translation": "Test quest ojisan"
     },
     {
         "id": "Npc_Tini",
