@@ -3,84 +3,84 @@
         "id": "1",
         "id_number": 1,
         "value": "進化する　{0}{1}",
-        "translation": ""
+        "translation": "Evolving {0}{1}"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "所持ルーノが足りません",
-        "translation": ""
+        "translation": "Not enough Luno"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "レベルが上限に達していないため進化できません",
-        "translation": ""
+        "translation": "Cannot evolve because the level has not reached the upper limit"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "必要素材が不足しています",
-        "translation": ""
+        "translation": "Insufficient materials"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "進化の可能性がある武器がありません",
-        "translation": ""
+        "translation": "There are no weapons that have the potential to evolve"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "武器の進化に失敗しました",
-        "translation": ""
+        "translation": "Weapon evolution failed"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "鍛冶屋",
-        "translation": ""
+        "translation": "blacksmith"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "ランクアップできる武器はありません",
-        "translation": ""
+        "translation": "No weapons can be ranked up"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "Before",
-        "translation": ""
+        "translation": "Before"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "After",
-        "translation": ""
+        "translation": "After"
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "必要素材",
-        "translation": ""
+        "translation": "Required materials"
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "進化する",
-        "translation": ""
+        "translation": "Evolve"
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "Level Max",
-        "translation": ""
+        "translation": "Level Max"
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "Lv",
-        "translation": ""
+        "translation": "Lv"
     }
 ]
