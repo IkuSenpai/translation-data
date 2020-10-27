@@ -39,7 +39,7 @@
         "id": "dng007_DisplayDesc",
         "id_number": -1,
         "value": "枷神の産屋の説明",
-        "translation": "Explanation of the god's production house"
+        "translation": "Explanation of the God's Production House"
     },
     {
         "id": "dng007_RuleDesc",
@@ -75,7 +75,7 @@
         "id": "dng011_DisplayDesc",
         "id_number": -1,
         "value": "天恵の聖堂の説明",
-        "translation": "Description of the Blessed Basilica"
+        "translation": "Description of the Blessed Temple"
     },
     {
         "id": "dng011_RuleDesc",
@@ -93,7 +93,7 @@
         "id": "dng013_DisplayDesc",
         "id_number": -1,
         "value": "バーンハルトへの隠し通路の説明",
-        "translation": "Description of secret passages to Bernhard"
+        "translation": "Description of Secret Passages to Bernhard"
     },
     {
         "id": "dng013_RuleDesc",

@@ -9,7 +9,7 @@
         "id": "1",
         "id_number": 1,
         "value": "不明なエラー",
-        "translation": ""
+        "translation": "Unknown error"
     },
     {
         "id": "100",
@@ -21,7 +21,7 @@
         "id": "101",
         "id_number": 101,
         "value": "通信に失敗しました",
-        "translation": ""
+        "translation": "Communication failed"
     },
     {
         "id": "102",
@@ -57,79 +57,79 @@
         "id": "1003",
         "id_number": 1003,
         "value": "NGワードに抵触",
-        "translation": ""
+        "translation": "Conflict with NG word"
     },
     {
         "id": "1004",
         "id_number": 1004,
         "value": "データ取得エラー",
-        "translation": ""
+        "translation": "Data acquisition error"
     },
     {
         "id": "1005",
         "id_number": 1005,
         "value": "データ保存エラー",
-        "translation": ""
+        "translation": "Data save error"
     },
     {
         "id": "1006",
         "id_number": 1006,
         "value": "バージョンエラー",
-        "translation": ""
+        "translation": "Version error"
     },
     {
         "id": "1007",
         "id_number": 1007,
         "value": "ログイン失敗",
-        "translation": ""
+        "translation": "Login failure"
     },
     {
         "id": "1008",
         "id_number": 1008,
         "value": "ゲームサーバー登録エラー",
-        "translation": ""
+        "translation": "Game server registration error"
     },
     {
         "id": "1009",
         "id_number": 1009,
         "value": "セッション失敗",
-        "translation": ""
+        "translation": "Session failure"
     },
     {
         "id": "1010",
         "id_number": 1010,
         "value": "使用禁止文字が検出されたエラー",
-        "translation": ""
+        "translation": "Error when prohibited characters are detected"
     },
     {
         "id": "1014",
         "id_number": 1014,
         "value": "データ削除失敗",
-        "translation": ""
+        "translation": "Data deletion failure"
     },
     {
         "id": "1015",
         "id_number": 1015,
         "value": "多重ログイン",
-        "translation": ""
+        "translation": "Multiple login"
     },
     {
         "id": "1016",
         "id_number": 1016,
         "value": "アイテムストレージ容量エラー",
-        "translation": ""
+        "translation": "Item storage capacity error"
     },
     {
         "id": "1017",
         "id_number": 1017,
         "value": "アイテムストレージに空きがない",
-        "translation": ""
+        "translation": "Item storage is full"
     },
     {
         "id": "1018",
         "id_number": 1018,
         "value": "採集ポイントのリスポン日時が不正",
-        "translation": ""
+        "translation": "The respawn date and time of the collecting point is incorrect"
     },
     {
         "id": "1019",
@@ -141,25 +141,25 @@
         "id": "2000",
         "id_number": 2000,
         "value": "ただいま入場を制限させて頂いております\nCAT実施まで今しばらくお待ちください",
-        "translation": ""
+        "translation": "We are currently restricting admission\nPlease wait for a while until CAT is implemented"
     },
     {
         "id": "3000",
         "id_number": 3000,
         "value": "装備済み武器",
-        "translation": ""
+        "translation": "Equipped weapon"
     },
     {
         "id": "3001",
         "id_number": 3001,
         "value": "素材不足",
-        "translation": ""
+        "translation": "Material shortage"
     },
     {
         "id": "3002",
         "id_number": 3002,
         "value": "エングラム不足",
-        "translation": ""
+        "translation": "Engram shortage"
     },
     {
         "id": "3003",
@@ -207,7 +207,7 @@
         "id": "5001",
         "id_number": 5001,
         "value": "クラフト:エングラム不足",
-        "translation": ""
+        "translation": "Craft: Engram shortage"
     },
     {
         "id": "5002",
@@ -219,13 +219,13 @@
         "id": "5003",
         "id_number": 5003,
         "value": "クラフト:素材不足",
-        "translation": ""
+        "translation": "Craft: Lack of material"
     },
     {
         "id": "5004",
         "id_number": 5004,
         "value": "クラフト:レシピ未所持",
-        "translation": ""
+        "translation": "Craft: No recipe"
     },
     {
         "id": "5005",
@@ -339,13 +339,13 @@
         "id": "8001",
         "id_number": 8001,
         "value": "売る量がない",
-        "translation": ""
+        "translation": "There is no quantity to sell"
     },
     {
         "id": "8002",
         "id_number": 8002,
         "value": "購入可能数違反",
-        "translation": ""
+        "translation": "Violation of available quantity"
     },
     {
         "id": "8003",
@@ -435,72 +435,72 @@
         "id": "11000",
         "id_number": 11000,
         "value": "戦闘中に武器を変更しようとした",
-        "translation": ""
+        "translation": "Attempted to change weapons during battle"
     },
     {
         "id": "11001",
         "id_number": 11001,
         "value": "死亡中に武器を変更しようとした",
-        "translation": ""
+        "translation": "Attempted to change weapons during death"
     },
     {
         "id": "11010",
         "id_number": 11010,
         "value": "戦闘中にアクティブアーツを変更しようとした",
-        "translation": ""
+        "translation": "Attempted to change active arts during battle"
     },
     {
         "id": "11011",
         "id_number": 11011,
         "value": "死亡中にアクティブアーツを変更しようとした",
-        "translation": ""
+        "translation": "Attempt to change active arts during death"
     },
     {
         "id": "11020",
         "id_number": 11020,
         "value": "戦闘中にパッシブアーツを変更しようとした",
-        "translation": ""
+        "translation": "Attempted to change passive arts during battle"
     },
     {
         "id": "11021",
         "id_number": 11021,
         "value": "死亡中にパッシブアーツを変更しようとした",
-        "translation": ""
+        "translation": "Attempted to change passive arts during death"
     },
     {
         "id": "11030",
         "id_number": 11030,
         "value": "戦闘中にアクティブイマジンを変更しようとした",
-        "translation": ""
+        "translation": "Attempted to change Active Imagine during battle"
     },
     {
         "id": "11031",
         "id_number": 11031,
         "value": "死亡中にアクティブイマジンを変更しようとした",
-        "translation": ""
+        "translation": "Attempt to change active Imagine during death"
     },
     {
         "id": "11040",
         "id_number": 11040,
         "value": "戦闘中にパッシブイマジンを変更しようとした",
-        "translation": ""
+        "translation": "Attempted to change passive Imagine during battle"
     },
     {
         "id": "11041",
         "id_number": 11041,
         "value": "死亡中にパッシブイマジンを変更しようとした",
-        "translation": ""
+        "translation": "Attempt to change passive Imagine during death"
     },
     {
         "id": "11050",
         "id_number": 11050,
         "value": "戦闘中に衣装を変更しようとした",
-        "translation": ""
+        "translation": "Attempted to change costume during battle"
     },
     {
         "id": "11051",
         "id_number": 11051,
         "value": "死亡中に衣装を変更しようとした",
-        "translation": ""
+        "translation": "Attempted to change costume during death"
     }
 ]

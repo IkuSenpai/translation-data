@@ -123,7 +123,7 @@
         "id": "ItemInventoryOver",
         "id_number": -1,
         "value": "アイテムの所持数が超過しました",
-        "translation": ""
+        "translation": "You have exceeded the number of items you can hold"
     },
     {
         "id": "CommonSkillName",
@@ -141,7 +141,7 @@
         "id": "GatherPointItemInventoryOver",
         "id_number": -1,
         "value": "アイテム枠がいっぱいで採取できませんでした",
-        "translation": ""
+        "translation": "Could not be collected, inventory is full."
     },
     {
         "id": "GatherPointSkillGetItem",
@@ -171,6 +171,6 @@
         "id": "TreasureItemInventoryOver",
         "id_number": -1,
         "value": "バッグがいっぱいで宝箱を開くことができません",
-        "translation": ""
+        "translation": "Can't open treasure chest, inventory is full."
     }
 ]

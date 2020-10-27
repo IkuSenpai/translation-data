@@ -3,7 +3,7 @@
         "id": "mail_test_sender",
         "id_number": -1,
         "value": "Npc_Feste",
-        "translation": ""
+        "translation": "Npc_Feste"
     },
     {
         "id": "mail_test_header",
@@ -21,7 +21,7 @@
         "id": "mail_test2_sender",
         "id_number": -1,
         "value": "Npc_Armorshop",
-        "translation": ""
+        "translation": "Npc_Armorshop"
     },
     {
         "id": "mail_test2_header",
@@ -39,7 +39,7 @@
         "id": "mail_test3_sender",
         "id_number": -1,
         "value": "Npc_HunterQuestguide",
-        "translation": ""
+        "translation": "Npc_HunterQuestguide"
     },
     {
         "id": "mail_test3_header",
@@ -57,7 +57,7 @@
         "id": "mail_test4_sender",
         "id_number": -1,
         "value": "Npc_HunterQuestguide",
-        "translation": ""
+        "translation": "Npc_HunterQuestguide"
     },
     {
         "id": "mail_test4_header",
@@ -75,7 +75,7 @@
         "id": "mail_test5_sender",
         "id_number": -1,
         "value": "Npc_HunterQuestguide",
-        "translation": ""
+        "translation": "Npc_HunterQuestguide"
     },
     {
         "id": "mail_test5_header",

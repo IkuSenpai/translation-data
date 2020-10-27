@@ -3,25 +3,25 @@
         "id": "cty01",
         "id_number": -1,
         "value": "交易都市アステルリーズ入り口",
-        "translation": ""
+        "translation": "Trading city Asterleeds Entrance"
     },
     {
         "id": "cty01:2",
         "id_number": -1,
         "value": "宿屋前",
-        "translation": ""
+        "translation": "In front of the inn"
     },
     {
         "id": "cty01:3",
         "id_number": -1,
         "value": "港入り口",
-        "translation": ""
+        "translation": "Port entrance"
     },
     {
         "id": "cty01:4",
         "id_number": -1,
         "value": "酒場前",
-        "translation": ""
+        "translation": "In front of the bar"
     },
     {
         "id": "cty01:5",
@@ -33,13 +33,13 @@
         "id": "cty01:6",
         "id_number": -1,
         "value": "バファリア大聖堂前",
-        "translation": ""
+        "translation": "In front of Bapharia Cathedral"
     },
     {
         "id": "cty01:7",
         "id_number": -1,
         "value": "ギルド前",
-        "translation": ""
+        "translation": "In front of the guild"
     },
     {
         "id": "cty01:8",
@@ -51,79 +51,79 @@
         "id": "cty01:9",
         "id_number": -1,
         "value": "開拓局前",
-        "translation": ""
+        "translation": "In front of the Pioneer Bureau"
     },
     {
         "id": "fld001:1",
         "id_number": -1,
         "value": "アステリア平原",
-        "translation": ""
+        "translation": "Asteria Plain"
     },
     {
         "id": "fld002:1",
         "id_number": -1,
         "value": "バハマール高原",
-        "translation": ""
+        "translation": "Bahamar Plateau"
     },
     {
         "id": "fld003:1",
         "id_number": -1,
         "value": "モンテノール渓谷",
-        "translation": ""
+        "translation": "Montenor Valley"
     },
     {
         "id": "cty02",
         "id_number": -1,
         "value": "サラムザード入口",
-        "translation": "Salamzard Entrance"
+        "translation": "Salamzart Entrance"
     },
     {
         "id": "fld004:1",
         "id_number": -1,
         "value": "エバーグリーン平原（渓谷方面）",
-        "translation": ""
+        "translation": "Evergreen Plain (towards the canyon)"
     },
     {
         "id": "fld004:2",
         "id_number": -1,
         "value": "エバーグリーン平原（熱砂荒漠の奈落方面）",
-        "translation": ""
+        "translation": "Evergreen Plain (Abyss in the Hot Sand Desert))"
     },
     {
         "id": "fld004:3",
         "id_number": -1,
         "value": "エバーグリーン平原（カルトゥーム集落）",
-        "translation": ""
+        "translation": "Evergreen Plain (Khartoum Village)"
     },
     {
         "id": "fld004:4",
         "id_number": -1,
         "value": "エバーグリーン平原（キャラバンの道標前）",
-        "translation": ""
+        "translation": "Evergreen Plain (In front of the caravan signpost)"
     },
     {
         "id": "fld004:5",
         "id_number": -1,
         "value": "エバーグリーン平原（北部集落前）",
-        "translation": ""
+        "translation": "Evergreen Plain (In front of the northern settlement)"
     },
     {
         "id": "fld004:6",
         "id_number": -1,
         "value": "エバーグリーン平原（蟲砦前）",
-        "translation": ""
+        "translation": "Evergreen Plain (n front of Mushi Fort)"
     },
     {
         "id": "fld004:7",
         "id_number": -1,
         "value": "エバーグリーン平原（ボルオム前）",
-        "translation": ""
+        "translation": "Evergreen Plain (In front of Borhom)"
     },
     {
         "id": "fld004:8",
         "id_number": -1,
         "value": "エバーグリーン平原（サラムザード前）",
-        "translation": ""
+        "translation": "Evergreen Plain (in front of Salamzart)"
     },
     {
         "id": "test:1",
@@ -153,7 +153,7 @@
         "id": "fld003:2",
         "id_number": -1,
         "value": "モンテノール渓谷（テスト）",
-        "translation": ""
+        "translation": "Tenor Canyon (test)"
     },
     {
         "id": "cty02:2",

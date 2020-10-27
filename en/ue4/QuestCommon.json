@@ -87,13 +87,13 @@
         "id": "15",
         "id_number": 15,
         "value": "報告できません。\n（バッグを確認してください）",
-        "translation": ""
+        "translation": "Can't report.\n(Please check inventory)"
     },
     {
         "id": "16",
         "id_number": 16,
         "value": "バッグがいっぱいです",
-        "translation": "The bag is full"
+        "translation": "Inventory is full"
     },
     {
         "id": "17",
@@ -153,6 +153,6 @@
         "id": "26",
         "id_number": 26,
         "value": "魂ランク{Rank}以上",
-        "translation": ""
+        "translation": "Soul rank {Rank} or higher"
     }
 ]

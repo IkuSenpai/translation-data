@@ -22,7 +22,7 @@ All files will need to be reviewed to made sure the spelling for these terms is 
 
 
 
-  \* = Official translation used by developers in client/original text. 
+\* = Official translation used by developers in client/original text. 
 
 
 (?) = _Very_ uncertain about TL.

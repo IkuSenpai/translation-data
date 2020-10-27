@@ -9,60 +9,60 @@
         "id": "1",
         "id_number": 1,
         "value": "剣（イージスファイター専用）",
-        "translation": ""
+        "translation": "Sword (for Aegis Fighter only)"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "斧（ツインストライカー専用）",
-        "translation": ""
+        "translation": "Axe (for Twin Striker only)"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "槍",
-        "translation": ""
+        "translation": "Spear"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "ハンドガン",
-        "translation": ""
+        "translation": "Hand Gun"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "ライフル",
-        "translation": ""
+        "translation": "Rifle"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "弓（ブラストアーチャー専用）",
-        "translation": ""
+        "translation": "Bow (for Blast Archer only)"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "ヘビーアーム",
-        "translation": ""
+        "translation": "Heavy arm"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "杖（スペルキャスター専用）",
-        "translation": ""
+        "translation": "Cane (for Spell Caster only)"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "キャノンソード",
-        "translation": ""
+        "translation": "Canon Sword"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "盾",
-        "translation": ""
+        "translation": "Shield"
     }
 ]

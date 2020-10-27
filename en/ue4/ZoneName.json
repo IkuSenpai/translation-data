@@ -9,55 +9,55 @@
         "id": "10000000",
         "id_number": 10000000,
         "value": "交易都市アステルリーズ",
-        "translation": ""
+        "translation": "Trading city Asterleeds"
     },
     {
         "id": "10000001",
         "id_number": 10000001,
         "value": "サラムザート・オアシス",
-        "translation": ""
+        "translation": "Salamzart Oasis"
     },
     {
         "id": "10000002",
         "id_number": 10000002,
         "value": "軍港カナロア",
-        "translation": ""
+        "translation": "Military Port Kanaloa"
     },
     {
         "id": "10000003",
         "id_number": 10000003,
         "value": "森の民の里",
-        "translation": ""
+        "translation": "Forest People's Village"
     },
     {
         "id": "10000004",
         "id_number": 10000004,
         "value": "ヴァルムラント",
-        "translation": ""
+        "translation": "Walmland"
     },
     {
         "id": "20000000",
         "id_number": 20000000,
         "value": "アステリア平原",
-        "translation": ""
+        "translation": "Asteria Plain"
     },
     {
         "id": "20000001",
         "id_number": 20000001,
         "value": "バハマール高原",
-        "translation": ""
+        "translation": "Bahamar Plateau"
     },
     {
         "id": "20000002",
         "id_number": 20000002,
         "value": "モンテノール渓谷",
-        "translation": ""
+        "translation": "Montenor Valley"
     },
     {
         "id": "20000003",
         "id_number": 20000003,
         "value": "エバーグリーン平原",
-        "translation": ""
+        "translation": "Evergreen Plain"
     },
     {
         "id": "20000004",
@@ -87,7 +87,7 @@
         "id": "20000008",
         "id_number": 20000008,
         "value": "グランヴィル氷界",
-        "translation": ""
+        "translation": "Granville Ice World"
     },
     {
         "id": "20000009",
@@ -99,7 +99,7 @@
         "id": "20000010",
         "id_number": 20000010,
         "value": "西バーンハルト半島",
-        "translation": ""
+        "translation": "West Bernhard Peninsula"
     },
     {
         "id": "30000000",
@@ -123,13 +123,13 @@
         "id": "30000003",
         "id_number": 30000003,
         "value": "音無き都",
-        "translation": ""
+        "translation": "Soundless City"
     },
     {
         "id": "30000004",
         "id_number": 30000004,
         "value": "神懸の御柱",
-        "translation": ""
+        "translation": "Pillar of Divinity"
     },
     {
         "id": "30000005",
@@ -147,7 +147,7 @@
         "id": "30000007",
         "id_number": 30000007,
         "value": "巨竜の爪痕",
-        "translation": ""
+        "translation": "Dragon Claw Valley"
     },
     {
         "id": "30000008",
@@ -165,7 +165,7 @@
         "id": "30000010",
         "id_number": 30000010,
         "value": "バーンハルト城・抜け道",
-        "translation": ""
+        "translation": "Bernhard Castle - Loop Route"
     },
     {
         "id": "30000011",
@@ -183,7 +183,7 @@
         "id": "30000013",
         "id_number": 30000013,
         "value": "約束の道標",
-        "translation": ""
+        "translation": "Promised Milestone"
     },
     {
         "id": "30000014",
@@ -249,7 +249,7 @@
         "id": "30000024",
         "id_number": 30000024,
         "value": "深淵に至る霊道",
-        "translation": ""
+        "translation": "Spiritual path to the abyss"
     },
     {
         "id": "30000025",
@@ -285,43 +285,43 @@
         "id": "50000000",
         "id_number": 50000000,
         "value": "巨竜の爪痕（パブリックダンジョン）",
-        "translation": "Tutorial (Public Dungeon)"
+        "translation": "Dragon Claw Valley (Public Dungeon)"
     },
     {
         "id": "20000096",
         "id_number": 20000096,
         "value": "アステリア平原 - 南",
-        "translation": ""
+        "translation": "Asteria Plain - South"
     },
     {
         "id": "20000097",
         "id_number": 20000097,
         "value": "アステリア平原 - 北",
-        "translation": ""
+        "translation": "Asteria Plain - North"
     },
     {
         "id": "20000098",
         "id_number": 20000098,
         "value": "アステリア平原 - 東",
-        "translation": ""
+        "translation": "Asteria Plain - East"
     },
     {
         "id": "20000099",
         "id_number": 20000099,
         "value": "アステリア平原 - 西",
-        "translation": ""
+        "translation": "Asteria Plain - West"
     },
     {
         "id": "30001013",
         "id_number": 30001013,
         "value": "虫砦",
-        "translation": "Bug fort"
+        "translation": "Insect Fortress"
     },
     {
         "id": "30002013",
         "id_number": 30002013,
         "value": "虫砦（ハード）",
-        "translation": "Bug fort (Hard)"
+        "translation": "Insect Fortress (Hard)"
     },
     {
         "id": "30001007",

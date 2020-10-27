@@ -597,13 +597,13 @@
         "id": "Pause",
         "id_number": -1,
         "value": "Break",
-        "translation": ""
+        "translation": "Break"
     },
     {
         "id": "200",
         "id_number": -1,
         "value": "なし",
-        "translation": ""
+        "translation": "None"
     },
     {
         "id": "Gamepad_FaceButton_Left",
@@ -717,7 +717,7 @@
         "id": "300",
         "id_number": -1,
         "value": "なし",
-        "translation": ""
+        "translation": "None"
     },
     {
         "id": "LeftMouseButton",
@@ -777,7 +777,7 @@
         "id": "999",
         "id_number": -1,
         "value": "設定不可",
-        "translation": ""
+        "translation": "Cannot be set"
     },
     {
         "id": "Mouse",
