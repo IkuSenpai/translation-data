@@ -9,31 +9,31 @@
         "id": "dng004_RuleDesc",
         "id_number": -1,
         "value": "制限時間以内にボスを討伐せよ！",
-        "translation": ""
+        "translation": "Defeat the boss within the time limit!"
     },
     {
         "id": "dng004_RuleName",
         "id_number": -1,
         "value": "ボス討伐",
-        "translation": ""
+        "translation": "Boss subjugation"
     },
     {
         "id": "dng005_DisplayDesc",
         "id_number": -1,
         "value": "バファリア教における最も重要な聖地であり、バファリア文明最大の遺跡の一つ。\n未だ生きている遺跡で、中には人智を超えた力が眠るとされている。\nバファリア教の開祖が降り立った場所としても伝えられ、未だ数多くの謎に包まれている。\nその外観は、どれほどの年月が経っても美しく壮大なままである",
-        "translation": ""
+        "translation": "It is the most important sanctuary in Bapharia and one of the largest archaeological sites of Bapharia civilization.\nIt is a ruin that is still alive, and it is said that power beyond human intelligence sleeps inside.\nIt is said to be the place where the founder of Bapharianismlanded, and it is still surrounded by many mysteries.\nIts appearance remains beautiful and magnificent no matter how many years have passed."
     },
     {
         "id": "dng005_RuleDesc",
         "id_number": -1,
         "value": "制限時間以内にボスを討伐せよ！",
-        "translation": ""
+        "translation": "Defeat the boss within the time limit!"
     },
     {
         "id": "dng005_RuleName",
         "id_number": -1,
         "value": "ボス討伐",
-        "translation": ""
+        "translation": "Boss subjugation"
     },
     {
         "id": "dng007_DisplayDesc",
@@ -45,31 +45,31 @@
         "id": "dng007_RuleDesc",
         "id_number": -1,
         "value": "仲間と協力して制限時間以内にボスを討伐せよ！",
-        "translation": ""
+        "translation": "Cooperate with your friends to defeat the boss within the time limit!"
     },
     {
         "id": "dng007_RuleName",
         "id_number": -1,
         "value": "ボス討伐",
-        "translation": ""
+        "translation": "Boss subjugation"
     },
     {
         "id": "dng009_DisplayDesc",
         "id_number": -1,
         "value": "ドラゴンの爪で抉られたかのような深い峡谷地帯。\n複雑に入り組んだ谷と崖が行く手を阻む。\n周囲の地形や足元に気を配りつつ、着実にエネミーを退けていくことが攻略のカギ。\n激しい音を立てながら流れ落ちる滝は迫力に満ち、それこそ荒々しい竜の姿に例えられている。",
-        "translation": ""
+        "translation": "A deep canyon area as if it was carved by a dragon's claws.\nComplex valleys and cliffs block the way.\nThe key to the strategy is to steadily dismiss the enemy while paying attention to the surrounding terrain and feet.\nThe waterfall that flows down while making a loud noise is full of power, and it is likened to the appearance of a rough dragon."
     },
     {
         "id": "dng009_RuleDesc",
         "id_number": -1,
         "value": "制限時間以内にボスを討伐せよ！",
-        "translation": ""
+        "translation": "Defeat the boss within the time limit!"
     },
     {
         "id": "dng009_RuleName",
         "id_number": -1,
         "value": "ボス討伐",
-        "translation": ""
+        "translation": "Boss subjugation"
     },
     {
         "id": "dng011_DisplayDesc",
@@ -81,13 +81,13 @@
         "id": "dng011_RuleDesc",
         "id_number": -1,
         "value": "仲間と協力して制限時間以内にボスを討伐せよ！",
-        "translation": ""
+        "translation": "Cooperate with your friends to defeat the boss within the time limit!"
     },
     {
         "id": "dng011_RuleName",
         "id_number": -1,
         "value": "ボス討伐",
-        "translation": ""
+        "translation": "Boss subjugation"
     },
     {
         "id": "dng013_DisplayDesc",
@@ -99,31 +99,31 @@
         "id": "dng013_RuleDesc",
         "id_number": -1,
         "value": "仲間と協力して制限時間以内にボスを討伐せよ！",
-        "translation": ""
+        "translation": "Cooperate with your friends to defeat the boss within the time limit!"
     },
     {
         "id": "dng013_RuleName",
         "id_number": -1,
         "value": "ボス討伐",
-        "translation": ""
+        "translation": "Boss subjugation"
     },
     {
         "id": "dng015_DisplayDesc",
         "id_number": -1,
         "value": "長い長い年月を経て作られた巨大な蟲塚。\n遠目にもわかるほど大きく、旅人やキャラバンの目印になっている。\n内部は空洞で、ゴブリンをはじめとした亜人のモンスターたちが棲みついている。\n最奥部には、かなり手強いモンスターの存在が確認されている。",
-        "translation": ""
+        "translation": "A huge bug mound made after many years.\nIt's big enough to be seen from a distance, and it's a landmark for travelers and caravans.\nThe inside is hollow, and subhuman monsters such as goblins live in it.\nThe existence of a fairly formidable monster has been confirmed in the innermost part."
     },
     {
         "id": "dng015_RuleDesc",
         "id_number": -1,
         "value": "制限時間以内にボスを討伐せよ！",
-        "translation": ""
+        "translation": "Defeat the boss within the time limit!"
     },
     {
         "id": "dng015_RuleName",
         "id_number": -1,
         "value": "ボス討伐",
-        "translation": ""
+        "translation": "Boss subjugation"
     },
     {
         "id": "dng017_DisplayDesc",
@@ -135,49 +135,49 @@
         "id": "dng017_RuleDesc",
         "id_number": -1,
         "value": "制限時間以内にボスを討伐せよ！",
-        "translation": ""
+        "translation": "Defeat the boss within the time limit!"
     },
     {
         "id": "dng017_RuleName",
         "id_number": -1,
         "value": "ボス討伐",
-        "translation": ""
+        "translation": "Boss subjugation"
     },
     {
         "id": "sdg_dng009_DisplayDesc",
         "id_number": -1,
         "value": "ドラゴンの爪で抉られたかのような深い峡谷地帯。\n複雑に入り組んだ谷と崖が行く手を阻む。\n周囲の地形や足元に気を配りつつ、着実にエネミーを退けていくことが攻略のカギ。\n激しい音を立てながら流れ落ちる滝は迫力に満ち、それこそ荒々しい竜の姿に例えられている。",
-        "translation": ""
+        "translation": "A deep canyon area as if it was carved by a dragon's claws.\nComplex valleys and cliffs block the way.\nThe key to the strategy is to steadily dismiss the enemy while paying attention to the surrounding terrain and feet.\nThe waterfall that flows down while making a loud noise is full of power, and it is likened to the appearance of a rough dragon."
     },
     {
         "id": "sdg_dng009_RuleDesc",
         "id_number": -1,
         "value": "制限時間以内にボスを討伐せよ！",
-        "translation": ""
+        "translation": "Defeat the boss within the time limit!"
     },
     {
         "id": "sdg_dng009_RuleName",
         "id_number": -1,
         "value": "ボス討伐",
-        "translation": ""
+        "translation": "Boss subjugation"
     },
     {
         "id": "tdg_dng009_DisplayDesc",
         "id_number": -1,
         "value": "ドラゴンの爪で抉られたかのような深い峡谷地帯。\n複雑に入り組んだ谷と崖が行く手を阻む。\n周囲の地形や足元に気を配りつつ、着実にエネミーを退けていくことが攻略のカギ。\n激しい音を立てながら流れ落ちる滝は迫力に満ち、それこそ荒々しい竜の姿に例えられている。",
-        "translation": ""
+        "translation": "A deep canyon area as if it was carved by a dragon's claws.\nComplex valleys and cliffs block the way.\nThe key to the strategy is to steadily dismiss the enemy while paying attention to the surrounding terrain and feet.\nThe waterfall that flows down while making a loud noise is full of power, and it is likened to the appearance of a rough dragon."
     },
     {
         "id": "tdg_dng009_RuleDesc",
         "id_number": -1,
         "value": "制限時間以内にボスを討伐せよ！",
-        "translation": ""
+        "translation": "Defeat the boss within the time limit!"
     },
     {
         "id": "tdg_dng009_RuleName",
         "id_number": -1,
         "value": "ボス討伐",
-        "translation": ""
+        "translation": "Boss subjugation"
     },
     {
         "id": "dng019_DisplayDesc",
@@ -189,13 +189,13 @@
         "id": "dng019_RuleDesc",
         "id_number": -1,
         "value": "制限時間以内にボスを討伐せよ！",
-        "translation": ""
+        "translation": "Defeat the boss within the time limit!"
     },
     {
         "id": "dng019_RuleName",
         "id_number": -1,
         "value": "ボス討伐",
-        "translation": ""
+        "translation": "Boss subjugation"
     },
     {
         "id": "GDI_TOP_DisplayDesc",
@@ -219,37 +219,37 @@
         "id": "cat_dng009_DisplayDesc",
         "id_number": -1,
         "value": "※パーティプレイ推奨\nドラゴンの爪で抉られたかのような深い峡谷地帯。\n複雑に入り組んだ谷と崖が行く手を阻む。\n周囲の地形や足元に気を配りつつ、着実にエネミーを退けていくことが攻略のカギ。\n激しい音を立てながら流れ落ちる滝は迫力に満ち、それこそ荒々しい竜の姿に例えられている。",
-        "translation": ""
+        "translation": "※Recommended for party play.\nComplex valleys and cliffs block the way.\nThe key to the strategy is to steadily dismiss the enemy while paying attention to the surrounding terrain and feet.\nThe waterfall that flows down while making a loud noise is full of power, and it is likened to the appearance of a rough dragon."
     },
     {
         "id": "cat_dng009_RuleDesc",
         "id_number": -1,
         "value": "制限時間以内にボスを討伐せよ！",
-        "translation": ""
+        "translation": "Defeat the boss within the time limit!"
     },
     {
         "id": "cat_dng009_RuleName",
         "id_number": -1,
         "value": "ボス撃破",
-        "translation": ""
+        "translation": "Defeat the boss"
     },
     {
         "id": "cat_dng015_DisplayDesc",
         "id_number": -1,
         "value": "長い長い年月を経て作られた巨大な虫塚。\n内部は広々とした空洞となっているため、亜人など虫以外にもモンスターが棲みついている。\n壁や床は岩のように固く、人の手で崩すことは到底できないが、最奥部には、非常に強力で危険なモンスターの存在が確認されている。",
-        "translation": ""
+        "translation": "A huge insect mound created after many years.\nSince the inside is a spacious cavity, monsters other than insects such as subhumans live in it.\nThe walls and floor are as hard as rocks and cannot be broken by human hands, but the existence of extremely powerful and dangerous monsters has been confirmed in the innermost part."
     },
     {
         "id": "cat_dng015_RuleDesc",
         "id_number": -1,
         "value": "制限時間以内にボスを討伐せよ！",
-        "translation": ""
+        "translation": "Defeat the boss within the time limit!"
     },
     {
         "id": "cat_dng015_RuleName",
         "id_number": -1,
         "value": "ボス討伐",
-        "translation": ""
+        "translation": "Boss subjugation"
     },
     {
         "id": "RockDungeon_DisplayDesc",
@@ -273,36 +273,36 @@
         "id": "cat_dng009_H_DisplayDesc",
         "id_number": -1,
         "value": "※パーティプレイ推奨\nドラゴンの爪で抉られたかのような深い峡谷地帯。\n複雑に入り組んだ谷と崖が行く手を阻む。\n周囲の地形や足元に気を配りつつ、着実にエネミーを退けていくことが攻略のカギ。\n激しい音を立てながら流れ落ちる滝は迫力に満ち、それこそ荒々しい竜の姿に例えられている。",
-        "translation": ""
+        "translation": "※Recommended for party play.\nComplex valleys and cliffs block the way.\nThe key to the strategy is to steadily dismiss the enemy while paying attention to the surrounding terrain and feet.\nThe waterfall that flows down while making a loud noise is full of power, and it is likened to the appearance of a rough dragon."
     },
     {
         "id": "cat_dng009_H_RuleDesc",
         "id_number": -1,
         "value": "制限時間以内にボスを討伐せよ！",
-        "translation": ""
+        "translation": "Defeat the boss within the time limit!"
     },
     {
         "id": "cat_dng009_H_RuleName",
         "id_number": -1,
         "value": "ボス討伐",
-        "translation": ""
+        "translation": "Boss subjugation"
     },
     {
         "id": "cat_dng015_H_DisplayDesc",
         "id_number": -1,
         "value": "※パーティプレイ推奨\n長い長い年月を経て作られた巨大な虫塚。\n内部は広々とした空洞となっているため、亜人など虫以外にもモンスターが棲みついている。\n壁や床は岩のように固く、人の手で崩すことは到底できないが、最奥部には、非常に強力で危険なモンスターの存在が確認されている。",
-        "translation": ""
+        "translation": "※Party play recommended\nA huge insect mound created over many years.\nSince the inside is a spacious cavity, monsters other than insects such as subhumans live in it.\nThe walls and floor are as hard as rocks and cannot be broken by human hands, but the existence of extremely powerful and dangerous monsters has been confirmed in the innermost part."
     },
     {
         "id": "cat_dng015_H_RuleDesc",
         "id_number": -1,
         "value": "制限時間以内にボスを討伐せよ！",
-        "translation": ""
+        "translation": "Defeat the boss within the time limit!"
     },
     {
         "id": "cat_dng015_H_RuleName",
         "id_number": -1,
         "value": "ボス討伐",
-        "translation": ""
+        "translation": "Boss subjugation"
     }
 ]
