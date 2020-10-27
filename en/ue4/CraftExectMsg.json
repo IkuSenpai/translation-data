@@ -3,90 +3,90 @@
         "id": "ERROR CODE SUCCESS",
         "id_number": -1,
         "value": "依頼しました",
-        "translation": ""
+        "translation": "Success"
     },
     {
         "id": "ERROR_CODE_CRAFT_LACK_ENGRAM",
         "id_number": -1,
         "value": "所持金が足りません",
-        "translation": ""
+        "translation": "Don't have enough engrams"
     },
     {
         "id": "ERROR_CODE_CRAFT_POINT_VALIDATION_ERROR",
         "id_number": -1,
         "value": "ポイント振り分けがおかしいです",
-        "translation": ""
+        "translation": "The point distribution is invalid"
     },
     {
         "id": "ERROR_CODE_CRAFT_LACK_RESOURCE",
         "id_number": -1,
         "value": "素材が足りません",
-        "translation": ""
+        "translation": "Not enough material"
     },
     {
         "id": "ERROR_CODE_CRAFT_HASNT_RECEPI",
         "id_number": -1,
         "value": "レシピを所持していません",
-        "translation": ""
+        "translation": "Missing recipe"
     },
     {
         "id": "ERROR_CODE_CRAFT_INVALID_DIFFICULTY",
         "id_number": -1,
         "value": "作成できない難易度です",
-        "translation": ""
+        "translation": "Invalid difficulty"
     },
     {
         "id": "ERROR_CODE_CRAFT_LACK_CATALYST",
         "id_number": -1,
         "value": "触媒が足りません",
-        "translation": ""
+        "translation": "Not enough catalyst"
     },
     {
         "id": "ERROR_CODE_CRAFT_LACK_OPTION_ITEM",
         "id_number": -1,
         "value": "追加素材が足りません",
-        "translation": ""
+        "translation": "Not enough additional material"
     },
     {
         "id": "ERROR_CODE_CRAFT_NOT_FOUND_MASTER_DATA",
         "id_number": -1,
         "value": "マスターデータに存在しません",
-        "translation": ""
+        "translation": "Does not exist in master data"
     },
     {
         "id": "ERROR_CODE_CRAFT_NOT_FOUND_ENTRY_DATA",
         "id_number": -1,
         "value": "依頼データが見つかりません",
-        "translation": ""
+        "translation": "Request data not found"
     },
     {
         "id": "ERROR_CODE_CRAFT_RECEIVE_ONLY",
         "id_number": -1,
         "value": "受け取りしか受け付けていません",
-        "translation": ""
+        "translation": "We only accept receipts"
     },
     {
         "id": "ERROR_CODE_CRAFT_CANCEL_REJECT",
         "id_number": -1,
         "value": "キャンセルできませんでした",
-        "translation": ""
+        "translation": "Could not be canceled"
     },
     {
         "id": "ERROR_CODE_CRAFT_UNFINISHED",
         "id_number": -1,
         "value": "未完成なので受け取れませんでした",
-        "translation": ""
+        "translation": "Couldn't receive it because it's incomplete"
     },
     {
         "id": "ERROR_CODE_CRAFT_MAX_INVENTORY",
         "id_number": -1,
         "value": "アイテム枠がいっぱいでクラフトできません",
-        "translation": ""
+        "translation": "Can't craft because the inventory is full"
     },
     {
         "id": "ERROR_CODE_UNKNOWN_ERROR",
         "id_number": -1,
         "value": "不明なエラー",
-        "translation": ""
+        "translation": "Unknown error"
     }
 ]
