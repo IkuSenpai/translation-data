@@ -13,7 +13,7 @@ The BP DB discord also has no issues with English patch / translation discussion
 
 ## **NOTE:**
 
-The /r/BlueProtocolPC / MMOByte [discord server](https://discord.gg/5zrZMdX) does not allow discussion of English patches in hopes of becoming the "official" BP discord channel.
+The /r/BlueProtocolOnline / BPO [discord server](https://discord.gg/5zrZMdX) does not allow discussion of English patches in hopes of becoming the "official" / partnered BP discord channel.
 
 **Please** kindly respect their decisions and do not discuss this project on their server, nor direct any members of the server to this repository. Their community will not be using third party modifications.
 
