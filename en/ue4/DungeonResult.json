@@ -3,114 +3,114 @@
         "id": "1",
         "id_number": 1,
         "value": "以下の報酬を入手しました",
-        "translation": ""
+        "translation": "Obtained the following rewards"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "次へ",
-        "translation": ""
+        "translation": "Next"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "ルーノ",
-        "translation": ""
+        "translation": "Luno"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "終了",
-        "translation": ""
+        "translation": "End"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "Dungeon Clear !",
-        "translation": ""
+        "translation": "Dungeon Clear !"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "いいね!",
-        "translation": ""
+        "translation": "How nice!"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "フォローする",
-        "translation": ""
+        "translation": "Follow"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "獲得",
-        "translation": ""
+        "translation": "Acquired"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "グローリーコイン",
-        "translation": ""
+        "translation": "Glory Coin"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "pts",
-        "translation": ""
+        "translation": "pts"
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "報酬を選んでください",
-        "translation": ""
+        "translation": "Please choose a reward"
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "残り",
-        "translation": ""
+        "translation": "Remaining"
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "秒",
-        "translation": ""
+        "translation": "Seconds"
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "{CharacterName}をフォローしました。",
-        "translation": ""
+        "translation": "Followed {CharacterName}."
     },
     {
         "id": "15",
         "id_number": 15,
         "value": "{CharacterName}さんからいいね！されました",
-        "translation": ""
+        "translation": "Like from {CharacterName}!"
     },
     {
         "id": "16",
         "id_number": 16,
         "value": "{CharacterName}さんにいいねしました",
-        "translation": ""
+        "translation": "Liked {CharacterName}"
     },
     {
         "id": "17",
         "id_number": 17,
         "value": "{CharacterName}さんにいいねしましたいいねが失敗しました",
-        "translation": ""
+        "translation": "Liked {CharacterName} Like failed"
     },
     {
         "id": "18",
         "id_number": 18,
         "value": "Dungeon Cleared!",
-        "translation": ""
+        "translation": "Dungeon Cleared!"
     },
     {
         "id": "19",
         "id_number": 19,
         "value": "完了",
-        "translation": ""
+        "translation": "Done"
     }
 ]
