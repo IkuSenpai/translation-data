@@ -27,37 +27,37 @@
         "id": "fld003_Top",
         "id_number": -1,
         "value": "モンテノール渓谷",
-        "translation": ""
+        "translation": "Montenor"
     },
     {
         "id": "fld003_Top_sub",
         "id_number": -1,
         "value": "Montenor",
-        "translation": ""
+        "translation": "Montenor"
     },
     {
         "id": "fld004_Top",
         "id_number": -1,
         "value": "エバーグリーン平原",
-        "translation": ""
+        "translation": "Evergreen Plain"
     },
     {
         "id": "fld004_Top_sub",
         "id_number": -1,
         "value": "Evergreen Plain",
-        "translation": ""
+        "translation": "Evergreen Plain"
     },
     {
         "id": "fld009_Top",
         "id_number": -1,
         "value": "枷神の楔1F",
-        "translation": ""
+        "translation": "The wedge"
     },
     {
         "id": "fld009_Top_sub",
         "id_number": -1,
         "value": "The wedge",
-        "translation": ""
+        "translation": "The wedge"
     },
     {
         "id": "cty01_Top",
@@ -81,7 +81,7 @@
         "id": "cty02_top",
         "id_number": -1,
         "value": "サラムザート・オアシス",
-        "translation": ""
+        "translation": "Salamzart Oasis"
     },
     {
         "id": "cty02_001",
@@ -99,13 +99,13 @@
         "id": "PlaceGuideTestMap",
         "id_number": -1,
         "value": "テストマップ",
-        "translation": ""
+        "translation": "Test map"
     },
     {
         "id": "PlaceGuideTestMap_sub",
         "id_number": -1,
         "value": "TestMap",
-        "translation": ""
+        "translation": "TestMap"
     },
     {
         "id": "fld001_001",
@@ -189,49 +189,49 @@
         "id": "fld003_001",
         "id_number": -1,
         "value": "リッツェ村",
-        "translation": ""
+        "translation": "Rietze"
     },
     {
         "id": "fld003_001_sub",
         "id_number": -1,
         "value": "Rietze",
-        "translation": ""
+        "translation": "Rietze"
     },
     {
         "id": "fld003_002",
         "id_number": -1,
         "value": "第1のアバリティアの巣",
-        "translation": ""
+        "translation": "First Avalitia Nest"
     },
     {
         "id": "fld003_003",
         "id_number": -1,
         "value": "砂漠の関所",
-        "translation": ""
+        "translation": "Desert Barrier"
     },
     {
         "id": "fld004_001",
         "id_number": -1,
         "value": "シャルロット救出地点",
-        "translation": ""
+        "translation": "Charlotte Rescue Point"
     },
     {
         "id": "fld004_002",
         "id_number": -1,
         "value": "不審な反応があった場所",
-        "translation": ""
+        "translation": "Location of a Suspicious Reaction"
     },
     {
         "id": "fld004_003",
         "id_number": -1,
         "value": "浮島",
-        "translation": ""
+        "translation": "Floating Island"
     },
     {
         "id": "fld004_004",
         "id_number": -1,
         "value": "囁きの崖",
-        "translation": ""
+        "translation": "Whispering Cliff"
     },
     {
         "id": "dng005_001",
@@ -243,25 +243,25 @@
         "id": "dng004_Top",
         "id_number": -1,
         "value": "音無き都",
-        "translation": ""
+        "translation": "Soundless City"
     },
     {
         "id": "dng004_Top_sub",
         "id_number": -1,
         "value": "None",
-        "translation": ""
+        "translation": "None"
     },
     {
         "id": "dng005_Top",
         "id_number": -1,
         "value": "神懸の御柱",
-        "translation": ""
+        "translation": "Pillar of Divinity"
     },
     {
         "id": "dng005_Top_sub",
         "id_number": -1,
         "value": "The pillar",
-        "translation": ""
+        "translation": "The pillar"
     },
     {
         "id": "dng005_cty01_Top",
@@ -273,13 +273,13 @@
         "id": "dng007_Top",
         "id_number": -1,
         "value": "枷神の産屋",
-        "translation": ""
+        "translation": "God's Production House"
     },
     {
         "id": "dng009_Top",
         "id_number": -1,
         "value": "巨竜の爪痕(開発用）",
-        "translation": ""
+        "translation": "Dragon Claw Valley (for development)"
     },
     {
         "id": "dng009_Top_sub",
@@ -291,156 +291,156 @@
         "id": "dng011_Top",
         "id_number": -1,
         "value": "天恵の聖堂",
-        "translation": ""
+        "translation": "Blessed Temple"
     },
     {
         "id": "dng013_Top",
         "id_number": -1,
         "value": "バーンハルトへの隠し通路",
-        "translation": ""
+        "translation": "Secret Passages to Bernhard"
     },
     {
         "id": "dng015_Top",
         "id_number": -1,
         "value": "約束の道標",
-        "translation": ""
+        "translation": "Promised Milestone"
     },
     {
         "id": "dng015_Top_sub",
         "id_number": -1,
         "value": "Promised milestone",
-        "translation": ""
+        "translation": "Promised Milestone"
     },
     {
         "id": "dng017_Top",
         "id_number": -1,
         "value": "深淵に至る霊道(調整中)",
-        "translation": ""
+        "translation": "Spiritual Path to the Abyss (under adjustment)"
     },
     {
         "id": "dng017_PvP_Top",
         "id_number": -1,
         "value": "深淵に至る霊道(FriendlyFireモード)",
-        "translation": ""
+        "translation": "Spiritual Path to the Abyss (FriendlyFire mode)"
     },
     {
         "id": "pdg001_TOP",
         "id_number": -1,
         "value": "巨竜の爪痕（パブリックダンジョン）",
-        "translation": ""
+        "translation": "Dragon Claw Valley (Public Dungeon)"
     },
     {
         "id": "sdg_dng009_Top",
         "id_number": -1,
         "value": "巨竜の爪痕（シナリオダンジョン）",
-        "translation": ""
+        "translation": "Dragon Claw Valley (Scenario Dungeon)"
     },
     {
         "id": "tdg_dng009_Top",
         "id_number": -1,
         "value": "巨竜の爪痕（タイムアタックダンジョン）",
-        "translation": ""
+        "translation": "Dragon Claw Valley (Time Attack Dungeon)"
     },
     {
         "id": "dng019_TOP",
         "id_number": -1,
         "value": "海神窟",
-        "translation": ""
+        "translation": "Sea God Cave"
     },
     {
         "id": "fld001_S_Top",
         "id_number": -1,
         "value": "アステリア平原 - 南",
-        "translation": ""
+        "translation": "Asteria Plain - South"
     },
     {
         "id": "fld001_S_Top_sub",
         "id_number": -1,
         "value": "Asteria Plain - South",
-        "translation": ""
+        "translation": "Asteria Plain - South"
     },
     {
         "id": "fld001_N_Top",
         "id_number": -1,
         "value": "アステリア平原 - 北",
-        "translation": ""
+        "translation": "Asteria Plain - North"
     },
     {
         "id": "fld001_N_Top_sub",
         "id_number": -1,
         "value": "Asteria Plain - North",
-        "translation": ""
+        "translation": "Asteria Plain - North"
     },
     {
         "id": "fld001_E_Top",
         "id_number": -1,
         "value": "アステリア平原 - 東",
-        "translation": ""
+        "translation": "Asteria Plain - East"
     },
     {
         "id": "fld001_E_Top_sub",
         "id_number": -1,
         "value": "Asteria Plain - East",
-        "translation": ""
+        "translation": "Asteria Plain - East"
     },
     {
         "id": "fld001_W_Top",
         "id_number": -1,
         "value": "アステリア平原 - 西",
-        "translation": ""
+        "translation": "Asteria Plain - West"
     },
     {
         "id": "fld001_W_Top_sub",
         "id_number": -1,
         "value": "Asteria Plain - West",
-        "translation": ""
+        "translation": "Asteria Plain - West"
     },
     {
         "id": "GDI_TOP_TOP",
         "id_number": -1,
         "value": "GDI版_トレーニングモード",
-        "translation": ""
+        "translation": "GDI version_training mode"
     },
     {
         "id": "cat_dng009_Top",
         "id_number": -1,
         "value": "巨竜の爪痕",
-        "translation": ""
+        "translation": "Dragon Claw Valley"
     },
     {
         "id": "cat_dng015_TOP",
         "id_number": -1,
         "value": "虫砦",
-        "translation": ""
+        "translation": "Insect Fortress"
     },
     {
         "id": "RockDungeon_TOP",
         "id_number": -1,
         "value": "汎用ダンジョン(試験用)",
-        "translation": ""
+        "translation": "General-purpose dungeon (for testing)"
     },
     {
         "id": "cat_dng009_H_TOP",
         "id_number": -1,
         "value": "巨竜の爪痕（ハード）",
-        "translation": ""
+        "translation": "Dragon Claw Valley (Hard)"
     },
     {
         "id": "cat_dng015_H_TOP",
         "id_number": -1,
         "value": "虫砦（ハード）",
-        "translation": ""
+        "translation": "Insect Fortress (Hard)"
     },
     {
         "id": "cat_dng009_Top_sub",
         "id_number": -1,
         "value": "Dragon Claw Valley",
-        "translation": ""
+        "translation": "Dragon Claw Valley"
     },
     {
         "id": "cat_dng015_TOP_sub",
         "id_number": -1,
         "value": "Insect Fortress",
-        "translation": ""
+        "translation": "Insect Fortress"
     }
 ]
