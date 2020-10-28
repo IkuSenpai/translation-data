@@ -3,72 +3,72 @@
         "id": "1",
         "id_number": 1,
         "value": "スタミナが足りません",
-        "translation": ""
+        "translation": "Not enough stamina"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "インターバル中です",
-        "translation": ""
+        "translation": "During the interval"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "スキルは使用できません",
-        "translation": ""
+        "translation": "Skill cannot be used"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "残弾がありません",
-        "translation": ""
+        "translation": "There is no remaining bullet"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "対象をロックオンしてください",
-        "translation": ""
+        "translation": "Please lock on the target"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "盾耐久値が足りません",
-        "translation": ""
+        "translation": "Insufficient shield durability"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "EPが足りません",
-        "translation": ""
+        "translation": "Not enough EP"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "パワーアップ弾です。味方に照準をあわせてください！",
-        "translation": ""
+        "translation": "It is a power-up bullet. Aim at your allies!"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "インターバル中です",
-        "translation": ""
+        "translation": "During the interval"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "この場所にはスキルを発動できません",
-        "translation": ""
+        "translation": "Skills cannot be activated at this location"
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "30秒後にバトルエリアが封鎖されます",
-        "translation": ""
+        "translation": "The battle area will be closed after 30 seconds"
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "シールドブレイク中は使用できません",
-        "translation": ""
+        "translation": "Cannot be used during shield break"
     }
 ]
