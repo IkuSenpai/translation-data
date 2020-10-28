@@ -3,252 +3,252 @@
         "id": "1",
         "id_number": 1,
         "value": "バッグ",
-        "translation": ""
+        "translation": "bag"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "消費アイテム",
-        "translation": ""
+        "translation": "Consumption items"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "武器",
-        "translation": ""
+        "translation": "Weapon"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "イマジンシード",
-        "translation": ""
+        "translation": "Imagine seed"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "キーアイテム",
-        "translation": ""
+        "translation": "Key item"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "エングラム",
-        "translation": ""
+        "translation": "Engram"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "衣装",
-        "translation": ""
+        "translation": "Costume"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "キャラクター倉庫",
-        "translation": ""
+        "translation": "Character warehouse"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "アカウント倉庫",
-        "translation": ""
+        "translation": "Account warehouse"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "預ける",
-        "translation": ""
+        "translation": "Deposit"
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "捨てる",
-        "translation": ""
+        "translation": "Discard"
     },
     {
         "id": "15",
         "id_number": 15,
         "value": "移動",
-        "translation": ""
+        "translation": "Move"
     },
     {
         "id": "100",
         "id_number": 100,
         "value": "移動元をクリックしてください。",
-        "translation": ""
+        "translation": "Click the move source."
     },
     {
         "id": "101",
         "id_number": 101,
         "value": "移動したいアイテムをクリックしてください。",
-        "translation": ""
+        "translation": "Click the item you want to move."
     },
     {
         "id": "102",
         "id_number": 102,
         "value": "移動する個数",
-        "translation": ""
+        "translation": "Number to move"
     },
     {
         "id": "103",
         "id_number": 103,
         "value": "移動先を選ぶ",
-        "translation": ""
+        "translation": "Choose a destination"
     },
     {
         "id": "900",
         "id_number": 900,
         "value": "武器装備変更エラー",
-        "translation": ""
+        "translation": "Weapon equipment change error"
     },
     {
         "id": "901",
         "id_number": 901,
         "value": "衣装変更エラー",
-        "translation": ""
+        "translation": "Costume change error"
     },
     {
         "id": "902",
         "id_number": 902,
         "value": "キャラクタークリエイトデータアップロードエラー",
-        "translation": ""
+        "translation": "Character create data upload error"
     },
     {
         "id": "903",
         "id_number": 903,
         "value": "不明なエラーです",
-        "translation": ""
+        "translation": "Unknown error"
     },
     {
         "id": "904",
         "id_number": 904,
         "value": "データの保存に失敗しました",
-        "translation": ""
+        "translation": "Failed to save data"
     },
     {
         "id": "905",
         "id_number": 905,
         "value": "装備品枠がいっぱいです",
-        "translation": ""
+        "translation": "The equipment frame is full"
     },
     {
         "id": "906",
         "id_number": 906,
         "value": "アイテム枠がいっぱいです",
-        "translation": ""
+        "translation": "The item frame is full"
     },
     {
         "id": "907",
         "id_number": 907,
         "value": "収納ボックスがいっぱいです",
-        "translation": ""
+        "translation": "The storage box is full"
     },
     {
         "id": "908",
         "id_number": 908,
         "value": "このアイテムはそれ以上預けられません",
-        "translation": ""
+        "translation": "This item can no longer be deposited"
     },
     {
         "id": "909",
         "id_number": 909,
         "value": "このアイテムはそれ以上所持できません",
-        "translation": ""
+        "translation": "You can no longer carry this item"
     },
     {
         "id": "910",
         "id_number": 910,
         "value": "装備中のため移動できません",
-        "translation": ""
+        "translation": "Cannot move because it is equipped"
     },
     {
         "id": "920",
         "id_number": 920,
         "value": "バッグの衣装枠がいっぱいです",
-        "translation": ""
+        "translation": "The costume frame of the bag is full"
     },
     {
         "id": "921",
         "id_number": 921,
         "value": "バッグの消費アイテム枠がいっぱいです",
-        "translation": ""
+        "translation": "The consumable item frame of the bag is full"
     },
     {
         "id": "922",
         "id_number": 922,
         "value": "バッグの武器枠がいっぱいです",
-        "translation": ""
+        "translation": "The weapon frame of the bag is full"
     },
     {
         "id": "923",
         "id_number": 923,
         "value": "バッグのイマジンシード枠がいっぱいです",
-        "translation": ""
+        "translation": "The bag is full of imaginine seed frames"
     },
     {
         "id": "924",
         "id_number": 924,
         "value": "バッグのチケット枠がいっぱいです",
-        "translation": ""
+        "translation": "ticket frame of the bag is full"
     },
     {
         "id": "930",
         "id_number": 930,
         "value": "キャラクター倉庫の衣装枠がいっぱいです",
-        "translation": ""
+        "translation": "The costume frame of the character warehouse is full"
     },
     {
         "id": "931",
         "id_number": 931,
         "value": "キャラクター倉庫の消費アイテム枠がいっぱいです",
-        "translation": ""
+        "translation": "The character warehouse is full of consumable items"
     },
     {
         "id": "932",
         "id_number": 932,
         "value": "キャラクター倉庫の武器枠がいっぱいです",
-        "translation": ""
+        "translation": "The weapon frame of the character warehouse is full"
     },
     {
         "id": "933",
         "id_number": 933,
         "value": "キャラクター倉庫のイマジンシード枠がいっぱいです",
-        "translation": ""
+        "translation": "The character warehouse's Imagine seed frame is full"
     },
     {
         "id": "934",
         "id_number": 934,
         "value": "キャラクター倉庫のチケット枠がいっぱいです",
-        "translation": ""
+        "translation": "The ticket frame of the character warehouse is full"
     },
     {
         "id": "940",
         "id_number": 940,
         "value": "アカウント倉庫の衣装枠がいっぱいです",
-        "translation": ""
+        "translation": "The costume frame of the account warehouse is full"
     },
     {
         "id": "941",
         "id_number": 941,
         "value": "アカウント倉庫の消費アイテム枠がいっぱいです",
-        "translation": ""
+        "translation": "Account warehouse is full of consumable items"
     },
     {
         "id": "942",
         "id_number": 942,
         "value": "アカウント倉庫の武器枠がいっぱいです",
-        "translation": ""
+        "translation": "The account warehouse is full of weapon slots"
     },
     {
         "id": "943",
         "id_number": 943,
         "value": "アカウント倉庫のイマジンシード枠がいっぱいです",
-        "translation": ""
+        "translation": "The Imagine seed frame in the account warehouse is full"
     },
     {
         "id": "944",
         "id_number": 944,
         "value": "アカウント倉庫のチケット枠がいっぱいです",
-        "translation": ""
+        "translation": "Account warehouse ticket slots are full"
     }
 ]
