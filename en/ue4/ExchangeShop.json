@@ -3,102 +3,102 @@
         "id": "1",
         "id_number": 1,
         "value": "交換",
-        "translation": ""
+        "translation": "Exchange"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "Exchange",
-        "translation": ""
+        "translation": "Exchange"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "BC：",
-        "translation": ""
+        "translation": "BC："
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "合計",
-        "translation": ""
+        "translation": "Total"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "交換アイテム",
-        "translation": ""
+        "translation": "Exchange item"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": " x {exchange_num}",
-        "translation": ""
+        "translation": " x {exchange_num}"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "交換するアイテムを選択してください",
-        "translation": ""
+        "translation": "Please select the item to exchange"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "交換済み",
-        "translation": ""
+        "translation": "Replaced"
     },
     {
         "id": "31",
         "id_number": 31,
         "value": "交換する数が入力されてません",
-        "translation": ""
+        "translation": "No number to exchange"
     },
     {
         "id": "32",
         "id_number": 32,
         "value": "コインで交換する",
-        "translation": ""
+        "translation": "Exchange with coins"
     },
     {
         "id": "33",
         "id_number": 33,
         "value": "コインで交換する\n（現在のクラスでは装備できないアイテムが選択されています）",
-        "translation": ""
+        "translation": "Redeem with coins\n(Items that cannot be equipped in the current class are selected)"
     },
     {
         "id": "34",
         "id_number": 34,
         "value": "コインが足りません",
-        "translation": ""
+        "translation": "Not enough coins"
     },
     {
         "id": "35",
         "id_number": 35,
         "value": "これ以上アイテムを所持できません",
-        "translation": ""
+        "translation": "Can't carry any more items"
     },
     {
         "id": "36",
         "id_number": 36,
         "value": "これ以上武器を所持できません",
-        "translation": ""
+        "translation": "Can't carry any more weapons"
     },
     {
         "id": "37",
         "id_number": 37,
         "value": "これ以上衣装を所持できません",
-        "translation": ""
+        "translation": "Can't carry any more costumes"
     },
     {
         "id": "38",
         "id_number": 38,
         "value": "バッグがいっぱいです\nこれ以上所持できません",
-        "translation": ""
+        "translation": "Inventory is full\nCan't carry any more"
     },
     {
         "id": "91",
         "id_number": 91,
         "value": "交換に失敗しました",
-        "translation": ""
+        "translation": "Exchange failed"
     }
 ]
