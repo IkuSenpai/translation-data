@@ -3,12 +3,12 @@
         "id": "0",
         "id_number": 0,
         "value": "プレイ上のご注意",
-        "translation": ""
+        "translation": "Precautions for play"
     },
     {
         "id": "1",
         "id_number": 1,
         "value": "プレイする時は部屋を明るくし、モニターとの距離を適切に保ってください。\n健康のため、プレイ<span size=\"27\">1時間ごとに15分</>程度の\n休憩を取るようにしてください。\n\n本ゲームでは、画面が明滅する場合がございますので、\n特に光に過敏な体質の方はプレイをご遠慮ください。\n\nプレイ中気分が少しでもすぐれないと感じた場合は、\n直ちにプレイを中断してください。\n",
-        "translation": ""
+        "translation": "Keep the room bright and keep a proper distance from the monitor when playing.\nFor your health, <span size=\"27\"> please take a 15 minute break every hour of gameplay. </>\n\nThe screen may blink in this game, so please refrain from playing if you are particularly sensitive to light.\n\nIf you feel unwell during play,\nstop playing immediately.\n"
     }
 ]
