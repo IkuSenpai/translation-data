@@ -3,12 +3,12 @@
         "id": "1",
         "id_number": 1,
         "value": "クエスト一覧",
-        "translation": ""
+        "translation": "Quest list"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "ミッション一覧",
-        "translation": ""
+        "translation": "Mission list"
     }
 ]
