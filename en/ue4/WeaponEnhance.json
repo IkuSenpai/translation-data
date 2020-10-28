@@ -3,204 +3,204 @@
         "id": "0",
         "id_number": 0,
         "value": "TOTAL",
-        "translation": ""
+        "translation": "TOTAL"
     },
     {
         "id": "1",
         "id_number": 1,
         "value": "体力",
-        "translation": ""
+        "translation": "VIT"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "AP",
-        "translation": ""
+        "translation": "AP"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "筋力",
-        "translation": ""
+        "translation": "STR"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "耐久力",
-        "translation": ""
+        "translation": "END"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "器用さ",
-        "translation": ""
+        "translation": "DEX"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "知力",
-        "translation": ""
+        "translation": "INT"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "精神力",
-        "translation": ""
+        "translation": "MND"
     },
     {
         "id": "100",
         "id_number": 100,
         "value": "昇順",
-        "translation": ""
+        "translation": "Asc"
     },
     {
         "id": "101",
         "id_number": 101,
         "value": "降順",
-        "translation": ""
+        "translation": "Desc"
     },
     {
         "id": "200",
         "id_number": 200,
         "value": "種類",
-        "translation": ""
+        "translation": "Class"
     },
     {
         "id": "201",
         "id_number": 201,
         "value": "強化レベル",
-        "translation": ""
+        "translation": "Strengthening level"
     },
     {
         "id": "202",
         "id_number": 202,
         "value": "必要素材",
-        "translation": ""
+        "translation": "Required materials"
     },
     {
         "id": "203",
         "id_number": 203,
         "value": "お守りを使う",
-        "translation": ""
+        "translation": "Use amulets"
     },
     {
         "id": "204",
         "id_number": 204,
         "value": "強化する",
-        "translation": ""
+        "translation": "Strengthen"
     },
     {
         "id": "205",
         "id_number": 205,
         "value": "傾向",
-        "translation": ""
+        "translation": "Trend"
     },
     {
         "id": "206",
         "id_number": 206,
         "value": "必要エングラム",
-        "translation": ""
+        "translation": "Engram required"
     },
     {
         "id": "207",
         "id_number": 207,
         "value": "装備可能レベル",
-        "translation": ""
+        "translation": "Equipable level"
     },
     {
         "id": "208",
         "id_number": 208,
         "value": "素材化ポイント",
-        "translation": ""
+        "translation": "Materialization point"
     },
     {
         "id": "209",
         "id_number": 209,
         "value": "攻撃力",
-        "translation": ""
+        "translation": "ATK"
     },
     {
         "id": "210",
         "id_number": 210,
         "value": "属性",
-        "translation": ""
+        "translation": "Attribute"
     },
     {
         "id": "211",
         "id_number": 211,
         "value": "特殊効果",
-        "translation": ""
+        "translation": "Special effects"
     },
     {
         "id": "212",
         "id_number": 212,
         "value": "%",
-        "translation": ""
+        "translation": "%"
     },
     {
         "id": "213",
         "id_number": 213,
         "value": "必要アイテム",
-        "translation": ""
+        "translation": "Required items"
     },
     {
         "id": "214",
         "id_number": 214,
         "value": "保護アイテム",
-        "translation": ""
+        "translation": "Protective item"
     },
     {
         "id": "215",
         "id_number": 215,
         "value": "必要数",
-        "translation": ""
+        "translation": "Required number"
     },
     {
         "id": "216",
         "id_number": 216,
         "value": "所持数",
-        "translation": ""
+        "translation": "The number of possession"
     },
     {
         "id": "217",
         "id_number": 217,
         "value": "倉庫",
-        "translation": ""
+        "translation": "Warehouse"
     },
     {
         "id": "218",
         "id_number": 218,
         "value": "強化",
-        "translation": ""
+        "translation": "Strengthening"
     },
     {
         "id": "219",
         "id_number": 219,
         "value": "強化する武器を選択してください。",
-        "translation": ""
+        "translation": "Select the weapon you want to enhance."
     },
     {
         "id": "220",
         "id_number": 220,
         "value": "武器総合力",
-        "translation": ""
+        "translation": "Weapon total power"
     },
     {
         "id": "300",
         "id_number": 300,
         "value": "成功",
-        "translation": ""
+        "translation": "Success"
     },
     {
         "id": "301",
         "id_number": 301,
         "value": "失敗",
-        "translation": ""
+        "translation": "Failure"
     },
     {
         "id": "400",
         "id_number": 400,
         "value": "なし",
-        "translation": ""
+        "translation": "None"
     }
 ]
