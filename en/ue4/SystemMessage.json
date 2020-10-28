@@ -3,60 +3,60 @@
         "id": "GetItemFailure_InventoryFull",
         "id_number": -1,
         "value": "バッグが一杯で取得できません",
-        "translation": ""
+        "translation": "Item cannot be obtained due to full inventory"
     },
     {
         "id": "HealStation_HealDone",
         "id_number": -1,
         "value": "体力を回復しました",
-        "translation": ""
+        "translation": "Restored strength"
     },
     {
         "id": "UnlockHunterQuestRank",
         "id_number": -1,
         "value": "討伐クエストが開放されました",
-        "translation": ""
+        "translation": "Subjugation quest has been unlocked"
     },
     {
         "id": "GetEmote",
         "id_number": -1,
         "value": "ジェスチャーを入手しました",
-        "translation": ""
+        "translation": "Obtained a gesture"
     },
     {
         "id": "FailedQuitGame",
         "id_number": -1,
         "value": "ゲーム終了できませんでした",
-        "translation": ""
+        "translation": "The game could not be exited"
     },
     {
         "id": "CantOpenDuringDead",
         "id_number": -1,
         "value": "戦闘不能中は開くことができません",
-        "translation": ""
+        "translation": "Cannot be opened while incapacitated"
     },
     {
         "id": "CantOpenDuringBattle",
         "id_number": -1,
         "value": "戦闘中は開くことができません",
-        "translation": ""
+        "translation": "Cannot be opened during battle"
     },
     {
         "id": "CantOpenDuringAction",
         "id_number": -1,
         "value": "アクション中は開くことができません",
-        "translation": ""
+        "translation": "Cannot be opened during action"
     },
     {
         "id": "CantStartDungeonDuringDead",
         "id_number": -1,
         "value": "戦闘不能中はダンジョンを開始できません",
-        "translation": ""
+        "translation": "You cannot start the dungeon while you are incapacitated"
     },
     {
         "id": "CantStartDungeonDuringBattle",
         "id_number": -1,
         "value": "戦闘中はダンジョンを開始できません",
-        "translation": ""
+        "translation": "You cannot start the dungeon during battle"
     }
 ]
