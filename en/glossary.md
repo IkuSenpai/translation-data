@@ -13,11 +13,13 @@ All files will need to be reviewed to made sure the spelling for these terms is 
 |天恵の聖堂| |Blessed Temple (?)|
 |約束の道標|Promised Signpost, Promised Guide, Promised milestone*|Promised Milestone|
 |海神窟|Sea God Cave|Sea God Cave|
+|体力|Physical Strength, Vitality|VIT|
 |筋力|Muscle Strength, STR|STR|
 |耐久力|Endurance, END|END|
 |器用さ|Dexterity, DEX|DEX|
 |知力|Intelligence, INT|INT|
 |精神力|Mental Strength, MND|MND|
+|攻撃力|Offensive Power, ATK|ATK|
 
 
 

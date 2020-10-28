@@ -3,24 +3,24 @@
         "id": "None",
         "id_number": 1,
         "value": "Lv.",
-        "translation": ""
+        "translation": "Lv."
     },
     {
         "id": "None",
         "id_number": 2,
         "value": "フォース",
-        "translation": ""
+        "translation": "Force"
     },
     {
         "id": "None",
         "id_number": 3,
         "value": "攻撃力",
-        "translation": ""
+        "translation": "Offensive power"
     },
     {
         "id": "None",
         "id_number": 4,
         "value": "装備変更",
-        "translation": ""
+        "translation": "Equipment change"
     }
 ]
