@@ -3,96 +3,96 @@
         "id": "1",
         "id_number": 1,
         "value": "Quest",
-        "translation": ""
+        "translation": "Quest"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "クエストはありません",
-        "translation": ""
+        "translation": "No quest"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "ソート",
-        "translation": ""
+        "translation": "Sort"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "フィルタ",
-        "translation": ""
+        "translation": "Filter"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "進行中",
-        "translation": ""
+        "translation": "In progress"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "履歴",
-        "translation": ""
+        "translation": "History"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "メインクエスト",
-        "translation": ""
+        "translation": "Main quest"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "サブクエスト",
-        "translation": ""
+        "translation": "Subquest"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "設定",
-        "translation": ""
+        "translation": "Setting"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "キャンセル",
-        "translation": ""
+        "translation": "Cancel"
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "すべて",
-        "translation": ""
+        "translation": "All"
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "エリア",
-        "translation": ""
+        "translation": "Area"
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "リスト表示をリセット",
-        "translation": ""
+        "translation": "Reset list display"
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "リストにチェックを付けるとHUDに表示できます",
-        "translation": ""
+        "translation": "You can display it on the HUD by checking the list."
     },
     {
         "id": "15",
         "id_number": 15,
         "value": "すべて",
-        "translation": ""
+        "translation": "All"
     },
     {
         "id": "16",
         "id_number": 16,
         "value": "現在の地方",
-        "translation": ""
+        "translation": "Current region"
     }
 ]
