@@ -3,516 +3,516 @@
         "id": "0",
         "id_number": 0,
         "value": "テストマップ",
-        "translation": ""
+        "translation": "Test Map"
     },
     {
         "id": "100100",
         "id_number": 100100,
         "value": "交易都市アステルリーズ",
-        "translation": ""
+        "translation": "Trading city Asterleeds"
     },
     {
         "id": "100200",
         "id_number": 100200,
         "value": "サラムザート・オアシス",
-        "translation": ""
+        "translation": "Salamzart Oasis"
     },
     {
         "id": "100300",
         "id_number": 100300,
         "value": "ウルラウ郷",
-        "translation": ""
+        "translation": "Ullau Township"
     },
     {
         "id": "200100",
         "id_number": 200100,
         "value": "アステリア平原",
-        "translation": ""
+        "translation": "Asteria Plain"
     },
     {
         "id": "200101",
         "id_number": 200101,
         "value": "海鳴りの草原",
-        "translation": ""
+        "translation": "Skyquake meadow"
     },
     {
         "id": "200102",
         "id_number": 200102,
         "value": "ミンスター丘陵",
-        "translation": ""
+        "translation": "Minster Hills"
     },
     {
         "id": "200103",
         "id_number": 200103,
         "value": "アンドラ盆地",
-        "translation": ""
+        "translation": "Andorra Basin"
     },
     {
         "id": "200104",
         "id_number": 200104,
         "value": "夕凪の段丘",
-        "translation": ""
+        "translation": "Yunagi Terrace"
     },
     {
         "id": "200200",
         "id_number": 200200,
         "value": "バハマール高原",
-        "translation": ""
+        "translation": "Bahamar Plateau"
     },
     {
         "id": "200201",
         "id_number": 200201,
         "value": "神の見守る丘",
-        "translation": ""
+        "translation": "God Watching Hill"
     },
     {
         "id": "200202",
         "id_number": 200202,
         "value": "鎮まりの山麓",
-        "translation": ""
+        "translation": "Foot of the Mountain of Calm"
     },
     {
         "id": "200203",
         "id_number": 200203,
         "value": "フィエル嶺水池",
-        "translation": ""
+        "translation": "Fiermine Water Pond"
     },
     {
         "id": "200300",
         "id_number": 200300,
         "value": "モンテノール渓谷",
-        "translation": ""
+        "translation": "Montenor Valley"
     },
     {
         "id": "200301",
         "id_number": 200301,
         "value": "モンテノール渓谷 - 中央",
-        "translation": ""
+        "translation": "Montenor Valley - Central"
     },
     {
         "id": "200302",
         "id_number": 200302,
         "value": "モンテノール渓谷 - 東",
-        "translation": ""
+        "translation": "Montenor Valley - East"
     },
     {
         "id": "200303",
         "id_number": 200303,
         "value": "モンテノール渓谷 - 南",
-        "translation": ""
+        "translation": "Montenor Valley - South"
     },
     {
         "id": "200400",
         "id_number": 200400,
         "value": "エバーグリーン砂漠",
-        "translation": ""
+        "translation": "Evergreen Desert"
     },
     {
         "id": "200401",
         "id_number": 200401,
         "value": "エバーグリーン砂漠 - 東",
-        "translation": ""
+        "translation": "Evergreen Desert - East"
     },
     {
         "id": "200402",
         "id_number": 200402,
         "value": "エバーグリーン砂漠 - 南",
-        "translation": ""
+        "translation": "Evergreen Desert - South"
     },
     {
         "id": "200403",
         "id_number": 200403,
         "value": "エバーグリーン砂漠 - 西",
-        "translation": ""
+        "translation": "Evergreen Desert - West"
     },
     {
         "id": "200404",
         "id_number": 200404,
         "value": "エバーグリーン砂漠 - 中央",
-        "translation": ""
+        "translation": "Evergreen Desert - Central"
     },
     {
         "id": "200405",
         "id_number": 200405,
         "value": "エバーグリーン砂漠 - 北",
-        "translation": ""
+        "translation": "Evergreen Desert - North"
     },
     {
         "id": "200500",
         "id_number": 200500,
         "value": "西バーンハルト半島",
-        "translation": ""
+        "translation": "West Bernhard Peninsula"
     },
     {
         "id": "200600",
         "id_number": 200600,
         "value": "ラウェハラ岬",
-        "translation": ""
+        "translation": "Cape Laueara"
     },
     {
         "id": "200700",
         "id_number": 200700,
         "value": "コアニアニ森林",
-        "translation": ""
+        "translation": "Koaniani Forest"
     },
     {
         "id": "200800",
         "id_number": 200800,
         "value": "グランヴィル氷界",
-        "translation": ""
+        "translation": "Granville Ice World"
     },
     {
         "id": "20000004",
         "id_number": 20000004,
         "value": "熱砂荒漠の奈落",
-        "translation": ""
+        "translation": "The abyss of the hot desert"
     },
     {
         "id": "20000005",
         "id_number": 20000005,
         "value": "溶岩",
-        "translation": ""
+        "translation": "Lava"
     },
     {
         "id": "20000006",
         "id_number": 20000006,
         "value": "恵みの木群",
-        "translation": ""
+        "translation": "Trees of grace"
     },
     {
         "id": "20000007",
         "id_number": 20000007,
         "value": "白亜の記憶",
-        "translation": ""
+        "translation": "Chalk memory"
     },
     {
         "id": "20000009",
         "id_number": 20000009,
         "value": "アーヴェット岩壁",
-        "translation": ""
+        "translation": "Arvet rock wall"
     },
     {
         "id": "300400",
         "id_number": 300400,
         "value": "音無き都",
-        "translation": ""
+        "translation": "Soundless City"
     },
     {
         "id": "300500",
         "id_number": 300500,
         "value": "神懸の御柱",
-        "translation": ""
+        "translation": "Pillar of Divinity"
     },
     {
         "id": "300700",
         "id_number": 300700,
         "value": "枷神の産屋",
-        "translation": ""
+        "translation": "God's Production House"
     },
     {
         "id": "300900",
         "id_number": 300900,
         "value": "巨竜の爪痕",
-        "translation": ""
+        "translation": "Dragon Claw Valley"
     },
     {
         "id": "301100",
         "id_number": 301100,
         "value": "天恵の聖堂",
-        "translation": ""
+        "translation": "Blessed Temple"
     },
     {
         "id": "301300",
         "id_number": 301300,
         "value": "バーンハルト城旧地下水路",
-        "translation": ""
+        "translation": "Bernhard Castle Old Underground Waterway"
     },
     {
         "id": "301500",
         "id_number": 301500,
         "value": "暁の虫砦",
-        "translation": ""
+        "translation": "Dawn Insect Fortress"
     },
     {
         "id": "301700",
         "id_number": 301700,
         "value": "ドラ―ヴァ王立研究所",
-        "translation": ""
+        "translation": "Drava Royal Institution"
     },
     {
         "id": "301900",
         "id_number": 301900,
         "value": "海神窟",
-        "translation": ""
+        "translation": "Sea God Cave"
     },
     {
         "id": "302100",
         "id_number": 302100,
         "value": "祖霊の墓所",
-        "translation": ""
+        "translation": "Sorei Graveyard"
     },
     {
         "id": "302300",
         "id_number": 302300,
         "value": "絶境を睨む冥龍の極北",
-        "translation": ""
+        "translation": "Far north of the dragon glaring at the border"
     },
     {
         "id": "302500",
         "id_number": 302500,
         "value": "棄てられた星憶鉱",
-        "translation": ""
+        "translation": "Abandoned Star Mine"
     },
     {
         "id": "302700",
         "id_number": 302700,
         "value": "歪み遺志",
-        "translation": ""
+        "translation": "Distorted Will"
     },
     {
         "id": "3010100",
         "id_number": 3010100,
         "value": "レイクリッド坑道",
-        "translation": ""
+        "translation": "Reikrid Tunnels"
     },
     {
         "id": "3010200",
         "id_number": 3010200,
         "value": "機跡の谷",
-        "translation": ""
+        "translation": "Valley of machines"
     },
     {
         "id": "3020100",
         "id_number": 3020100,
         "value": "ボルオム遺跡",
-        "translation": ""
+        "translation": "Borhom Ruins"
     },
     {
         "id": "3030100",
         "id_number": 3030100,
         "value": "闘技場",
-        "translation": ""
+        "translation": "Arena"
     },
     {
         "id": "30000000",
         "id_number": 30000000,
         "value": "雪原",
-        "translation": ""
+        "translation": "Snowfield"
     },
     {
         "id": "30000001",
         "id_number": 30000001,
         "value": "海岸",
-        "translation": ""
+        "translation": "Coastal"
     },
     {
         "id": "30000002",
         "id_number": 30000002,
         "value": "廃墟の街（ペイロード）",
-        "translation": ""
+        "translation": "Desolation Row (Payload)"
     },
     {
         "id": "30000005",
         "id_number": 30000005,
         "value": "空",
-        "translation": ""
+        "translation": "Sky"
     },
     {
         "id": "30000006",
         "id_number": 30000006,
         "value": "枷神の楔",
-        "translation": ""
+        "translation": "Wedge of the god"
     },
     {
         "id": "30000008",
         "id_number": 30000008,
         "value": "巨竜の爪痕（西）",
-        "translation": ""
+        "translation": "Dragon Claw Valley (West)"
     },
     {
         "id": "30000009",
         "id_number": 30000009,
         "value": "隠者の水郷",
-        "translation": ""
+        "translation": "Hermit's water town"
     },
     {
         "id": "30000011",
         "id_number": 30000011,
         "value": "空",
-        "translation": ""
+        "translation": "Sky"
     },
     {
         "id": "30000012",
         "id_number": 30000012,
         "value": "空",
-        "translation": ""
+        "translation": "Sky"
     },
     {
         "id": "30000014",
         "id_number": 30000014,
         "value": "空",
-        "translation": ""
+        "translation": "Sky"
     },
     {
         "id": "30000015",
         "id_number": 30000015,
         "value": "空",
-        "translation": ""
+        "translation": "Sky"
     },
     {
         "id": "30000016",
         "id_number": 30000016,
         "value": "空",
-        "translation": ""
+        "translation": "Sky"
     },
     {
         "id": "30000017",
         "id_number": 30000017,
         "value": "空",
-        "translation": ""
+        "translation": "Sky"
     },
     {
         "id": "30000018",
         "id_number": 30000018,
         "value": "空",
-        "translation": ""
+        "translation": "Sky"
     },
     {
         "id": "30000019",
         "id_number": 30000019,
         "value": "黄泉の熱沼",
-        "translation": ""
+        "translation": "Atsuma of Yomi"
     },
     {
         "id": "30000020",
         "id_number": 30000020,
         "value": "空",
-        "translation": ""
+        "translation": "Sky"
     },
     {
         "id": "30000021",
         "id_number": 30000021,
         "value": "空",
-        "translation": ""
+        "translation": "Sky"
     },
     {
         "id": "30000022",
         "id_number": 30000022,
         "value": " 聖バファリア島地下",
-        "translation": ""
+        "translation": "St. Bapharia Island Underground"
     },
     {
         "id": "30000023",
         "id_number": 30000023,
         "value": "空",
-        "translation": ""
+        "translation": "Sky"
     },
     {
         "id": "30000025",
         "id_number": 30000025,
         "value": "空",
-        "translation": ""
+        "translation": "Sky"
     },
     {
         "id": "30000026",
         "id_number": 30000026,
         "value": "空",
-        "translation": ""
+        "translation": "Sky"
     },
     {
         "id": "30000027",
         "id_number": 30000027,
         "value": "廃鉱山",
-        "translation": ""
+        "translation": "Abandoned mine"
     },
     {
         "id": "30000028",
         "id_number": 30000028,
         "value": "空",
-        "translation": ""
+        "translation": "Sky"
     },
     {
         "id": "4000",
         "id_number": 4000,
         "value": "崖の遺跡",
-        "translation": ""
+        "translation": "Cliff Ruins"
     },
     {
         "id": "4001",
         "id_number": 4001,
         "value": "崖の遺跡",
-        "translation": ""
+        "translation": "Cliff Ruins"
     },
     {
         "id": "4002",
         "id_number": 4002,
         "value": "巨塔の遺跡",
-        "translation": ""
+        "translation": "Ruins of the Giant Tower"
     },
     {
         "id": "4003",
         "id_number": 4003,
         "value": "リッツェ村南西",
-        "translation": ""
+        "translation": "Southwest of Ritze Village"
     },
     {
         "id": "4004",
         "id_number": 4004,
         "value": "囮となった子の救出",
-        "translation": ""
+        "translation": "Rescue of a decoy child"
     },
     {
         "id": "4005",
         "id_number": 4005,
         "value": "歌姫救出",
-        "translation": ""
+        "translation": "Diva rescue"
     },
     {
         "id": "4006",
         "id_number": 4006,
         "value": "囁きの崖",
-        "translation": ""
+        "translation": "Whispering cliff"
     },
     {
         "id": "30001013",
         "id_number": 30001013,
         "value": "虫砦",
-        "translation": ""
+        "translation": "Insect Fortress"
     },
     {
         "id": "30002013",
         "id_number": 30002013,
         "value": "虫砦（ハード）",
-        "translation": ""
+        "translation": "Insect Fortress (Hard)"
     },
     {
         "id": "30001007",
         "id_number": 30001007,
         "value": "巨竜の爪痕",
-        "translation": ""
+        "translation": "Dragon Claw Valley"
     },
     {
         "id": "30002007",
         "id_number": 30002007,
         "value": "巨竜の爪痕（ハード）",
-        "translation": ""
+        "translation": "Dragon Claw Valley (Hard)"
     },
     {
         "id": "40000000",
         "id_number": 40000000,
         "value": "チュートリアル",
-        "translation": ""
+        "translation": "Tutorial"
     },
     {
         "id": "50000000",
         "id_number": 50000000,
         "value": "巨竜の爪痕（パブリックダンジョン）",
-        "translation": ""
+        "translation": "Dragon Claw Valley (Public Dungeon)"
     },
     {
         "id": "700100",
         "id_number": 700100,
         "value": "レイドボスバトル",
-        "translation": ""
+        "translation": "Raid Boss Battle"
     }
 ]
