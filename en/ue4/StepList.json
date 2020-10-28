@@ -3,36 +3,36 @@
         "id": "1",
         "id_number": 1,
         "value": "貢献進捗",
-        "translation": ""
+        "translation": "Contribution progress"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "秒",
-        "translation": ""
+        "translation": "Seconds"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "現在の貢献ポイント：",
-        "translation": ""
+        "translation": "Current contribution points:"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "PT",
-        "translation": ""
+        "translation": "PT"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "現在のランキング：",
-        "translation": ""
+        "translation": "Current ranking:"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "位",
-        "translation": ""
+        "translation": "Rank"
     }
 ]
