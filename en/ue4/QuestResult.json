@@ -3,30 +3,30 @@
         "id": "1",
         "id_number": 1,
         "value": "個人結果",
-        "translation": ""
+        "translation": "Personal results"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "獲得報酬",
-        "translation": ""
+        "translation": "Earning reward"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "貢献ランキング",
-        "translation": ""
+        "translation": "Contribution ranking"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "{Point}PT",
-        "translation": ""
+        "translation": "{Point} PT"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "獲得ポイント",
-        "translation": ""
+        "translation": "Earned points"
     }
 ]
