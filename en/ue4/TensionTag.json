@@ -3,48 +3,48 @@
         "id": "0",
         "id_number": 0,
         "value": "ムードアイコン未設定",
-        "translation": ""
+        "translation": "Mood icon not set"
     },
     {
         "id": "1",
         "id_number": 1,
         "value": "いつでもパーティＯＫ",
-        "translation": ""
+        "translation": "Party is OK anytime"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "手伝ってください",
-        "translation": ""
+        "translation": "Please help me"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "取り込み中",
-        "translation": ""
+        "translation": "Busy"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "ダンジョン行きましょう",
-        "translation": ""
+        "translation": "Let's go to the dungeon"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "フォロー歓迎",
-        "translation": ""
+        "translation": "Welcome to follow"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "クエストやろう！",
-        "translation": ""
+        "translation": "Let's do the quest!"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "手伝います",
-        "translation": ""
+        "translation": "Will help"
     }
 ]
