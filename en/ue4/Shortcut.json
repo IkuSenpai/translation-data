@@ -3,78 +3,78 @@
         "id": "1",
         "id_number": 1,
         "value": "P1",
-        "translation": ""
+        "translation": "P1"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "P2",
-        "translation": ""
+        "translation": "P2"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "P3",
-        "translation": ""
+        "translation": "P3"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "P4",
-        "translation": ""
+        "translation": "P4"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "P5",
-        "translation": ""
+        "translation": "P5"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "P6",
-        "translation": ""
+        "translation": "P6"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "P7",
-        "translation": ""
+        "translation": "P7"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "P8",
-        "translation": ""
+        "translation": "P8"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "登録したいスロットを選んでください",
-        "translation": ""
+        "translation": "Select the slot you want to register"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "SET",
-        "translation": ""
+        "translation": "SET"
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "パレットに登録したいものを選んでください",
-        "translation": ""
+        "translation": "Select the one you want to register in the palette"
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "使用:方向キー上　選択:方向キー左右　パレット切り替え:{key_change}",
-        "translation": ""
+        "translation": "Use: ArrowKeys Select:ArrayKeys left & right  Palette switch: {key_change}"
     },
     {
         "id": "999",
         "id_number": 999,
         "value": "そのアイテムは登録できません",
-        "translation": ""
+        "translation": "The item cannot be registered"
     }
 ]
