@@ -3,60 +3,60 @@
         "id": "1",
         "id_number": 1,
         "value": "IDまたはパスワードが間違っています",
-        "translation": ""
+        "translation": "Wrong ID or password"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "ゲーム開始",
-        "translation": ""
+        "translation": "Game Start"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "オプション",
-        "translation": ""
+        "translation": "Option"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "終了",
-        "translation": ""
+        "translation": "Exit"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "IDとパスワードを入力して下さい",
-        "translation": ""
+        "translation": "Please enter your ID and password"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "ID",
-        "translation": ""
+        "translation": "ID"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "PASS",
-        "translation": ""
+        "translation": "PASS"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "次回から入力を省略",
-        "translation": ""
+        "translation": "Omit input from next time"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "ログイン",
-        "translation": ""
+        "translation": "Login"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "新規登録",
-        "translation": ""
+        "translation": "Sign Up"
     }
 ]
