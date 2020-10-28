@@ -3,30 +3,30 @@
         "id": "1",
         "id_number": 1,
         "value": "ジェスチャー",
-        "translation": ""
+        "translation": "Gesture"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "パレット登録",
-        "translation": ""
+        "translation": "Palette registration"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "スタンプ",
-        "translation": ""
+        "translation": "Stamp"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "履歴",
-        "translation": ""
+        "translation": "History"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "送り先",
-        "translation": ""
+        "translation": "Destination"
     }
 ]
