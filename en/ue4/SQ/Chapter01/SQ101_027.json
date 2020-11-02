@@ -1,0 +1,392 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "おネコ様～。どこにいますか～？",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "ケガしてるんだから\r\n遠くに行かないでくださいよ～",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "あ～、だるいわ～。\r\n誰か奇特な人が見かけたりしてないかなぁ",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "この近くにいるはずなんだけど。\r\nちょっとー。おネコ様ったら～",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "ふにゃ！　にゃーん……",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "ケガをした猫を見つけた",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "どうやら飼い猫のようだ。\r\nしかし、おびえて近づいてこない",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "にゃ！　にゃあーっ！",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "逃げてしまった",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "飼い主を見かけたら教えてあげよう",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "はあ～、ホントだるいわ～。\r\nおネコ様、どこ行っちゃったんですか～？",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "……え？\r\nケガをした猫を見かけた？",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "ふむふむ、ほうほう。毛色もガラも一致……。\r\nそれ、たぶんうちのお屋敷のおネコ様ですね",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "やったー。いたよ、奇特な人～。\r\n教えてくれてありがとうございます、冒険者さん",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "ついでと言っては何なんですが、\r\n一つ依頼をお願いできません？",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "あー、すみません。ホントありがとうございます。\r\n引き受けてくださって",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "アタシ、そもそもインドア派でして。\r\n外でのお仕事は専門外なんですよね～",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "そもそもアステルリーズ広すぎ。\r\nあとネコも多すぎ",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "ってなわけで、だいぶだるいんです。\r\nそれこそネコの手も借りたい感じです",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "とりあえずアタシ、もう一回\r\nこのへんを探してみますから",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "冒険者さんは街を見て回ってください。\r\nケガしたネコがいたら連れてきてもらえますか",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "じゃ、よろしくお願いします。\r\nはあ、だるいわ～",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "ケガをした猫を見つけた",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "おとなしく抱き上げられた。\r\n人懐っこい猫のようだ",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "あ、どうも。冒険者さん。\r\nネコ探し、お疲れ様です",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "いました？　うちから逃げたおネコ様",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "ああ、すいません。\r\nこっちにもケガしたネコがいたもんで",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "おネコ様じゃないんですけど\r\nちょっと診てたんですよ",
+        "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "メイドのたしなみで手当てぐらいできますしね。\r\nまあ、動物は専門外なんですけど",
+        "translation": ""
+    },
+    {
+        "id": "29",
+        "id_number": 29,
+        "value": "ああ、そっか。冒険者さんが見つけてくれた\r\nネコもケガしてるんですよね？",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "どれどれ……あー、たしかにケガしてますね。\r\nけど、うちのおネコ様じゃないですね。これ",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "うちのはもうちょっと生意気な顔してるんです。\r\nネコの見分けなんて普通つきませんけど",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "はいはい、心配しなさんな。\r\nお前さんもちゃんと手当てしますよ。だるいけど",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "ってなわけで、すみません。他にもケガしたネコが\r\nいると思うんで、また探してもらえますか？",
+        "translation": ""
+    },
+    {
+        "id": "34",
+        "id_number": 34,
+        "value": "屋根の上とか、めんどいとこにいるかも。\r\nほら、ネコってそういうとこあるじゃないですか",
+        "translation": ""
+    },
+    {
+        "id": "35",
+        "id_number": 35,
+        "value": "もー、ホントだるい。\r\nだるいからさっさと捕まえましょう",
+        "translation": ""
+    },
+    {
+        "id": "36",
+        "id_number": 36,
+        "value": "屋根の上って探しました？\r\nネコが登ってること、よくあるんですよ",
+        "translation": ""
+    },
+    {
+        "id": "37",
+        "id_number": 37,
+        "value": "うちのおネコ様もいるかもしれません。\r\nよろしくお願いします",
+        "translation": ""
+    },
+    {
+        "id": "38",
+        "id_number": 38,
+        "value": "ま、屋根めちゃくちゃ多いんですけどね……。\r\nだるいわ、ホント",
+        "translation": ""
+    },
+    {
+        "id": "39",
+        "id_number": 39,
+        "value": "ケガをした猫を見つけた",
+        "translation": ""
+    },
+    {
+        "id": "40",
+        "id_number": 40,
+        "value": "抱き上げようとしたら引っかかれた……",
+        "translation": ""
+    },
+    {
+        "id": "41",
+        "id_number": 41,
+        "value": "ああ、冒険者さん。\r\nおネコ様、見つかりました？",
+        "translation": ""
+    },
+    {
+        "id": "42",
+        "id_number": 42,
+        "value": "うええ～？　こいつも別人っていうか\r\n別ネコじゃないですか",
+        "translation": ""
+    },
+    {
+        "id": "43",
+        "id_number": 43,
+        "value": "ちょっとケガしたネコいすぎでしょ。\r\nどうなってるんですか、この街は",
+        "translation": ""
+    },
+    {
+        "id": "44",
+        "id_number": 44,
+        "value": "あー、もうヤダ。ホントめんどい。\r\nあー、もういい。わかった",
+        "translation": ""
+    },
+    {
+        "id": "45",
+        "id_number": 45,
+        "value": "冒険者さん。作戦変更です",
+        "translation": ""
+    },
+    {
+        "id": "46",
+        "id_number": 46,
+        "value": "ケガしてるネコを一匹残らず\r\n連れてきてもらえますか？",
+        "translation": ""
+    },
+    {
+        "id": "47",
+        "id_number": 47,
+        "value": "もうめんどくさいんで\r\n全部まとめて手当てしてやることにします",
+        "translation": ""
+    },
+    {
+        "id": "48",
+        "id_number": 48,
+        "value": "そうか、そうか。\r\n最初からそうすりゃよかった",
+        "translation": ""
+    },
+    {
+        "id": "49",
+        "id_number": 49,
+        "value": "全部捕まえりゃ、その中に\r\nうちのおネコ様もいるはずですからね",
+        "translation": ""
+    },
+    {
+        "id": "50",
+        "id_number": 50,
+        "value": "こら、アンタら。どっか行かニャい。\r\n肩に乗らニャい。ひざにも乗らニャい",
+        "translation": ""
+    },
+    {
+        "id": "51",
+        "id_number": 51,
+        "value": "みんな治してやるから待ってなさいっての",
+        "translation": ""
+    },
+    {
+        "id": "52",
+        "id_number": 52,
+        "value": "じゃ、アタシは腰据えて手当てしてやりますんで",
+        "translation": ""
+    },
+    {
+        "id": "53",
+        "id_number": 53,
+        "value": "一匹・残らず！\r\nお願いします、冒険者さん",
+        "translation": ""
+    },
+    {
+        "id": "54",
+        "id_number": 54,
+        "value": "ケガをした猫を見つけた",
+        "translation": ""
+    },
+    {
+        "id": "55",
+        "id_number": 55,
+        "value": "すべての猫を見つけたら\r\nティーニのもとへ連れていこう",
+        "translation": ""
+    },
+    {
+        "id": "56",
+        "id_number": 56,
+        "value": "ここをこうして……っと。\r\nはーい、終了～",
+        "translation": ""
+    },
+    {
+        "id": "57",
+        "id_number": 57,
+        "value": "あー、やっと終わった～！",
+        "translation": ""
+    },
+    {
+        "id": "58",
+        "id_number": 58,
+        "value": "すみませんね、冒険者さん。\r\nなんかめんどいことに巻き込んじゃって",
+        "translation": ""
+    },
+    {
+        "id": "59",
+        "id_number": 59,
+        "value": "結局、街じゅうのネコをかき集めちゃって。\r\n冒険者さんがいなかったら大変でした",
+        "translation": ""
+    },
+    {
+        "id": "60",
+        "id_number": 60,
+        "value": "おかげでうちのおネコ様も見つかりましたし。\r\nやっと帰れますよ。あー、だる～",
+        "translation": ""
+    },
+    {
+        "id": "61",
+        "id_number": 61,
+        "value": "この子たちは手当てもしたし、エサもやったし。\r\nしばらくおとなしくしてるはずです",
+        "translation": ""
+    },
+    {
+        "id": "62",
+        "id_number": 62,
+        "value": "ありがとうございました。これ、お礼です",
+        "translation": ""
+    },
+    {
+        "id": "63",
+        "id_number": 63,
+        "value": "はいはい、おネコ様。帰りますよ～。\r\nあー、ホントだるかった",
+        "translation": ""
+    },
+    {
+        "id": "64",
+        "id_number": 64,
+        "value": "ちょっとはボーナス出ますかねー。\r\nおネコ様からもご主人様に頼んでくださいよ",
+        "translation": ""
+    }
+]

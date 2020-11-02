@@ -1,62 +1,92 @@
 [
     {
         "id": "Spawn",
-        "id_number": -1,
-        "value": "ゲーム開始に自動的に発信する\nスタンプです。",
-        "translation": "This is a stamp that is automatically sent\nwhen the game starts."
+        "id_number": 0,
+        "value": "ゲーム開始に発信する\nメッセージです",
+        "translation": ""
     },
     {
         "id": "Respawn",
-        "id_number": -1,
+        "id_number": 0,
         "value": "復活地点に復活した時に自動的に\n発信するスタンプです。",
         "translation": "It is a stamp that automatically sends\n when you return to the resurrection point."
     },
     {
         "id": "FewHp",
-        "id_number": -1,
-        "value": "体力が一定以下になった時に\n自動的に発信するスタンプです。",
-        "translation": "This stamp is automatically sent\nwhen your physical strength drops below a certain level."
+        "id_number": 0,
+        "value": "HPが一定以下になった時に\n発信するメッセージです",
+        "translation": ""
     },
     {
         "id": "ReceiveHeal",
-        "id_number": -1,
-        "value": "他者から回復を受けた時に\n自動的に発信するスタンプです。",
-        "translation": "This stamp is automatically sent\nwhen recovery is received from another person."
+        "id_number": 0,
+        "value": "他者から回復を受けた時に\n発信するメッセージです",
+        "translation": ""
     },
     {
         "id": "Dead",
-        "id_number": -1,
-        "value": "戦闘不能になった時に自動的に\n発信するスタンプです。",
-        "translation": "It is a stamp that automatically sends\nwhen it becomes impossible to fight."
+        "id_number": 0,
+        "value": "戦闘不能になった時に発信する\nメッセージです",
+        "translation": ""
     },
     {
         "id": "Resurrection",
-        "id_number": -1,
-        "value": "他者から救護を受けた時に\n自動的に発信するスタンプです。",
-        "translation": "This is a stamp that is automatically sent\nwhen you receive help from another person."
+        "id_number": 0,
+        "value": "他者から救護を受けた時に\n発信するメッセージです",
+        "translation": ""
+    },
+    {
+        "id": "UsedUltimateSkill",
+        "id_number": 0,
+        "value": "ULTスキルを使用した時に\n発信するメッセージです",
+        "translation": ""
+    },
+    {
+        "id": "UsableUltimateSkill",
+        "id_number": 0,
+        "value": "ULTスキルが再度使用可能時に\n発信するメッセージです",
+        "translation": ""
     },
     {
         "id": "DisableAutoStamp",
-        "id_number": -1,
-        "value": "オートスタンプを表示しない",
-        "translation": "Do not display auto stamp"
+        "id_number": 0,
+        "value": "オートメッセージを表示しない",
+        "translation": ""
     },
     {
         "id": "AreaSetting",
-        "id_number": -1,
+        "id_number": 0,
         "value": "範囲設定",
         "translation": "Range setting"
     },
     {
         "id": "StampList",
-        "id_number": -1,
+        "id_number": 0,
         "value": "設定するスタンプを選んでください",
         "translation": "Please select the stamp to set"
     },
     {
         "id": "Purge",
-        "id_number": -1,
+        "id_number": 0,
         "value": "はずす",
         "translation": "Remove"
+    },
+    {
+        "id": "TemplateList",
+        "id_number": 0,
+        "value": "設定する定型文を選んでください。",
+        "translation": ""
+    },
+    {
+        "id": "Template",
+        "id_number": 0,
+        "value": "定型文",
+        "translation": ""
+    },
+    {
+        "id": "Stamp",
+        "id_number": 0,
+        "value": "スタンプ",
+        "translation": ""
     }
 ]

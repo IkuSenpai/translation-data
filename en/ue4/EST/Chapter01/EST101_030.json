@@ -1,0 +1,224 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "少しは何か思い出したか？",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "なに？　イマジンシードを見つけたって？",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "見せてみろ……",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "どれどれ……\r\nうーむ……",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "どうじゃ！？",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "ん……？！",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "お！？",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "これはっ！",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "おおっ！？",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "……わからん！！",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "こりゃーーー！？\r\n期待させおって！！",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "……まあ、こういうのは餅は餅屋だ\r\nイマジン研究所で専門家に聞いてみるんだな",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "試験、頑張ってくださいね。\r\n新たな冒険者の誕生を、楽しみに待っています！",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "いきなりバトルイマジンを見つけるとは\r\nNiceな滑り出しだな",
+        "translation": ""
+    },
+    {
+        "id": "013_ADD010",
+        "id_number": 13,
+        "value": "ミューリィの言った通り、どんどん使ってみるといい。\r\nきっと役に立ってくれるはずだぜ",
+        "translation": ""
+    },
+    {
+        "id": "013_ADD020",
+        "id_number": 13,
+        "value": "ほらほら、試験の最中なんだろ？\r\nさっさと片付けちまえよ。Hurry up！",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "ほう、冒険者になったのか。\r\nジェイクの推薦？　なるほどな",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "少々面倒くせぇ喋り方をするが、\r\nジェイクは信頼できる奴だ。俺が保証してやるよ",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "ジェイクが推薦人で良かったわね。\r\nあいつ、面倒見は良いから",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "あ、よく誤解されるから先に言っておくけど！\r\n私とジェイクは、なんの関係もありませんので！",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "私としては、もう少し爽やか系がいいというか……\r\n良い人だけど全体的に暑苦しいのよ、あいつ……",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "ジェイクが、あなたのこと探してたわよ",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "おい、知ってっか？\r\nジェイクさんの言ってた例の『原石』って奴[――]",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "正式に冒険者になったらしいぜ？",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "えっ……！？\r\nアンタがそうなの！？",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "こりゃ失礼！\r\nでもさ、ジェイクさん、ムチャクチャ褒めてたぜ",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "あっ、そうか！　\r\nここに来たってことは、イマジンっしょ！？",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "さっすが！　有能な奴は覚えも早いな！\r\nイマジン研究所ならこの階段を降りたトコだぜ",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "Good Luckな！",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "おいッスー。どんな感じ、イイ感じ？\r\nレイクリッド結晶とかチョロいっしょ！",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "おっと、まだ？\r\nあー、なるへそ。じっくり攻める系？",
+        "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "わかる！　それ、わかるわー。\r\n女子もこっちがガッつくと怖がっちゃうからさー",
+        "translation": ""
+    },
+    {
+        "id": "29",
+        "id_number": 29,
+        "value": "ちゃんと緊張ほぐしてあげないとダメじゃんね！\r\nオッケー、オッケー。ゆっくり待つわ！",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "どしたん？\r\nインナーイマジンならもう作れるぜ",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "技師のパイセンに頼んでみなよ。\r\nダイジョーブだって。怖くねーから",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "パイセンって頑固だけどテクはスゲーからさ。\r\nオレもガチのマジで超☆ソンケーって感じだし！",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "ぜってーイイモン作ってくれるって。マジで。\r\nバッチリ装備してキメていこうぜ！",
+        "translation": ""
+    }
+]

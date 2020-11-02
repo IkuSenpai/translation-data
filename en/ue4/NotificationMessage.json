@@ -52,5 +52,41 @@
         "id_number": 9,
         "value": "ミッションクエスト:{mission_type}を達成しました",
         "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "冒険ランク:「勇気」を達成しました",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "冒険ランク:「希望」を達成しました",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "冒険ランク:「神秘」を達成しました",
+        "translation": ""
+    },
+    {
+        "id": "103",
+        "id_number": 103,
+        "value": "冒険ランク:「野心」を達成しました",
+        "translation": ""
+    },
+    {
+        "id": "104",
+        "id_number": 104,
+        "value": "冒険ランク:「慈愛」を達成しました",
+        "translation": ""
+    },
+    {
+        "id": "Text_Added_Synopsis",
+        "id_number": 0,
+        "value": "クエストジャーナルにあらすじが追加されました",
+        "translation": ""
     }
 ]

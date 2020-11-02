@@ -74,7 +74,7 @@
     {
         "id": "13",
         "id_number": 13,
-        "value": "魂ランクが00になるまでヘルプを表示します",
+        "value": "冒険ランクが3になるまでヘルプを表示します",
         "translation": ""
     },
     {
@@ -105,6 +105,66 @@
         "id": "104",
         "id_number": 104,
         "value": "キャンセル",
+        "translation": ""
+    },
+    {
+        "id": "105",
+        "id_number": 105,
+        "value": "プリセットの選択",
+        "translation": ""
+    },
+    {
+        "id": "106",
+        "id_number": 106,
+        "value": "ロード",
+        "translation": ""
+    },
+    {
+        "id": "107",
+        "id_number": 107,
+        "value": "セーブ",
+        "translation": ""
+    },
+    {
+        "id": "108",
+        "id_number": 108,
+        "value": "カスタムスロット",
+        "translation": ""
+    },
+    {
+        "id": "500",
+        "id_number": 500,
+        "value": "カスタムスロット1",
+        "translation": ""
+    },
+    {
+        "id": "501",
+        "id_number": 501,
+        "value": "カスタムスロット2",
+        "translation": ""
+    },
+    {
+        "id": "502",
+        "id_number": 502,
+        "value": "カスタムスロット3",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "HUD編集メニュー",
+        "translation": ""
+    },
+    {
+        "id": "109",
+        "id_number": 109,
+        "value": "現在のHUDを編集",
+        "translation": ""
+    },
+    {
+        "id": "110",
+        "id_number": 110,
+        "value": "プリセットを選択してください",
         "translation": ""
     }
 ]

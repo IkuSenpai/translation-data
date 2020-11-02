@@ -86,7 +86,7 @@
     {
         "id": "15",
         "id_number": 15,
-        "value": "クエスト受注条件",
+        "value": "受注条件",
         "translation": ""
     },
     {
@@ -117,6 +117,66 @@
         "id": "20",
         "id_number": 20,
         "value": "クエストを破棄します。よろしいですか？",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "クエストを破棄します。よろしいですか？\n（これまで集めたクエスト専用アイテムも破棄されます）",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "条件をみたしていないので受注できません",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "条件をみたしていないので進行できません",
+        "translation": ""
+    },
+    {
+        "id": "40",
+        "id_number": 40,
+        "value": "受注不可",
+        "translation": ""
+    },
+    {
+        "id": "41",
+        "id_number": 41,
+        "value": "受注可能",
+        "translation": ""
+    },
+    {
+        "id": "42",
+        "id_number": 42,
+        "value": "進行中",
+        "translation": ""
+    },
+    {
+        "id": "43",
+        "id_number": 43,
+        "value": "報告",
+        "translation": ""
+    },
+    {
+        "id": "44",
+        "id_number": 44,
+        "value": "完了",
+        "translation": ""
+    },
+    {
+        "id": "Text_RouteGuide",
+        "id_number": 0,
+        "value": "ルートガイド",
+        "translation": ""
+    },
+    {
+        "id": "Text_RouteGuide_Prohibit",
+        "id_number": 0,
+        "value": "ルートガイド表示不可",
         "translation": ""
     }
 ]

@@ -2,31 +2,31 @@
     {
         "id": "1",
         "id_number": 1,
-        "value": "いらっしゃい！",
+        "value": "武器が欲しいのか？",
         "translation": ""
     },
     {
         "id": "2",
         "id_number": 2,
-        "value": "冒険するならまずは良い武器が必要だね",
+        "value": "武器は冒険者にとって相棒みたいなモンだ。\n自分に合った一振りを見つけてくれ",
         "translation": ""
     },
     {
         "id": "3",
         "id_number": 3,
-        "value": "色々見て行ってよ！",
+        "value": "ゆっくり見ていってくれ",
         "translation": ""
     },
     {
         "id": "4",
         "id_number": 4,
-        "value": "ありがとう！",
+        "value": "毎度。気に入ってもらえたか？",
         "translation": ""
     },
     {
         "id": "5",
         "id_number": 5,
-        "value": "またよろしくね！",
+        "value": "またよろしくな",
         "translation": ""
     },
     {
@@ -51,6 +51,12 @@
         "id": "9",
         "id_number": 9,
         "value": "アイテムを売る",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "武器はバッグに入れておくぜ。\n後で確認しておいてくれ",
         "translation": ""
     }
 ]

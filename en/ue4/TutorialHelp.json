@@ -1,1022 +1,2822 @@
 [
     {
-        "id": "TITLE_COMMANDMENU_DICTIONARY",
-        "id_number": -1,
-        "value": "旅の手引き",
+        "id": "TITLE_PublicDungeon",
+        "id_number": 0,
+        "value": "自由探索",
         "translation": ""
     },
     {
-        "id": "TITLE_CTY01_TOP_Warp_Child01",
-        "id_number": -1,
-        "value": "短距離空間転送ポータル",
+        "id": "DESC_PublicDungeon_01",
+        "id_number": 0,
+        "value": "『巨竜の爪痕』の自由探索が開放されました。\n特定のダンジョンはクリア後、またはその他の条件で\n自由探索ができるようになります。\nもう一度フィールドから「巨竜の爪痕」に入ってみましょう！",
         "translation": ""
     },
     {
-        "id": "TITLE_CTY01_TOP_Warp_Parent01",
-        "id_number": -1,
-        "value": "長距離空間転送ポータル",
+        "id": "DESC_PublicDungeon_02",
+        "id_number": 0,
+        "value": "自由探索では、滞在時間の制限なくダンジョンを探索できます。\n自由探索でしか得られないアイテムが入手できる他、\n最奥で「ある条件」を満たすと強力なエネミーが出現します。\n強力なエネミーを倒すと「イデア」を入手することがあります。",
         "translation": ""
     },
     {
-        "id": "TITLE_CTY01_TOP_SHOP_WEAPON",
-        "id_number": -1,
-        "value": "武器屋",
+        "id": "TITLE_PartyBattle",
+        "id_number": 0,
+        "value": "パーティバトル",
         "translation": ""
     },
     {
-        "id": "TITLE_CTY01_TOP_SHOP_ITEM",
-        "id_number": -1,
-        "value": "道具屋",
+        "id": "DESC_PartyBattle",
+        "id_number": 0,
+        "value": "エネミーはパーティとして行動することがあります。\n盾を持ったエネミーが他のエネミーを守るように戦うなど、\nエネミーも様々なパーティ構成で待ち構えているので、\n盾を持ったエネミーを先に倒すなど、戦略を考えましょう。",
         "translation": ""
     },
     {
-        "id": "TITLE_DEP_AD_POINT",
-        "id_number": -1,
-        "value": "グローリーコイン",
+        "id": "TITLE_MainQuestIcon",
+        "id_number": 0,
+        "value": "クエストアイコン",
         "translation": ""
     },
     {
-        "id": "TITLE_CTY01_TOP_SHOP_CLASSCHANGE",
-        "id_number": -1,
-        "value": "クラスチェンジ",
+        "id": "DESC_MainQuestIcon",
+        "id_number": 0,
+        "value": "メインクエスト「記憶を求めて」をクリアしました。\nこのまますぐにメインクエストを進めたい場合、\nアイコンが発生している箇所に行ってみましょう。",
         "translation": ""
     },
     {
-        "id": "TITLE_CTY01_TOP_SHOP_CRAFT",
-        "id_number": -1,
-        "value": "クラフト",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_COLLECTION_ITEMS",
-        "id_number": -1,
-        "value": "採取",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_EMOTE",
-        "id_number": -1,
-        "value": "ジェスチャー",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_CHATMODE",
-        "id_number": -1,
-        "value": "トーク/スタンプ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_PALETTE_TALK",
-        "id_number": -1,
-        "value": "スタンプ/ジェスチャーのパレット登録",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_PALETTE",
-        "id_number": -1,
-        "value": "アイテムのパレット登録",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_PARTYMATCH",
-        "id_number": -1,
-        "value": "パーティマッチング",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_MiniMap",
-        "id_number": -1,
-        "value": "ミニマップ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_COMMANDMENU_MAP",
-        "id_number": -1,
-        "value": "マップ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_COMMANDMENU_COMMUNICATE",
-        "id_number": -1,
-        "value": "コミュニケート",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_COMMANDMENU_MYCHARA",
-        "id_number": -1,
-        "value": "キャラクター",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_COMMANDMENU_INVENTORY",
-        "id_number": -1,
-        "value": "バッグ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_COMMANDMENU_QUEST",
-        "id_number": -1,
-        "value": "クエスト",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_DEP_RECEP",
-        "id_number": -1,
-        "value": "サブクエストの解放",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_EndContents",
-        "id_number": -1,
-        "value": "さらなるコンテンツ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_COMMANDMENU_CONTENTS",
-        "id_number": -1,
-        "value": "ダンジョン",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_COMMANDMENU_PARTY",
-        "id_number": -1,
-        "value": "パーティ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_dng015_BreakableWall",
-        "id_number": -1,
-        "value": "壊せる壁",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_dng015_Climbing",
-        "id_number": -1,
-        "value": "クライム",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_dng015_BossArea",
-        "id_number": -1,
-        "value": "バトルエリア",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_dng015_BossOmen",
-        "id_number": -1,
-        "value": "ボスの攻撃予兆",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_DEAD",
-        "id_number": -1,
-        "value": "戦闘不能",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_RESURRECTION",
-        "id_number": -1,
-        "value": "救護",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_ActiveImagine",
-        "id_number": -1,
-        "value": "バトルイマジン",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_CLASS",
-        "id_number": -1,
-        "value": "クラスについて",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_ClassGauge",
-        "id_number": -1,
-        "value": "クラス専用ゲージ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Rebellion_SwordCombo",
-        "id_number": -1,
-        "value": "ブレイクスラッシュⅠ・Ⅱ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Rebellion_ShieldGuard",
-        "id_number": -1,
-        "value": "シールドガード",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Rebellion_ShieldCharge",
-        "id_number": -1,
-        "value": "シールドバッシュ ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Rebellion_ShieldAttract",
-        "id_number": -1,
-        "value": "ブロウビート",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Rebellion_DoubleCutter",
-        "id_number": -1,
-        "value": "ディバイドスラッシュ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Rebellion_Protection",
-        "id_number": -1,
-        "value": "フォートレス",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Rebellion_Heal",
-        "id_number": -1,
-        "value": "ヒール",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Rebellion_ShieldPressure",
-        "id_number": -1,
-        "value": "ジャッジメントシールド",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Destroyer_AxeCombo",
-        "id_number": -1,
-        "value": "ビーストスイングⅠ・Ⅱ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Destroyer_SpinAxe",
-        "id_number": -1,
-        "value": "アクストルネード",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Destroyer_BrutalBlow",
-        "id_number": -1,
-        "value": "ブルータルブロウ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Destroyer_HavokStamp",
-        "id_number": -1,
-        "value": "フォールインパクト",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Destroyer_Yonrengiri",
-        "id_number": -1,
-        "value": "ストームラッシュ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Destroyer_PowerUp",
-        "id_number": -1,
-        "value": "ウォークライ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Destroyer_LifeDrain",
-        "id_number": -1,
-        "value": "ライフドレイン",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Destroyer_Guillotine",
-        "id_number": -1,
-        "value": "ヴォルテクスインパクト",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Hunter_ComboShot",
-        "id_number": -1,
-        "value": "アローラッシュ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Hunter_StepShot",
-        "id_number": -1,
-        "value": "スラロームショット",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Hunter_PowerShot",
-        "id_number": -1,
-        "value": "チャージアロー",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Hunter_MultiLockShot",
-        "id_number": -1,
-        "value": "スタンピードアロー",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Hunter_AllowRain",
-        "id_number": -1,
-        "value": "リーサルシャワー",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Hunter_Kiaidame",
-        "id_number": -1,
-        "value": "ハンタースピリット ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Hunter_HealRain",
-        "id_number": -1,
-        "value": "ヒールレイン",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Hunter_GravityAllow",
-        "id_number": -1,
-        "value": "モータルグラビティ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Engrammer_MagicShot",
-        "id_number": -1,
-        "value": "トリニティショット",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Engrammer_MagicCanon",
-        "id_number": -1,
-        "value": "エングラムバースト",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Engrammer_FireBall",
-        "id_number": -1,
-        "value": "ファイアブラスト",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Engrammer_ThunderBeam",
-        "id_number": -1,
-        "value": "ライトニング",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Engrammer_IceStorm",
-        "id_number": -1,
-        "value": "ブリザード",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Engrammer_MagicUp",
-        "id_number": -1,
-        "value": "コンセントレーション",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Engrammer_HealingArea",
-        "id_number": -1,
-        "value": "ヒーリングエリア",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_Engrammer_Meteo",
-        "id_number": -1,
-        "value": "メテオインフェルノ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_BuffDebuff",
-        "id_number": -1,
-        "value": "バフ・デバフアイコン一覧と効果説明",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_TutorialHelp",
-        "id_number": -1,
-        "value": "チュートリアルヘルプ",
-        "translation": ""
-    },
-    {
-        "id": "TITLE_TUTORIAL_ATTACK",
-        "id_number": -1,
+        "id": "TITLE_Attack",
+        "id_number": 0,
         "value": "ターゲット・攻撃",
         "translation": ""
     },
     {
-        "id": "TITLE_TUTORIAL_STAMINA",
-        "id_number": -1,
+        "id": "DESC_Attack_01",
+        "id_number": 0,
+        "value": "<span color=\"Action\">【</><key color=\"Action\" action=\"MainAction\"/><span color=\"Action\">】</>を押すと攻撃できます。\n近くにエネミーがいる状態で<span color=\"Action\">【</><key color=\"Action\" action=\"Lockon\"/><span color=\"Action\">】</>を押すと\n攻撃対象を固定できます。\n回避<span color=\"Action\">【</><key color=\"Action\" action=\"Dodge\"/><span color=\"Action\">】</>を行い攻撃を避けながら戦いましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Stamina",
+        "id_number": 0,
         "value": "スタミナ（ジャンプ、回避）",
         "translation": ""
     },
     {
-        "id": "DESC_COMMANDMENU_DICTIONARY",
-        "id_number": -1,
-        "value": "図鑑では一度見たチュートリアルヘルプを再度確認できます。\nクラススキルやバフ・デバフの効果なども確認できます。",
+        "id": "DESC_Stamina",
+        "id_number": 0,
+        "value": "ジャンプ<span color=\"Action\">【</><key color=\"Action\" action=\"Jump\"/><span color=\"Action\">】</>や回避<span color=\"Action\">【</><key color=\"Action\" action=\"Dodge\"/><span color=\"Action\">】</>を行うと\nスタミナが消費されます。\nスタミナが0になると、一定時間、\nジャンプや回避行動が行えなくなります。",
         "translation": ""
     },
     {
-        "id": "DESC_CTY01_TOP_Warp_Child01",
-        "id_number": -1,
-        "value": "街の各所に点在する転送ポータルです。\nその街の中に限り、各転送ポータル間を\n空間転送で自由に移動することができます。\n使用するにはポータルを登録する必要があります。\n見つけたら<key action=\"Interaction\" operateMode=\"MouseAndKeyboard\"/>(キーボード)か\n<key action=\"Interaction\" operateMode=\"Gamepad\"/>(ゲームパッド)でポータルを登録しておきましょう。",
+        "id": "TITLE_RouteGuide",
+        "id_number": 0,
+        "value": "ルートガイド",
         "translation": ""
     },
     {
-        "id": "DESC_CTY01_TOP_Warp_Parent01",
-        "id_number": -1,
-        "value": "転送ポータルには、上部に大きな柱のあるものがあります。\nフィールドから街への空間転送を行うと、ここへ到着します。",
+        "id": "DESC_RouteGuide_01",
+        "id_number": 0,
+        "value": "ルートガイドは「次の目的地」までの道を案内してくれます。\nメインクエスト進行中は、メインクエストのルートガイドが\n優先的に表示されます。",
         "translation": ""
     },
     {
-        "id": "DESC_CTY01_TOP_SHOP_WEAPON:1",
-        "id_number": -1,
-        "value": "各クラスの初期武器を買うことができます。\n装備できる武器はクラスごとに決まっています。",
+        "id": "DESC_RouteGuide_02",
+        "id_number": 0,
+        "value": "他のクエストのルートガイドを表示したい場合は、\nコマンドメニューの「クエスト」を選択し、\nルートガイドを表示したいクエストを選んでください。",
         "translation": ""
     },
     {
-        "id": "DESC_CTY01_TOP_SHOP_ITEM:1",
-        "id_number": -1,
-        "value": "HPを即座に回復できる回復薬を買うことができます。\n不要になったアイテムは売ることもできます。",
+        "id": "TITLE_Dash",
+        "id_number": 0,
+        "value": "ダッシュ",
         "translation": ""
     },
     {
-        "id": "DESC_DEP_AD_POINT",
-        "id_number": -1,
-        "value": "グローリーコイン（GC）はクエスト達成などで獲得できます。\n獲得したGCはGC交換所でアイテムなどと交換できます。",
+        "id": "DESC_Dash",
+        "id_number": 0,
+        "value": "<span color=\"Action\">【</><key color=\"Action\" action=\"dash\"/><span color=\"Action\">】</>を押しながら<span color=\"Action\">【</><key color=\"Action\" action=\"Move\"/><span color=\"Action\">】</>を押すとダッシュします。\n非戦闘状態のときはスタミナを使用しないので活用してください。",
         "translation": ""
     },
     {
-        "id": "DESC_CTY01_TOP_SHOP_CLASSCHANGE",
-        "id_number": -1,
-        "value": "キャラクターのクラスを変更する際には\n変更後のクラスに対応した武器を持っている必要があります。\nツインストライカーなら「斧」、\nブラストアーチャーなら「弓」が必要です。",
+        "id": "TITLE_RightSkill",
+        "id_number": 0,
+        "value": "スキル",
         "translation": ""
     },
     {
-        "id": "DESC_CTY01_TOP_SHOP_CRAFT",
-        "id_number": -1,
-        "value": "クラフトマシンで作りたいアイテムを選び、\n素材アイテムやルーノを消費することでクラフトができます。",
+        "id": "DESC_RightSkill",
+        "id_number": 0,
+        "value": "戦闘中に<span color=\"Action\">【</><key color=\"Action\" action=\"Skill1\"/><span color=\"Action\">】</>を押すとスキルを発動できます。\n発動されるスキルはクラスによって異なります。\n試しに使ってみましょう。",
         "translation": ""
     },
     {
-        "id": "DESC_COLLECTION_ITEMS",
-        "id_number": -1,
-        "value": "フィールドには採取スポットが存在します。\nここを調べることで素材アイテムを入手することができます。\n採取スポットは地面、岩場など様々な場所にあり\nそれぞれ入手できるアイテムも異なります。",
+        "id": "TITLE_COLLECTION_ITEMS",
+        "id_number": 0,
+        "value": "採取",
         "translation": ""
     },
     {
-        "id": "DESC_EMOTE",
-        "id_number": -1,
-        "value": "キャラクターは身振り手振りによって感情を表現できます。",
+        "id": "DESC_COLLECTION_ITEMS_00",
+        "id_number": 0,
+        "value": "フィールドの採取スポットを調べる<span color=\"Action\">【</><key color=\"Action\" action=\"Interaction\"/><span color=\"Action\">】</>ことで\n素材アイテムを入手することができます。\n採取スポットは地面、岩場など様々な場所にあり\nそれぞれ入手できるアイテムも異なります。",
         "translation": ""
     },
     {
-        "id": "DESC_CHATMODE",
-        "id_number": -1,
-        "value": "テキストでのトークだけではなく、\nスタンプによっても感情を表現できます。",
+        "id": "DESC_COLLECTION_ITEMS_01",
+        "id_number": 0,
+        "value": "一度採取した採取スポットはしばらく採取はできませんが、\n再び訪れた時に採取できるようになっていることがあります。\nフィールド上の採取スポットを取りつくしてしまった場合は、\n一度街へ戻ってみましょう。",
         "translation": ""
     },
     {
-        "id": "DESC_PALETTE_TALK",
-        "id_number": -1,
-        "value": "ジェスチャー、スタンプをパレット登録すると\nショートカットキーで使用できます。",
+        "id": "TITLE_Bag",
+        "id_number": 0,
+        "value": "未鑑定品、バッグ",
         "translation": ""
     },
     {
-        "id": "DESC_PALETTE",
-        "id_number": -1,
-        "value": "アイテムをショートカットキーで使用するには\nあらかじめパレット登録しておく必要があります。\nコマンドメニュー＞バッグ＞消費アイテムから\n登録したいアイテムを選びパレット登録をクリックして\n登録したいパレットをクリックするとパレット登録できます。",
+        "id": "DESC_Bag",
+        "id_number": 0,
+        "value": "冒険中に入手したアイテムは「未鑑定」状態でバッグに入ります。\nアステルリーズに帰還するとバッグの中のアイテムは鑑定され、\n倉庫へと送られます。\nバッグがいっぱいになるとそれ以上アイテムを入手できないので、\nこまめに街へ帰りましょう。",
         "translation": ""
     },
     {
-        "id": "DESC_PARTYMATCH_01",
-        "id_number": -1,
-        "value": "・すぐに開始\n現在のパーティメンバーでダンジョン攻略を開始します。\nパーティを組んでいない場合はソロで開始します。",
+        "id": "TITLE_Appraisal",
+        "id_number": 0,
+        "value": "鑑定",
         "translation": ""
     },
     {
-        "id": "DESC_PARTYMATCH_02",
-        "id_number": -1,
-        "value": "・マッチング申請\n同じように申請をしたプレイヤーとマッチングが行われます。\nパーティメンバーが集まり次第、即席でパーティを組み、\nそのパーティでダンジョンを攻略します。",
+        "id": "DESC_Appraisal",
+        "id_number": 0,
+        "value": "冒険中に手に入れた未鑑定アイテムは、\n街へ帰ることでまとめて鑑定され、自動的に<span color=\"#FFFF60\">倉庫へ送られます。</>\n鑑定済みのアイテムは、武器のクラフトなど様々な用途に役立ちます。\n時々、思いもかけない貴重なアイテムが見つかることもあるので、\n鑑定結果にはよく注目してみましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_AegisFighter1",
+        "id_number": 0,
+        "value": "イージスファイター - ガードとカウンター",
+        "translation": ""
+    },
+    {
+        "id": "DESC_AegisFighter1_01",
+        "id_number": 0,
+        "value": "イージスファイターは、戦闘中<span color=\"Action\">【</><key color=\"Action\" action=\"SubAction\"/><span color=\"Action\">】</>を押している間、\n盾を構える「シールドガード」を行います。\nシールドガード中にエネミーの攻撃を受けてもHPは減りませんが、\n代わりに「シールドゲージ」が減少し、ゲージが0になると\nしばらく盾関連のアクションが使用不可になります。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_AegisFighter1_02",
+        "id_number": 0,
+        "value": "シールドガード中に<span color=\"Action\">【</><key color=\"Action\" action=\"MainAction\"/><span color=\"Action\">】</>を入力すると、\n短時間だけ「構え状態」になります。\n構え状態中にエネミーの攻撃を受けると、\n強力なカウンタースラッシュを発動させることができます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_AegisFighter2",
+        "id_number": 0,
+        "value": "イージスファイター - フィニッシュ技変化",
+        "translation": ""
+    },
+    {
+        "id": "DESC_AegisFighter2_00",
+        "id_number": 0,
+        "value": "通常攻撃<span color=\"Action\">【</><key color=\"Action\" action=\"MainAction\"/><span color=\"Action\">】</>の４段階目（フィニッシュ）は、\n<span color=\"Action\">【移動ボタン】</>を追加入力する事で変化させることができます。\n追加のフィニッシュ技は「スキルボード」で習得できます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_AegisFighter2_01",
+        "id_number": 0,
+        "value": "フィニッシュ技の種類\n・ニュートラル　→　威力重視、単体向けのフィニッシュ技\n・左右入れ　　　→　範囲攻撃、集団戦向けのフィニッシュ技",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_TwinStriker1",
+        "id_number": 0,
+        "value": "ツインストライカー - コンボシステム",
+        "translation": ""
+    },
+    {
+        "id": "DESC_TwinStriker1_00",
+        "id_number": 0,
+        "value": "ツインストライカーは、攻撃を当てるごとに\n「コンボゲージ」が増加します。\nこのゲージが高いほど与えるダメージが大きくなりますが、\n攻撃を受けて、のけぞりやダウン状態になってしまうと\nゲージがリセットされるので、攻撃を避けながら戦いましょう。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_TwinStriker1_01",
+        "id_number": 0,
+        "value": "スーパーアーマー状態であれば\n攻撃を受けてもゲージはリセットされません。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_TwinStriker2",
+        "id_number": 0,
+        "value": "ツインストライカー - フィニッシュ技変化",
+        "translation": ""
+    },
+    {
+        "id": "DESC_TwinStriker2_00",
+        "id_number": 0,
+        "value": "通常攻撃<span color=\"Action\">【</><key color=\"Action\" action=\"MainAction\"/><span color=\"Action\">】</>の４段階目（フィニッシュ）は、\n<span color=\"Action\">【移動ボタン】</>を追加入力する事で変化させることができます。\n追加のフィニッシュ技は「スキルボード」で習得できます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_TwinStriker2_01",
+        "id_number": 0,
+        "value": "フィニッシュ技の種類\n・ニュートラル　→　威力重視、単体向けのフィニッシュ技\n・左右入れ　　　→　範囲攻撃、集団戦向けのフィニッシュ技",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_BlastArcher1",
+        "id_number": 0,
+        "value": "ブラストアーチャー - 特性",
+        "translation": ""
+    },
+    {
+        "id": "DESC_BlastArcher1",
+        "id_number": 0,
+        "value": "ブラストアーチャーの攻撃は、エネミーの特定部位に当てると\n大ダメージを与えることができます。\n状況に応じてロックオン<span color=\"Action\">【</><key color=\"Action\" action=\"Lockon\"/><span color=\"Action\">】</>の\n有り無しを使い分けましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_BlastArcher2",
+        "id_number": 0,
+        "value": "ブラストアーチャー - フィニッシュ技変化",
+        "translation": ""
+    },
+    {
+        "id": "DESC_BlastArcher2_00",
+        "id_number": 0,
+        "value": "ブラストアーチャーの通常攻撃は、任意のタイミングで\n<span color=\"Action\">【</><key color=\"Action\" action=\"MainAction\"/><span color=\"Action\">】</>をホールドすることで\nフィニッシュ技を変化させることができます。\n追加のフィニッシュ技は「スキルボード」で習得できます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_BlastArcher2_01",
+        "id_number": 0,
+        "value": "フィニッシュ技の種類\n・短押し→威力重視　単体向けのフィニッシュ技\n・2段目（2連射中）ホールド\n　→範囲攻撃、集団戦向けのフィニッシュ技",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_SpellCaster1",
+        "id_number": 0,
+        "value": "スペルキャスター - EPシステム",
+        "translation": ""
+    },
+    {
+        "id": "DESC_SpellCaster1",
+        "id_number": 0,
+        "value": "スペルキャスターはEPを消費し、強力な魔法を使用します。\nEPが尽きるまでは強力なスキルを連発することができるため、\nここぞというときは一気に攻め立てましょう。\nEPは<span color=\"Action\">【</><key color=\"Action\" action=\"SubAction\"/><span color=\"Action\">】</>や一部のクラススキルを使うか、\n非戦闘状態で一定時間を経過すると回復します。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_SpellCaster2",
+        "id_number": 0,
+        "value": "スペルキャスター - フィニッシュ技変化",
+        "translation": ""
+    },
+    {
+        "id": "DESC_SpellCaster2_00",
+        "id_number": 0,
+        "value": "通常攻撃<span color=\"Action\">【</><key color=\"Action\" action=\"MainAction\"/><span color=\"Action\">】</>の３段階目（フィニッシュ）は、\n<span color=\"Action\">【移動ボタン】</>を追加入力する事で変化させることができます。\n追加のフィニッシュ技は「スキルボード」で習得できます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_SpellCaster2_01",
+        "id_number": 0,
+        "value": "フィニッシュ技の種類\n・ニュートラル　→　威力重視、単体向けのフィニッシュ技\n・左右入れ　　　→　範囲攻撃、集団戦向けのフィニッシュ技",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_SkillPoint",
+        "id_number": 0,
+        "value": "クラススキル",
+        "translation": ""
+    },
+    {
+        "id": "DESC_SkillPoint_00",
+        "id_number": 0,
+        "value": "コマンドメニューの「キャラクター」から「スキル」\n「スキルボード」を選択し、レベルアップ時に手に入る\n「スキルポイント」を使って、スキルを習得することができます。\n※全てのクラスで使える「ボーナススキルポイント」も\n入手する時があります。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_SkillPoint_01",
+        "id_number": 0,
+        "value": "どんなスキルがあるかは「スキルボード」や「旅の手引き」で\n確認することができます。\nまた、スキルボードではアビリティも習得が可能です。\nアビリティとクラススキルを組み合わせることで、\nより自分好みのクラスにカスタマイズができます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_SkillPoint_02",
+        "id_number": 0,
+        "value": "クラススキルとアビリティは「スキル」でセットできるので、\n新しいスキルを習得した後やスキルを切り替えたい時に\n使用しましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_TacticalSkill",
+        "id_number": 0,
+        "value": "【CBT不使用】タクティカルスキル",
+        "translation": ""
+    },
+    {
+        "id": "DESC_TacticalSkill",
+        "id_number": 0,
+        "value": "仮",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_WarpDevice",
+        "id_number": 0,
+        "value": "転送ポータル",
+        "translation": ""
+    },
+    {
+        "id": "DESC_WarpDevice",
+        "id_number": 0,
+        "value": "街の各所やフィールドにある「転送ポータル」を使用すると、\n各転送ポータル間を空間転送で瞬時に移動することができます。\n使用するにはポータルを登録する必要があるので、\n新しいポータルを見つけたら<span color=\"Action\">【</><key color=\"Action\" action=\"Interaction\"/><span color=\"Action\">】</>で\nポータルを登録しておきましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Warp",
+        "id_number": 0,
+        "value": "空間転送",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Warp",
+        "id_number": 0,
+        "value": "街の転送ポータルを解放している場合、\nコマンドメニュー<span color=\"Action\">【</><key color=\"Action\" action=\"CommandMenu\"/><span color=\"Action\">】</>のマップから\n街のポータルへ空間転送することができます。\nフィールドから街へ帰りたい時にご利用ください。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_WarpActivate",
+        "id_number": 0,
+        "value": "転送ポータルの登録",
+        "translation": ""
+    },
+    {
+        "id": "DESC_WarpActivate",
+        "id_number": 0,
+        "value": "配達の受け取り人は転送ポータルの近くで待っているので、\nまだ登録していないポータルがあればついでに登録していきましょう。\n街の中の移動はもちろん、街の外から帰還する時も\n各ポータルへ直接帰還することができるので、より冒険が楽になります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Warehouse",
+        "id_number": 0,
+        "value": "倉庫",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Warehouse",
+        "id_number": 0,
+        "value": "倉庫はアイテムや武器などを保管できる場所です。\nまた、不用品の売却も行えます。\n倉庫は街中にもあるので探してみてください。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Arena",
+        "id_number": 0,
+        "value": "闘技場",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Arena_01",
+        "id_number": 0,
+        "value": "闘技場では指定のエネミーに勝利することで、\nバトルイマジンなどの報酬を入手できます。\n４つの難易度が用意されており、\n難易度が高くなるほど報酬も良くなっていきます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Arena_02",
+        "id_number": 0,
+        "value": "クリアできない難易度がある場合、\nコマンドメニューの「ミッション」から他のミッションをこなし、\n新しい武器をクラフトしましょう。\n強力な武器を装備することで攻略しやすくなります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_TimeAttack",
+        "id_number": 0,
+        "value": "タイムアタック",
+        "translation": ""
+    },
+    {
+        "id": "DESC_TimeAttack_00",
+        "id_number": 0,
+        "value": "タイムアタックではクリアまでのタイムを他プレイヤーと競えます。\nまた、指定のタイムを切るごとに\n武器素材や衣装などの報酬がもらえます。\n武器やインナーイマジンを整えて何度も挑戦してみましょう。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_TimeAttack_01",
+        "id_number": 0,
+        "value": "タイムアタックの全体ランキングは、\n『BLUE PROTOCOL』の公式サイトで確認できます。\nぜひ他プレイヤーと腕を競ってください。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_ImagineInstitute",
+        "id_number": 0,
+        "value": "イマジン研究所",
+        "translation": ""
+    },
+    {
+        "id": "DESC_ImagineInstitute",
+        "id_number": 0,
+        "value": "イマジン研究所では素材とルーノを消費することで、\nインナーイマジンなどをクラフトすることができます。\nインナーイマジンは装備してパラメータを上げる他、\n冒険ランクを上げるのに使用します。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_NamedEnemy",
+        "id_number": 0,
+        "value": "ネームドエネミー",
+        "translation": ""
+    },
+    {
+        "id": "DESC_NamedEnemy_01",
+        "id_number": 0,
+        "value": "フィールド上で特定の条件を満たすと、\n「チャレンジクエスト」が発生し、ネームドエネミーが出現します。\n特定のエネミーを狩り続けたり、夜しか出現しなかったりと\n発生には様々な条件があります。是非とも探してみましょう。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_NamedEnemy_02",
+        "id_number": 0,
+        "value": "ネームドエネミーを倒すと、\n「イデア」をドロップすることがあります。\nイデアをイマジン研究所にもっていけば、\n「バトルイマジン」をクラフトすることができます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_BattleImagineCraft",
+        "id_number": 0,
+        "value": "バトルイマジンのクラフト",
+        "translation": ""
+    },
+    {
+        "id": "DESC_BattleImagineCraft",
+        "id_number": 0,
+        "value": "「バトルイマジン」をクラフトするためには、\nイマジンごとに決まった素材が必要です。\nまずはそのイマジンの「イデア」が必要ですが、\n他にも採取や討伐で手に入る素材が必要になる場合があります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_BattleImagineCraftGuide",
+        "id_number": 0,
+        "value": "クラフトで付与されるアビリティ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_BattleImagineCraftGuide",
+        "id_number": 0,
+        "value": "イマジンをクラフトすると、\nアビリティが付与されることがあります。\n付与される可能性のあるアビリティの効果量とその確率は\n各イマジンのアビリティごとに固定です。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_AttachmentStrengthen",
+        "id_number": 0,
+        "value": "イマジンの精練",
+        "translation": ""
+    },
+    {
+        "id": "DESC_AttachmentStrengthen_01",
+        "id_number": 0,
+        "value": "バトルイマジン、インナーイマジンはイマジン研究所で\n精練して、パラメータを上げることができます。\nただし、現在のクラスレベルより高レベルのイマジンは\n装備できないので、レべルの上げ過ぎに注意しましょう。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_AttachmentStrengthen_02",
+        "id_number": 0,
+        "value": "精練では、ほぼ全てのアイテムを素材にできます。\nアイテムレベルの上限まで精練した武器、バトルイマジン、\nインナーイマジンを素材にすると経験値にボーナスがつくので\n有効に活用しましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_BossArea",
+        "id_number": 0,
+        "value": "バトルロックウォール",
+        "translation": ""
+    },
+    {
+        "id": "DESC_BossArea_01",
+        "id_number": 0,
+        "value": "ダンジョンでプレイヤーを足止めするバトルロックウォールは、\n特定のエネミーを討伐するなどの条件を達成することで\n解除し、先へ進むことができます。\n先に進めない時は、周囲のエネミーを討伐してみましょう。",
+        "translation": ""
+    },
+    {
+        "id": "Title_ElementalAttributes",
+        "id_number": 0,
+        "value": "属性",
+        "translation": ""
+    },
+    {
+        "id": "DESC_ElementalAttributes_00",
+        "id_number": 0,
+        "value": "プレイヤーの攻撃には属性がついているものがあります。\n属性は火、氷、雷、土、光、闇の6種類があり、\n属性のついた攻撃を重ねることで\nエネミーに状態異常を起こさせることができます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_ElementalAttributes_01",
+        "id_number": 0,
+        "value": "エネミーに属性攻撃を与えるたびに属性値が蓄積していき、\n蓄積量が一定量を超えると最も多い属性の状態異常を起こします。\n（異なる属性の攻撃を当てても、属性値は蓄積します）\n状態異常はLv1から3まであり、\nレベルが高いほど効果も高まります。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_ElementalAttributes_02",
+        "id_number": 0,
+        "value": "<span color=\"Emphasis\">火属性の状態異常</>\nLv1，2では炎に包まれ、徐々にHPが減少します。\nLv3になると爆発が起き、対象と周囲をダウン状態にし、\nダメージを与えます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_ElementalAttributes_03",
+        "id_number": 0,
+        "value": "<span color=\"Emphasis\">氷属性の状態異常</>\nLv1，2は対象が氷に覆われ、移動速度が低下します。\nLv3になると全身が氷に覆われ、動けなくなります。\nまた、氷塊が崩壊する際に爆発し、\n本人と周囲にダメージを与えます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_ElementalAttributes_04",
+        "id_number": 0,
+        "value": "<span color=\"Emphasis\">雷属性の状態異常</>\nLv1，2では体に電流が走り、徐々にHPが減少します。\nまた、スキルのインターバルが長くなります。\nLv3になると爆発が起き、対象と周囲にダメージを与えます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_ElementalAttributes_05",
+        "id_number": 0,
+        "value": "<span color=\"Emphasis\">土属性の状態異常</>\nLv1，2では体に土塊がまとわりつき、移動速度が低下します。\nLv3になると全身が土塊に覆われ、動けなくなります。\n解放時に爆発が起き、本人と周囲にダメージを与えます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_ElementalAttributes_06",
+        "id_number": 0,
+        "value": "<span color=\"Emphasis\">光属性の状態異常</>\nLv1，2では光に覆われ、一定時間毎にダメージを受け、\nのけぞり状態になります。\nLv3になると爆発が起こり、対象の周囲も巻き込んで\nダメージを与えます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_ElementalAttributes_07",
+        "id_number": 0,
+        "value": "<span color=\"Emphasis\">闇属性の状態異常</>\nLv１，２では暗闇がまとわりつき、移動速度が低下します。\nLv3になると全身が暗闇に覆われ、動けなくなります。\n解放時には爆発が起き、本人と周囲にダメージを与えます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_BossOmen",
+        "id_number": 0,
+        "value": "ボスの攻撃予兆",
+        "translation": ""
+    },
+    {
+        "id": "DESC_BossOmen",
+        "id_number": 0,
+        "value": "一部のエネミーの攻撃には予兆があります。\n攻撃が予測される範囲が現れたらそこに攻撃がくるため、\n基本的に回避に専念しましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_DungeonRelease",
+        "id_number": 0,
+        "value": "ダンジョンの追加調査",
+        "translation": ""
+    },
+    {
+        "id": "DESC_DungeonRelease",
+        "id_number": 0,
+        "value": "ダンジョンをクリアすると、コマンドメニューの「ミッション」に\nダンジョンの『追加調査』ミッションが増えます。\n新しいミッションでは新しい武器の素材が手に入るため、\nプレイに行き詰ったら追加調査をこなして武器を作りましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_ContentFinder",
+        "id_number": 0,
+        "value": "【CBT不使用】ダンジョンコンテンツ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_ContentFinder",
+        "id_number": 0,
+        "value": "仮",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Climbing",
+        "id_number": 0,
+        "value": "クライム",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Climbing",
+        "id_number": 0,
+        "value": "一部の壁はクライムで上ることができます。\nクライムできる壁に近づき、\n<span color=\"Action\">【</><key color=\"Action\" action=\"Interaction\"/><span color=\"Action\">】</>を入力すると壁につかまります。\nさらに<span color=\"Action\">【</><key color=\"Action\" action=\"MoveFront\"/><span color=\"Action\">】</>を入力するとクライムします。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Supplies",
+        "id_number": 0,
+        "value": "支給品",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Supplies",
+        "id_number": 0,
+        "value": "ミッション中はフィールド専用・回復薬などが使えませんが、\n開拓局から支給される回復薬などが使用できます。\n支給品は、道中の宝箱やエネミーから\n補充できることもあります。\nダンジョン終了時、残った支給品は回収されます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_MagicGun",
+        "id_number": 0,
+        "value": "エングラムキャノン",
+        "translation": ""
+    },
+    {
+        "id": "DESC_MagicGun",
+        "id_number": 0,
+        "value": "エングラムキャノンは、近づくと構え状態になり、\n<span color=\"Action\">【</><key color=\"Action\" action=\"CameraControl\" operateMode=\"MouseAndKeyboard\"/><span color=\"Action\">】</>(キーボード)か\n<span color=\"Action\">【左スティック】</>(ゲームパッド)で撃つ方向を調整、\n<span color=\"Action\">【</><key color=\"Action\" action=\"Interaction\"/><span color=\"Action\">】</>で撃つことができます。\n一度撃つとしばらく使えないので狙いを定めて撃ちましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_SubQuest",
+        "id_number": 0,
+        "value": "サブクエスト",
+        "translation": ""
+    },
+    {
+        "id": "DESC_SubQuest",
+        "id_number": 0,
+        "value": "クエスト受付嬢や街の人からもクエストを受注できます。\nサブクエストのルートガイドを表示したい場合は、\nコマンドメニューの「クエスト」から、ルートガイドを表示する\nクエストの「HUDに表示」ボックスと「詳細」の\n「ルートガイド表示」ボックスにチェックを入れてください。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_QuestItem",
+        "id_number": 0,
+        "value": "クエスト専用アイテム",
+        "translation": ""
+    },
+    {
+        "id": "DESC_QuestItem",
+        "id_number": 0,
+        "value": "クエスト専用アイテムは、特定のクエスト受注中だけ手に入る\n特別なアイテムです。フィールド上でも鑑定済みで入手でき、\nバッグの中には入りません。\nクエストのジャーナルやステップ進行表示でのみ\n収集状況を確認できます。売却や破棄もできません。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_ClassQuestOpen",
+        "id_number": 0,
+        "value": "クラスクエストの発生",
+        "translation": ""
+    },
+    {
+        "id": "DESC_ClassQuestOpen",
+        "id_number": 0,
+        "value": "「クラスクエスト」が受注可能になりました。\nクラスごとに異なるクラスパートナーから\nクラスの立ち回りを教えてもらえます。\nマッチングプレイをする前に指南を受けておきましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_EndContents",
+        "id_number": 0,
+        "value": "エンドコンテンツ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_EndContents_01",
+        "id_number": 0,
+        "value": "今回のメインクエストはここまでとなります。\n以降は各地に存在する様々なコンテンツを探し、\nプレイしてお楽しみください。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_EndContents_02",
+        "id_number": 0,
+        "value": "なお、何をすればいいのか分からなくなった時は、\n開拓局の受付嬢に話しかけてみてください。\n推奨レベルのサブクエストが、\nあなたを新しいコンテンツへ導いてくれます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_GestureMethod",
+        "id_number": 0,
+        "value": "ジェスチャーのやり方",
+        "translation": ""
+    },
+    {
+        "id": "DESC_GestureMethod",
+        "id_number": 0,
+        "value": "トークモード<span color=\"Action\">【</><key color=\"Action\" action=\"ChatMode\"/><span color=\"Action\">】</>からやりたいジェスチャーを選ぶか、\nショートカットに登録したジェスチャーを呼び出すことで\nジェスチャーをとることができます。\nジェスチャーで他の冒険者とコミュニケーションしてみましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Attachment",
+        "id_number": 0,
+        "value": "インナーイマジンの装備",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Attachment",
+        "id_number": 0,
+        "value": "インナーイマジンは、装備することで能力値が上昇します。\nまた、特殊な効果が得られるイマジンもあります。\nコマンドメニューの「キャラクター」から「装備変更」を開いて\n「インナーイマジン」を装備してみましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_BattleImajinn",
+        "id_number": 0,
+        "value": "バトルイマジン",
+        "translation": ""
+    },
+    {
+        "id": "DESC_BattleImajinn",
+        "id_number": 0,
+        "value": "装備してバトルで使用するイマジンです。\n効果は攻撃や回復など多様で、イマジンの種類によって異なります。\nコマンドメニューの「キャラクター」から「装備変更」を開いて\n「バトルイマジン」を装備しましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_SoulRank",
+        "id_number": 0,
+        "value": "冒険ランク",
+        "translation": ""
+    },
+    {
+        "id": "DESC_SoulRank",
+        "id_number": 0,
+        "value": "「冒険ランク」は開拓局の冒険者としての力量を示すものです。\nジェイクからの依頼を受けるには\nまだ冒険ランクが足りません。\n冒険ランクを上げるために、\nまずは「インナーイマジン」を手に入れましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_SoulRank2",
+        "id_number": 0,
+        "value": "冒険ランクの上昇",
+        "translation": ""
+    },
+    {
+        "id": "DESC_SoulRank2_01",
+        "id_number": 0,
+        "value": "条件に合ったインナーイマジンを入手すると、\nコマンドメニューの「ステータス」から\n「冒険ランク」を上げることができます。\n冒険ランクが上がると、受注不可だったメインクエストが\n受注できるようになります。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_SoulRank2_02",
+        "id_number": 0,
+        "value": "また、クラスレベルの上限アップや\n新しい武器レシピの解放などの恩恵もあります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_SoulRank3",
+        "id_number": 0,
+        "value": "冒険ランクを上げましょう！",
+        "translation": ""
+    },
+    {
+        "id": "DESC_SoulRank3",
+        "id_number": 0,
+        "value": "ジェイクからの依頼を受けるには「冒険ランク」が足りません。\nコマンドメニュー<span color=\"Action\">【</><key color=\"Action\" action=\"CommandMenu\"/><span color=\"Action\">】</>の「キャラクター」から\n「ステータス」を開いて「冒険ランク」を上げてください。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_SoulRank4",
+        "id_number": 0,
+        "value": "冒険ランクの上げ方（おさらい）",
+        "translation": ""
+    },
+    {
+        "id": "DESC_SoulRank4",
+        "id_number": 0,
+        "value": "「冒険ランク」を上げるにはインナーイマジンが必要です。\n必要なインナーイマジンの情報はコマンドメニューの\n「冒険ランク」画面で確認できます。\nイマジン研究所でクラフトしたら、「精練」して\nアイテムレベルを上げ、規定の条件を満たしましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Craft",
+        "id_number": 0,
+        "value": "転球練成儀",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Craft",
+        "id_number": 0,
+        "value": "転球練成儀では素材とルーノを消費することで、\n武器、アイテムのクラフトと武器の精練が行えます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_WeaponCraft1",
+        "id_number": 0,
+        "value": "武器クラフト - 付加要素",
+        "translation": ""
+    },
+    {
+        "id": "DESC_WeaponCraft1_01",
+        "id_number": 0,
+        "value": "クラフトでは「特効」が付与されることがあります。\n例えば「ゴブリン」の特効がついた場合、\nゴブリンに与えるダメージが高くなります。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_WeaponCraft1_02",
+        "id_number": 0,
+        "value": "また、クラフトした武器には「特効」の他に、\nアビリティをつけられる「スロット」がつくことがあります。\nスロットは最大４つ付与され、スロットの数だけ\nアビリティが「融着」できるようになります。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_WeaponCraft1_03",
+        "id_number": 0,
+        "value": "同じ武器でも特効やアビリティによって使用感が変わります。\n是非とも何度もクラフトに挑戦して、\n「あなただけの最強武器」を作りましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_WeaponCraft2",
+        "id_number": 0,
+        "value": "武器クラフト - 大成功",
+        "translation": ""
+    },
+    {
+        "id": "DESC_WeaponCraft2_01",
+        "id_number": 0,
+        "value": "クラフトでは稀に「大成功」することがあります。\n大成功だと「特効」の効果値が増えたり、\n「アビリティスロット」の数が増えたりします。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_WeaponCraft2_02",
+        "id_number": 0,
+        "value": "また、クラフト時の武器レベルには\n多少の揺らぎがあります。\nレベルの高い武器がクラフトできるとラッキーです。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_WeaponCraft3",
+        "id_number": 0,
+        "value": "武器クラフト - レシピ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_WeaponCraft3_01",
+        "id_number": 0,
+        "value": "クラフトレシピは「冒険ランク」が上がると増えます。\n冒険ランクを上げたら、転球練成儀やイマジン研究所で\nレシピを確認してみましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_HintArea",
+        "id_number": 0,
+        "value": "探索範囲の表示",
+        "translation": ""
+    },
+    {
+        "id": "DESC_HintArea",
+        "id_number": 0,
+        "value": "探し物などの一部のクエストでは、\nミニマップに円形の探索範囲が表示されることがあります。\n探索範囲の中を探してみましょう。\nまた、探索範囲は一度に複数個表示されることがあります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_TutorialHelp",
+        "id_number": 0,
+        "value": "チュートリアルヘルプ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_TutorialHelp",
+        "id_number": 0,
+        "value": "一度見たチュートリアルヘルプは\nコマンドメニュー<span color=\"Action\">【</><key color=\"Action\" action=\"CommandMenu\"/><span color=\"Action\">】</>の「冒険手帳」\n「旅の手引き」で何度でも読み返せます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_MiniMap",
+        "id_number": 0,
+        "value": "ミニマップ",
         "translation": ""
     },
     {
         "id": "DESC_MiniMap_01",
-        "id_number": -1,
+        "id_number": 0,
         "value": "メイン画面の左上にはミニマップが表示されています。\n中央の矢印がキャラクターと、向いている方向を表します。\nクエストを受けた場合は目的地がアイコンで表示されます。\nミニマップに記された目的地に向かって移動しましょう。",
         "translation": ""
     },
     {
         "id": "DESC_MiniMap_02",
-        "id_number": -1,
-        "value": "<key action=\"CommandMenu\" operateMode=\"MouseAndKeyboard\"/>(キーボード)か<key action=\"CommandMenu\" operateMode=\"Gamepad\"/>(ゲームパッド)で\nマップを開くと現在いるゾーンを確認できます。\nマップからは長距離空間転送ポータルへ移動することができます。",
+        "id_number": 0,
+        "value": "コマンドメニュー<span color=\"Action\">【</><key color=\"Action\" action=\"CommandMenu\"/><span color=\"Action\">】</>から「マップ」を見ると\n現在いるゾーンを確認できます。\nマップからは各地域の転送ポータルへ移動することができます。",
         "translation": ""
     },
     {
-        "id": "DESC_COMMANDMENU_MAP",
-        "id_number": -1,
-        "value": "・ローカルマップ\n周辺の地理を確認できます。\n気になる場所にはピンを設定し、記録することができます。\nまた、長距離空間転送ポータルへ移動することができます。",
+        "id": "TITLE_PALETTE_TALK",
+        "id_number": 0,
+        "value": "スタンプ/ジェスチャーのパレット登録",
         "translation": ""
     },
     {
-        "id": "DESC_COMMANDMENU_COMMUNICATE:1",
-        "id_number": -1,
-        "value": "・フォローリスト\nフォローしたキャラクターの情報を確認できます。\n\n・キャラクターサーチ\n名前やIDからキャラクターを検索できます。",
+        "id": "DESC_PALETTE_TALK",
+        "id_number": 0,
+        "value": "ジェスチャー、スタンプをパレット登録すると\nショートカットキーで使用できます。",
         "translation": ""
     },
     {
-        "id": "DESC_COMMANDMENU_COMMUNICATE:2",
-        "id_number": -1,
-        "value": "・プロフィール設定\nキャラクターのIDやアクティビティを確認したり、\nコメントやムードアイコンを設定することができます。",
+        "id": "TITLE_PictureBook",
+        "id_number": 0,
+        "value": "【CBT不使用】冒険手帳",
         "translation": ""
     },
     {
-        "id": "DESC_COMMANDMENU_MYCHARA:1",
-        "id_number": -1,
-        "value": "・ステータス\nキャラクターのステータスを確認できます。\n装備変更やスキル設定、イマジン設定もここで行えます。",
+        "id": "DESC_PictureBook",
+        "id_number": 0,
+        "value": "仮",
         "translation": ""
     },
     {
-        "id": "DESC_COMMANDMENU_MYCHARA:2",
-        "id_number": -1,
-        "value": "・衣装変更\nキャラクターの衣装を変更することができます。\n\n・オートスタンプ\n定められた状況になった際に\n自動的に発信するスタンプを設定することができます。",
+        "id": "TITLE_CTY01_TOP_SHOP_CLASSCHANGE",
+        "id_number": 0,
+        "value": "クラスチェンジ",
         "translation": ""
     },
     {
-        "id": "DESC_COMMANDMENU_INVENTORY:1",
-        "id_number": -1,
-        "value": "・消費アイテム\n消費アイテムや素材が確認できます。\n\n・武器\n持っている武器が確認できます。",
+        "id": "DESC_CTY01_TOP_SHOP_CLASSCHANGE",
+        "id_number": 0,
+        "value": "キャラクターのクラスを変更する際には\n変更後のクラスに対応した武器を持っている必要があります。\nツインストライカーなら「斧」、\nブラストアーチャーなら「弓」が必要です。\n各クラスの初期装備武器は、武器屋で購入できます。",
         "translation": ""
     },
     {
-        "id": "DESC_COMMANDMENU_INVENTORY:2",
-        "id_number": -1,
-        "value": "・衣装\n持っている衣装が確認できます。\n\n・イマジンシード\n持っているイマジンシードが確認できます。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_COMMANDMENU_QUEST:1",
-        "id_number": -1,
-        "value": "・クエスト一覧\n受注しているクエストの確認や破棄が行えます。\nこれまでに達成したクエストも確認することができます。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_DEP_RECEP",
-        "id_number": -1,
-        "value": "開拓局に冒険者として登録されました。\nクエスト受付嬢からサブクエストを受けられるようになりました。\nサブクエストには様々な報酬が用意されています。\n目的に合ったサブクエストを受注してみましょう。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_EndContents",
-        "id_number": -1,
-        "value": "クラフトやクラスチェンジの解放以外にも\n高難易度のダンジョンの追加や\n非常に手ごわいエネミーの討伐などがあります。\nクエストをどんどん受注して\n新しいフィールドやダンジョンへ行ってみましょう。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_COMMANDMENU_CONTENTS:1",
-        "id_number": -1,
-        "value": "ダンジョンでは突入可能なダンジョンが表示されます。\n一度発見したダンジョンは\nショートカットして直接攻略に向かうことができます。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_COMMANDMENU_CONTENTS:2",
-        "id_number": -1,
-        "value": "・すぐに開始\n現在のパーティメンバーでダンジョン攻略を開始します。\nパーティを組んでいない場合はソロで開始します。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_COMMANDMENU_CONTENTS:3",
-        "id_number": -1,
-        "value": "・マッチング申請\n同じように申請をしたプレイヤーとマッチングが行われます。\nパーティメンバーが集まり次第、即席でパーティを組み、\nそのパーティでダンジョンを攻略します。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_COMMANDMENU_CONTENTS:4",
-        "id_number": -1,
-        "value": "ダンジョン攻略中はダンジョンの情報や\nパーティメンバーを確認できます。\n「リタイア」を押すとリタイアすることができます。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_COMMANDMENU_PARTY:1",
-        "id_number": -1,
-        "value": "パーティでは現在組んでいるパーティの情報を確認できます。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_COMMANDMENU_PARTY:2",
-        "id_number": -1,
-        "value": "他のプレイヤーをパーティに招待するには以下の方法があります。\n・コマンドメニュー＞コミュニケート＞キャラクターサーチの\n　サーチ結果から「パーティに招待」\n・コミュニケーションメニューから「パーティに招待」\nダンジョン内では新たにプレイヤーをパーティに招待できません。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_COMMANDMENU_PARTY:3",
-        "id_number": -1,
-        "value": "他のキャラクターに対して\n<key action=\"Interaction\" operateMode=\"MouseAndKeyboard\"/>(キーボード)か<key action=\"Interaction\" operateMode=\"Gamepad\"/>(ゲームパッド)を長押しで\nコミュニケーションメニューを開くことができます。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_COMMANDMENU_PARTY:4",
-        "id_number": -1,
-        "value": "パーティのリーダーは以下の機能を使用できます。\n\n・キック\nパーティメンバーをパーティから抜けさせます。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_COMMANDMENU_PARTY:5",
-        "id_number": -1,
-        "value": "・リーダー移譲\nパーティリーダーの権利を他のパーティメンバーに移します。\n\n・パーティ解散\nパーティを解散します。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_COMMANDMENU_PARTY:6",
-        "id_number": -1,
-        "value": "・パーティ移動\nリーダーがパーティメンバーを自分と同じゾーンへ呼び寄せます。\n同じゾーンにいるはずなのに会えない場合は\nパーティメンバーが他のチャンネルにいる可能性があります。\nその際はパーティ移動の機能を使用してみてください。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_dng015_BreakableWall",
-        "id_number": -1,
-        "value": "表示のような壁は攻撃して破壊できます。\n行き止まりと思った場合は周囲をよく確認してみましょう。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_dng015_Climbing",
-        "id_number": -1,
-        "value": "一部の壁はクライムが可能です。\nクライムできる壁に近づき、\n<key action=\"Interaction\" operateMode=\"MouseAndKeyboard\"/>(キーボード)か<key action=\"Interaction\" operateMode=\"Gamepad\"/>(ゲームパッド)を入力すると壁につかまります。\nさらに方向キーを入力すると、その状態のまま移動できます。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_dng015_BossArea_01",
-        "id_number": -1,
-        "value": "表示のように囲まれたバトルエリアには強敵が出現します。\n特定のエネミーを討伐するなどの条件を達成して\n先へ進みましょう。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_dng015_BossArea_02",
-        "id_number": -1,
-        "value": "またバトルエリアは一度進入すると自由に外に出られなくなりますので、\n進入する際には残りのHPなどに注意し、準備を整えてからにしましょう。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_dng015_BossOmen",
-        "id_number": -1,
-        "value": "一部のエネミーの攻撃には予兆があります。\n攻撃が予測される範囲にエネミーの攻撃が命中します。\n攻撃が予測される範囲が現れたら基本的に回避に専念しましょう。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_RESURRECTION:1",
-        "id_number": -1,
-        "value": "キャラクターのHPが0になると戦闘不能になります。\n他のプレイヤーから救護されることで復帰することができます。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_RESURRECTION:2",
-        "id_number": -1,
-        "value": "<key action=\"Interaction\" operateMode=\"MouseAndKeyboard\"/>(キーボード)か<key action=\"Interaction\" operateMode=\"Gamepad\"/>(ゲームパッド)を長押しして\n復活地点へ戻ることもできますが\nダンジョン内の場合、制限時間が減少します。",
+        "id": "TITLE_DEAD",
+        "id_number": 0,
+        "value": "戦闘不能",
         "translation": ""
     },
     {
         "id": "DESC_DEAD",
-        "id_number": -1,
-        "value": "キャラクターが戦闘不能になると\nその場から移動できなくなります。\n戦闘不能になったら<key action=\"Interaction\" operateMode=\"MouseAndKeyboard\"/>(キーボード)か\n<key action=\"Interaction\" operateMode=\"Gamepad\"/>(ゲームパッド)を長押しして\n復活地点へ戻りましょう。",
+        "id_number": 0,
+        "value": "キャラクターが戦闘不能になると\nその場から移動できなくなります。\n戦闘不能になったら<span color=\"Action\">【</><key color=\"Action\" action=\"Interaction\"/><span color=\"Action\">】</>を長押しして\n復活地点へ戻りましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Money",
+        "id_number": 0,
+        "value": "ルーノ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Money",
+        "id_number": 0,
+        "value": "この世界の通貨はルーノと呼ばれています。\nルーノを消費することでアイテム購入など\n街のサービスを受けることができます。\nルーノはクエスト報酬やアイテムの売却などで得られます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_MountImagine",
+        "id_number": 0,
+        "value": "マウントイマジン",
+        "translation": ""
+    },
+    {
+        "id": "DESC_MountImagine_01",
+        "id_number": 0,
+        "value": "マウントイマジンはコマンドメニューの\n「キャラクター」「装備変更」「マウントイマジン」で\n装備することができます。\n装備後は<span color=\"Action\">【</><key color=\"Action\" action=\"ImagineMount\"/><span color=\"Action\">】</>で乗り降りが可能となります。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_MountImagine_02",
+        "id_number": 0,
+        "value": "マウント中は、マウントイマジンの「エネルギー」が\n減っていきます。エネルギーはエネミーの攻撃を受けても減ります。\nエネルギーが0になったらマウントできなくなるため、\n一度街に帰りましょう。エネルギーが最大値まで回復します。\n（マウントのエネルギー最大値はクラスレベルに比例します）",
+        "translation": ""
+    },
+    {
+        "id": "DESC_MountImagine_03",
+        "id_number": 0,
+        "value": "マウント中に「スタミナ」を消費することで\nスピードを加速させることができますが、\nスタミナが０になるとそれ以上加速できなくなります。\nマウント中はインタラクト<span color=\"Action\">【</><key color=\"Action\" action=\"Interaction\"/><span color=\"Action\">】</>が出来ないため、\n転送ポータルを使用する際などはマウントから降りてください。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_NewSkill",
+        "id_number": 0,
+        "value": "新しいスキルの習得",
+        "translation": ""
+    },
+    {
+        "id": "DESC_NewSkill",
+        "id_number": 0,
+        "value": "新しいスキルはもうセットしましたか？\nレベルアップ時に付与されるスキルポイントを使って\nスキルボードで新しいスキルを習得しましょう。\n習得したスキルを「スキルセット」で選択するのもお忘れなく。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_LiquidMemory",
+        "id_number": 0,
+        "value": "メモリスタンド",
+        "translation": ""
+    },
+    {
+        "id": "DESC_LiquidMemory_01",
+        "id_number": 0,
+        "value": "メモリスタンドでは、活性化したリキッドメモリを使用した\n飲み物を飲むことで、「リキッドメモリ効果」が得られます。\nリキッドメモリ効果は「採取モーションの短縮」など、\nそれぞれ効果を発揮する行動があり、\nその行動を指定回数行うと効果が消えます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_LiquidMemory_02",
+        "id_number": 0,
+        "value": "リキッドメモリは同一効果のビンを複数本所持し、\n一度に飲むことで使用回数や効果量をアップさせられます。\nさらに複数のリキッドメモリ効果を同時に得ることもできます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_LiquidMemory_03",
+        "id_number": 0,
+        "value": "リキッドメモリは、ビンごとに決められた特定の行動を行うと\n活性化していきます。\n時間経過でも緩やかに活性化していきますので、\nゲームを再開したときなどにも確認してみましょう。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_LiquidMemory_04",
+        "id_number": 0,
+        "value": "リキッドメモリのビンは、サブクエストをクリアするともらえます。\nM2等級にするための2本目のビンは、<span color=\"Emphasis\">様々な場所に落ちています。</>\n見つけたら<span color=\"Action\">【</><key color=\"Action\" action=\"Interaction\"/><span color=\"Action\">】</>で入手してください。\nメモリスタンドが使えるようになったら、\nまずスタンド周辺を探してみましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_LiquidMemory_guide_01",
+        "id_number": 0,
+        "value": "リキッドメモリ - 採取モーション短縮",
+        "translation": ""
+    },
+    {
+        "id": "DESC_LiquidMemory_guide_01",
+        "id_number": 0,
+        "value": "このリキッドメモリには、\n採取モーションが早くなる効果があります。\nリキッドメモリを活性化させる条件は\nバトルイマジンのクラフトと時間経過です。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_LiquidMemory_guide_02",
+        "id_number": 0,
+        "value": "リキッドメモリ - 武器精練経験値増加",
+        "translation": ""
+    },
+    {
+        "id": "DESC_LiquidMemory_guide_02",
+        "id_number": 0,
+        "value": "このリキッドメモリには、\n武器を精練する際の経験値が増える効果があります。\n活性化させる条件はエネミーの撃破と時間経過です。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_LiquidMemory_guide_03",
+        "id_number": 0,
+        "value": "リキッドメモリ - ルーノ消費量減少",
+        "translation": ""
+    },
+    {
+        "id": "DESC_LiquidMemory_guide_03",
+        "id_number": 0,
+        "value": "このリキッドメモリには、\nショップを使用する際の\nルーノ消費量が少なくなる効果があります。\n活性化させる条件は採取と時間経過です。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_LiquidMemory_guide_04",
+        "id_number": 0,
+        "value": "リキッドメモリ - クラフト時初期武器Lvアップ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_LiquidMemory_guide_04",
+        "id_number": 0,
+        "value": "このリキッドメモリには、武器のクラフト時に\n初期レベルが高くなりやすくなる効果があります。\n活性化させる条件はエネミー撃破と時間経過です。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_LiquidMemory_guide_05",
+        "id_number": 0,
+        "value": "リキッドメモリ - エネミードロップ率上昇",
+        "translation": ""
+    },
+    {
+        "id": "DESC_LiquidMemory_guide_05",
+        "id_number": 0,
+        "value": "このリキッドメモリには、\nエネミーのアイテムドロップ率が上昇する効果があります。\n活性化させる条件は採取と時間経過です。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_MYCHARA",
+        "id_number": 0,
+        "value": "メニューのヘルプ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_MYCHARA:1",
+        "id_number": 0,
+        "value": "コマンドメニューで分からないことがあったら、\n画面右上の「？」アイコンを押してみましょう。\n各画面のヘルプを見ることができます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_MYCHARA_STATUS",
+        "id_number": 0,
+        "value": "キャラクター - ステータス",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_MYCHARA_STATUS",
+        "id_number": 0,
+        "value": "■基本ステータス\n　キャラクターのステータス、装備している武器の確認ができます。\n■冒険ランク\n　現在の冒険ランク確認と、冒険ランクのアップができます。\n　ランクアップできない時は、ランクアップの条件が確認できます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_MYCHARA_ARMAMENTCHANGE",
+        "id_number": 0,
+        "value": "キャラクター - 装備変更",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_MYCHARA_ARMAMENTCHANGE",
+        "id_number": 0,
+        "value": "装備する武器、イマジンの管理ができます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_MYCHARA_SKILL",
+        "id_number": 0,
+        "value": "キャラクター - スキル",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_MYCHARA_SKILL",
+        "id_number": 0,
+        "value": "■クラススキル\n覚えているスキルやアビリティをセットし、\n戦闘中に使えるようにします。\n■スキルボード\nスキルポイントを消費し、新しいスキルを習得できます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_MYCHARA_COSTUMECHANGE",
+        "id_number": 0,
+        "value": "キャラクター - 衣装変更",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_MYCHARA_COSTUMECHANGE",
+        "id_number": 0,
+        "value": "装備する衣装とアクセサリーを変更し、\nキャラクターの見た目を変えられます。\nまた、キャラクターにポーズをとらせ、\n見た目をじっくり確認できます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_MYCHARA_LISTOFEFFECTS",
+        "id_number": 0,
+        "value": "キャラクター - 効果一覧",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_MYCHARA_LISTOFEFFECTS",
+        "id_number": 0,
+        "value": "発動中/発動可能な各種特殊効果を確認できます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_INVENTORY",
+        "id_number": 0,
+        "value": "バッグ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_INVENTORY",
+        "id_number": 0,
+        "value": "■アイテム、装備\n　手持ちのアイテムと装備の確認、破棄ができます。\n（アイテムの売却は「倉庫」で行えます）\n■リキッドメモリ\n　手持ちのリキッドメモリの状態と等級、\n　活性化の条件が確認できます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_INVENTORY_ITEMS",
+        "id_number": 0,
+        "value": "バッグ - アイテム",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_INVENTORY_ITEMS",
+        "id_number": 0,
+        "value": "所持しているアイテムの詳細が確認できます。\nアイテムの使用、パレット登録、破棄も可能です。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_INVENTORY_EQUIPMENT",
+        "id_number": 0,
+        "value": "バッグ - 装備品",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_INVENTORY_EQUIPMENT",
+        "id_number": 0,
+        "value": "所持している武器、イマジン、衣装、アクセサリーの\n閲覧と破棄ができます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_INVENTORY_LIQUIDMEMORIES",
+        "id_number": 0,
+        "value": "バッグ - リキッドメモリ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_INVENTORY_LIQUIDMEMORIES",
+        "id_number": 0,
+        "value": "所持しているビンと等級、活性化の条件が確認できます。\nビンは特定のサブクエストをクリアすることで入手でき、\nさらに追加のビンを街中などで手に入れることができます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_INVENTORY_TOKENS",
+        "id_number": 0,
+        "value": "バッグ - トークン",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_INVENTORY_TOKENS",
+        "id_number": 0,
+        "value": "バッグ - トークンの説明",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_QUEST",
+        "id_number": 0,
+        "value": "クエスト",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_QUEST:1",
+        "id_number": 0,
+        "value": "「進行中クエスト」の一覧でチェックをつけたクエストは\nHUDに表示されます。\nルートガイドを表示したいクエストは、\n一覧でチェックを付けた上で、クエストの「詳細」画面で\n「ルートガイド」にチェックをいれてください。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_MAP",
+        "id_number": 0,
+        "value": "マップ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_MAP_00",
+        "id_number": 0,
+        "value": "画面上部のリストからゾーンを選び、マップを閲覧できます。\nそのゾーンの転送ポータルが登録済みなら、空間転送も可能です。\nゾーンに雲がかかっている場合は、\nそのエリアの「踏破ポイント」を見つけ雲を晴らしましょう。\nまた、気になる場所にはピンを設定し、コメントをつけられます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_MAP_01",
+        "id_number": 0,
+        "value": "（CBT不使用）",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_COMMUNICATE",
+        "id_number": 0,
+        "value": "コミュニケート",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_COMMUNICATE:1",
+        "id_number": 0,
+        "value": "■プロフィール\n　キャラクターのIDやアクティビティを確認したり、\n　コメントやムードアイコンを設定することができます。\n■フォローリスト\nフォローしたプレイヤー、ブロックしたプレイヤーの情報を\n確認できます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_COMMUNICATE:2",
+        "id_number": 0,
+        "value": "■プレイヤーサーチ\n　名前やID、クラスなどからキャラクターを検索できます。\n■トーク管理\n　HPが減っている、回復してもらった、など、特定の条件時に\n　自動で発信するオートメッセージを設定することができます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_COMMUNICATE_PROFILE",
+        "id_number": 0,
+        "value": "コミュニケート - プロフィール",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_COMMUNICATE_PROFILE",
+        "id_number": 0,
+        "value": "キャラクターのクラスレベル表示やID確認、\nコメント編集ができます。\n個人情報等の取り扱いには十分に注意しましょう。\nプロフィールの公開設定や他プレイヤーからのフォローの\n可否なども設定できます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_COMMUNICATE_FOLLOW",
+        "id_number": 0,
+        "value": "コミュニケート - フォロー",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_COMMUNICATE_FOLLOW",
+        "id_number": 0,
+        "value": "自分がフォローしたプレイヤーの一覧を確認できます。\nまた、パーティ招待やプライベートトークもできます。\n「ブロックリスト」では、リストに追加した\nプレイヤーを確認でき、ブロックの解除も可能です。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_COMMUNICATE_CHARASEARCH",
+        "id_number": 0,
+        "value": "コミュニケート - プレイヤーサーチ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_COMMUNICATE_CHARASEARCH",
+        "id_number": 0,
+        "value": "プレイヤーネームやID、クラスなどを入力して\n条件に合ったプレイヤーを検索することができます。\n検索リストからパーティに招待したり、\nプライベートトークしたりも可能です。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_COMMUNICATE_EMOTE",
+        "id_number": 0,
+        "value": "コミュニケート - トーク管理",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_COMMUNICATE_EMOTE",
+        "id_number": 0,
+        "value": "「オートメッセージ」ではあらかじめ条件を設定しておくと、\n自動的にトーク発信をしてくれます。\n「範囲設定」で発信先を指定でき、\nメッセージ内容も定型文とスタンプから選べます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_COMMUNICATE_MAILBOX",
+        "id_number": 0,
+        "value": "コミュニケート - レターボックス",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_COMMUNICATE_MAILBOX",
+        "id_number": 0,
+        "value": "コミュニケート - レターボックスの説明",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_DICTIONARY",
+        "id_number": 0,
+        "value": "旅の手引き",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_DICTIONARY",
+        "id_number": 0,
+        "value": "一度見たチュートリアルを読み直すことができます。\nまた、クラススキルやバフ・デバフの効果などの\n基本的な知識も載っているので、\n分からないことがあったらまず旅の手引きを見てみましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_DICTIONARY_MONSTER",
+        "id_number": 0,
+        "value": "図鑑 － モンスター",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_DICTIONARY_MONSTER",
+        "id_number": 0,
+        "value": "図鑑 － モンスターの説明",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_DICTIONARY_ITEM",
+        "id_number": 0,
+        "value": "図鑑 － アイテム",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_DICTIONARY_ITEM",
+        "id_number": 0,
+        "value": "図鑑 － アイテムの説明",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_DICTIONARY_WEAPON",
+        "id_number": 0,
+        "value": "図鑑 － 武器",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_DICTIONARY_WEAPON",
+        "id_number": 0,
+        "value": "図鑑 － 武器の説明",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_DICTIONARY_RECIPE",
+        "id_number": 0,
+        "value": "図鑑 － レシピ集",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_DICTIONARY_RECIPE",
+        "id_number": 0,
+        "value": "図鑑 － レシピ集の説明",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_DICTIONARY_COUNTRY",
+        "id_number": 0,
+        "value": "図鑑 － 地域",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_DICTIONARY_COUNTRY",
+        "id_number": 0,
+        "value": "図鑑 － 地域の説明",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_DICTIONARY_IMAGINE",
+        "id_number": 0,
+        "value": "図鑑 － イマジン",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_DICTIONARY_IMAGINE",
+        "id_number": 0,
+        "value": "図鑑 － イマジンの説明",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_DICTIONARY_BOOKMARK",
+        "id_number": 0,
+        "value": "冒険手帳 － 旅の手引き",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_DICTIONARY_BOOKMARK",
+        "id_number": 0,
+        "value": "一度見たチュートリアルを読み直すことができます。\nまた、クラススキルやバフ・デバフの効果などの\n基本的な知識も載っているので、\n分からないことがあったらまず旅の手引きを見てみましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_DICTIONARY_THEATER",
+        "id_number": 0,
+        "value": "図鑑 － シアター",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_DICTIONARY_THEATER",
+        "id_number": 0,
+        "value": "図鑑 － シアターの説明",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_CONTENTS",
+        "id_number": 0,
+        "value": "ミッション",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_CONTENTS:1",
+        "id_number": 0,
+        "value": "メインクエスト進行などで解放されたミッションは、\nミッションリストに登録され、ここからいつでも何度でも\n攻略に向かうことができます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_CONTENTS:2",
+        "id_number": 0,
+        "value": "■すぐに開始\n　１人または現在のパーティでミッション攻略を始めます。\n　（パーティを組んでいる場合、\n　開始申請できるのはリーダーのみです）",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_CONTENTS:3",
+        "id_number": 0,
+        "value": "■マッチング申請\n　同じように申請をしたプレイヤーとマッチングが行われます。\n　メンバーが集まり次第、即席でパーティを組み、\n　そのパーティでミッションを攻略します。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_CONTENTS:4",
+        "id_number": 0,
+        "value": "ミッション中は、ここでミッションの詳細や\nパーティメンバーを確認できます。\n「リタイア」を押すとミッションを離脱し、街へ戻ります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_PARTY",
+        "id_number": 0,
+        "value": "パーティ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_PARTY:1",
+        "id_number": 0,
+        "value": "■パーティメンバー\n　参加しているパーティの情報を確認できます。\n■募集リスト\n　メンバー募集中のパーティの確認と、パーティ参加ができます。\n　パーティに入っていないか、パーティリーダーの場合には\n　自分からパーティ募集を出すこともできます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_PARTY:2",
+        "id_number": 0,
+        "value": "他のプレイヤーをパーティに招待するには以下の方法があります。\n・コミュニケート＞キャラサーチの結果から「パーティに招待」\n・街かフィールドで他のキャラクターに対して<span color=\"Action\">【</><key color=\"Action\" action=\"Interaction\"/><span color=\"Action\">】</>を長押しで\n　コミュニケーションメニューを開き「パーティに招待」を選択",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_PARTY:3",
+        "id_number": 0,
+        "value": "パーティのリーダーは以下の機能を使用できます。\n\n■キック\n　パーティメンバーをパーティから抜けさせます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_PARTY:4",
+        "id_number": 0,
+        "value": "■リーダー移譲\n　パーティリーダーの権利を他のパーティメンバーに移します。\n■パーティ解散\n　パーティを解散します。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_PARTY:5",
+        "id_number": 0,
+        "value": "■パーティ移動\n　リーダーがパーティメンバーを自分と同じゾーンへ呼び寄せます。\n　同じゾーンにいるはずなのに会えない場合は\n　パーティメンバーが他のチャンネルにいる可能性があります。\n　その際はパーティ移動を使用してみてください。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_PARTY_MEMBER",
+        "id_number": 0,
+        "value": "パーティ - パーティメンバー",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_PARTY_MEMBER",
+        "id_number": 0,
+        "value": "パーティメンバーの情報を閲覧できます。\nリーダーはリーダーの委譲、キック、メンバーの招集ができます。\n同じゾーンにいるパーティメンバーが見つからない時は、\n「メンバーの招集」を行うと、自分と同じチャンネルに\nパーティメンバーを集合させることができます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_COMMANDMENU_PARTY_RECRUIT",
+        "id_number": 0,
+        "value": "パーティ - 募集リスト",
+        "translation": ""
+    },
+    {
+        "id": "DESC_COMMANDMENU_PARTY_RECRUIT",
+        "id_number": 0,
+        "value": "募集リストには、メンバー募集中のパーティが掲載されています。\n選択するとパーティへの参加ができます。\n「募集する」を押すと、自分からパーティのメンバー募集を\n行うことができます。条件を設定すると、好みのメンバーを\n募集することができます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Exquest",
+        "id_number": 0,
+        "value": "エクストラクエスト",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Exquest",
+        "id_number": 0,
+        "value": "エクストラクエストは仲間からの依頼を受けられます。\n一般的なクエストと異なり、特別な報酬をもらえますが、\n時限性のクエストとなります。\nストーリーの進行によって自動破棄されるのでご注意ください。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_ItemPalette",
+        "id_number": 0,
+        "value": "【CBT不使用】アイテムパレット",
+        "translation": ""
+    },
+    {
+        "id": "DESC_ItemPalette",
+        "id_number": 0,
+        "value": "アイテムパレットの説明",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_CTY01_TOP_SHOP_CRAFT",
+        "id_number": 0,
+        "value": "【CBT不使用】クラフト",
+        "translation": ""
+    },
+    {
+        "id": "DESC_CTY01_TOP_SHOP_CRAFT",
+        "id_number": 0,
+        "value": "クラフト",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PALETTE",
+        "id_number": 0,
+        "value": "【CBT不使用】アイテムのパレット登録",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PALETTE",
+        "id_number": 0,
+        "value": "アイテムをショートカットキーで使用するには\nあらかじめパレット登録しておく必要があります。\nコマンドメニュー＞バッグ＞消費アイテムから\n登録したいアイテムを選びパレット登録をクリックして\n登録したいパレットをクリックするとパレット登録できます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_dng015_BreakableWall",
+        "id_number": 0,
+        "value": "【CBT不使用】壊せる壁",
+        "translation": ""
+    },
+    {
+        "id": "DESC_dng015_BreakableWall",
+        "id_number": 0,
+        "value": "表示のような壁は攻撃して破壊できます。\n行き止まりと思った場合は周囲をよく確認してみましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_RESURRECTION",
+        "id_number": 0,
+        "value": "救護",
+        "translation": ""
+    },
+    {
+        "id": "DESC_RESURRECTION:1",
+        "id_number": 0,
+        "value": "キャラクターのHPが0になると戦闘不能になります。\n他のプレイヤーから救護されることで復活することができます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_RESURRECTION:2",
+        "id_number": 0,
+        "value": "<span color=\"Action\">【</><key color=\"Action\" action=\"Interaction\"/><span color=\"Action\">】</>を長押しして復活地点へ戻ることもできますが\n復活後、一定時間は虚弱状態になります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_ActiveImagine",
+        "id_number": 0,
+        "value": "バトルイマジン",
         "translation": ""
     },
     {
         "id": "DESC_ActiveImagine",
-        "id_number": -1,
+        "id_number": 0,
         "value": "バトルイマジンは装備することで使用できます。\nさまざまな姿が確認されており、\n効果もイマジンの種類によって異なります。",
         "translation": ""
     },
     {
-        "id": "DESC_CLASS_01",
-        "id_number": -1,
-        "value": "キャラクターが取得するスキルはクラスごとに異なります。\nスキルは付け替えることが可能です。\nスキルの詳細な効果は旅の手引きから確認できます。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_CLASS_02",
-        "id_number": -1,
-        "value": "近距離クラスが抜刀した際、\n照準に一番近いエネミーにひし形のカーソルが付きます。\nその状態で攻撃をするとキャラクターは\n自動的に対象に向かって攻撃します。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_CLASS_03",
-        "id_number": -1,
-        "value": "攻撃するときのカーソルの色によって\n攻撃の範囲内かどうかを判断することができます。\n・カーソルが赤色のときは攻撃範囲内\n・カーソルが青色のときは攻撃範囲外",
-        "translation": ""
-    },
-    {
-        "id": "DESC_CLASS_04",
-        "id_number": -1,
-        "value": "遠距離クラスは照準に向かって攻撃を行います。",
-        "translation": ""
-    },
-    {
-        "id": "DESC_CLASS_05",
-        "id_number": -1,
-        "value": "エネミーに照準を重ねたときのカーソルの色によって\n攻撃の範囲内かどうかを判断することができます。\n・カーソルが赤色のときは攻撃範囲内\n・カーソルが白色のときは攻撃範囲外",
+        "id": "TITLE_ClassGauge",
+        "id_number": 0,
+        "value": "クラス専用ゲージ",
         "translation": ""
     },
     {
         "id": "DESC_ClassGauge_01",
-        "id_number": -1,
+        "id_number": 0,
         "value": "・シールドゲージ【イージスファイター専用】\n盾の耐久値を表し、エネミーの攻撃をガードすると減少します。\n0になるとシールドブレイク状態となり\n一定時間盾を用いたスキルが使用できなくなります。\nシールドゲージは盾を使わずにいると徐々に回復します。",
         "translation": ""
     },
     {
         "id": "DESC_ClassGauge_02",
-        "id_number": -1,
+        "id_number": 0,
         "value": "・EPゲージ【スペルキャスター専用】\nスペルキャスターはEPを消費してタクティカルスキルを発動でき、\nEPゲージが残っている際はインターバル無しに\nタクティカルスキルを連続発動できます。\nEPゲージは主に通常攻撃などで回復することができます。",
         "translation": ""
     },
     {
+        "id": "TITLE_Rebellion_SwordCombo",
+        "id_number": 0,
+        "value": "【CAT】ブレイクスラッシュ",
+        "translation": ""
+    },
+    {
         "id": "DESC_Rebellion_SwordCombo_01",
-        "id_number": -1,
+        "id_number": 0,
         "value": "イージスファイターの通常攻撃。剣による4連続攻撃。\n3撃目から方向入力することにより攻撃が派生する。",
         "translation": ""
     },
     {
         "id": "DESC_Rebellion_SwordCombo_02",
-        "id_number": -1,
+        "id_number": 0,
         "value": "・ブレイクスラッシュⅠ\n方向入力を行わないときに発生する通常4連続攻撃。\n4撃目ヒット時にエネミーを攻撃力ダウン状態にする。",
         "translation": ""
     },
     {
         "id": "DESC_Rebellion_SwordCombo_03",
-        "id_number": -1,
+        "id_number": 0,
         "value": "・ブレイクスラッシュⅡ\n3撃目から方向入力したときに発生する派生4連続攻撃。\nブレイクスラッシュIよりも高ダメージを与える。",
         "translation": ""
     },
     {
+        "id": "TITLE_Rebellion_ShieldGuard",
+        "id_number": 0,
+        "value": "【CAT】シールドガード",
+        "translation": ""
+    },
+    {
         "id": "DESC_Rebellion_ShieldGuard_01",
-        "id_number": -1,
-        "value": "イージスファイターのレギュラースキル。\nシールドによるガードを行い、\nガード中に通常攻撃入力でカウンターに派生する。",
+        "id_number": 0,
+        "value": "イージスファイターのレギュラースキル。\nレギュラースキル　移動可能の防御行動",
         "translation": ""
     },
     {
         "id": "DESC_Rebellion_ShieldGuard_02",
-        "id_number": -1,
-        "value": "・シールドガード\n入力中前方に盾を構えて攻撃をガードする。\nガードが成立した際にシールドゲージを消費する。\nまたガード成立時にアルティメットスキルのインターバルが減少する。",
+        "id_number": 0,
+        "value": "・シールドガード\n",
         "translation": ""
     },
     {
         "id": "DESC_Rebellion_ShieldGuard_03",
-        "id_number": -1,
-        "value": "・カウンタースラッシュ\nエネミーの攻撃に対してカウンターを行う。\n盾を構えている最中に通常攻撃入力でカウンター待機状態となる。\n待機中にガードが成立すると自動的に反撃を行う。\nカウンター待機発動時にシールドゲージを消費する。",
+        "id_number": 0,
+        "value": "・カウンタースラッシュ\n",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Rebellion_ShieldCharge",
+        "id_number": 0,
+        "value": "【CAT】シールドチャージ",
         "translation": ""
     },
     {
         "id": "DESC_Rebellion_ShieldCharge",
-        "id_number": -1,
-        "value": "イージスファイターのタクティカルスキル。\n盾を構え、突進をする。\nヒット時にエネミーをスタンさせる。\n発動中はガード状態になり、エネミーからの攻撃を防ぐこともできる。",
+        "id_number": 0,
+        "value": "イージスファイターのタクティカルスキル。\n盾を構え、突進をする。\n盾を構えた突進攻撃、スタン付与、ガード判定",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Rebellion_ShieldAttract",
+        "id_number": 0,
+        "value": "【CAT】ブロウビート",
         "translation": ""
     },
     {
         "id": "DESC_Rebellion_ShieldAttract",
-        "id_number": -1,
+        "id_number": 0,
         "value": "イージスファイターのタクティカルスキル。\n広範囲のエネミーを攻撃すると同時に\n自分の狙われやすさも上昇させる。",
         "translation": ""
     },
     {
+        "id": "TITLE_Rebellion_DoubleCutter",
+        "id_number": 0,
+        "value": "【CAT】ディバイドスラッシュ",
+        "translation": ""
+    },
+    {
         "id": "DESC_Rebellion_DoubleCutter",
-        "id_number": -1,
+        "id_number": 0,
         "value": "イージスファイターのタクティカルスキル。\n剣を一閃し、エネミーを貫通する衝撃波を放つ。\n2回まで連続で放つことができ、\nエネミーからの狙われやすさが上昇する。",
         "translation": ""
     },
     {
+        "id": "TITLE_Rebellion_Protection",
+        "id_number": 0,
+        "value": "【CAT】フォートレス",
+        "translation": ""
+    },
+    {
         "id": "DESC_Rebellion_Protection:1",
-        "id_number": -1,
+        "id_number": 0,
         "value": "イージスファイターのタクティカルスキル。\n一定時間シールドゲージを消費せずにガードが行えるようになる。\n周囲のパーティメンバーのダメージも軽減する効果も持つ。",
         "translation": ""
     },
     {
         "id": "DESC_Rebellion_Protection:2",
-        "id_number": -1,
-        "value": "発動中、ガードに成功したとき、\nフォートレス以外のスキルと、\nアルティメットスキルのインターバルを短縮する。",
+        "id_number": 0,
+        "value": "発動中、ガードに成功したとき、アルティメットゲージの増加量が増え、\nフォートレス以外のスキルのインターバルを短縮する。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Rebellion_Heal",
+        "id_number": 0,
+        "value": "【CAT】ヒール",
         "translation": ""
     },
     {
         "id": "DESC_Rebellion_Heal",
-        "id_number": -1,
-        "value": "イージスファイターのヒールスキル。\n自分と範囲内のプレイヤーを回復させるオーラを放つ。",
+        "id_number": 0,
+        "value": "イージスファイターのヒールスキル。\n自分と範囲内に入ったパーティメンバーを\n回復させるオーラを放つ。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Rebellion_ShieldPressure",
+        "id_number": 0,
+        "value": "【CAT】ジャッジメントシールド",
         "translation": ""
     },
     {
         "id": "DESC_Rebellion_ShieldPressure",
-        "id_number": -1,
+        "id_number": 0,
         "value": "イージスファイターのアルティメットスキル。\n前方に衝撃波を飛ばす広範囲攻撃。\nヒットした対象を大きくのけぞらせる。\nまた発動時にシールドゲージを全回復する。",
         "translation": ""
     },
     {
+        "id": "TITLE_Destroyer_AxeCombo",
+        "id_number": 0,
+        "value": "【CAT】ビーストスイングⅠ・Ⅱ",
+        "translation": ""
+    },
+    {
         "id": "DESC_Destroyer_AxeCombo_01",
-        "id_number": -1,
+        "id_number": 0,
         "value": "ツインストライカーの通常攻撃。双斧による4連続攻撃。\n3撃目から方向入力することにより攻撃が派生する。",
         "translation": ""
     },
     {
         "id": "DESC_Destroyer_AxeCombo_02",
-        "id_number": -1,
+        "id_number": 0,
         "value": "・ビーストスイングⅠ\n方向入力を行わないときに発生する通常4連続攻撃。\n高威力の多段攻撃。",
         "translation": ""
     },
     {
         "id": "DESC_Destroyer_AxeCombo_03",
-        "id_number": -1,
+        "id_number": 0,
         "value": "・ビーストスイングⅡ\n3撃目から方向入力したときに発生する派生4連続攻撃。\n広範囲に攻撃を行う。",
         "translation": ""
     },
     {
+        "id": "TITLE_Destroyer_SpinAxe",
+        "id_number": 0,
+        "value": "【CAT】アクストルネード",
+        "translation": ""
+    },
+    {
         "id": "DESC_Destroyer_SpinAxe",
-        "id_number": -1,
+        "id_number": 0,
         "value": "ツインストライカーのレギュラースキル。\n前へ踏み込みながら、回転切りを行う。\nアクストルネード中は、エネミーからのダメージが軽減される。\nさらに、エネミーから攻撃をされても、スキルを中断されない。",
         "translation": ""
     },
     {
+        "id": "TITLE_Destroyer_BrutalBlow",
+        "id_number": 0,
+        "value": "【CAT】ブルータルブロウ",
+        "translation": ""
+    },
+    {
         "id": "DESC_Destroyer_BrutalBlow",
-        "id_number": -1,
+        "id_number": 0,
         "value": "ツインストライカーのタクティカルスキル。\n双斧による薙ぎ払い攻撃。\nチャージしてから放つことで、威力を増す。\nまた、エネミーにヒットしたときにHPを吸収する効果がある。",
         "translation": ""
     },
     {
+        "id": "TITLE_Destroyer_HavokStamp",
+        "id_number": 0,
+        "value": "【CAT】フォールインパクト",
+        "translation": ""
+    },
+    {
         "id": "Desc_Destroyer_HavokStamp",
-        "id_number": -1,
+        "id_number": 0,
         "value": "ツインストライカーのタクティカルスキル。\n前方にジャンプし、斧を叩きつける。\n空中で使用をすると、その場で落下する攻撃になる。\n命中したエネミーから狙われやすくなる効果がある。",
         "translation": ""
     },
     {
+        "id": "TITLE_Destroyer_Yonrengiri",
+        "id_number": 0,
+        "value": "【CAT】ストームラッシュ",
+        "translation": ""
+    },
+    {
         "id": "DESC_Destroyer_Yonrengiri",
-        "id_number": -1,
+        "id_number": 0,
         "value": "ツインストライカーのタクティカルスキル。\n双斧で乱舞攻撃を行う。\n最後の一撃はエネミーからから狙われやすくなる効果を持つ。",
         "translation": ""
     },
     {
+        "id": "TITLE_Destroyer_PowerUp",
+        "id_number": 0,
+        "value": "【CAT】ウォークライ",
+        "translation": ""
+    },
+    {
         "id": "DESC_Destroyer_PowerUp",
-        "id_number": -1,
-        "value": "ツインストライカーのタクティカルスキル。\n雄たけびをあげ、攻撃を受けても、\nダメージリアクションをとらなくなる。\nまた、パーティ全体の与えるダメージを上昇する効果を持つ。",
+        "id_number": 0,
+        "value": "ツインストライカーのタクティカルスキル。\n雄たけびをあげ、攻撃を受けても、のけぞらなくなる。\nまた、パーティ全体の与えるダメージを上昇する効果を持つ。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Destroyer_LifeDrain",
+        "id_number": 0,
+        "value": "【CAT】ライフドレイン",
         "translation": ""
     },
     {
         "id": "DESC_Destroyer_LifeDrain",
-        "id_number": -1,
+        "id_number": 0,
         "value": "ツインストライカーのヒールスキル。\n精神を高ぶらせ、一定時間エネミーに攻撃をすると\n自分のHPが回復する効果を得る。",
         "translation": ""
     },
     {
+        "id": "TITLE_Destroyer_Guillotine",
+        "id_number": 0,
+        "value": "【CAT】ヴォルテクスインパクト",
+        "translation": ""
+    },
+    {
         "id": "DESC_Destroyer_Guillotine",
-        "id_number": -1,
+        "id_number": 0,
         "value": "ツインストライカーのアルティメットスキル。\n双斧により、エネミーを打ち上げたあとに、\nさらに地へ叩きつける荒々しい攻撃。",
         "translation": ""
     },
     {
+        "id": "TITLE_Hunter_ComboShot",
+        "id_number": 0,
+        "value": "【CAT】アローラッシュ",
+        "translation": ""
+    },
+    {
         "id": "DESC_Hunter_ComboShot",
-        "id_number": -1,
+        "id_number": 0,
         "value": "ブラストアーチャーの通常攻撃。\n前方に矢を放ち攻撃する。\n連続して放つと、3射目が3連射撃になる。\n移動しながら攻撃することも可能。",
         "translation": ""
     },
     {
+        "id": "TITLE_Hunter_StepShot",
+        "id_number": 0,
+        "value": "【CAT】スラロームショット",
+        "translation": ""
+    },
+    {
         "id": "DESC_Hunter_StepShot",
-        "id_number": -1,
+        "id_number": 0,
         "value": "ブラストアーチャーのレギュラースキル。\n前後左右のいずれかに、回避をしながら矢を放つ。\n回避する方向は入力している方向によって変えられる。",
         "translation": ""
     },
     {
+        "id": "TITLE_Hunter_PowerShot",
+        "id_number": 0,
+        "value": "【CAT】チャージアロー",
+        "translation": ""
+    },
+    {
         "id": "DESC_Hunter_PowerShot",
-        "id_number": -1,
+        "id_number": 0,
         "value": "ブラストアーチャーのタクティカルスキル。\n前方に高威力の一矢を放つ。\n最大3段階までチャージすることができ、威力が増加する。\nまたエネミーの弱点に当てられれば、さらに威力が高くなる。",
         "translation": ""
     },
     {
+        "id": "TITLE_Hunter_MultiLockShot",
+        "id_number": 0,
+        "value": "【CAT】スタンピードアロー",
+        "translation": ""
+    },
+    {
         "id": "DESC_Hunter_MultiLockShot",
-        "id_number": -1,
+        "id_number": 0,
         "value": "ブラストアーチャーのタクティカルスキル。\nエネミーを追尾する毒矢を連続して放つ。\nヒット時にエネミーを毒状態にする。\nロックオンすることで、矢を一体に集中させることも可能。",
         "translation": ""
     },
     {
+        "id": "TITLE_Hunter_AllowRain",
+        "id_number": 0,
+        "value": "【CAT】リーサルシャワー",
+        "translation": ""
+    },
+    {
         "id": "DESC_Hunter_AllowRain",
-        "id_number": -1,
+        "id_number": 0,
         "value": "ブラストアーチャーのタクティカルスキル。\n狙いを合わせた範囲に、矢の雨を降らせる。\n最大3段階までチャージが可能で、\nチャージするほど矢を降らせる時間が長くなる。",
         "translation": ""
     },
     {
+        "id": "TITLE_Hunter_Kiaidame",
+        "id_number": 0,
+        "value": "【CAT】ハンタースピリット ",
+        "translation": ""
+    },
+    {
         "id": "DESC_Hunter_Kiaidame",
-        "id_number": -1,
+        "id_number": 0,
         "value": "ブラストアーチャーのタクティカルスキル。\n精神を研ぎ澄まし、エネミーから狙われにくくなるとともに、\nチャージスキルのチャージに必要な時間を短縮する。\nまた、パーティ全体のスキルインターバルを短縮する。",
         "translation": ""
     },
     {
+        "id": "TITLE_Hunter_HealRain",
+        "id_number": 0,
+        "value": "【CAT】ヒールレイン",
+        "translation": ""
+    },
+    {
         "id": "DESC_Hunter_HealRain",
-        "id_number": -1,
+        "id_number": 0,
         "value": "ブラストアーチャーのヒールスキル。\n狙いを合わせた範囲に、回復効果のある雨を降らせる。\n最大3段階までチャージが可能で、\nチャージするほど回復効果の時間が延長。",
         "translation": ""
     },
     {
+        "id": "TITLE_Hunter_GravityAllow",
+        "id_number": 0,
+        "value": "【CAT】モータルグラビティ",
+        "translation": ""
+    },
+    {
         "id": "DESC_Hunter_GravityAllow",
-        "id_number": -1,
+        "id_number": 0,
         "value": "ブラストアーチャーのアルティメットスキル。\n着弾した場所に強大な引力を持つ力場を出現させる。\n周辺のエネミーを一定時間引き寄せ、ダメージを与え続ける。",
         "translation": ""
     },
     {
+        "id": "TITLE_Engrammer_MagicShot",
+        "id_number": 0,
+        "value": "【CAT】トリニティショット",
+        "translation": ""
+    },
+    {
         "id": "DESC_Engrammer_MagicShot",
-        "id_number": -1,
+        "id_number": 0,
         "value": "スペルキャスターの通常攻撃。\n前方に魔力弾を放つ。3連続攻撃。\nヒットさせることでEPを回復することができる。",
         "translation": ""
     },
     {
+        "id": "TITLE_Engrammer_MagicCanon",
+        "id_number": 0,
+        "value": "【CAT】エングラムバースト",
+        "translation": ""
+    },
+    {
         "id": "DESC_Engrammer_MagicCanon",
-        "id_number": -1,
+        "id_number": 0,
         "value": "スペルキャスターのレギュラースキル。\nトリニティショットを圧縮し撃ち出す。\nエネミーに命中するとEPを回復する。",
         "translation": ""
     },
     {
+        "id": "TITLE_Engrammer_FireBall",
+        "id_number": 0,
+        "value": "【CAT】ファイアブラスト",
+        "translation": ""
+    },
+    {
         "id": "DESC_Engrammer_FireBall",
-        "id_number": -1,
+        "id_number": 0,
         "value": "スペルキャスターのタクティカルスキル。\n前方に火球を発射する。\n最大3段階までチャージができ、段階に応じて、\n火球の大きさ、与えるダメージが増加する。",
         "translation": ""
     },
     {
+        "id": "TITLE_Engrammer_ThunderBeam",
+        "id_number": 0,
+        "value": "【CAT】ライトニング",
+        "translation": ""
+    },
+    {
         "id": "DESC_Engrammer_ThunderBeam:1",
-        "id_number": -1,
+        "id_number": 0,
         "value": "スペルキャスターのタクティカルスキル。\n前方にエネミーを貫通する雷撃を放つ。\n命中した相手を帯電状態にする。",
         "translation": ""
     },
     {
         "id": "DESC_Engrammer_ThunderBeam:2",
-        "id_number": -1,
+        "id_number": 0,
         "value": "最大3段階までチャージができ、段階に応じて雷の数が増える。\n最大チャージ状態で放つと、一定時間自分のタクティカルスキルの\nチャージに必要な時間を短縮する効果がある。",
         "translation": ""
     },
     {
+        "id": "TITLE_Engrammer_IceStorm",
+        "id_number": 0,
+        "value": "【CAT】ブリザード",
+        "translation": ""
+    },
+    {
         "id": "DESC_Engrammer_IceStorm:1",
-        "id_number": -1,
-        "value": "スペルキャスターのタクティカルスキル。\n指定した範囲に、吹雪を呼び出す。\n吹雪にとらわれた相手は移動速度が低下し、ダメージを受け続ける。",
+        "id_number": 0,
+        "value": "スペルキャスターのタクティカルスキル。\n指定した範囲に、吹雪を呼び出す。\n吹雪にとらわれた相手は。移動速度が低下し、ダメージを受け続ける。",
         "translation": ""
     },
     {
         "id": "DESC_Engrammer_IceStorm:2",
-        "id_number": -1,
+        "id_number": 0,
         "value": "最大3段階までチャージができ、段階に応じて攻撃範囲は広くなり\nダメージを与える間隔は短くなる。",
         "translation": ""
     },
     {
+        "id": "TITLE_Engrammer_MagicUp",
+        "id_number": 0,
+        "value": "【CAT】コンセントレーション",
+        "translation": ""
+    },
+    {
         "id": "DESC_Engrammer_MagicUp",
-        "id_number": -1,
-        "value": "スペルキャスターのタクティカルスキル。\n精神を集中し、エネミーから狙われにくくなるとともに\n自身のEPを継続回復する。\nまた、効果発動中はパーティの、\nアルティメットスキルのインターバルを短縮する。",
+        "id_number": 0,
+        "value": "スペルキャスターのタクティカルスキル。\n精神を集中し、エネミーから狙われにくくなるとともに\n自身のEPを継続回復する。\nまた、効果発動中はパーティの移動速度が上昇し、\nアルティメットスキルのインターバルを短縮する。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Engrammer_HealingArea",
+        "id_number": 0,
+        "value": "【CAT】ヒーリングエリア",
         "translation": ""
     },
     {
         "id": "DESC_Engrammer_HealingArea",
-        "id_number": -1,
+        "id_number": 0,
         "value": "スペルキャスターのヒールスキル。\n自分のいる場所を中心に、継続回復効果のオーラを放つ。",
         "translation": ""
     },
     {
+        "id": "TITLE_Engrammer_Meteo",
+        "id_number": 0,
+        "value": "【CAT】メテオインフェルノ",
+        "translation": ""
+    },
+    {
         "id": "DESC_Engrammer_Meteo",
-        "id_number": -1,
+        "id_number": 0,
         "value": "スペルキャスターのアルティメットスキル。\n指定した箇所に隕石を落とし範囲ダメージを与える。",
         "translation": ""
     },
     {
+        "id": "TITLE_BuffDebuff",
+        "id_number": 0,
+        "value": "バフ・デバフアイコン一覧と効果説明",
+        "translation": ""
+    },
+    {
         "id": "DESC_BuffDebuff_01",
-        "id_number": -1,
-        "value": "1　攻撃無効…攻撃を受けない。味方からの回復は受ける\n2　攻撃力アップ…与えるダメージが増加する\n3　攻撃力ダウン…与えるダメージが減少する\n4　防御力アップ…受けるダメージが減少する\n5　防御力ダウン…受けるダメージが増加する",
+        "id_number": 0,
+        "value": "1　スタン…気絶して、一定時間操作不能になります。\n2　スタン無効…「スタン」を受け付けない状態です。\n3　スリープ…眠りに陥り、一定時間操作不能になります。\n4　毒…一定時間継続して小ダメージが入ります。\n5　虚弱…HPの最大値や移動速度が低下した状態です。",
         "translation": ""
     },
     {
         "id": "DESC_BuffDebuff_02",
-        "id_number": -1,
-        "value": "1　HP吸収…攻撃を当てた際、与えたダメージの一部をHPに変換\n2　リアクション無効…攻撃を受けてもリアクションを取らない状態\n3　スタン…行動できなくなった状態 \n4　スタン無効…スタンにならない状態\n5　炎上…炎により継続ダメージが発生している状態",
+        "id_number": 0,
+        "value": "1　無敵状態…一定時間ダメージを受けなくなります。\n2　攻撃力アップ…与えるダメージが増えます。\n3　攻撃力ダウン…与えるダメージが減ります。\n4　防御力アップ…エネミーから受けるダメージが減ります。\n5　防御力ダウン…エネミーから受けるダメージが増えます。",
         "translation": ""
     },
     {
         "id": "DESC_BuffDebuff_03",
-        "id_number": -1,
-        "value": "1　凍傷…氷により継続ダメージが発生している状態\n2　帯電…雷により継続ダメージが発生している状態\n3　毒…毒により継続ダメージが発生している状態\n4　HP自動回復…HPが継続回復。非戦闘時の自然回復とは別\n5　EP自動回復…EPが継続回復。スペルキャスター専用",
+        "id_number": 0,
+        "value": "1　HP吸収…与えたダメージの一部を自身のHPにします。\n2　HP継続回復…HPが一定間隔で少量ずつ回復します。\n3　EP継続回復…EPが一定間隔で少量ずつ回復します。\n4　クイックチャージ…溜め攻撃の溜め速度が短くなります。\n5　スローチャージ…溜め攻撃の溜め速度が長くなります。",
         "translation": ""
     },
     {
         "id": "DESC_BuffDebuff_04",
-        "id_number": -1,
-        "value": "1　チャージ短縮…溜め動作を要する攻撃の溜め速度短縮\n2　チャージ遅延…溜め動作を要する攻撃の溜め速度延長\n3　インターバル遅延：スキル…スキルのインターバル延長\n4　インターバル短縮：スキル…スキルのインターバル短縮\n5　インターバル遅延：ULTスキル…ULTスキルのインターバル延長",
+        "id_number": 0,
+        "value": "1　クイックインターバル…スキルのインターバルが短くなります。\n2　スローインターバル…スキルのインターバルが長くなります。\n3　移動速度アップ…移動速度が速くなります。\n4　移動速度ダウン…移動速度が遅くなります。\n5　スーパーアーマー…「怯み」状態にならなくなります。",
         "translation": ""
     },
     {
         "id": "DESC_BuffDebuff_05",
-        "id_number": -1,
-        "value": "1　インターバル短縮：ULTスキル…ULTスキルのインターバル短縮\n2　インターバル遅延：イマジン…バトルイマジンのインターバル延長\n3　インターバル短縮：イマジン…バトルイマジンのインターバル短縮\n4　移動速度アップ…移動速度上昇\n5　移動速度ダウン…移動速度低下",
+        "id_number": 0,
+        "value": "1　ガードブレイク状態…シールドを使った技が使えなくなります。\n　（イージスファイター専用）\n2　シールドアップ…一定時間、シールドゲージを消費しません。\n　（イージスファイター専用）",
         "translation": ""
     },
     {
         "id": "DESC_BuffDebuff_06",
-        "id_number": -1,
-        "value": "1　シールド強化…イージスファイター専用、以下の効果を得る\n　・ガード成功時のシールドゲージ消費なし\n　・ガード成功時にタクティカルスキルのインターバル短縮\n　・ガード成功時のアルティメットスキルゲージ上昇量アップ\n2　シールドブレイク…イージスファイター専用。ガード不能状態",
+        "id_number": 0,
+        "value": "（CBT不使用）",
         "translation": ""
     },
     {
-        "id": "DESC_TutorialHelp",
-        "id_number": -1,
-        "value": "一度見たチュートリアルヘルプは\nコマンドメニューの図鑑で再度確認することができます。",
+        "id": "TITLE_Mission",
+        "id_number": 0,
+        "value": "ミッション",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Mission",
+        "id_number": 0,
+        "value": "ソロ、または現在のパーティメンバーで\nダンジョンを攻略できます。\n中には即席パーティで参戦できる\n「マッチング申請」が可能なミッションもあります。 ",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Seimyakukou",
+        "id_number": 0,
+        "value": "星脈孔",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Seimyakukou",
+        "id_number": 0,
+        "value": "「星脈孔」は、いわば天然の転送ポータルです。\n世界各地に点在し、それぞれ異なった場所に繋がっているので\n見かけたら調べてみると良いでしょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_SynthesisShop_01",
+        "id_number": 0,
+        "value": "融着",
+        "translation": ""
+    },
+    {
+        "id": "DESC_SynthesisShop_01_00",
+        "id_number": 0,
+        "value": "空きスロットのある武器にバトルイマジンを「融着」できます。\n<span color=\"Emphasis\">（融着させるイマジンは倉庫に入れておく必要があります）</>\n融着したイマジンは消えてしまいますが、そのイマジンの\nアビリティの効果を武器に持たせることができます。\n（空きスロットのない武器にはそれ以上融着できません）",
+        "translation": ""
+    },
+    {
+        "id": "DESC_SynthesisShop_01_01",
+        "id_number": 0,
+        "value": "融着時の精度が高いほどアビリティの効果は高まります。\nどの程度の精度で融着されたアビリティであるかは、\n武器スロットの★の数で確認できます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Raid",
+        "id_number": 0,
+        "value": "レイドミッション",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Raid",
+        "id_number": 0,
+        "value": "この先は強力な敵が待ち構えるレイドミッションです。\nミッションに挑戦できる時間には制限があるので、\n入口が解放されていない時はまた後で訪れましょう。\nこのミッションでは、クリア時にランキングが表示され、\n部門別で上位に入るとクリア時のGCにボーナスがつきます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Parts_destruction",
+        "id_number": 0,
+        "value": "部位破壊",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Parts_destruction",
+        "id_number": 0,
+        "value": "一部の巨大エネミーは体の一部分を破壊することができます。\n部位を破壊された時はダウン時間が長くなるため\n破壊できる部位を積極的に狙っていきましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Autorun",
+        "id_number": 0,
+        "value": "オートラン",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Autorun_00",
+        "id_number": 0,
+        "value": "<span color=\"Action\">【</><key color=\"Action\" action=\"AutoRun\"/><span color=\"Action\">】</>でオートランができます。\nオートラン中は移動ボタンを押さなくても、\n自動的にキャラクターが走っていきます。\nキャラクターはカメラの方向に走っていくので、\n走りたい方向にカメラを向けましょう。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Autorun_01",
+        "id_number": 0,
+        "value": "さらに<span color=\"Action\">【</><key color=\"Action\" action=\"Dash\"/><span color=\"Action\">】</>を押しながらカメラを操作すると、\n走る方向を固定したままカメラを回すことができます。\nレグナスの世界を十分に堪能しましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_BattleScore",
+        "id_number": 0,
+        "value": "バトルスコア",
+        "translation": ""
+    },
+    {
+        "id": "DESC_BattleScore",
+        "id_number": 0,
+        "value": "バトルスコアは、プレイヤーの強さを総合的に表したものです。\n必要バトルスコアが設定されているミッションでは、\nスコアが不足しているとそのミッションを開始できません。\n武器やインナーイマジンを新しくする、精練するなどして\nバトルスコアをあげましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_BuffObject",
+        "id_number": 0,
+        "value": "サプライヤー",
+        "translation": ""
+    },
+    {
+        "id": "DESC_BuffObject",
+        "id_number": 0,
+        "value": "ダンジョン内に設置されている強化装置です。\n使用<span color=\"Action\">【</><key color=\"Action\" action=\"Interaction\"/><span color=\"Action\">】</>すると一時的に能力が上昇するので、\n見かけたら使ってみましょう。\n「スピードアップ」「徐々にHP回復」「攻撃力アップ」の\n3つの効果があります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Screenshot",
+        "id_number": 0,
+        "value": "スクリーンショット機能",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Screenshot_00",
+        "id_number": 0,
+        "value": "BLUE PROTOCOLの世界をスクリーンショットで保存できます。\nゲーム中<span color=\"Action\">【Insert】</>を押すと撮影できます。\n（CBTでは、ゲームパッドでの撮影はできません）\n本機能で撮影した画像は外部への投稿も可能なので、\n自身の活躍を記録しておきましょう。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Screenshot_01",
+        "id_number": 0,
+        "value": "撮影した画像は、以下のフォルダに納められています。\n　（Windowsの「マイ ドキュメント」フォルダ）\n　　\\BlueProtocol\\Screenshots",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_01_NomalSkill",
+        "id_number": 0,
+        "value": "イージスファイター - ブレイクスラッシュ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_01_NomalSkill_00",
+        "id_number": 0,
+        "value": "通常攻撃の４段コンボです。\n移動ボタンの入力をしないままだと、縦切りでフィニッシュ。\n左右を入力すると回転斬りでフィニッシュします。\nスキルボードでレベルアップさせることにより、\nフィニッシュ技が増えます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_01_NomalSkill_01",
+        "id_number": 0,
+        "value": "Lv2で<span color=\"Action\">【</><key color=\"Action\" action=\"MoveFront\"/><span color=\"Action\">】</>を入れながらの３段コンボが追加されます。\nフィニッシュ技は<span color=\"Emphasis\">光属性</>の突き攻撃です。\nLv3では<span color=\"Action\">【</><key color=\"Action\" action=\"Moveback\"/><span color=\"Action\">】</>を入力することで２段コンボになり、\n盾でエネミーを攻撃し、自身に防御力アップのバフを付与します。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_01_RightSkill",
+        "id_number": 0,
+        "value": "イージスファイター - シールドガード",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_01_RightSkill_00",
+        "id_number": 0,
+        "value": "<span color=\"Action\">【</><key color=\"Action\" action=\"SubAction\"/><span color=\"Action\">】</>で行える、移動可能の防御行動です。\nシールドガード中にエネミーの攻撃を受けてもHPは減りませんが、\n代わりに「シールドゲージ」が減少し、ゲージが0になると\nしばらく盾関連のアクションが使用不可になります。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_01_RightSkill_01",
+        "id_number": 0,
+        "value": "シールドガード中に<span color=\"Action\">【</><key color=\"Action\" action=\"MainAction\"/><span color=\"Action\">】</>を入力すると、\n短時間だけ「構え状態」になります。\n構え状態中にエネミーの攻撃を受けると、\n強力なカウンタースラッシュを発動させることができます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_01_Tac1_B",
+        "id_number": 0,
+        "value": "イージスファイター - シールドチャージ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_01_Tac1_B",
+        "id_number": 0,
+        "value": "盾を構えた突進攻撃です。突進中はガード状態になり、\nさらに突進に当たったエネミーにスタンを付与します。\nLv2になると突進後に突きを追加、\nLv3でさらに盾で攻撃しエネミーを吹き飛ばします。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_01_Tac1_C",
+        "id_number": 0,
+        "value": "イージスファイター - サンライズチャージ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_01_Tac1_C",
+        "id_number": 0,
+        "value": "盾を構えた突進攻撃です。突進中はガード状態になり、\nエネミーにヒット後、<span color=\"Emphasis\">光属性</>の小さい範囲爆発が発生します。\nLv2になると突き攻撃、Lv3で盾攻撃が追加され、\n攻撃後の光属性範囲爆発の範囲も広がります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_01_Tac2_A",
+        "id_number": 0,
+        "value": "イージスファイター - ブロウビート",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_01_Tac2_A",
+        "id_number": 0,
+        "value": "全方位に衝撃波攻撃を行い、エネミーの注意を引きつけます。\nLv2になるとボタン長押しでチャージが可能になり、\nチャージ時間に応じて威力が増加します。\nさらにLv3になると、衝撃波にあたったエネミーを\n引き寄せることができます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_01_Tac2_C",
+        "id_number": 0,
+        "value": "イージスファイター - セレストピラー",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_01_Tac2_C",
+        "id_number": 0,
+        "value": "自身の周囲に光の柱を作り出し、\n数秒間<span color=\"Emphasis\">光属性</>の範囲ダメージを与えます。\nLv2、Lv3と上げることでボタン長押しでチャージが可能になり、\nチャージ段階に応じて威力と属性異常の蓄積値が増加します。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_01_Tac3_B",
+        "id_number": 0,
+        "value": "イージスファイター - ディバイドスラッシュ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_01_Tac3_B",
+        "id_number": 0,
+        "value": "エネミー貫通する斬撃を前方に飛ばします。\n衝撃波はLv2になると２つ、Lv3になると３つになります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_01_Tac3_C",
+        "id_number": 0,
+        "value": "イージスファイター - クレセントライト",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_01_Tac3_C",
+        "id_number": 0,
+        "value": "<span color=\"Emphasis\">光属性</>の力強い横切りを繰り出します。\nLv2になると横切りが2回になります。\nLv3になるとインターバルが短くなります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_01_Tac4_B",
+        "id_number": 0,
+        "value": "イージスファイター - フォートレス",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_01_Tac4_B",
+        "id_number": 0,
+        "value": "スキル発動中、 シールドゲージを消費しない持続型スキルです。\nまた、ガード成功時にスキルとアルティメットスキルの\nインターバルが短縮されます。\nLv2になるとスキルの効果時間が延長され、\nLv3ではこのスキル自体のインターバルが短くなります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_01_Tac4_C",
+        "id_number": 0,
+        "value": "イージスファイター - リジェネレーション",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_01_Tac4_C",
+        "id_number": 0,
+        "value": "スキル使用後、一定時間自動的にHPが回復します。\nLv2になるとスキルの効果時間が延長され、\nLv3ではこのスキル自体のインターバルが短くなります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_01_ULT",
+        "id_number": 0,
+        "value": "イージスファイター - ジャッジメントシールド",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_01_ULT",
+        "id_number": 0,
+        "value": "盾を使い、前方へ巨大な<span color=\"Emphasis\">光属性</>の衝撃波を撃ち出します。\nシールドブレイク中でも使用でき、\n使用後はシールドゲージが全回復します。\nガード成功時はジャッジメントシールドのインターバルが\n若干短縮されます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_02_NomalSkill",
+        "id_number": 0,
+        "value": "ツインストライカー - ビーストスイング",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_02_NomalSkill_00",
+        "id_number": 0,
+        "value": "通常攻撃の４段コンボです。\n移動ボタンの入力をしないと、単体向けのコンボに、\n左右を入力すると範囲攻撃でコンボを終了します。\nスキルボードでレベルアップさせることにより、\nフィニッシュ技が増えます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_02_NomalSkill_01",
+        "id_number": 0,
+        "value": "Lv2で<span color=\"Action\">【</><key color=\"Action\" action=\"MoveFront\"/><span color=\"Action\">】</>を入れながらの３段コンボが追加されます。\nフィニッシュ技は<span color=\"Emphasis\">火属性</>ダメージの突き攻撃です。\nLv3では<span color=\"Action\">【</><key color=\"Action\" action=\"Moveback\"/><span color=\"Action\">】</>を入力することで２段コンボになり、\n自身に攻撃力アップのバフを付与します。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_02_RightSkill",
+        "id_number": 0,
+        "value": "ツインストライカー - アクストルネード",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_02_RightSkill",
+        "id_number": 0,
+        "value": "斧を持った両手を大きく回転させて斬りかかります。\nスキルの発動中はスーパーアーマー状態になり、\n被ダメージも軽減されます。\nLv2ではエネミーがのけぞり状態になりやすくなり、\nLv3では止めの一撃が追加されます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_02_Tac1_A",
+        "id_number": 0,
+        "value": "ツインストライカー - ブルータルブロウ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_02_Tac1_A",
+        "id_number": 0,
+        "value": "両手で斧を回す横薙ぎ攻撃です。\nLv2になるとボタン長押しでチャージが可能になり、\nLv3になるとチャージ段階と最大威力が増加します。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_02_Tac1_C",
+        "id_number": 0,
+        "value": "ツインストライカー - クリムゾンブロウ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_02_Tac1_C",
+        "id_number": 0,
+        "value": "両手で斧を勢いよく回す<span color=\"Emphasis\">火属性</>の横薙ぎ攻撃です。\nLv2になるとヒット数が増加し、\n属性の状態異常を起こしやすくします。\nLv3になるとボタン長押しでチャージが可能になります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_02_Tac2_B",
+        "id_number": 0,
+        "value": "ツインストライカー - フォールインパクト",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_02_Tac2_B",
+        "id_number": 0,
+        "value": "ターゲットに向かってジャンプし、\n着地時に範囲ダメージを与えます。\nLv2になるとヒットしたエネミーが怯みやすくなります。\nLv3になると最後の範囲ダメージ範囲とダメージがアップします。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_02_Tac2_C",
+        "id_number": 0,
+        "value": "ツインストライカー - ラーヴァインパクト",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_02_Tac2_C",
+        "id_number": 0,
+        "value": "ターゲットに向かって短くジャンプし、\n着地時に<span color=\"Emphasis\">火属性</>の持続範囲攻撃を行います。\nLv2、Lv3とあがっていくと、攻撃回数が増えていきます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_02_Tac3_A",
+        "id_number": 0,
+        "value": "ツインストライカー - ストームラッシュ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_02_Tac3_A",
+        "id_number": 0,
+        "value": "その場で2段コンボを放ちます。\nLv2、3とあげることで、コンボ数が増えていきます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_02_Tac3_C",
+        "id_number": 0,
+        "value": "ツインストライカー - バーニングラッシュ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_02_Tac3_C",
+        "id_number": 0,
+        "value": "その場で<span color=\"Emphasis\">火属性</>の2段コンボを放ちます。\nLv2、3とあげることで、コンボ数が増えていきます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_02_Tac4_A",
+        "id_number": 0,
+        "value": "ツインストライカー - ウォークライ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_02_Tac4_A",
+        "id_number": 0,
+        "value": "自身にスーパーアーマーを付与します。\nLv2になると効果時間が延長され、\nLv3ではスキルのインターバルが短くなります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_02_Tac4_B",
+        "id_number": 0,
+        "value": "ツインストライカー - ブラッドアックス",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_02_Tac4_B",
+        "id_number": 0,
+        "value": "自身の攻撃にHP吸収効果を付与します。\nLv2になるとHP吸収効果の時間が延長され、\nLv3ではスキルのインターバルが短くなります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_02_ULT",
+        "id_number": 0,
+        "value": "ツインストライカー - ヴォルテクスインパクト",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_02_ULT",
+        "id_number": 0,
+        "value": "両手の斧で勢いよくエネミーを打ち上げ、 \n自身も飛び上がって回転攻撃をしながら\nエネミーを叩き落します。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_03_NomalSkill",
+        "id_number": 0,
+        "value": "ブラストアーチャー - アローラッシュ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_03_NomalSkill_00",
+        "id_number": 0,
+        "value": "通常攻撃の４段コンボです。\n2撃目中に<span color=\"Action\">【</><key color=\"Action\" action=\"MainAction\"/><span color=\"Action\">】</>長押しで\n5方向に矢を放つ範囲攻撃になります。\nスキルボードでレベルアップさせることにより、\nフィニッシュ技が増えます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_03_NomalSkill_01",
+        "id_number": 0,
+        "value": "Lv2で3撃目中に<span color=\"Action\">【</><key color=\"Action\" action=\"MainAction\"/><span color=\"Action\">】</>長押しで\n着弾地点から<span color=\"Emphasis\">土属性</>の衝撃波を発生させます。\nLv3では一撃目中に<span color=\"Action\">【</><key color=\"Action\" action=\"MainAction\"/><span color=\"Action\">】</>長押しで、\n着弾したら周囲に移動速度上昇のバフを与える矢を放ちます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_03_RightSkill",
+        "id_number": 0,
+        "value": "ブラストアーチャー - スラロームショット",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_03_RightSkill",
+        "id_number": 0,
+        "value": "スタミナを消費しますが、素早く移動しながらの射撃を行います。\n移動方向は移動ボタンで変更でき、攻撃中に<span color=\"Action\">【</><key color=\"Action\" action=\"MainAction\"/><span color=\"Action\">】</>で\nキャンセル攻撃も可能です。\nLv2で移動距離が増加し、Lv3ではスタミナの消費量が減少します。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_03_Tac1_B",
+        "id_number": 0,
+        "value": "ブラストアーチャー - ストライクアロー",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_03_Tac1_B",
+        "id_number": 0,
+        "value": "高威力の矢を1本放ちます。\nLv2になるとボタン長押しでチャージが可能になり、\nLv3になるとチャージ段階と最大威力が増加します。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_03_Tac1_C",
+        "id_number": 0,
+        "value": "ブラストアーチャー - ヒプノブラスト",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_03_Tac1_C",
+        "id_number": 0,
+        "value": "当たったものに睡眠効果をもたらす矢を1本放ちます。\nLv2になると、矢がエネミーを貫通します。\nLv3になるとボタン長押しでチャージが可能になります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_03_Tac2_B",
+        "id_number": 0,
+        "value": "ブラストアーチャー - スタンピードアロー",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_03_Tac2_B",
+        "id_number": 0,
+        "value": "エネミーを追従する矢を複数本放ちます。\nLv2では矢の本数が増え、\nLv3になると追加入力でフィニッシュ攻撃が追加されます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_03_Tac2_C",
+        "id_number": 0,
+        "value": "ブラストアーチャー - ネガティブレゾナンス",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_03_Tac2_C",
+        "id_number": 0,
+        "value": "1本の矢を放ち、ヒット対象が属性の状態効果を持っていた場合、\nその効果を対象の周囲のエネミーに拡散させます。\nLv2になると拡散範囲が広がり、\nLv3になると追加入力でフィニッシュ攻撃が追加されます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_03_Tac3_B",
+        "id_number": 0,
+        "value": "ブラストアーチャー - リーサルシャワー",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_03_Tac3_B",
+        "id_number": 0,
+        "value": "一定範囲に矢の雨を降らせます。\nLv2になるとボタン長押しでチャージが可能になり、\nLv3になるとチャージ段階と最大威力が増加します。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_03_Tac3_C",
+        "id_number": 0,
+        "value": "ブラストアーチャー - ダストフォース",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_03_Tac3_C",
+        "id_number": 0,
+        "value": "一定範囲に<span color=\"Emphasis\">土属性</>のダメージエリアを作り、\n範囲内にいるエネミーの属性状態異常を強化します。\nLv2になるとボタン長押しでチャージが可能になり、\nLv3になるとチャージ段階と最大威力が増加します。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_03_Tac4_A",
+        "id_number": 0,
+        "value": "ブラストアーチャー - ヒーリングアロー",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_03_Tac4_A",
+        "id_number": 0,
+        "value": "一定範囲に<span color=\"Emphasis\">味方を回復する</>エリアを作り出します。\nLv2になるとボタン長押しでチャージが可能になり、\nチャージすることで回復量が増え、効果範囲も広くなります。\nLv3になるとチャージ段階が増え、\n最大までチャージすると効果エリアの持続時間も延長されます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_03_Tac4_B",
+        "id_number": 0,
+        "value": "ブラストアーチャー - ハンタースピリット",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_03_Tac4_B",
+        "id_number": 0,
+        "value": "自身のインターバルを短縮します。\nLv2になるとスキルの効果時間が延長され、\nLv3になるとスキルのインターバルが短縮されます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_03_ULT",
+        "id_number": 0,
+        "value": "ブラストアーチャー - モータルグラビティ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_03_ULT",
+        "id_number": 0,
+        "value": "単発の矢を放ち、\n着弾後にエネミーを引き寄せる範囲攻撃エリアを展開します。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_04_NomalSkill",
+        "id_number": 0,
+        "value": "スペルキャスター - トリニティショット",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_04_NomalSkill_00",
+        "id_number": 0,
+        "value": "魔法弾の３段コンボです。\n左右を入力すると３発目の魔法弾に\nノックバックの効果が追加されます。\nスキルボードでレベルアップさせることにより、\nフィニッシュ技が増えます。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_04_NomalSkill_01",
+        "id_number": 0,
+        "value": "Lv2になると<span color=\"Action\">【</><key color=\"Action\" action=\"MoveFront\"/><span color=\"Action\">】</>を入力することで\n3発目の魔法弾に鈍足効果がつきます。\nLv3では<span color=\"Action\">【</><key color=\"Action\" action=\"Moveback\"/><span color=\"Action\">】</>を入力することで、\n3発目発射時に自身にラピッドチャージを付与します。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_04_RightSkill",
+        "id_number": 0,
+        "value": "スペルキャスター - エングラムチャージ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_04_RightSkill",
+        "id_number": 0,
+        "value": "EPを回復するスキルです。\n長押しすることで、続けてEPを回復し続けることができます。\nLv2になると回復速度が上昇し、\nLv3になるとスキル発動時のEP回復量が増加します。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_04_Tac1_A",
+        "id_number": 0,
+        "value": "スペルキャスター - ファイアブラスト",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_04_Tac1_A",
+        "id_number": 0,
+        "value": "炎の玉を撃ちだし、エネミーに<span color=\"Emphasis\">火属性</>のダメージを与えます。\nLv2になるとボタン長押しでチャージが可能になり、\nLv3になるとチャージ段階と最大威力が増加します。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_04_Tac1_B",
+        "id_number": 0,
+        "value": "スペルキャスター - サンダーマイン",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_04_Tac1_B",
+        "id_number": 0,
+        "value": "<span color=\"Emphasis\">雷属性</>の低速誘導弾を放ちます。\nエネミーにヒットすると炸裂し、<span color=\"Emphasis\">雷属性</>の範囲ダメージを与えます。\nLv2になるとボタン長押しでチャージが可能になり、\nチャージすると誘導弾の数が増えます。\nLv3になるとチャージ段階と誘導弾の数がさらに増えます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_04_Tac2_A",
+        "id_number": 0,
+        "value": "スペルキャスター - ライトニング",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_04_Tac2_A",
+        "id_number": 0,
+        "value": "<span color=\"Emphasis\">雷属性</>の、貫通するビームを放ち\n範囲ダメージを与えます。\nLv2になるとボタン長押しでチャージが可能になり、\nチャージするとビームの数が増えます。\nLv3になるとチャージ段階とビームの数がさらに増えます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_04_Tac2_B",
+        "id_number": 0,
+        "value": "スペルキャスター - フリジッドクラッシュ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_04_Tac2_B",
+        "id_number": 0,
+        "value": "巨大な氷塊を召喚し、一定範囲に\n<span color=\"Emphasis\">氷属性</>のダメージを与えます。\nLv2になるとボタン長押しでチャージが可能になり、\nチャージすると落下する氷の塊の数が増えます。\nLv3になるとチャージ段階と氷塊の数がさらに増えます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_04_Tac3_A",
+        "id_number": 0,
+        "value": "スペルキャスター - ブリザード",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_04_Tac3_A",
+        "id_number": 0,
+        "value": "一定範囲に継続して<span color=\"Emphasis\">氷属性</>のダメージを与える\n氷の嵐を呼び起こします。\nLv2になるとボタン長押しでチャージが可能になり、\nLv3になるとさらにチャージ段階とダメージがさらにアップします。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_04_Tac3_B",
+        "id_number": 0,
+        "value": "スペルキャスター - フレイムグレネード",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_04_Tac3_B",
+        "id_number": 0,
+        "value": "火炎弾を放ち、<span color=\"Emphasis\">炎属性</>の範囲ダメージを与えます。\nLv2になるとボタン長押しでチャージが可能になり、\nLv3になるとさらにチャージ段階とダメージがさらにアップします。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_04_Tac4_A",
+        "id_number": 0,
+        "value": "スペルキャスター - コンセントレーション",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_04_Tac4_A",
+        "id_number": 0,
+        "value": "一定時間EP継続回復の効果を得ます。\nLv2になると効果時間が延長され、\nLv3ではスキルのインターバルが短くなります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_04_Tac4_B",
+        "id_number": 0,
+        "value": "スペルキャスター - フォローバレット",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_04_Tac4_B",
+        "id_number": 0,
+        "value": "自身の周囲にエングラム塊を出現させ、属性攻撃をした際に\nエングラム塊が同じ属性の追加攻撃を行います。\nLv2になるとエングラム塊の召喚時間が長くなり、\nLv3になるとスキルのインターバルが短くなります。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_PL_04_ULT",
+        "id_number": 0,
+        "value": "スペルキャスター - メテオインフェルノ",
+        "translation": ""
+    },
+    {
+        "id": "DESC_PL_04_ULT",
+        "id_number": 0,
+        "value": "空より巨大な隕石を呼び寄せ、一定範囲を攻撃します。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Costume",
+        "id_number": 0,
+        "value": "衣装",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Costume_00",
+        "id_number": 0,
+        "value": "メインクエストを進めると手に入るGC（グローリーコイン）は\n衣装などと交換できます。\n開拓局の「GC交換所」で交換を受け付けていますので、\n素敵な衣装を手に入れ、キャラクターをより魅力的にしましょう。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Costume_01",
+        "id_number": 0,
+        "value": "素敵な衣装の入手には相応のGCが必要になりますが、\nGCはメインクエスト以外でも\nミッションの「闘技場」や「タイムアタック」、\nレイドバトル（「虚空の浮島」エリアの敵を討伐）で\n報酬としてもらえます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Traverse",
+        "id_number": 0,
+        "value": "フィールド踏破",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Traverse",
+        "id_number": 0,
+        "value": "フィールドを初めて訪れた時は、コマンドメニューから\n確認できるマップは「雲」で覆われています。\nフィールドのどこかに存在する「踏破スポット」を調べると\nマップ上の雲を晴らすことができるので、\nまずは近くの「踏破スポット」を探しましょう。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_Emote",
+        "id_number": 0,
+        "value": "ジェスチャー",
+        "translation": ""
+    },
+    {
+        "id": "DESC_Emote",
+        "id_number": 0,
+        "value": "コミュニケートメニューからジェスチャーをすることで、\n他プレイヤーに向けたジェスチャーをすることができます。",
+        "translation": ""
+    },
+    {
+        "id": "TITLE_MouseCursor",
+        "id_number": 0,
+        "value": "マウスカーソルモード",
+        "translation": ""
+    },
+    {
+        "id": "DESC_MouseCursor_01",
+        "id_number": 0,
+        "value": "トークモード中、<span color=\"Action\">【</><key color=\"Action\" action=\"CameraControl\" operateMode=\"MouseAndKeyboard\"/><span color=\"Action\">】</>(キーボード)か\n<span color=\"Action\">【左スティック】</>(ゲームパッド)を入力することで\nカーソルを動かして、NPCや他プレイヤーを選択できます。\nNPCや他プレイヤーだけを選んで選択できるので、\nポータルの近くにいるキャラに話したいときなどに使いましょう。",
+        "translation": ""
+    },
+    {
+        "id": "DESC_MouseCursor_02",
+        "id_number": 0,
+        "value": "マウスカーソルモード中は\nキーボードの<span color=\"Action\">【↑↓←→】</>で\nカメラを操作することができます。",
         "translation": ""
     }
 ]

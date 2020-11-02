@@ -2,8 +2,8 @@
     {
         "id": "1",
         "id_number": 1,
-        "value": "決定",
-        "translation": "Decision"
+        "value": "次へ",
+        "translation": ""
     },
     {
         "id": "2",
@@ -56,8 +56,8 @@
     {
         "id": "10",
         "id_number": 10,
-        "value": "性別・体格",
-        "translation": "Gender / Body"
+        "value": "体格",
+        "translation": ""
     },
     {
         "id": "11",
@@ -80,26 +80,26 @@
     {
         "id": "14",
         "id_number": 14,
-        "value": "クラスを選択します",
-        "translation": "Select a class"
+        "value": "顔タイプと体格を選択します",
+        "translation": ""
     },
     {
         "id": "15",
         "id_number": 15,
-        "value": "性別と体格を選択します(体格によって選択できる顔タイプが異なります)",
-        "translation": "Select your gender and body (the face types you can select depend on your body)"
+        "value": "顔と髪型を選択します",
+        "translation": ""
     },
     {
         "id": "16",
         "id_number": 16,
-        "value": "顔と髪型を選択します",
-        "translation": "Select face and hairstyle"
+        "value": "衣装を選択します",
+        "translation": ""
     },
     {
         "id": "17",
         "id_number": 17,
-        "value": "衣装を選択します",
-        "translation": "Choose a costume"
+        "value": "インナーを選択します",
+        "translation": ""
     },
     {
         "id": "18",

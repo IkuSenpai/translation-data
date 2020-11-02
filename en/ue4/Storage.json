@@ -72,6 +72,24 @@
         "translation": "Move"
     },
     {
+        "id": "16",
+        "id_number": 16,
+        "value": "倉庫",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "装備品を選択してください",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "アイテムを選択してください",
+        "translation": ""
+    },
+    {
         "id": "100",
         "id_number": 100,
         "value": "移動元をクリックしてください。",
@@ -250,5 +268,95 @@
         "id_number": 944,
         "value": "アカウント倉庫のチケット枠がいっぱいです",
         "translation": "Account warehouse ticket slots are full"
+    },
+    {
+        "id": "1001",
+        "id_number": 1001,
+        "value": "消費・素材",
+        "translation": ""
+    },
+    {
+        "id": "1002",
+        "id_number": 1002,
+        "value": "装備品",
+        "translation": ""
+    },
+    {
+        "id": "2000",
+        "id_number": 2000,
+        "value": "アイテム鑑定",
+        "translation": ""
+    },
+    {
+        "id": "2001",
+        "id_number": 2001,
+        "value": "入手したアイテムを鑑定します",
+        "translation": ""
+    },
+    {
+        "id": "2002",
+        "id_number": 2002,
+        "value": "入手したアイテムを倉庫へ送ります",
+        "translation": ""
+    },
+    {
+        "id": "2003",
+        "id_number": 2003,
+        "value": "倉庫所蔵数の上限に達したため、以下のアイテムを売却されます",
+        "translation": ""
+    },
+    {
+        "id": "2004",
+        "id_number": 2004,
+        "value": "次へ",
+        "translation": ""
+    },
+    {
+        "id": "2005",
+        "id_number": 2005,
+        "value": "OK",
+        "translation": ""
+    },
+    {
+        "id": "2006",
+        "id_number": 2006,
+        "value": "+'{money}",
+        "translation": ""
+    },
+    {
+        "id": "2007",
+        "id_number": 2007,
+        "value": "鑑定",
+        "translation": ""
+    },
+    {
+        "id": "2008",
+        "id_number": 2008,
+        "value": "送る",
+        "translation": ""
+    },
+    {
+        "id": "2009",
+        "id_number": 2009,
+        "value": "売却",
+        "translation": ""
+    },
+    {
+        "id": "SalePrice",
+        "id_number": 0,
+        "value": "{UnitPrice}ルーノ × {Num}個 = 売却価格:{TotalPrice}ルーノ",
+        "translation": ""
+    },
+    {
+        "id": "OverflowBag",
+        "id_number": 0,
+        "value": "バッグがいっぱいです",
+        "translation": ""
+    },
+    {
+        "id": "OverflowStorage",
+        "id_number": 0,
+        "value": "倉庫がいっぱいです",
+        "translation": ""
     }
 ]

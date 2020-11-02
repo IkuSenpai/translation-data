@@ -14,7 +14,7 @@
     {
         "id": "3",
         "id_number": 3,
-        "value": "パーティ勧誘到着",
+        "value": "招待が届きました",
         "translation": ""
     },
     {
@@ -170,7 +170,7 @@
     {
         "id": "29",
         "id_number": 29,
-        "value": "拒否",
+        "value": "辞退",
         "translation": ""
     },
     {
@@ -297,6 +297,342 @@
         "id": "54",
         "id_number": 54,
         "value": "ダンジョンからリタイアするとパーティからも脱退します。\nよろしいですか?",
+        "translation": ""
+    },
+    {
+        "id": "60",
+        "id_number": 60,
+        "value": "パーティメンバー",
+        "translation": ""
+    },
+    {
+        "id": "61",
+        "id_number": 61,
+        "value": "募集リスト",
+        "translation": ""
+    },
+    {
+        "id": "62",
+        "id_number": 62,
+        "value": "募集する",
+        "translation": ""
+    },
+    {
+        "id": "63",
+        "id_number": 63,
+        "value": "絞り込み",
+        "translation": ""
+    },
+    {
+        "id": "64",
+        "id_number": 64,
+        "value": "検索",
+        "translation": ""
+    },
+    {
+        "id": "65",
+        "id_number": 65,
+        "value": "参加",
+        "translation": ""
+    },
+    {
+        "id": "66",
+        "id_number": 66,
+        "value": "キャンセル",
+        "translation": ""
+    },
+    {
+        "id": "67",
+        "id_number": 67,
+        "value": "リセット",
+        "translation": ""
+    },
+    {
+        "id": "68",
+        "id_number": 68,
+        "value": "変更",
+        "translation": ""
+    },
+    {
+        "id": "69",
+        "id_number": 69,
+        "value": "取り消す",
+        "translation": ""
+    },
+    {
+        "id": "70",
+        "id_number": 70,
+        "value": "はい",
+        "translation": ""
+    },
+    {
+        "id": "71",
+        "id_number": 71,
+        "value": "いいえ",
+        "translation": ""
+    },
+    {
+        "id": "72",
+        "id_number": 72,
+        "value": "メンバー",
+        "translation": ""
+    },
+    {
+        "id": "73",
+        "id_number": 73,
+        "value": "コンテンツ名",
+        "translation": ""
+    },
+    {
+        "id": "74",
+        "id_number": 74,
+        "value": "募集開始",
+        "translation": ""
+    },
+    {
+        "id": "75",
+        "id_number": 75,
+        "value": "募集取消し",
+        "translation": ""
+    },
+    {
+        "id": "76",
+        "id_number": 76,
+        "value": "再募集",
+        "translation": ""
+    },
+    {
+        "id": "77",
+        "id_number": 77,
+        "value": "パーティメンバーの募集を開始しました",
+        "translation": ""
+    },
+    {
+        "id": "78",
+        "id_number": 78,
+        "value": "パーティメンバーの募集を取り消しました",
+        "translation": ""
+    },
+    {
+        "id": "79",
+        "id_number": 79,
+        "value": "雰囲気",
+        "translation": ""
+    },
+    {
+        "id": "80",
+        "id_number": 80,
+        "value": "目安バトルスコア",
+        "translation": ""
+    },
+    {
+        "id": "81",
+        "id_number": 81,
+        "value": "バトルスコア",
+        "translation": ""
+    },
+    {
+        "id": "82",
+        "id_number": 82,
+        "value": "指定なし",
+        "translation": ""
+    },
+    {
+        "id": "83",
+        "id_number": 83,
+        "value": "コメント",
+        "translation": ""
+    },
+    {
+        "id": "84",
+        "id_number": 84,
+        "value": "以上",
+        "translation": ""
+    },
+    {
+        "id": "85",
+        "id_number": 85,
+        "value": "以下",
+        "translation": ""
+    },
+    {
+        "id": "86",
+        "id_number": 86,
+        "value": "目的",
+        "translation": ""
+    },
+    {
+        "id": "87",
+        "id_number": 87,
+        "value": "クラス",
+        "translation": ""
+    },
+    {
+        "id": "88",
+        "id_number": 88,
+        "value": "現在のバトルスコアを入力",
+        "translation": ""
+    },
+    {
+        "id": "89",
+        "id_number": 89,
+        "value": "だれでも可",
+        "translation": ""
+    },
+    {
+        "id": "90",
+        "id_number": 90,
+        "value": "前回の条件を呼び出す",
+        "translation": ""
+    },
+    {
+        "id": "91",
+        "id_number": 91,
+        "value": "未開放のメンバーがいます",
+        "translation": ""
+    },
+    {
+        "id": "92",
+        "id_number": 92,
+        "value": "募集しない",
+        "translation": ""
+    },
+    {
+        "id": "93",
+        "id_number": 93,
+        "value": "更新",
+        "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "再読込",
+        "translation": ""
+    },
+    {
+        "id": "300",
+        "id_number": 300,
+        "value": "指定なし",
+        "translation": ""
+    },
+    {
+        "id": "301",
+        "id_number": 301,
+        "value": "シナリオ攻略",
+        "translation": ""
+    },
+    {
+        "id": "302",
+        "id_number": 302,
+        "value": "ダンジョン自由探索",
+        "translation": ""
+    },
+    {
+        "id": "303",
+        "id_number": 303,
+        "value": "ミッション",
+        "translation": ""
+    },
+    {
+        "id": "304",
+        "id_number": 304,
+        "value": "レイドバトル",
+        "translation": ""
+    },
+    {
+        "id": "305",
+        "id_number": 305,
+        "value": "闘技場",
+        "translation": ""
+    },
+    {
+        "id": "306",
+        "id_number": 306,
+        "value": "タイムアタック",
+        "translation": ""
+    },
+    {
+        "id": "307",
+        "id_number": 307,
+        "value": "ネームドエネミー",
+        "translation": ""
+    },
+    {
+        "id": "320",
+        "id_number": 320,
+        "value": "募集情報を入力してください",
+        "translation": ""
+    },
+    {
+        "id": "321",
+        "id_number": 321,
+        "value": "バトルスコア：",
+        "translation": ""
+    },
+    {
+        "id": "322",
+        "id_number": 322,
+        "value": "目的：",
+        "translation": ""
+    },
+    {
+        "id": "400",
+        "id_number": 400,
+        "value": "参加条件を満たしていません",
+        "translation": ""
+    },
+    {
+        "id": "401",
+        "id_number": 401,
+        "value": "パーティを組んでいるため参加できません",
+        "translation": ""
+    },
+    {
+        "id": "402",
+        "id_number": 402,
+        "value": "参加条件を満たしていません",
+        "translation": ""
+    },
+    {
+        "id": "403",
+        "id_number": 403,
+        "value": "前回の条件を取得できませんでした",
+        "translation": ""
+    },
+    {
+        "id": "410",
+        "id_number": 410,
+        "value": "パーティ募集を取り消しますか？",
+        "translation": ""
+    },
+    {
+        "id": "411",
+        "id_number": 411,
+        "value": "現在の募集は取り消されます。募集条件を編集しますか？",
+        "translation": ""
+    },
+    {
+        "id": "412",
+        "id_number": 412,
+        "value": "現在の募集は取り消されます。リーダー権を譲渡しますか？",
+        "translation": ""
+    },
+    {
+        "id": "413",
+        "id_number": 413,
+        "value": "現在の募集は取り消されます。パーティを解散しますか？",
+        "translation": ""
+    },
+    {
+        "id": "420",
+        "id_number": 420,
+        "value": "現在のパーティ招待は辞退します。パーティ募集に参加しますか？",
+        "translation": ""
+    },
+    {
+        "id": "421",
+        "id_number": 421,
+        "value": "終了した募集のため参加できません",
         "translation": ""
     }
 ]

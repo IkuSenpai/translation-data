@@ -1,0 +1,590 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "あなたが……",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "……未来を……",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "おはよう、気分はどう？",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "わたしのこと分かる？",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "……良かった",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "それじゃ改めまして。\r\nわたしフェステ！　よろしくね！",
+        "translation": ""
+    },
+    {
+        "id": "6_M",
+        "id_number": 6,
+        "value": "お兄ちゃん、遺跡で倒れちゃったの覚えてる？\r\n運ぶの大変だったんだから！",
+        "translation": ""
+    },
+    {
+        "id": "6_F",
+        "id_number": 6,
+        "value": "お姉ちゃん、遺跡で倒れちゃったの覚えてる？\r\n運ぶの大変だったんだから！",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "あの遺跡は最近発見されたばかりで、\r\n他の人はほとんど知らないはずなんだけど……",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "どうしてあんな所にいたの？",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "え？　ど、どうしよう。倒れたときに頭打ったとか？\r\nでも大きな怪我はなかったし……",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "あ、そうだ名前！　名前は？",
+        "translation": ""
+    },
+    {
+        "id": "11_M",
+        "id_number": 11,
+        "value": "……[プレイヤ名]",
+        "translation": ""
+    },
+    {
+        "id": "11_F",
+        "id_number": 11,
+        "value": "……[プレイヤ名]",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "それ以外は？",
+        "translation": ""
+    },
+    {
+        "id": "13_M",
+        "id_number": 13,
+        "value": "思い出せない……",
+        "translation": ""
+    },
+    {
+        "id": "13_F",
+        "id_number": 13,
+        "value": "思い出せない……",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "そうなんだ……あなたも……",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "……記憶がないのに一人は、寂しいのう",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "実はフェステも、昔のことはあまり思い出せないんだ。\r\nだから仲間、だね？",
+        "translation": ""
+    },
+    {
+        "id": "17_M",
+        "id_number": 17,
+        "value": "そうだ！　フェステ、お兄ちゃんの記憶を\r\n取り戻すお手伝いをしてあげる！",
+        "translation": ""
+    },
+    {
+        "id": "17_F",
+        "id_number": 17,
+        "value": "そうだ！　フェステ、お姉ちゃんの記憶を\r\n取り戻すお手伝いをしてあげる！",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "遺跡で助けてくれたでしょ？\r\nだから、今度はフェステに助けさせて？",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "よーし。そうと決まったら行動あるのみ！",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "体が大丈夫そうなら、もう一回あの遺跡に\r\n行ってみようよ。何か手がかりがあるかも！",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "よしっ！　……あ、そうだ。出かける前に\r\nこの宿帳にサインしておいてくれるカナ？",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "フハハハハハ、よっしゃあ！",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "宿帳とは仮の姿、これはワシとの下僕契約書じゃ！",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "これで、お主は今日からワシの下僕じゃ！\r\nキリキリ働いて、ワシの借金を減らしてもらうぞ！",
+        "translation": ""
+    },
+    {
+        "id": "25_M",
+        "id_number": 25,
+        "value": "な……っ！？",
+        "translation": ""
+    },
+    {
+        "id": "25_F",
+        "id_number": 25,
+        "value": "な……っ！？",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "お主、中々に良い腕をしておったからな。\r\nこのまま逃すのは惜しいと思っとったんじゃ",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "では、改めて自己紹介じゃ。\r\nワシはフェステ、人呼んで永遠の美少女よ",
+        "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "なぁに、心配するな。お主の記憶の手がかり探しを\r\n手伝ってやるのは本当じゃ。ついでに、だがな？",
+        "translation": ""
+    },
+    {
+        "id": "29",
+        "id_number": 29,
+        "value": "では行け、我が下僕よ！\r\nまだ見ぬお宝が待っておるわ！",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "……とまあ、そんなわけでよろしくね、エヘッ☆",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "さて、まずはこの宿の亭主に挨拶じゃな",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "遺跡からお主を運んでくれたんじゃ。\r\n礼くらいは言っておくがいい",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "亭主なら一階のカウンターでふんぞり返っておるぞ",
+        "translation": ""
+    },
+    {
+        "id": "34",
+        "id_number": 34,
+        "value": "お、やっと起きたか。\r\nどうだ？　ウチのベッドは寝心地良かっただろ？",
+        "translation": ""
+    },
+    {
+        "id": "35",
+        "id_number": 35,
+        "value": "この店[――]双面コイン亭の亭主じゃ。\r\nいろいろと世話になっておる",
+        "translation": ""
+    },
+    {
+        "id": "36",
+        "id_number": 36,
+        "value": "本当にな。お前さんはいくらツケ払いに\r\nしてやってるのか、分からなくなってきたぞ",
+        "translation": ""
+    },
+    {
+        "id": "37",
+        "id_number": 37,
+        "value": "ホッホッホ、よしそのまま忘れろ",
+        "translation": ""
+    },
+    {
+        "id": "38",
+        "id_number": 38,
+        "value": "今回ので桁一つ増えたからな",
+        "translation": ""
+    },
+    {
+        "id": "39",
+        "id_number": 39,
+        "value": "チッ、守銭奴め",
+        "translation": ""
+    },
+    {
+        "id": "40",
+        "id_number": 40,
+        "value": "どっちがだよ。ったく、金に目がくらんで\r\nあんな遺跡に一人で行くとか馬鹿じゃねぇのか",
+        "translation": ""
+    },
+    {
+        "id": "41",
+        "id_number": 41,
+        "value": "そんな馬鹿が心配で、わざわざ様子を見に来た\r\nお人好しの亭主はどこのどいつじゃろうな～？",
+        "translation": ""
+    },
+    {
+        "id": "42",
+        "id_number": 42,
+        "value": "ふん！\r\n死なれたらツケを払ってもらえんからな！",
+        "translation": ""
+    },
+    {
+        "id": "43",
+        "id_number": 43,
+        "value": "素直じゃないのう。このフェステちゃんの魅力に\r\nメロメロじゃと素直に言えばよいものを",
+        "translation": ""
+    },
+    {
+        "id": "44",
+        "id_number": 44,
+        "value": "まあ大丈夫じゃ！　これからは\r\nこの下僕が体を張って稼いでくれるからのう",
+        "translation": ""
+    },
+    {
+        "id": "45",
+        "id_number": 45,
+        "value": "お前も大変な奴に目を付けられたな……。\r\nこいつ、見た目以上に年増で老かいだぞ",
+        "translation": ""
+    },
+    {
+        "id": "46",
+        "id_number": 46,
+        "value": "えー、亭主さんたら何言ってるの？\r\nフェステ分かんなぁい☆",
+        "translation": ""
+    },
+    {
+        "id": "47",
+        "id_number": 47,
+        "value": "これからどっか行くのか？",
+        "translation": ""
+    },
+    {
+        "id": "48",
+        "id_number": 48,
+        "value": "ああ。こやつの記憶がちと怪しいらしいので、\r\n手がかりを探しにな",
+        "translation": ""
+    },
+    {
+        "id": "49",
+        "id_number": 49,
+        "value": "そうか……。気をつけろよ。\r\n街の外は危険だからな",
+        "translation": ""
+    },
+    {
+        "id": "50",
+        "id_number": 50,
+        "value": "記憶がおぼつかないなら、より用心しろ。\r\n周りにしっかり話を聞いて、準備を怠るんじゃねぇぞ",
+        "translation": ""
+    },
+    {
+        "id": "052_ADD010",
+        "id_number": 52,
+        "value": "ここ、アステルリーズは近隣でも最大の商業都市じゃ。\r\n手に入らぬものなど何もない",
+        "translation": ""
+    },
+    {
+        "id": "052_ADD020",
+        "id_number": 52,
+        "value": "気になった店は、\r\nとりあえずのぞいてみると良いじゃろう",
+        "translation": ""
+    },
+    {
+        "id": "052_ADD030",
+        "id_number": 52,
+        "value": "それと、冒険者が依頼を受ける\r\n『開拓局』なんてものもある",
+        "translation": ""
+    },
+    {
+        "id": "052_ADD040",
+        "id_number": 52,
+        "value": "とにかく広い街じゃ。\r\n焦らず、ゆっくり慣れていけばよい",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD010",
+        "id_number": 53,
+        "value": "あの門の外は、モンスターたちが住む世界じゃ。\r\n一度越えれば戦いが待つと心得よ",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD020",
+        "id_number": 53,
+        "value": "さて、まずは準備じゃな。\r\nアステルリーズで一番大きな店へ行くがよい",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD030",
+        "id_number": 53,
+        "value": "心配するな、金ならある！\r\n亭主がいくらか持たせてくれたのでな",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD040",
+        "id_number": 53,
+        "value": "まあ、借金……という形にはなるが。\r\n今は気にせずに使うがよい！",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD050",
+        "id_number": 53,
+        "value": "ワシは倉庫の方で待っていよう。\r\nあの店とは、この間少々値切りすぎて揉めたのでな",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD060",
+        "id_number": 53,
+        "value": "買い物が済んだら、倉庫に来るのじゃぞ",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD070",
+        "id_number": 53,
+        "value": "買い物は済んだか？",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD080",
+        "id_number": 53,
+        "value": "購入したアイテムはバッグに入るが、\r\nバッグには30個しか入らないのじゃ！",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD081",
+        "id_number": 53,
+        "value": "そこで使えるのがこの倉庫じゃ。\r\nここだけではなく、街のいたるところに設置されておる",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD082",
+        "id_number": 53,
+        "value": "街の外へ行くときは、不要なものを倉庫に預け、\r\nバッグを整理しておくように！",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD083",
+        "id_number": 53,
+        "value": "さて、次なる目的地は街門広場じゃ。\r\n最後にやっておかねばならんことがあるからのう",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD090",
+        "id_number": 53,
+        "value": "これは転送ポータルじゃ！\r\nどこにいても瞬時に戻れる優れものじゃ",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD100",
+        "id_number": 53,
+        "value": "早速、使えるようにするぞ",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD110",
+        "id_number": 53,
+        "value": "なぁに、簡単じゃ。\r\nそっと触れるだけでいい",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD120",
+        "id_number": 53,
+        "value": "こういったポータルは世界各地にある。\r\n見つけたら必ず使えるようにしておくのじゃぞ",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD130",
+        "id_number": 53,
+        "value": "では、触れたらいざ冒険の旅に出発じゃ！！",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD140",
+        "id_number": 53,
+        "value": "ここがアステリア平原じゃ。\r\nマグナ大陸の南端で、最も豊かな草原地帯じゃな",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD150",
+        "id_number": 53,
+        "value": "いろいろ役に立つものが見つかるし、\r\nバファリアの遺跡もあちこちに眠っておる",
+        "translation": ""
+    },
+    {
+        "id": "053_ADD160",
+        "id_number": 53,
+        "value": "なくした記憶の手掛かりも見つかるやもしれんぞ",
+        "translation": ""
+    },
+    {
+        "id": "54",
+        "id_number": 54,
+        "value": "お主と会ったのは、あっちの方にある遺跡じゃ。\r\nまずは、そこを目指すがよい",
+        "translation": ""
+    },
+    {
+        "id": "55",
+        "id_number": 55,
+        "value": "最近見つかったばかりで、まだ手垢がついておらん",
+        "translation": ""
+    },
+    {
+        "id": "56",
+        "id_number": 56,
+        "value": "しかし……そんな場所に居たのだから、\r\nお主はよほどの情報通じゃったのかもな？",
+        "translation": ""
+    },
+    {
+        "id": "57",
+        "id_number": 57,
+        "value": "今は無理に思い出さんでいい。\r\nとにかく、行ってみようぞ！",
+        "translation": ""
+    },
+    {
+        "id": "58",
+        "id_number": 58,
+        "value": "ちっ！　ワシとしたことが気づかなんだ！",
+        "translation": ""
+    },
+    {
+        "id": "59",
+        "id_number": 59,
+        "value": "行け、下僕よ。蹴散らしてしまえ！",
+        "translation": ""
+    },
+    {
+        "id": "60",
+        "id_number": 60,
+        "value": "ホッホッホ。ワシの目に狂いはなかったの。\r\nお主の腕は大したもんじゃ！",
+        "translation": ""
+    },
+    {
+        "id": "060_ADD010",
+        "id_number": 60,
+        "value": "さて、お主の倒れていた場所はこの奥じゃったな。\r\n調べに行こうぞ！",
+        "translation": ""
+    },
+    {
+        "id": "060_ADD020",
+        "id_number": 60,
+        "value": "この辺りじゃな……",
+        "translation": ""
+    },
+    {
+        "id": "060_ADD030",
+        "id_number": 60,
+        "value": "ん？　\r\nそこに何か落ちておるぞ……",
+        "translation": ""
+    },
+    {
+        "id": "63",
+        "id_number": 63,
+        "value": "『イマジンシード』じゃな\r",
+        "translation": ""
+    },
+    {
+        "id": "64",
+        "id_number": 64,
+        "value": "なんじゃ、イマジンシードのことも忘れとるのか。\r\nこれは中々に厄介な記憶喪失じゃな……",
+        "translation": ""
+    },
+    {
+        "id": "65",
+        "id_number": 65,
+        "value": "よいか？\r\nイマジンシードとは、つまり意思の結晶じゃ",
+        "translation": ""
+    },
+    {
+        "id": "66",
+        "id_number": 66,
+        "value": "この星に生きる全てのものが持つ『エングラム』[――]\r\nこれに強い意思が作用し、物質化したもの",
+        "translation": ""
+    },
+    {
+        "id": "67",
+        "id_number": 67,
+        "value": "それがイマジンシードじゃ。ここまでは良いな？",
+        "translation": ""
+    },
+    {
+        "id": "68",
+        "id_number": 68,
+        "value": "イマジンシードは持ち主のエングラムを注ぐことで、\r\n様々な力を引き出すことができる",
+        "translation": ""
+    },
+    {
+        "id": "71",
+        "id_number": 71,
+        "value": "まあ、持っていて損はないじゃろう。\r\nさてと、他に手がかりになりそうなものはあるか？",
+        "translation": ""
+    },
+    {
+        "id": "72",
+        "id_number": 72,
+        "value": "そうか……仕方ない。一旦アステルリーズに戻るぞ。\r\n危険な場所に長居は無用じゃからな",
+        "translation": ""
+    },
+    {
+        "id": "74",
+        "id_number": 74,
+        "value": "どうか、この世界を……",
+        "translation": ""
+    }
+]

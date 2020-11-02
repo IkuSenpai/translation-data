@@ -2,49 +2,103 @@
     {
         "id": "1",
         "id_number": 1,
-        "value": "冒険者ランク",
-        "translation": "Adventurer rank"
+        "value": "現在の冒険ランク：",
+        "translation": ""
     },
     {
         "id": "2",
         "id_number": 2,
-        "value": "アテニオン",
-        "translation": "Athenion"
+        "value": "勇気",
+        "translation": ""
     },
     {
         "id": "3",
         "id_number": 3,
-        "value": "クラル",
-        "translation": "Kral"
+        "value": "慈愛",
+        "translation": ""
     },
     {
         "id": "4",
         "id_number": 4,
-        "value": "ミディア",
-        "translation": "Medium"
+        "value": "希望",
+        "translation": ""
     },
     {
         "id": "5",
         "id_number": 5,
-        "value": "マクリノス",
-        "translation": "Maclinos"
+        "value": "野心",
+        "translation": ""
     },
     {
         "id": "6",
         "id_number": 6,
-        "value": "ローナノワ",
-        "translation": "Ronanova"
+        "value": "神秘",
+        "translation": ""
     },
     {
-        "id": "7",
-        "id_number": 7,
-        "value": "Lv : ",
-        "translation": "Lv : "
+        "id": "9",
+        "id_number": 9,
+        "value": "RANK UP",
+        "translation": ""
     },
     {
-        "id": "8",
-        "id_number": 8,
-        "value": "外す",
-        "translation": "remove"
+        "id": "10",
+        "id_number": 10,
+        "value": "ランクアップ条件：",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "アイテムレベル{level}以上のインナーイマジン",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "冒険ランクが最大になりました",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "Info.",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "冒険ランクは、冒険者としての資質を表し、\nランクアップすることで活動の幅が拡がります。\n冒険者の基本装備であるインナーイマジンを\nクラフト、精練して条件をクリアしましょう。",
+        "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "メインシナリオ受注可能\n「{main_quest}」が受注できるようになりました",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "クラスレベル開放\nクラスレベルの上限が{level}に上がりました",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "クラフトレシピ開放\nイマジン研究所に新しいイマジンレシピが開放されました",
+        "translation": ""
+    },
+    {
+        "id": "103",
+        "id_number": 103,
+        "value": "記憶シナリオ開放\n{scenario}が開放されました",
+        "translation": ""
+    },
+    {
+        "id": "200",
+        "id_number": 200,
+        "value": "次のインナーイマジンすべてをアイテムレベル{level}以上にする必要があります",
+        "translation": ""
     }
 ]

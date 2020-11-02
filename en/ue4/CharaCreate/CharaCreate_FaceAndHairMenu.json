@@ -62,8 +62,8 @@
     {
         "id": "11",
         "id_number": 11,
-        "value": "アイメイク",
-        "translation": "Eye make up"
+        "value": "肌ベース",
+        "translation": ""
     },
     {
         "id": "12",
@@ -74,14 +74,26 @@
     {
         "id": "13",
         "id_number": 13,
-        "value": "チーク・ペイント",
-        "translation": "Cheek paint"
+        "value": "ペイント1",
+        "translation": ""
     },
     {
         "id": "14",
         "id_number": 14,
-        "value": "肌ベース",
-        "translation": "Skin base"
+        "value": "ペイント2",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "ホクロ",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "傷・そばかす",
+        "translation": ""
     },
     {
         "id": "31",
@@ -142,6 +154,12 @@
         "id_number": 40,
         "value": "リップ",
         "translation": "Lip"
+    },
+    {
+        "id": "41",
+        "id_number": 41,
+        "value": "ほくろ{number}",
+        "translation": ""
     },
     {
         "id": "101",

@@ -2,31 +2,31 @@
     {
         "id": "1",
         "id_number": 1,
-        "value": "いらっしゃい",
+        "value": "何かご入り用でしょうか？",
         "translation": ""
     },
     {
         "id": "2",
         "id_number": 2,
-        "value": "冒険に出るなら、しっかり準備しなきゃいけないよ！",
+        "value": "街の外に出るなら\nしっかり準備をしてくださいね",
         "translation": ""
     },
     {
         "id": "3",
         "id_number": 3,
-        "value": "他に必要なものはないかい？",
+        "value": "他に必要なものはありますか？",
         "translation": ""
     },
     {
         "id": "4",
         "id_number": 4,
-        "value": "毎度！",
+        "value": "ありがとうございました",
         "translation": ""
     },
     {
         "id": "5",
         "id_number": 5,
-        "value": "いってらっしゃい！",
+        "value": "またご利用ください",
         "translation": ""
     },
     {
@@ -51,6 +51,12 @@
         "id": "9",
         "id_number": 9,
         "value": "アイテムを売る",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "アイテムはバッグに入れておきます。\n後で確認しておいてくださいね",
         "translation": ""
     }
 ]

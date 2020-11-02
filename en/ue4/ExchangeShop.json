@@ -14,8 +14,8 @@
     {
         "id": "3",
         "id_number": 3,
-        "value": "BC：",
-        "translation": "BC："
+        "value": "{gc_unit}：",
+        "translation": ""
     },
     {
         "id": "4",
@@ -50,26 +50,26 @@
     {
         "id": "31",
         "id_number": 31,
-        "value": "交換する数が入力されてません",
-        "translation": "No number to exchange"
+        "value": "交換する数が入力されていません",
+        "translation": ""
     },
     {
         "id": "32",
         "id_number": 32,
-        "value": "コインで交換する",
-        "translation": "Exchange with coins"
+        "value": "{exchange_cost}{gc_unit}で交換しますか？",
+        "translation": ""
     },
     {
         "id": "33",
         "id_number": 33,
-        "value": "コインで交換する\n（現在のクラスでは装備できないアイテムが選択されています）",
-        "translation": "Redeem with coins\n(Items that cannot be equipped in the current class are selected)"
+        "value": "{exchange_cost}{gc_unit}で交換しますか？\n（現在のクラスでは装備できないアイテムが選択されています）",
+        "translation": ""
     },
     {
         "id": "34",
         "id_number": 34,
-        "value": "コインが足りません",
-        "translation": "Not enough coins"
+        "value": "{gc_unit}が足りません",
+        "translation": ""
     },
     {
         "id": "35",
@@ -92,13 +92,19 @@
     {
         "id": "38",
         "id_number": 38,
-        "value": "バッグがいっぱいです\nこれ以上所持できません",
-        "translation": "Inventory is full\nCan't carry any more"
+        "value": "倉庫アイテムがいっぱいで交換できません",
+        "translation": ""
     },
     {
         "id": "91",
         "id_number": 91,
-        "value": "交換に失敗しました",
-        "translation": "Exchange failed"
+        "value": "アイテムバッグがいっぱいで交換できません",
+        "translation": ""
+    },
+    {
+        "id": "92",
+        "id_number": 92,
+        "value": "装備品バッグがいっぱいで交換できません",
+        "translation": ""
     }
 ]

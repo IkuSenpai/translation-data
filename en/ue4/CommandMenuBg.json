@@ -1,0 +1,536 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "Status",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "現在のステータスです",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "他のクラスでのステータスです",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "Equipment",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "装備する武器を変更します",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "装備するバトルイマジンを変更します",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "装備するインナーイマジンを変更します",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "装備するマウントイマジンを変更します",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "Skill",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "使用するスキルを変更します。",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "Costume",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "衣装とアクセサリーを変更します",
+        "translation": ""
+    },
+    {
+        "id": "41",
+        "id_number": 41,
+        "value": "Effect",
+        "translation": ""
+    },
+    {
+        "id": "42",
+        "id_number": 42,
+        "value": "現在発動中の効果です",
+        "translation": ""
+    },
+    {
+        "id": "43",
+        "id_number": 43,
+        "value": "発動中のアビリティ",
+        "translation": ""
+    },
+    {
+        "id": "44",
+        "id_number": 44,
+        "value": "発動中のリキッドメモリ効果",
+        "translation": ""
+    },
+    {
+        "id": "45",
+        "id_number": 45,
+        "value": "発動中の課金チケット",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "Item",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "現在所持しているアイテムです",
+        "translation": ""
+    },
+    {
+        "id": "103",
+        "id_number": 103,
+        "value": "倉庫に預けているアイテムです",
+        "translation": ""
+    },
+    {
+        "id": "111",
+        "id_number": 111,
+        "value": "Weapon",
+        "translation": ""
+    },
+    {
+        "id": "112",
+        "id_number": 112,
+        "value": "現在所持している武器です",
+        "translation": ""
+    },
+    {
+        "id": "121",
+        "id_number": 121,
+        "value": "Costume",
+        "translation": ""
+    },
+    {
+        "id": "122",
+        "id_number": 122,
+        "value": "現在所持している衣装です",
+        "translation": ""
+    },
+    {
+        "id": "131",
+        "id_number": 131,
+        "value": "Imagine",
+        "translation": ""
+    },
+    {
+        "id": "132",
+        "id_number": 132,
+        "value": "現在所持しているイマジンです",
+        "translation": ""
+    },
+    {
+        "id": "141",
+        "id_number": 141,
+        "value": "LiquidMemory",
+        "translation": ""
+    },
+    {
+        "id": "142",
+        "id_number": 142,
+        "value": "現在所持しているリキッドメモリです",
+        "translation": ""
+    },
+    {
+        "id": "151",
+        "id_number": 151,
+        "value": "Token",
+        "translation": ""
+    },
+    {
+        "id": "152",
+        "id_number": 152,
+        "value": "現在所持しているトークンです",
+        "translation": ""
+    },
+    {
+        "id": "161",
+        "id_number": 161,
+        "value": "Equipment",
+        "translation": ""
+    },
+    {
+        "id": "162",
+        "id_number": 162,
+        "value": "現在所持している装備品です",
+        "translation": ""
+    },
+    {
+        "id": "163",
+        "id_number": 163,
+        "value": "倉庫に預けている装備品です",
+        "translation": ""
+    },
+    {
+        "id": "201",
+        "id_number": 201,
+        "value": "Quest",
+        "translation": ""
+    },
+    {
+        "id": "202",
+        "id_number": 202,
+        "value": "リストにチェックを付けるとHUDに表示できます",
+        "translation": ""
+    },
+    {
+        "id": "203",
+        "id_number": 203,
+        "value": "今までに終了したクエストを確認できます。",
+        "translation": ""
+    },
+    {
+        "id": "211",
+        "id_number": 211,
+        "value": "MissionQuest",
+        "translation": ""
+    },
+    {
+        "id": "212",
+        "id_number": 212,
+        "value": "メインミッション一覧",
+        "translation": ""
+    },
+    {
+        "id": "213",
+        "id_number": 213,
+        "value": "デイリーミッション一覧",
+        "translation": ""
+    },
+    {
+        "id": "214",
+        "id_number": 214,
+        "value": "ウィークリーミッション一覧",
+        "translation": ""
+    },
+    {
+        "id": "215",
+        "id_number": 215,
+        "value": "イベントミッション一覧",
+        "translation": ""
+    },
+    {
+        "id": "401",
+        "id_number": 401,
+        "value": "MyProfile",
+        "translation": ""
+    },
+    {
+        "id": "402",
+        "id_number": 402,
+        "value": "あなたのキャラクタープロフィールです",
+        "translation": ""
+    },
+    {
+        "id": "403",
+        "id_number": 403,
+        "value": "獲得したアチーブメントです",
+        "translation": ""
+    },
+    {
+        "id": "404",
+        "id_number": 404,
+        "value": "闘技場での輝かしい戦歴",
+        "translation": ""
+    },
+    {
+        "id": "411",
+        "id_number": 411,
+        "value": "FollowList",
+        "translation": ""
+    },
+    {
+        "id": "412",
+        "id_number": 412,
+        "value": "あなたがフォローしているプレイヤーです",
+        "translation": ""
+    },
+    {
+        "id": "413",
+        "id_number": 413,
+        "value": "ブロックしているプレイヤーです",
+        "translation": ""
+    },
+    {
+        "id": "414",
+        "id_number": 414,
+        "value": "BlockList",
+        "translation": ""
+    },
+    {
+        "id": "421",
+        "id_number": 421,
+        "value": "PlayerSearch",
+        "translation": ""
+    },
+    {
+        "id": "422",
+        "id_number": 422,
+        "value": "他のプレイヤーを検索できます",
+        "translation": ""
+    },
+    {
+        "id": "431",
+        "id_number": 431,
+        "value": "Talk",
+        "translation": ""
+    },
+    {
+        "id": "432",
+        "id_number": 432,
+        "value": "自動的にメッセージを発信する設定ができます",
+        "translation": ""
+    },
+    {
+        "id": "433",
+        "id_number": 433,
+        "value": "様々なジェスチャーが楽しめます",
+        "translation": ""
+    },
+    {
+        "id": "434",
+        "id_number": 434,
+        "value": "自動的にメッセージを発信する設定ができます",
+        "translation": ""
+    },
+    {
+        "id": "435",
+        "id_number": 435,
+        "value": "自動的にジェスチャーを出す設定ができます",
+        "translation": ""
+    },
+    {
+        "id": "441",
+        "id_number": 441,
+        "value": "LetterBox",
+        "translation": ""
+    },
+    {
+        "id": "442",
+        "id_number": 442,
+        "value": "運営からのお知らせ",
+        "translation": ""
+    },
+    {
+        "id": "443",
+        "id_number": 443,
+        "value": "システムからのお知らせ",
+        "translation": ""
+    },
+    {
+        "id": "444",
+        "id_number": 444,
+        "value": "他のプレイヤーからのお知らせ",
+        "translation": ""
+    },
+    {
+        "id": "445",
+        "id_number": 445,
+        "value": "保管箱",
+        "translation": ""
+    },
+    {
+        "id": "501",
+        "id_number": 501,
+        "value": "Monster",
+        "translation": ""
+    },
+    {
+        "id": "502",
+        "id_number": 502,
+        "value": "出会ったモンスターの記録",
+        "translation": ""
+    },
+    {
+        "id": "511",
+        "id_number": 511,
+        "value": "Item",
+        "translation": ""
+    },
+    {
+        "id": "512",
+        "id_number": 512,
+        "value": "冒険を助けるアイテムの情報",
+        "translation": ""
+    },
+    {
+        "id": "521",
+        "id_number": 521,
+        "value": "Weapon",
+        "translation": ""
+    },
+    {
+        "id": "522",
+        "id_number": 522,
+        "value": "今まで手にした武器の情報",
+        "translation": ""
+    },
+    {
+        "id": "531",
+        "id_number": 531,
+        "value": "Recipe",
+        "translation": ""
+    },
+    {
+        "id": "532",
+        "id_number": 532,
+        "value": "様々なものを作成するためのレシピ",
+        "translation": ""
+    },
+    {
+        "id": "541",
+        "id_number": 541,
+        "value": "Country",
+        "translation": ""
+    },
+    {
+        "id": "542",
+        "id_number": 542,
+        "value": "今まで足を運んだ場所の記録",
+        "translation": ""
+    },
+    {
+        "id": "551",
+        "id_number": 551,
+        "value": "Imajinn",
+        "translation": ""
+    },
+    {
+        "id": "552",
+        "id_number": 552,
+        "value": "手に入れたイマジンの情報",
+        "translation": ""
+    },
+    {
+        "id": "561",
+        "id_number": 561,
+        "value": "AdventureLog",
+        "translation": ""
+    },
+    {
+        "id": "562",
+        "id_number": 562,
+        "value": "旅の中で役立つ様々な情報",
+        "translation": ""
+    },
+    {
+        "id": "571",
+        "id_number": 571,
+        "value": "Theater",
+        "translation": ""
+    },
+    {
+        "id": "572",
+        "id_number": 572,
+        "value": "記憶に残るあの場面",
+        "translation": ""
+    },
+    {
+        "id": "801",
+        "id_number": 801,
+        "value": "Matching",
+        "translation": ""
+    },
+    {
+        "id": "802",
+        "id_number": 802,
+        "value": "同じ目的の仲間とミッションへ挑戦",
+        "translation": ""
+    },
+    {
+        "id": "811",
+        "id_number": 811,
+        "value": "DungeonParty",
+        "translation": ""
+    },
+    {
+        "id": "812",
+        "id_number": 812,
+        "value": "ミッションへ突入するパーティ",
+        "translation": ""
+    },
+    {
+        "id": "901",
+        "id_number": 901,
+        "value": "Party",
+        "translation": ""
+    },
+    {
+        "id": "902",
+        "id_number": 902,
+        "value": "パーティの管理・編成ができます",
+        "translation": ""
+    },
+    {
+        "id": "1001",
+        "id_number": 1001,
+        "value": "GuildList",
+        "translation": ""
+    },
+    {
+        "id": "1002",
+        "id_number": 1002,
+        "value": "ギルド申請一覧です",
+        "translation": ""
+    },
+    {
+        "id": "1011",
+        "id_number": 1011,
+        "value": "GuidSetting",
+        "translation": ""
+    },
+    {
+        "id": "1012",
+        "id_number": 1012,
+        "value": "ギルド設定をします",
+        "translation": ""
+    },
+    {
+        "id": "1021",
+        "id_number": 1021,
+        "value": "GuidMemberList",
+        "translation": ""
+    },
+    {
+        "id": "1022",
+        "id_number": 1022,
+        "value": "ギルドメンバー一覧です",
+        "translation": ""
+    }
+]

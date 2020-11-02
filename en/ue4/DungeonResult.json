@@ -68,8 +68,8 @@
     {
         "id": "12",
         "id_number": 12,
-        "value": "残り",
-        "translation": "Remaining"
+        "value": "フィールド退出まで残り",
+        "translation": ""
     },
     {
         "id": "13",
@@ -112,5 +112,95 @@
         "id_number": 19,
         "value": "完了",
         "translation": "Done"
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "クリア\n報酬",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "追加\n報酬",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "RAID MISSION",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "閉じる",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "戻る",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "総合順位",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "クラス順位",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "ARENA",
+        "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "チャレンジ",
+        "translation": ""
+    },
+    {
+        "id": "29",
+        "id_number": 29,
+        "value": "クリアタイム",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "Arena Cleared !",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "[{KeyString}]でリザルト表示/非表示切替",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "評価ランク達成し追加報酬を獲得しました",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "TIME ATTACK",
+        "translation": ""
+    },
+    {
+        "id": "34",
+        "id_number": 34,
+        "value": "DUNGEON",
+        "translation": ""
     }
 ]

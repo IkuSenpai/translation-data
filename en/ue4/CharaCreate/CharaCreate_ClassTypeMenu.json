@@ -44,14 +44,14 @@
     {
         "id": "8",
         "id_number": 8,
-        "value": "遠距離攻撃クラス\n機敏性の高い弓を操り、全てを貫く。\n距離を保ちながら戦闘状況を判断し、弱点を\n狙ったり範囲攻撃をしたり戦術の幅が広いクラス。",
-        "translation": "Ranged attack class\nManipulate a highly agile bow and pierce everything.\nA class with a wide range of tactics, such as judging the battle situation while maintaining a distance,\naiming for weak points and making range attacks."
+        "value": "遠距離射撃を軸とし、パーティへの支援にも長けたクラス。\n弱点攻撃や範囲攻撃など、多彩な戦術を戦況に応じて使い分けよう。",
+        "translation": ""
     },
     {
         "id": "9",
         "id_number": 9,
-        "value": "近距離攻撃クラス\n巨大な二本の斧で、敵を断ち切る。\n自身へ強靭な力を与えるスキルを使いこなし、\n常に戦闘の前線で戦い続ける勇猛なクラス。",
-        "translation": "Short-range attack class\nCut off enemies with two huge axes.\nA brave class who masters the skills that give him strong power and keeps fighting at the front line of battle."
+        "value": "二本の斧で、嵐の如き猛攻を繰り出す近距離クラス。\n絶え間なく攻撃を重ねることで、その威力は限界を超えて更に上昇する。",
+        "translation": ""
     },
     {
         "id": "10",
@@ -74,14 +74,14 @@
     {
         "id": "13",
         "id_number": 13,
-        "value": "遠距離攻撃クラス\n杖を用いてエングラムを操作、変換する。\n炎・氷・雷等を操り、連続してスキルを繰り出す\nことが可能な、瞬発力の高いクラス。",
-        "translation": "Ranged Attack Class\nManipulate and transform engrams with a wand.\nA class with high instantaneous power that allows you to control flames, ice, lightning, etc., and continuously develop skills."
+        "value": "炎・氷・雷といった、多彩な属性攻撃を習得できる。\nその高い威力と属性効果は、パーティでの戦いでより効果を発揮する。",
+        "translation": ""
     },
     {
         "id": "14",
         "id_number": 14,
-        "value": "近距離攻撃クラス\n剣と強固な盾を駆使し、前線を維持する。\n防衛力に長け、相手の戦術を見極めながら、\n確実に敵撃破を狙う攻守バランスの良いクラス。",
-        "translation": "Short-range attack class\nUse your sword and strong shield to maintain your front line.\n A well-balanced class that is good at defense and aims to defeat the enemy without fail while assessing the opponent's tactics."
+        "value": "攻守のバランスに長け、前線で活躍する近距離クラス。\n堅固な盾を駆使した防御系スキルは、自身を防護し、攻撃を物ともしない。",
+        "translation": ""
     },
     {
         "id": "15",
@@ -100,6 +100,18 @@
         "id_number": 17,
         "value": "の説明 (仮)",
         "translation": "Explanation (provisional)"
+    },
+    {
+        "id": "50",
+        "id_number": 50,
+        "value": "./PakMovies/CharaCreate/",
+        "translation": ""
+    },
+    {
+        "id": "90",
+        "id_number": 90,
+        "value": "使用するクラスを選んでください",
+        "translation": ""
     },
     {
         "id": "99",

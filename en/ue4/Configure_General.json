@@ -62,13 +62,19 @@
     {
         "id": "504",
         "id_number": 504,
-        "value": "チャットの吹き出しを非表示にする",
-        "translation": "Hide chat balloons"
+        "value": "トークの吹き出しを非表示にする",
+        "translation": ""
     },
     {
         "id": "505",
         "id_number": 505,
         "value": "パーティ招待、マッチングの割り込み表示を無効にする",
         "translation": "Disable party invitation and matching interrupt display"
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "UIカーソル速度",
+        "translation": ""
     }
 ]

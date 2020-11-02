@@ -1,0 +1,1778 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "はあ……よく喋る奴じゃったのう",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "さて、すぐにでも[神懸(かみがかり)]の[御柱(みはしら)]へと\r\n行きたいところじゃが……",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "いちおう、依頼主への報告は、\r\nしておかねばならんな",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD010",
+        "id_number": 2,
+        "value": "あ、君たち、ありがとね！\r\nごらんのとおり先生は帰ってきたわ",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD020",
+        "id_number": 2,
+        "value": "で、早速議論が始まっちゃって[――]",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD030",
+        "id_number": 2,
+        "value": "あの『巨塔の遺跡』は調べれば調べるほど興味深い。\r\nそうは思わないかね？",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD040",
+        "id_number": 2,
+        "value": "だから、先生。\r\nあの塔はバファリア文明の墳墓だと何度言ったら[――]",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD050",
+        "id_number": 2,
+        "value": "それはおかしい！\r\nそもそも、なぜあれを塔だと断定する！？",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD060",
+        "id_number": 2,
+        "value": "形は確かに巨塔だ。そう呼ぶのもいい。\r\nだが、実態は巨大な大砲だという説もある！",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD070",
+        "id_number": 2,
+        "value": "それは先生が言ってるだけでは？",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD080",
+        "id_number": 2,
+        "value": "何かを撃ち出したような痕跡もある！\r\nしかも角度的に、その先には天紋がある！",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD090",
+        "id_number": 2,
+        "value": "つまり、どういうことか……。かつて人間は、\r\nバファリアの神を攻撃しようとしたのだ！！",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD100",
+        "id_number": 2,
+        "value": "そういうことを大声で言うから左遷されるんですよ",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD110",
+        "id_number": 2,
+        "value": "ではお返ししますが。あれが大砲だとして、\r\nそれを作り上げた人々はどこへ行ったんですか？",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD120",
+        "id_number": 2,
+        "value": "あんなに巨大な兵器を作れるのなら、\r\nその技術は現代にも受け継がれているはずです",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD130",
+        "id_number": 2,
+        "value": "いくら文明崩壊と技術退行があったとはいえ、\r\nあの遺跡は現代の技術水準からかけ離れています",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD140",
+        "id_number": 2,
+        "value": "それは建築技術の観点からも同じです。\r\nあの大きさの建物を人間が作ったとは考えられません",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD150",
+        "id_number": 2,
+        "value": "となれば、あれはバファリア文明の遺物で明らか。\r\nそして、高い塔は象徴として重要な意味を持ちます",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD160",
+        "id_number": 2,
+        "value": "[神懸(かみがかり)]の[御柱(みはしら)]もアステルリーズの神殿も、\r\nバファリア教の重要施設は『高さ』を誇るものが多い",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD170",
+        "id_number": 2,
+        "value": "すなわち『高さ』こそ権威の象徴。古代の支配者層が\r\n天に届かんとする墳墓を築いた裏付けにも[――]",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD180",
+        "id_number": 2,
+        "value": "ぐぬぬ……我が弟子ながら、\r\n文化的背景までふまえたみごとな反論……！",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD190",
+        "id_number": 2,
+        "value": "いや、ここで後れを取るわけにはいかん！\r\n人間とバファリアの神には戦いの歴史が[――]",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD200",
+        "id_number": 2,
+        "value": "歴史的なできごとばかりでなく、\r\n当時の人々の生活にこそヒントが[――]",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD210",
+        "id_number": 2,
+        "value": "やれやれ……この師にして、この弟子ありか。\r\nどっちもしゃべり出したら止まらんのう",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD220",
+        "id_number": 2,
+        "value": "とてもじゃないが、聞いておれん。\r\nともかく、怪我がなくてなによりじゃ",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD230",
+        "id_number": 2,
+        "value": "さて、ワシらはこれから、\r\n『来者』の秘密を探るため『神懸の御柱』に向かう",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD240",
+        "id_number": 2,
+        "value": "場所は、『バハマール高原』。\r\nここよりもずっと強いモンスターもおる！",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD250",
+        "id_number": 2,
+        "value": "覚悟は良いかのう？",
+        "translation": ""
+    },
+    {
+        "id": "2_ADD260",
+        "id_number": 2,
+        "value": "よし！　では行くぞ！",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "何の用だ！？　ここは[神懸(かみがかり)]の[御柱(みはしら)]。\r\nバファリア教団の聖地として厳重に管理されている",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "許可なき者は、何人たりとも\r\nここを通ることはまかりならん！",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "ええ～、そんなに重要な場所だったんだぁ。\r\nどうりですっごく立派な遺跡だと思った！",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "そんな場所の門番を務めるなんて、\r\nおじさんはすごいんだね！",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "ん？　そ、そうか？",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "うん！　かっこいい～☆",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "ははは、それほどでも。まあ、このお役目に\r\n任ぜられるのは教団の中でも武勇に優れた者のみでな？",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "厳しい審査と戦いの果てに、やっと射止めたのだ。\r\nまあ大したことではないがな？　ははっ",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "わあ、素敵！　憧れちゃうな",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "ははは、いやいやまいったな",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "ねえ、おじさん？\r\nちょっとだけ中を見せてもらっても[――]",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "許可なき者は、何人たりとも\r\nここを通ることはまかりならん！",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "なんじゃい、ケチッ！\r\nほんのちょっとだけじゃというのに！",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "言っただろう？　大切な遺跡だと",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "ここは、我らバファリア教の開祖が\r\n最初に降り立ったとされる聖なる地",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "多少褒められて嬉しかったからと言って、\r\nそう易々と通すと思ったか！",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "じゃあ、どうしたら入れてくれるのじゃ？",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "それこそ、神官長クラスの許可がなければ無理だな",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "さあ、もう分かっただろう？　どう足掻いても\r\n入ることはできん。早々に立ち去るがいい",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "チッ……仕方ない。一旦、『ラルパル』辺りで\r\n腰を落ち着けて作戦会議をするぞ",
+        "translation": ""
+    },
+    {
+        "id": "22_ADD001",
+        "id_number": 22,
+        "value": "……下僕よ。\r\n何やら妙に騒がしいとは思わぬか？",
+        "translation": ""
+    },
+    {
+        "id": "22_ADD002",
+        "id_number": 22,
+        "value": "こういう時は、迷わず聞き込みじゃ！",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "ねえねえ、何があったの？",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "ああ、近くにバファリア教の巡礼団が来てるんだ",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "え？　まだ巡礼の時期じゃないのに？",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "最近、『ベルクマール』が変な怪物にやられただろ？\r\nその時に出た犠牲者の弔いをしに来たんだってさ",
+        "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "普段はお目にかかれない神官長リュゲリオ様や、\r\n神託の巫女アインレイン様もいるって話だぜ！",
+        "translation": ""
+    },
+    {
+        "id": "29",
+        "id_number": 29,
+        "value": "ほう……",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "どうじゃ？　ダメ元でベルクマールに行ってみんか？",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "このワシの可愛さと話術をもってすれば、教団の\r\nお偉いさんと交渉して許可を貰えるかもしれん！",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "大体のう、見せない、入れないと言われる場所ほど\r\nお宝が眠っているのは、世の[理(ことわり)]じゃ",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "ここまで来たら、絶対に[御柱(みはしら)]の中を見てやろうぞ。\r\n待ってろお宝ー！",
+        "translation": ""
+    },
+    {
+        "id": "34",
+        "id_number": 34,
+        "value": "あの、すみません。ここに神官長様や巫女様が\r\nいらっしゃるとお聞きしたんですが……",
+        "translation": ""
+    },
+    {
+        "id": "35",
+        "id_number": 35,
+        "value": "……",
+        "translation": ""
+    },
+    {
+        "id": "36",
+        "id_number": 36,
+        "value": "あのー",
+        "translation": ""
+    },
+    {
+        "id": "37",
+        "id_number": 37,
+        "value": "……今、皆で弔いの祈りを捧げているのです。\r\n邪魔をしないでください",
+        "translation": ""
+    },
+    {
+        "id": "38",
+        "id_number": 38,
+        "value": "ええと、その祈りはいつまで続く感じで……？",
+        "translation": ""
+    },
+    {
+        "id": "39",
+        "id_number": 39,
+        "value": "……",
+        "translation": ""
+    },
+    {
+        "id": "40",
+        "id_number": 40,
+        "value": "むう、参ったのう。どれだけ待てばよいのやら。\r\n先にその辺を探してみるか？",
+        "translation": ""
+    },
+    {
+        "id": "41",
+        "id_number": 41,
+        "value": "ん？　あの少女は……",
+        "translation": ""
+    },
+    {
+        "id": "42",
+        "id_number": 42,
+        "value": "いつぞやは世話になったのう。\r\nお主も巡礼団の一員なのか？",
+        "translation": ""
+    },
+    {
+        "id": "43",
+        "id_number": 43,
+        "value": "……",
+        "translation": ""
+    },
+    {
+        "id": "47",
+        "id_number": 47,
+        "value": "ところで、ここに神官長様か巫女様はおらんか？",
+        "translation": ""
+    },
+    {
+        "id": "48",
+        "id_number": 48,
+        "value": "……いるけど、何の用？",
+        "translation": ""
+    },
+    {
+        "id": "49",
+        "id_number": 49,
+        "value": "[神懸(かみがかり)]の[御柱(みはしら)]に入る許可を\r\nちょこちょこ～っと貰えんかと思ってな",
+        "translation": ""
+    },
+    {
+        "id": "50",
+        "id_number": 50,
+        "value": "……それは、あなたにとって必要なもの？",
+        "translation": ""
+    },
+    {
+        "id": "51",
+        "id_number": 51,
+        "value": "そう……",
+        "translation": ""
+    },
+    {
+        "id": "52",
+        "id_number": 52,
+        "value": "……あなたが、望むなら",
+        "translation": ""
+    },
+    {
+        "id": "53",
+        "id_number": 53,
+        "value": "これ……",
+        "translation": ""
+    },
+    {
+        "id": "54",
+        "id_number": 54,
+        "value": "なんと、許可証じゃぞ！？",
+        "translation": ""
+    },
+    {
+        "id": "55",
+        "id_number": 55,
+        "value": "お主、一体どうやって？\r\nい、いや、待て。まず本物か！？",
+        "translation": ""
+    },
+    {
+        "id": "56",
+        "id_number": 56,
+        "value": "門番に見せれば……分かるから",
+        "translation": ""
+    },
+    {
+        "id": "57",
+        "id_number": 57,
+        "value": "驚いたな……。お主、何者じゃ？\r\nそれに、何故こやつの願いを聞く？",
+        "translation": ""
+    },
+    {
+        "id": "58",
+        "id_number": 58,
+        "value": "……そうしろと",
+        "translation": ""
+    },
+    {
+        "id": "59",
+        "id_number": 59,
+        "value": "行かなきゃ",
+        "translation": ""
+    },
+    {
+        "id": "60",
+        "id_number": 60,
+        "value": "掴みどころのない少女じゃな……",
+        "translation": ""
+    },
+    {
+        "id": "61",
+        "id_number": 61,
+        "value": "とにかく、許可証は手に入れたのじゃ。\r\nあの門番に叩きつけてやろうぞ！",
+        "translation": ""
+    },
+    {
+        "id": "62",
+        "id_number": 62,
+        "value": "こんにちは、おじさん！\r\nはい、これ",
+        "translation": ""
+    },
+    {
+        "id": "63",
+        "id_number": 63,
+        "value": "これは……許可証！？\r\nいったいどうやって！？",
+        "translation": ""
+    },
+    {
+        "id": "64",
+        "id_number": 64,
+        "value": "えへへ、偉い人とちょっとした知り合いなの☆",
+        "translation": ""
+    },
+    {
+        "id": "65",
+        "id_number": 65,
+        "value": "信じられん……しかし、このサインは本物だ。\r\nいや、だが、そうですかと部外者を簡単に通しては……",
+        "translation": ""
+    },
+    {
+        "id": "66",
+        "id_number": 66,
+        "value": "疑うならば使者を飛ばして確認するがよい。\r\nワシらは一向に構わんぞ",
+        "translation": ""
+    },
+    {
+        "id": "67",
+        "id_number": 67,
+        "value": "だが、本物の許可証を疑ってかかったとあれば、\r\n選りすぐりの門番の目は節穴か、と言われるかもな？",
+        "translation": ""
+    },
+    {
+        "id": "68",
+        "id_number": 68,
+        "value": "むう……",
+        "translation": ""
+    },
+    {
+        "id": "69",
+        "id_number": 69,
+        "value": "己の目を信じるならば、これは紛うことなき本物だ。\r\nならば……後は[御柱(みはしら)]の判断に任せるか……",
+        "translation": ""
+    },
+    {
+        "id": "70",
+        "id_number": 70,
+        "value": "そこな二人、通るがよい。\r\n[御柱(みはしら)]へ入ることを許可する",
+        "translation": ""
+    },
+    {
+        "id": "71",
+        "id_number": 71,
+        "value": "わーい、ありがとう！",
+        "translation": ""
+    },
+    {
+        "id": "72",
+        "id_number": 72,
+        "value": "ただし[――]気をつけろよ",
+        "translation": ""
+    },
+    {
+        "id": "73",
+        "id_number": 73,
+        "value": "……どういう意味じゃ？",
+        "translation": ""
+    },
+    {
+        "id": "74",
+        "id_number": 74,
+        "value": "[御柱(みはしら)]には独自の防衛機能が備わっている。\r\n望まぬ侵入者を排除するためだ",
+        "translation": ""
+    },
+    {
+        "id": "75",
+        "id_number": 75,
+        "value": "もし、お前たちが[御柱(みはしら)]に迎えられる存在ならば\r\nそれら試練を乗り越えることができるだろう",
+        "translation": ""
+    },
+    {
+        "id": "76",
+        "id_number": 76,
+        "value": "しかし、違うのならば[――]",
+        "translation": ""
+    },
+    {
+        "id": "77",
+        "id_number": 77,
+        "value": "……違うのならば？",
+        "translation": ""
+    },
+    {
+        "id": "78",
+        "id_number": 78,
+        "value": "……言葉を交わした者の遺体を回収するのは\r\n私の本意ではない。心して中に入るがいい",
+        "translation": ""
+    },
+    {
+        "id": "79",
+        "id_number": 79,
+        "value": "なぁに、心配はいらぬ。\r\nお主の腕も大分上がってきたしな。自信を持て",
+        "translation": ""
+    },
+    {
+        "id": "80",
+        "id_number": 80,
+        "value": "では、いざ行かん！　お宝[――]ゴホンッ！\r\n[来者(らいじゃ)]の謎を求めて！！",
+        "translation": ""
+    },
+    {
+        "id": "81",
+        "id_number": 81,
+        "value": "ふむ……さすがに雰囲気があるのう……",
+        "translation": ""
+    },
+    {
+        "id": "82",
+        "id_number": 82,
+        "value": "さて、こういうのは頂上に宝があるのが定番じゃ。\r\n一気に行くぞ！",
+        "translation": ""
+    },
+    {
+        "id": "83",
+        "id_number": 83,
+        "value": "あれはなんじゃ？",
+        "translation": ""
+    },
+    {
+        "id": "083_ADD010",
+        "id_number": 83,
+        "value": "どうやら封印されているようじゃが……",
+        "translation": ""
+    },
+    {
+        "id": "84",
+        "id_number": 84,
+        "value": "ふぉっ！？　な、なんじゃっ！？\r",
+        "translation": ""
+    },
+    {
+        "id": "084_ADD010",
+        "id_number": 84,
+        "value": "ワシ、何も触っておらぬぞ！？",
+        "translation": ""
+    },
+    {
+        "id": "85",
+        "id_number": 85,
+        "value": "下僕！　女の子が！！",
+        "translation": ""
+    },
+    {
+        "id": "87",
+        "id_number": 87,
+        "value": "エーリンゼ様！",
+        "translation": ""
+    },
+    {
+        "id": "88_M",
+        "id_number": 88,
+        "value": "今のは……！？",
+        "translation": ""
+    },
+    {
+        "id": "88_F",
+        "id_number": 88,
+        "value": "今のは……！？",
+        "translation": ""
+    },
+    {
+        "id": "89",
+        "id_number": 89,
+        "value": "逃げてッ！",
+        "translation": ""
+    },
+    {
+        "id": "90",
+        "id_number": 90,
+        "value": "助けるつもりか！？　相手はアバリティアぞ！？",
+        "translation": ""
+    },
+    {
+        "id": "91_M",
+        "id_number": 91,
+        "value": "見殺しにするわけにはいかない！",
+        "translation": ""
+    },
+    {
+        "id": "91_F",
+        "id_number": 91,
+        "value": "見殺しにするわけにはいかない！",
+        "translation": ""
+    },
+    {
+        "id": "92",
+        "id_number": 92,
+        "value": "[――]ええい、このお人好しめ！\r",
+        "translation": ""
+    },
+    {
+        "id": "93",
+        "id_number": 93,
+        "value": "どうにか倒したか……。\r\nまったく、肝が冷えたぞ",
+        "translation": ""
+    },
+    {
+        "id": "94",
+        "id_number": 94,
+        "value": "……助けておいてなんじゃが、気をつけろ下僕。\r\nあやつら怪しいぞ",
+        "translation": ""
+    },
+    {
+        "id": "95",
+        "id_number": 95,
+        "value": "通常の空間転送とは違う現れ方をしておったし、\r\nなんだか雰囲気も……",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "助けてもらったことには感謝いたします。\r\nしかし、すぐにこの場から去っていただきたい",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "……なに？",
+        "translation": ""
+    },
+    {
+        "id": "103",
+        "id_number": 103,
+        "value": "これ以上は言いません。去りなさい。\r\n従わないのであれば[――]",
+        "translation": ""
+    },
+    {
+        "id": "104",
+        "id_number": 104,
+        "value": "ティリス！　この方はわたくしたちのために\r\n命を懸けてくださったのですよ！？",
+        "translation": ""
+    },
+    {
+        "id": "105",
+        "id_number": 105,
+        "value": "ですが[――]",
+        "translation": ""
+    },
+    {
+        "id": "106",
+        "id_number": 106,
+        "value": "！？　これは……",
+        "translation": ""
+    },
+    {
+        "id": "107",
+        "id_number": 107,
+        "value": "まさか……そんな……？",
+        "translation": ""
+    },
+    {
+        "id": "108",
+        "id_number": 108,
+        "value": "[――]ッ！？",
+        "translation": ""
+    },
+    {
+        "id": "108_ADD010",
+        "id_number": 108,
+        "value": "竜王！？",
+        "translation": ""
+    },
+    {
+        "id": "109",
+        "id_number": 109,
+        "value": "ヴォルディゲン……！！",
+        "translation": ""
+    },
+    {
+        "id": "110",
+        "id_number": 110,
+        "value": "なんじゃと！？",
+        "translation": ""
+    },
+    {
+        "id": "111",
+        "id_number": 111,
+        "value": "あれが……",
+        "translation": ""
+    },
+    {
+        "id": "111_ADD010",
+        "id_number": 111,
+        "value": "竜族の王……？",
+        "translation": ""
+    },
+    {
+        "id": "112",
+        "id_number": 112,
+        "value": "何たる威圧感……",
+        "translation": ""
+    },
+    {
+        "id": "112_ADD010",
+        "id_number": 112,
+        "value": "見ているだけで押し潰されそうじゃ……！",
+        "translation": ""
+    },
+    {
+        "id": "113",
+        "id_number": 113,
+        "value": "……この程度の力にしかならぬ、か",
+        "translation": ""
+    },
+    {
+        "id": "114",
+        "id_number": 114,
+        "value": "アバリティアを……喰った……？",
+        "translation": ""
+    },
+    {
+        "id": "115",
+        "id_number": 115,
+        "value": "来たな、女",
+        "translation": ""
+    },
+    {
+        "id": "116",
+        "id_number": 116,
+        "value": "[――]ッ！\r\nいけません、エーリンゼ様、お逃げください！！",
+        "translation": ""
+    },
+    {
+        "id": "117",
+        "id_number": 117,
+        "value": "でも……！",
+        "translation": ""
+    },
+    {
+        "id": "118",
+        "id_number": 118,
+        "value": "……！？",
+        "translation": ""
+    },
+    {
+        "id": "118_ADD010",
+        "id_number": 118,
+        "value": "お前たち、いつの間に戻ったのだ！？",
+        "translation": ""
+    },
+    {
+        "id": "118_ADD020",
+        "id_number": 118,
+        "value": "[――]ッ！？　竜族！？",
+        "translation": ""
+    },
+    {
+        "id": "119",
+        "id_number": 119,
+        "value": "貴様、どこから！！",
+        "translation": ""
+    },
+    {
+        "id": "120_M",
+        "id_number": 120,
+        "value": "やめろッ！",
+        "translation": ""
+    },
+    {
+        "id": "120_F",
+        "id_number": 120,
+        "value": "やめてッ！",
+        "translation": ""
+    },
+    {
+        "id": "121",
+        "id_number": 121,
+        "value": "[――]ッ！！！",
+        "translation": ""
+    },
+    {
+        "id": "122",
+        "id_number": 122,
+        "value": "羽虫が……喰らう価値もない",
+        "translation": ""
+    },
+    {
+        "id": "123",
+        "id_number": 123,
+        "value": "だ、駄目です、逃げてください！",
+        "translation": ""
+    },
+    {
+        "id": "123_ADD010",
+        "id_number": 123,
+        "value": "あなたには関係ない！",
+        "translation": ""
+    },
+    {
+        "id": "124_M",
+        "id_number": 124,
+        "value": "……一度助けたんだ",
+        "translation": ""
+    },
+    {
+        "id": "124_ADD010_M",
+        "id_number": 124,
+        "value": "ここで逃げるわけにはいかない",
+        "translation": ""
+    },
+    {
+        "id": "124_F",
+        "id_number": 124,
+        "value": "……一度助けたし",
+        "translation": ""
+    },
+    {
+        "id": "124_ADD010_F",
+        "id_number": 124,
+        "value": "ここで逃げるわけにはいかない",
+        "translation": ""
+    },
+    {
+        "id": "125",
+        "id_number": 125,
+        "value": "ほう？　今のを見て、なお立ちはだかるか",
+        "translation": ""
+    },
+    {
+        "id": "125_ADD010",
+        "id_number": 125,
+        "value": "良いな、実に良い",
+        "translation": ""
+    },
+    {
+        "id": "126",
+        "id_number": 126,
+        "value": "さて……",
+        "translation": ""
+    },
+    {
+        "id": "126_ADD010",
+        "id_number": 126,
+        "value": "今度の虫は、ゆっくり殺そうか？",
+        "translation": ""
+    },
+    {
+        "id": "127",
+        "id_number": 127,
+        "value": "まずは、足",
+        "translation": ""
+    },
+    {
+        "id": "128",
+        "id_number": 128,
+        "value": "次に、手",
+        "translation": ""
+    },
+    {
+        "id": "129",
+        "id_number": 129,
+        "value": "そして……頭を",
+        "translation": ""
+    },
+    {
+        "id": "130",
+        "id_number": 130,
+        "value": "！！　ティリス！",
+        "translation": ""
+    },
+    {
+        "id": "131",
+        "id_number": 131,
+        "value": "『アリシアのご加護を！』",
+        "translation": ""
+    },
+    {
+        "id": "132",
+        "id_number": 132,
+        "value": "この状態で跳ぶつもりか？",
+        "translation": ""
+    },
+    {
+        "id": "133",
+        "id_number": 133,
+        "value": "あなたも早く！",
+        "translation": ""
+    },
+    {
+        "id": "134",
+        "id_number": 134,
+        "value": "ククッ……",
+        "translation": ""
+    },
+    {
+        "id": "134_ADD010",
+        "id_number": 134,
+        "value": "中々に無茶なことをしてくれる",
+        "translation": ""
+    },
+    {
+        "id": "135",
+        "id_number": 135,
+        "value": "いずれ来るその時まで、せいぜい逃げ回るがいい……",
+        "translation": ""
+    },
+    {
+        "id": "136",
+        "id_number": 136,
+        "value": "ヴォルディゲンが……いない？",
+        "translation": ""
+    },
+    {
+        "id": "137",
+        "id_number": 137,
+        "value": "これは……",
+        "translation": ""
+    },
+    {
+        "id": "138",
+        "id_number": 138,
+        "value": "どうにか難を逃れたようですね……。\r\nエーリンゼ様、的確なご判断でした",
+        "translation": ""
+    },
+    {
+        "id": "139",
+        "id_number": 139,
+        "value": "ですが、お体の方は大丈夫ですか？\r\nあの状態の装置を起動させるのは……",
+        "translation": ""
+    },
+    {
+        "id": "140",
+        "id_number": 140,
+        "value": "……大丈夫です。遡ったのは数時間ですもの。\r\nクロノグラムの消費も最小限に抑えられましたわ",
+        "translation": ""
+    },
+    {
+        "id": "141",
+        "id_number": 141,
+        "value": "おい、お主らは一体何者じゃ？",
+        "translation": ""
+    },
+    {
+        "id": "142",
+        "id_number": 142,
+        "value": "……",
+        "translation": ""
+    },
+    {
+        "id": "143",
+        "id_number": 143,
+        "value": "何故、倒したはずのアバリティアがいる？\r\nそして何故、竜王に狙われておる？",
+        "translation": ""
+    },
+    {
+        "id": "144",
+        "id_number": 144,
+        "value": "いったい……今、ワシらに\r\n何が起きているというのじゃ！？",
+        "translation": ""
+    },
+    {
+        "id": "145",
+        "id_number": 145,
+        "value": "先ほども言いかけましたが、\r\n私たちのことは話せないので……",
+        "translation": ""
+    },
+    {
+        "id": "146",
+        "id_number": 146,
+        "value": "いえ、ここまで巻き込んでしまった以上、\r\n知らぬ存ぜぬという訳にもいかないでしょう",
+        "translation": ""
+    },
+    {
+        "id": "148",
+        "id_number": 148,
+        "value": "僅かとはいえ、時空干渉の可能性があります。\r\n歴史が変えられてからでは遅いでしょう？",
+        "translation": ""
+    },
+    {
+        "id": "150",
+        "id_number": 150,
+        "value": "失礼いたしました。\r\n改めまして、わたくしの名はエーリンゼ",
+        "translation": ""
+    },
+    {
+        "id": "151",
+        "id_number": 151,
+        "value": "こちらは、わたくしの従者でティリスと申します",
+        "translation": ""
+    },
+    {
+        "id": "152",
+        "id_number": 152,
+        "value": "先ほど起こった出来事……\r\nいえ、わたくしが起こした出来事は……",
+        "translation": ""
+    },
+    {
+        "id": "153",
+        "id_number": 153,
+        "value": "[――]『クロノリープ』です",
+        "translation": ""
+    },
+    {
+        "id": "154",
+        "id_number": 154,
+        "value": "クロノリープ……？",
+        "translation": ""
+    },
+    {
+        "id": "155",
+        "id_number": 155,
+        "value": "はい、あなた方が体験したのは、\r\n時間を跳び越える行為なのです",
+        "translation": ""
+    },
+    {
+        "id": "158",
+        "id_number": 158,
+        "value": "とっさのことでしたので、\r\n数時間ほど遡るのが限界でしたが……",
+        "translation": ""
+    },
+    {
+        "id": "159",
+        "id_number": 159,
+        "value": "時を跳ぶ技術……じゃと？",
+        "translation": ""
+    },
+    {
+        "id": "160",
+        "id_number": 160,
+        "value": "信じ難いのは分かりますわ。\r\nけれど[――]",
+        "translation": ""
+    },
+    {
+        "id": "161",
+        "id_number": 161,
+        "value": "一先ず、この場から離れましょう。\r\nじきにヴォルディゲンがやってきます",
+        "translation": ""
+    },
+    {
+        "id": "162",
+        "id_number": 162,
+        "value": "そうですわね……。立ち話もなんですし、\r\nとりあえず外に出ませんか？",
+        "translation": ""
+    },
+    {
+        "id": "163",
+        "id_number": 163,
+        "value": "そうすればきっと、わたくしの言っていることが\r\n真実だと実感していただけるはずです",
+        "translation": ""
+    },
+    {
+        "id": "164",
+        "id_number": 164,
+        "value": "今いるこの時間が、\r\n先ほどよりも過去に位置するのだと……",
+        "translation": ""
+    },
+    {
+        "id": "165_ADD010",
+        "id_number": 165,
+        "value": "[――]ッ！　いけません、隠れて！",
+        "translation": ""
+    },
+    {
+        "id": "166",
+        "id_number": 166,
+        "value": "な、なんじゃ！？",
+        "translation": ""
+    },
+    {
+        "id": "167",
+        "id_number": 167,
+        "value": "ワシと……下僕がおった……な？",
+        "translation": ""
+    },
+    {
+        "id": "168",
+        "id_number": 168,
+        "value": "我々は過去に跳びました[――]",
+        "translation": ""
+    },
+    {
+        "id": "169",
+        "id_number": 169,
+        "value": "だからあれは、\r\n数時間前のあなた方自身なのです",
+        "translation": ""
+    },
+    {
+        "id": "173",
+        "id_number": 173,
+        "value": "……[御柱(みはしら)]に防衛設備があるのも納得じゃ。\r\nあんな装置をホイホイ使われたら堪らんじゃろうて",
+        "translation": ""
+    },
+    {
+        "id": "174",
+        "id_number": 174,
+        "value": "うん……？　待てよ。\r\n[御柱(みはしら)]に降り立った開祖……[来者(らいじゃ)]とはもしや……",
+        "translation": ""
+    },
+    {
+        "id": "175",
+        "id_number": 175,
+        "value": "[来者(らいじゃ)]、ですか？　……ああ、確か[――]",
+        "translation": ""
+    },
+    {
+        "id": "176",
+        "id_number": 176,
+        "value": "わたくしたちのように『クロノリープ』した者を、\r\n昔の人々はそう呼んだと聞いていますわ",
+        "translation": ""
+    },
+    {
+        "id": "177",
+        "id_number": 177,
+        "value": "では、お主は[――] ",
+        "translation": ""
+    },
+    {
+        "id": "178",
+        "id_number": 178,
+        "value": "エーリンゼ様！",
+        "translation": ""
+    },
+    {
+        "id": "179",
+        "id_number": 179,
+        "value": "大丈夫……平気ですわ、ティリス……",
+        "translation": ""
+    },
+    {
+        "id": "182",
+        "id_number": 182,
+        "value": "すみません、この辺りに休める場所はありませんか？\r",
+        "translation": ""
+    },
+    {
+        "id": "183",
+        "id_number": 183,
+        "value": "それなら、この近くにラルパルという集落がある。\r\nそこで休むがよい",
+        "translation": ""
+    },
+    {
+        "id": "184",
+        "id_number": 184,
+        "value": "ワシらも行くぞ。こやつらには、まだまだ\r\n聞かねばならんことがありそうじゃしな",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD010",
+        "id_number": 184,
+        "value": "む？　お前たち、もう出てきたのか？\r\nついさっき[御柱(みはしら)]の中に入ったばかりではないか",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD020",
+        "id_number": 184,
+        "value": "それに……その後ろの２人は？　仲間か？\r\nいつ合流したんだ？",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD030",
+        "id_number": 184,
+        "value": "生きておる……な……。\r\nそうか、これが過去に跳ぶということか……",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD040",
+        "id_number": 184,
+        "value": "？　何を言っている？\r\n中でいったい何があったんだ",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD050",
+        "id_number": 184,
+        "value": "いや……えーっと、\r\nあー、その～何と言ったらよいか……",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD060",
+        "id_number": 184,
+        "value": "……怪しいな",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD070",
+        "id_number": 184,
+        "value": "これは……中で何が起きたか、\r\nこの目で確かめる必要があるようだ",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD080",
+        "id_number": 184,
+        "value": "……！！",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD090",
+        "id_number": 184,
+        "value": "いかん！　今行っては危険じゃ！！",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD100",
+        "id_number": 184,
+        "value": "危険……？　ならばなおさらだ！\r\n[御柱(みはしら)]を預かる門番として、看過できん！！",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD110",
+        "id_number": 184,
+        "value": "待て！！　お主、死[――] ",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD120",
+        "id_number": 184,
+        "value": "いけません！！",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD130",
+        "id_number": 184,
+        "value": "なんでじゃ！　何故教えてはいかんのだ！\r\n人一人の命が救えるのだぞ？",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD140",
+        "id_number": 184,
+        "value": "あの門番が生き延びることによって、\r\nこの先、何が起きるかわかりません！",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD160",
+        "id_number": 184,
+        "value": "そんな大げさな……",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD170",
+        "id_number": 184,
+        "value": "いえ……\r\nティリスの言うことは間違っていませんわ",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD180",
+        "id_number": 184,
+        "value": "不要な改変は避けるべきです……",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD190",
+        "id_number": 184,
+        "value": "むう……",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD200",
+        "id_number": 184,
+        "value": "あの門番は死ぬ運命にあった。\r\nそう割り切られねばなりません",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD210",
+        "id_number": 184,
+        "value": "……おつらいでしょうが、\r\nどうか……ご理解下さい",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD220_M",
+        "id_number": 184,
+        "value": "……",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD220_F",
+        "id_number": 184,
+        "value": "……",
+        "translation": ""
+    },
+    {
+        "id": "184_ADD230",
+        "id_number": 184,
+        "value": "とにかく、集落へ急ぎましょう。\r\nエーリンゼ様の体調が心配です",
+        "translation": ""
+    },
+    {
+        "id": "185",
+        "id_number": 185,
+        "value": "大丈夫ですか？　エーリンゼ様",
+        "translation": ""
+    },
+    {
+        "id": "186",
+        "id_number": 186,
+        "value": "ありがとう、ティリス。\r\n少し休めば問題ありませんわ",
+        "translation": ""
+    },
+    {
+        "id": "187",
+        "id_number": 187,
+        "value": "悪いが、その前にそろそろ説明して貰おうか",
+        "translation": ""
+    },
+    {
+        "id": "188",
+        "id_number": 188,
+        "value": "お主たちが何者で、どんな目的で\r\nこの地に降り立ったかを、な",
+        "translation": ""
+    },
+    {
+        "id": "194",
+        "id_number": 194,
+        "value": "わたくしたちが時空を越えてきた……というのは\r\nなんとなくお分かりでしょう？",
+        "translation": ""
+    },
+    {
+        "id": "195",
+        "id_number": 195,
+        "value": "そうです。わたくしとティリスは、\r\n今から１０００年後の未来からやってきました",
+        "translation": ""
+    },
+    {
+        "id": "196",
+        "id_number": 196,
+        "value": "１０００年後の未来じゃと！？\r\nそんな馬鹿な話[――]",
+        "translation": ""
+    },
+    {
+        "id": "197_M",
+        "id_number": 197,
+        "value": "いや、今の自分たちも\r\n時間を超えた存在なわけだから……",
+        "translation": ""
+    },
+    {
+        "id": "197_F",
+        "id_number": 197,
+        "value": "いや、今の自分たちも\r\n時間を超えた存在なわけだから……",
+        "translation": ""
+    },
+    {
+        "id": "198_M",
+        "id_number": 198,
+        "value": "つまりは超えた時間の幅が違うだけ、か",
+        "translation": ""
+    },
+    {
+        "id": "198_F",
+        "id_number": 198,
+        "value": "つまりは超えた時間の幅が違うだけ、か",
+        "translation": ""
+    },
+    {
+        "id": "199",
+        "id_number": 199,
+        "value": "理解が早くて助かりますわ",
+        "translation": ""
+    },
+    {
+        "id": "201",
+        "id_number": 201,
+        "value": "で？　１０００年もの\r\n未来からやってきた目的はなんじゃ？",
+        "translation": ""
+    },
+    {
+        "id": "202",
+        "id_number": 202,
+        "value": "……アバリティアの解放、です",
+        "translation": ""
+    },
+    {
+        "id": "203",
+        "id_number": 203,
+        "value": "アバリティアは歪みの存在。\r\nそこにいるだけで時空を狂わせます",
+        "translation": ""
+    },
+    {
+        "id": "204",
+        "id_number": 204,
+        "value": "アバリティアが生み出した[歪(ゆが)]みは徐々に蓄積され、\r\n遠からずこの星を飲み込んでしまう……",
+        "translation": ""
+    },
+    {
+        "id": "205",
+        "id_number": 205,
+        "value": "そういった観測結果が、\r\n私たちの時代にて確認されたのです",
+        "translation": ""
+    },
+    {
+        "id": "206",
+        "id_number": 206,
+        "value": "なんじゃと！？",
+        "translation": ""
+    },
+    {
+        "id": "207",
+        "id_number": 207,
+        "value": "わたくしたちの時代のアバリティアは、\r\n[歪(ゆが)]みが肥大化して最早手に負えません",
+        "translation": ""
+    },
+    {
+        "id": "208",
+        "id_number": 208,
+        "value": "ですが、１０００年前なら……この時代の\r\nアバリティアならば、まだ手を尽くすことは可能ですわ",
+        "translation": ""
+    },
+    {
+        "id": "209",
+        "id_number": 209,
+        "value": "わたくしたちは、アバリティアを探し出して解放し、\r\n時空の[歪(ゆが)]みを解消する[――]",
+        "translation": ""
+    },
+    {
+        "id": "210",
+        "id_number": 210,
+        "value": "そのために、遙か未来からやって来たのです。\r\nこの星を救うために！",
+        "translation": ""
+    },
+    {
+        "id": "211",
+        "id_number": 211,
+        "value": "は、話がいきなり壮大になりおったな……",
+        "translation": ""
+    },
+    {
+        "id": "212_ADD010",
+        "id_number": 212,
+        "value": "しかし、過去を改変しても良いのか？\r\n何やら面倒なことになりそうじゃが……",
+        "translation": ""
+    },
+    {
+        "id": "213",
+        "id_number": 213,
+        "value": "それにつきましては、十二分に検討を重ねています",
+        "translation": ""
+    },
+    {
+        "id": "214",
+        "id_number": 214,
+        "value": "アバリティア解放による影響と改変範囲、\r\nそして星の未来を天秤にかけた上での計画です",
+        "translation": ""
+    },
+    {
+        "id": "218",
+        "id_number": 218,
+        "value": "さて、私たちのことはすべてお話しました。\r\n納得いただけましたか？",
+        "translation": ""
+    },
+    {
+        "id": "219",
+        "id_number": 219,
+        "value": "うむ、大体は理解した",
+        "translation": ""
+    },
+    {
+        "id": "220",
+        "id_number": 220,
+        "value": "そうですか。では改めて[――]",
+        "translation": ""
+    },
+    {
+        "id": "221",
+        "id_number": 221,
+        "value": "この話は重要機密であり、クロノリープ自体も\r\n一部以外には許されない禁断の秘術です",
+        "translation": ""
+    },
+    {
+        "id": "222",
+        "id_number": 222,
+        "value": "それらを知ってしまったあなたたちには、\r\n今からとある選択をしてもらいます",
+        "translation": ""
+    },
+    {
+        "id": "224",
+        "id_number": 224,
+        "value": "我々に協力するか、それとも……死か。\r\nお好きな方をお選びください",
+        "translation": ""
+    },
+    {
+        "id": "225",
+        "id_number": 225,
+        "value": "はいっ！？",
+        "translation": ""
+    },
+    {
+        "id": "226",
+        "id_number": 226,
+        "value": "協力か死か。\r\n……死を選ぶ場合は、私も本気を出します",
+        "translation": ""
+    },
+    {
+        "id": "227",
+        "id_number": 227,
+        "value": "い、いやははは冗談キッツいのう。\r\nのう、下僕？",
+        "translation": ""
+    },
+    {
+        "id": "228",
+        "id_number": 228,
+        "value": "……冗談ではないことなど、お分かりでしょう？\r\nどうかこの場で選択を",
+        "translation": ""
+    },
+    {
+        "id": "235_M",
+        "id_number": 235,
+        "value": "……協力しよう",
+        "translation": ""
+    },
+    {
+        "id": "235_F",
+        "id_number": 235,
+        "value": "……協力する",
+        "translation": ""
+    },
+    {
+        "id": "236",
+        "id_number": 236,
+        "value": "……まあ、こう答えるしかなかろうて",
+        "translation": ""
+    },
+    {
+        "id": "237",
+        "id_number": 237,
+        "value": "……すみません",
+        "translation": ""
+    },
+    {
+        "id": "238",
+        "id_number": 238,
+        "value": "無理強いしてしまって申し訳ありません。\r\nでも、ありがとうございます！",
+        "translation": ""
+    },
+    {
+        "id": "239",
+        "id_number": 239,
+        "value": "まあ、星の未来なんて言われたら、\r\n冒険者的に協力せざるを得んしな？",
+        "translation": ""
+    },
+    {
+        "id": "240_M",
+        "id_number": 240,
+        "value": "ああ、それに[――]",
+        "translation": ""
+    },
+    {
+        "id": "240_F",
+        "id_number": 240,
+        "value": "うん、それに[――]",
+        "translation": ""
+    },
+    {
+        "id": "241",
+        "id_number": 241,
+        "value": "重ねて言いますがこのことは一切他言無用です。\r\nもし誰かに話したら[――]",
+        "translation": ""
+    },
+    {
+        "id": "242",
+        "id_number": 242,
+        "value": "死、じゃろう。分かっとる分かっとる",
+        "translation": ""
+    },
+    {
+        "id": "243",
+        "id_number": 243,
+        "value": "おお、そうじゃ！　そうまで言うなら誓約を結ぼうぞ。\r\nほれ、ここにサインを",
+        "translation": ""
+    },
+    {
+        "id": "244",
+        "id_number": 244,
+        "value": "いいでしょう",
+        "translation": ""
+    },
+    {
+        "id": "245",
+        "id_number": 245,
+        "value": "はい、書きましたよ。\r\n……ん？　下僕契約書……？？？",
+        "translation": ""
+    },
+    {
+        "id": "246",
+        "id_number": 246,
+        "value": "よっしゃあ！\r\n新・下僕ゲットじゃあ！！",
+        "translation": ""
+    },
+    {
+        "id": "247",
+        "id_number": 247,
+        "value": "え？　下僕！？　ちょ、待[――]",
+        "translation": ""
+    },
+    {
+        "id": "248",
+        "id_number": 248,
+        "value": "待たないよぅ。\r\nこれはもうフェステのものだもん☆",
+        "translation": ""
+    },
+    {
+        "id": "249",
+        "id_number": 249,
+        "value": "……エーリンゼ様、やはりこの者たちを\r\n消してしまいましょう",
+        "translation": ""
+    },
+    {
+        "id": "250",
+        "id_number": 250,
+        "value": "ふふ、いいではありませんか。これぐらい強かな方が\r\n協力者だと、かえって心強いですわ",
+        "translation": ""
+    },
+    {
+        "id": "251",
+        "id_number": 251,
+        "value": "はあ……",
+        "translation": ""
+    },
+    {
+        "id": "252",
+        "id_number": 252,
+        "value": "よし！　では下僕よ。後輩下僕の面倒を見て\r\nしっかりワシの役に立たせるのじゃぞ？",
+        "translation": ""
+    },
+    {
+        "id": "253",
+        "id_number": 253,
+        "value": "え？　あなたも引っかかったんです？",
+        "translation": ""
+    },
+    {
+        "id": "254",
+        "id_number": 254,
+        "value": "ああ、だからさっきから下僕って呼ばれて……",
+        "translation": ""
+    },
+    {
+        "id": "255",
+        "id_number": 255,
+        "value": "まあ、ティリスの先輩だったんですね！\r\nそれは心強いですわ",
+        "translation": ""
+    },
+    {
+        "id": "256",
+        "id_number": 256,
+        "value": "では、まあ……しばらくの間よろしくお願いします。\r\n『先輩』",
+        "translation": ""
+    },
+    {
+        "id": "258",
+        "id_number": 258,
+        "value": "さて、あなた方には早速お願いしたいことがあります",
+        "translation": ""
+    },
+    {
+        "id": "260",
+        "id_number": 260,
+        "value": "大丈夫です。すぐに動けとは言いません。\r\n少し休んで準備が出来たら、声をかけてください",
+        "translation": ""
+    }
+]

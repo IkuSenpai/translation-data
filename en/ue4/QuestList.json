@@ -36,16 +36,34 @@
         "translation": "History"
     },
     {
-        "id": "7",
-        "id_number": 7,
+        "id": "FilterText_Main",
+        "id_number": 0,
         "value": "メインクエスト",
-        "translation": "Main quest"
+        "translation": ""
     },
     {
-        "id": "8",
-        "id_number": 8,
+        "id": "FilterText_Sub",
+        "id_number": 0,
         "value": "サブクエスト",
-        "translation": "Subquest"
+        "translation": ""
+    },
+    {
+        "id": "FilterText_Class",
+        "id_number": 0,
+        "value": "クラスクエスト",
+        "translation": ""
+    },
+    {
+        "id": "FilterText_Extra",
+        "id_number": 0,
+        "value": "エクストラクエスト",
+        "translation": ""
+    },
+    {
+        "id": "FilterText_ReleaseFunctions",
+        "id_number": 0,
+        "value": "機能解放クエスト",
+        "translation": ""
     },
     {
         "id": "9",

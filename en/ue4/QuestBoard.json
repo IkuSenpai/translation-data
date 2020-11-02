@@ -46,5 +46,119 @@
         "id_number": 8,
         "value": "クエストを選択してください",
         "translation": ""
+    },
+    {
+        "id": "FilterTitle_Type",
+        "id_number": 0,
+        "value": "クエストソート",
+        "translation": ""
+    },
+    {
+        "id": "FilterTitle_Class",
+        "id_number": 0,
+        "value": "クラス",
+        "translation": ""
+    },
+    {
+        "id": "FilterTitle_ClassLevel",
+        "id_number": 0,
+        "value": "クラスレベル",
+        "translation": ""
+    },
+    {
+        "id": "FilterText_Default",
+        "id_number": 0,
+        "value": "すべて",
+        "translation": ""
+    },
+    {
+        "id": "FilterText_Slay",
+        "id_number": 0,
+        "value": "討伐",
+        "translation": ""
+    },
+    {
+        "id": "FilterText_Errand",
+        "id_number": 0,
+        "value": "おつかい",
+        "translation": ""
+    },
+    {
+        "id": "FilterText_Collect",
+        "id_number": 0,
+        "value": "踏破",
+        "translation": ""
+    },
+    {
+        "id": "FilterText_Rebellion",
+        "id_number": 0,
+        "value": "イージスファイター",
+        "translation": ""
+    },
+    {
+        "id": "FilterText_Berserker",
+        "id_number": 0,
+        "value": "ツインストライカー",
+        "translation": ""
+    },
+    {
+        "id": "FilterText_Blaster",
+        "id_number": 0,
+        "value": "ブラストアーチャー",
+        "translation": ""
+    },
+    {
+        "id": "FilterText_Magician",
+        "id_number": 0,
+        "value": "スペルキャスター",
+        "translation": ""
+    },
+    {
+        "id": "FilterText_Level1",
+        "id_number": 0,
+        "value": "1～10",
+        "translation": ""
+    },
+    {
+        "id": "FilterText_Level11",
+        "id_number": 0,
+        "value": "11～20",
+        "translation": ""
+    },
+    {
+        "id": "FilterText_Level21",
+        "id_number": 0,
+        "value": "21～30",
+        "translation": ""
+    },
+    {
+        "id": "FilterText_Level31",
+        "id_number": 0,
+        "value": "31～40",
+        "translation": ""
+    },
+    {
+        "id": "FilterText_Level41",
+        "id_number": 0,
+        "value": "41～50",
+        "translation": ""
+    },
+    {
+        "id": "FilterText_CanReceive",
+        "id_number": 0,
+        "value": "受注可能のみ",
+        "translation": ""
+    },
+    {
+        "id": "FilterText_CantReceive",
+        "id_number": 0,
+        "value": "受注不可",
+        "translation": ""
+    },
+    {
+        "id": "Separator_Level",
+        "id_number": 0,
+        "value": "レベル",
+        "translation": ""
     }
 ]

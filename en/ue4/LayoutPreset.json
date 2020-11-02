@@ -1,0 +1,56 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "デフォルト０",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "デフォルト１",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "デフォルト２",
+        "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "本作は画面レイアウトを自由に変更できます。変更しますか？",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "アクションゲーム風",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "生配信風",
+        "translation": ""
+    },
+    {
+        "id": "103",
+        "id_number": 103,
+        "value": "より詳しい設定は、コマンドメニュー＞オプション＞HUDで行うことができます。",
+        "translation": ""
+    },
+    {
+        "id": "500",
+        "id_number": 500,
+        "value": "変更しない",
+        "translation": ""
+    },
+    {
+        "id": "900",
+        "id_number": 900,
+        "value": "{LayoutName}にしますがよろしいですか？",
+        "translation": ""
+    }
+]

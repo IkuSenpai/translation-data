@@ -38,8 +38,8 @@
     {
         "id": "7",
         "id_number": 7,
-        "value": "ブラックリスト",
-        "translation": "blacklist"
+        "value": "ブロックリスト",
+        "translation": ""
     },
     {
         "id": "8",
@@ -56,8 +56,8 @@
     {
         "id": "10",
         "id_number": 10,
-        "value": "ブラックリスト解除",
-        "translation": "Unblacklist"
+        "value": "ブロックを解除する",
+        "translation": ""
     },
     {
         "id": "11",
@@ -92,8 +92,8 @@
     {
         "id": "17",
         "id_number": 17,
-        "value": "ブラックリストに登録したプレイヤーを表示します",
-        "translation": "Shows blacklisted players"
+        "value": "ブロックリストに登録したプレイヤーを表示します",
+        "translation": ""
     },
     {
         "id": "18",
@@ -110,8 +110,8 @@
     {
         "id": "20",
         "id_number": 20,
-        "value": "ブラックリストから解除しますか？",
-        "translation": "Do you want to remove it from the blacklist?"
+        "value": "ブロックリストから解除しますか？",
+        "translation": ""
     },
     {
         "id": "23",
@@ -158,8 +158,8 @@
     {
         "id": "30",
         "id_number": 30,
-        "value": "条件をリセット",
-        "translation": "Reset conditions"
+        "value": "リセット",
+        "translation": ""
     },
     {
         "id": "31",
@@ -192,6 +192,12 @@
         "translation": "Lv."
     },
     {
+        "id": "36",
+        "id_number": 36,
+        "value": "メール",
+        "translation": "Mail"
+    },
+    {
         "id": "100",
         "id_number": 100,
         "value": "Follow List",
@@ -206,20 +212,26 @@
     {
         "id": "102",
         "id_number": 102,
-        "value": "Black List",
-        "translation": "Black List"
+        "value": "Block List",
+        "translation": ""
     },
     {
         "id": "103",
         "id_number": 103,
-        "value": "Character Search",
-        "translation": "Character Search"
+        "value": "Player Search",
+        "translation": ""
     },
     {
         "id": "104",
         "id_number": 104,
         "value": "My Profile",
         "translation": "My Profile"
+    },
+    {
+        "id": "105",
+        "id_number": 105,
+        "value": "Mail Box",
+        "translation": "Mail Box"
     },
     {
         "id": "110",
@@ -234,15 +246,171 @@
         "translation": "Please enter search conditions"
     },
     {
-        "id": "105",
-        "id_number": 105,
-        "value": "Mail Box",
-        "translation": "Mail Box"
+        "id": "120",
+        "id_number": 120,
+        "value": "Auto Gesture",
+        "translation": ""
     },
     {
-        "id": "36",
-        "id_number": 36,
-        "value": "メール",
-        "translation": "Mail"
+        "id": "121",
+        "id_number": 121,
+        "value": "Arena Log",
+        "translation": ""
+    },
+    {
+        "id": "122",
+        "id_number": 122,
+        "value": "Sticker",
+        "translation": ""
+    },
+    {
+        "id": "123",
+        "id_number": 123,
+        "value": "Gesture",
+        "translation": ""
+    },
+    {
+        "id": "124",
+        "id_number": 124,
+        "value": "Auto Sticker",
+        "translation": ""
+    },
+    {
+        "id": "130",
+        "id_number": 130,
+        "value": "ON",
+        "translation": ""
+    },
+    {
+        "id": "131",
+        "id_number": 131,
+        "value": "OFF",
+        "translation": ""
+    },
+    {
+        "id": "132",
+        "id_number": 132,
+        "value": "定型文リスト",
+        "translation": ""
+    },
+    {
+        "id": "133",
+        "id_number": 133,
+        "value": "スタンプリスト",
+        "translation": ""
+    },
+    {
+        "id": "134",
+        "id_number": 134,
+        "value": "はずす",
+        "translation": ""
+    },
+    {
+        "id": "Profile",
+        "id_number": 0,
+        "value": "プロフィール",
+        "translation": ""
+    },
+    {
+        "id": "Follow",
+        "id_number": 0,
+        "value": "フォロー",
+        "translation": ""
+    },
+    {
+        "id": "CharaSearch",
+        "id_number": 0,
+        "value": "プレイヤーサーチ",
+        "translation": ""
+    },
+    {
+        "id": "Emote",
+        "id_number": 0,
+        "value": "トーク管理",
+        "translation": ""
+    },
+    {
+        "id": "LetterBox",
+        "id_number": 0,
+        "value": "レターボックス",
+        "translation": ""
+    },
+    {
+        "id": "Avatar",
+        "id_number": 0,
+        "value": "自分",
+        "translation": ""
+    },
+    {
+        "id": "Achievement",
+        "id_number": 0,
+        "value": "アチーブメント",
+        "translation": ""
+    },
+    {
+        "id": "ArenaLog",
+        "id_number": 0,
+        "value": "闘技場戦歴",
+        "translation": ""
+    },
+    {
+        "id": "FollowList",
+        "id_number": 0,
+        "value": "フォローリスト",
+        "translation": ""
+    },
+    {
+        "id": "Blacklist",
+        "id_number": 0,
+        "value": "ブロックリスト",
+        "translation": ""
+    },
+    {
+        "id": "Sticker",
+        "id_number": 0,
+        "value": "スタンプ",
+        "translation": ""
+    },
+    {
+        "id": "Gesture",
+        "id_number": 0,
+        "value": "ジェスチャー",
+        "translation": ""
+    },
+    {
+        "id": "AutoSticker",
+        "id_number": 0,
+        "value": "オートメッセージ",
+        "translation": ""
+    },
+    {
+        "id": "AutoGesture",
+        "id_number": 0,
+        "value": "オートジェスチャー",
+        "translation": ""
+    },
+    {
+        "id": "SearchResultNum",
+        "id_number": 0,
+        "value": "{Num}人のプレイヤーが見つかりました",
+        "translation": ""
+    },
+    {
+        "id": "SearchResultNumOver",
+        "id_number": 0,
+        "value": "サーチ結果が多すぎます。条件を絞ってください",
+        "translation": ""
+    },
+    {
+        "id": "Online",
+        "id_number": 0,
+        "value": "オンライン",
+        "translation": ""
+    },
+    {
+        "id": "Offline",
+        "id_number": 0,
+        "value": "オフライン",
+        "translation": ""
     }
 ]

@@ -2,7 +2,7 @@
     {
         "id": "1",
         "id_number": 1,
-        "value": "お主は何で身を立てるつもりじゃ？\n扱う武器が無ければ、どうしようもないがな。",
+        "value": "新たなクラスに臨むか。\nそれもまた君の選択だ",
         "translation": ""
     },
     {
@@ -14,13 +14,13 @@
     {
         "id": "3",
         "id_number": 3,
-        "value": "頑張れよ！",
+        "value": "武運を祈る",
         "translation": ""
     },
     {
         "id": "4",
         "id_number": 4,
-        "value": "じゃあな",
+        "value": "いつでも来るといい",
         "translation": ""
     },
     {

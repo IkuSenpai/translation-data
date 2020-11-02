@@ -8,8 +8,8 @@
     {
         "id": "2",
         "id_number": 2,
-        "value": "装備する武器を選択してください。",
-        "translation": "Select the weapon to equip."
+        "value": "武器を選択",
+        "translation": ""
     },
     {
         "id": "3",
@@ -34,5 +34,29 @@
         "id_number": 6,
         "value": "変更したいクラスを選択してください。",
         "translation": "Select the class you want to change."
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "次のクエストを破棄します：",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "クエストを破棄しました。",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "クエストの破棄に失敗しました。",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "クラスチェンジに必要な武器を\n所持していません。",
+        "translation": ""
     }
 ]

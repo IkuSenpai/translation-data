@@ -1,0 +1,422 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "先生は一足飛びに結論を求めすぎなんですよ。\r\n昔の人たちだって地道に毎日を生きていたんです",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "ご飯を食べたり、歌を唄ったり……。\r\nそういう日常の積み重ねが歴史なんでしょう？",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "大砲だとか古代兵器だとか、そんな目立つものばかり\r\n都合よく遺跡として残ってるわけないんですから",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "バファリア教団は何かを隠している！\r\n公にされては困る秘密が必ずあるはずだ！",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "そうでなければ、なぜ『神懸の御柱』を調査させない？\r\n本神殿にあるという聖遺物をなぜ調べさせない？",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "私の言説が誤りならきっぱり否定すればいい！\r\nなのに左遷などと姑息な嫌がらせをして……！",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "それこそ私の説が真実に触れている証拠だ！\r\n私は決して自説を曲げんぞ！",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "バファリア教の開祖は来者！　『巨塔の遺跡』は大砲！\r\nそうだ、そうに違いない！　そうに決まった！",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "お前の主人にツケを払うよう言ってくれ。\r\n溜まっていく一方だぞ、まったく……",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "待てぃ！\r\n許可証を持たぬ者を入れるわけにはいかん",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "本来、ここは神官長の叙任式でしか入れんのだ",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "なのに、なぜ部外者のお前たちに許可が下りたのか……",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "む？　お前たちは先ほど\r\n御柱の中に入ったのではなかったか？",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "それに……その後ろの２人は？　仲間か？\r\nいつ合流したんだ？",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "生きておる……な……。\r\nそうか、これが過去に跳ぶということか……",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "？　何を言っている？",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "（……のう、こやつにこの後のことを伝えれば、\r\n運命を変えられるのではないか？）",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "門番に、この後のことを伝える",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "伝える",
+        "translation": ""
+    },
+    {
+        "id": "19_M",
+        "id_number": 19,
+        "value": "そうだな。伝えよう",
+        "translation": ""
+    },
+    {
+        "id": "19_F",
+        "id_number": 19,
+        "value": "そうだね。伝えよう",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "駄目です。歴史を変えるような行動は慎んでください",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "伝えない",
+        "translation": ""
+    },
+    {
+        "id": "22_M",
+        "id_number": 22,
+        "value": "いや、ダメだ",
+        "translation": ""
+    },
+    {
+        "id": "22_F",
+        "id_number": 22,
+        "value": "いいえ、ダメよ",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "なんでじゃ！",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "賢明な判断です。あなたは歴史を変えるということの\r\n重大性を理解なさっているようですね",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "いや、しかし[――]",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "お勤めご苦労様です",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "あ、ああ……？",
+        "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "さあ、急ぎましょう。エーリンゼ様の体調が心配です",
+        "translation": ""
+    },
+    {
+        "id": "29",
+        "id_number": 29,
+        "value": "何故教えてはいかんのだ！\r\n人一人の命が救えるのだぞ？",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "それが問題なのです。\r\nたかが一人の命、されど一人の命",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "あの門番が生き延びることによって、\r\nこの先、何が起きるかわかりません",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "もしかしたら……\r\n未来が滅ぶようなこともあるのですよ？",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "そんな壮大な話……",
+        "translation": ""
+    },
+    {
+        "id": "34",
+        "id_number": 34,
+        "value": "いえ、ティリスの言うことは間違っていませんわ",
+        "translation": ""
+    },
+    {
+        "id": "35",
+        "id_number": 35,
+        "value": "何が起きるかわからない。\r\nそれが過去改変の恐ろしさなのです",
+        "translation": ""
+    },
+    {
+        "id": "36",
+        "id_number": 36,
+        "value": "わたくしたちは、すでに大きな改変を行っています",
+        "translation": ""
+    },
+    {
+        "id": "37",
+        "id_number": 37,
+        "value": "あなた方を巻き込んで、ヴォルディゲンの手から\r\n逃れるという改変を",
+        "translation": ""
+    },
+    {
+        "id": "38",
+        "id_number": 38,
+        "value": "あ……！",
+        "translation": ""
+    },
+    {
+        "id": "39",
+        "id_number": 39,
+        "value": "だから……これ以上は……",
+        "translation": ""
+    },
+    {
+        "id": "40",
+        "id_number": 40,
+        "value": "し、しかしじゃな？　もし門番を助けて\r\n歴史が変わったとしてじゃぞ？",
+        "translation": ""
+    },
+    {
+        "id": "41",
+        "id_number": 41,
+        "value": "結果的にそれがまずければ、\r\nもう一度過去に跳んでやり直せばよいのではないか？",
+        "translation": ""
+    },
+    {
+        "id": "42",
+        "id_number": 42,
+        "value": "クロノリープには制限があるのです。\r\n無暗に使うことはできません",
+        "translation": ""
+    },
+    {
+        "id": "43",
+        "id_number": 43,
+        "value": "時空を跳ぶということは、\r\n決して万能ではないのです……",
+        "translation": ""
+    },
+    {
+        "id": "44",
+        "id_number": 44,
+        "value": "むう……",
+        "translation": ""
+    },
+    {
+        "id": "45",
+        "id_number": 45,
+        "value": "あの門番は死ぬ運命にあった。\r\nそう割り切られねばなりません",
+        "translation": ""
+    },
+    {
+        "id": "46",
+        "id_number": 46,
+        "value": "……おつらいでしょうが、ご理解願いたい",
+        "translation": ""
+    },
+    {
+        "id": "47_M",
+        "id_number": 47,
+        "value": "……",
+        "translation": ""
+    },
+    {
+        "id": "47_F",
+        "id_number": 47,
+        "value": "……",
+        "translation": ""
+    },
+    {
+        "id": "48",
+        "id_number": 48,
+        "value": "さあ、行きましょう。\r\n疲労が限界に達する前に集落にたどり着かなくては",
+        "translation": ""
+    },
+    {
+        "id": "49",
+        "id_number": 49,
+        "value": "ほう……冒険者として良い面構えになってきたな。\r\nどうやら結構な難関をClearしたと見たゼ",
+        "translation": ""
+    },
+    {
+        "id": "50",
+        "id_number": 50,
+        "value": "確かに本物の許可証だな。\r\n目にしたのは久しぶりだ",
+        "translation": ""
+    },
+    {
+        "id": "51",
+        "id_number": 51,
+        "value": "通常、冒険者だけで立ち入りを許可されることはない。\r\nバファリア教の関係者が同行する場合がほとんどだ",
+        "translation": ""
+    },
+    {
+        "id": "52",
+        "id_number": 52,
+        "value": "めずらしいケースではあるが、\r\nこれもバファリアの神の思し召しなのだろう",
+        "translation": ""
+    },
+    {
+        "id": "53",
+        "id_number": 53,
+        "value": "許可証があるなら何も言うことはない。\r\nどうぞ、入られよ",
+        "translation": ""
+    },
+    {
+        "id": "54",
+        "id_number": 54,
+        "value": "御柱への入場を許可された者に対し、　\r\nあれこれ詮索するのは慎むべき行為だ",
+        "translation": ""
+    },
+    {
+        "id": "55",
+        "id_number": 55,
+        "value": "だから私は何も聞かぬ。\r\nそれに、そちらのご婦人はかなりお疲れの様子",
+        "translation": ""
+    },
+    {
+        "id": "56",
+        "id_number": 56,
+        "value": "すぐにでも休息を取るべきだ。\r\nさあ、ラルパルへ急ぎなさい",
+        "translation": ""
+    },
+    {
+        "id": "57",
+        "id_number": 57,
+        "value": "なかなか戻ってこないな……。\r\nいや、さっき中に入っていった同僚のことだ",
+        "translation": ""
+    },
+    {
+        "id": "58",
+        "id_number": 58,
+        "value": "御柱の上のほうで何か光ったようだったが……。\r\nまあ、神のなさることだ。どうにもなるまい",
+        "translation": ""
+    },
+    {
+        "id": "59",
+        "id_number": 59,
+        "value": "ここは『神懸の御柱』。我らが神の聖なる地。\r\nすべてのできごとは運命として受け入れることだ",
+        "translation": ""
+    },
+    {
+        "id": "60",
+        "id_number": 60,
+        "value": "……どうか、お静かに願います",
+        "translation": ""
+    },
+    {
+        "id": "61",
+        "id_number": 61,
+        "value": "ところで、先輩はなかなか腕の立つ方ですね。\r\nアバリティアとの戦いはお見事でした",
+        "translation": ""
+    },
+    {
+        "id": "62",
+        "id_number": 62,
+        "value": "ただ、それでもヴォルディゲンには……。\r\n私も先輩も、まだまだ強くならなければなりません",
+        "translation": ""
+    },
+    {
+        "id": "63",
+        "id_number": 63,
+        "value": "どこかに腕試しや鍛錬のできる場所はないでしょうか？\r\nそういえば、かつて人間の訓練施設があったような……",
+        "translation": ""
+    },
+    {
+        "id": "64",
+        "id_number": 64,
+        "value": "よう、聞いたか？\r\n耳寄りなeventがopenだ！",
+        "translation": ""
+    },
+    {
+        "id": "65",
+        "id_number": 65,
+        "value": "アステルリーズの闘技場に行ってみな。\r\nChallengerを募集してるぜ",
+        "translation": ""
+    },
+    {
+        "id": "66",
+        "id_number": 66,
+        "value": "腕試しにはもってこいだ。\r\nさあ、キミにオレのrecordを破れるかな？",
+        "translation": ""
+    }
+]

@@ -116,13 +116,43 @@
     {
         "id": "29",
         "id_number": 29,
-        "value": "装着部位",
-        "translation": "Mounting site"
+        "value": "種別",
+        "translation": ""
     },
     {
         "id": "30",
         "id_number": 30,
         "value": "s",
         "translation": "s"
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "武器攻撃力",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "属性効果値",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "特効",
+        "translation": ""
+    },
+    {
+        "id": "34",
+        "id_number": 34,
+        "value": "攻撃タイプ",
+        "translation": ""
+    },
+    {
+        "id": "500",
+        "id_number": 500,
+        "value": "武器レベルがクラスレベルを超えているため装備できません",
+        "translation": ""
     }
 ]

@@ -8,19 +8,19 @@
     {
         "id": "2",
         "id_number": 2,
-        "value": "Mission Clear !",
-        "translation": "Mission Clear !"
+        "value": "Challenge Success !",
+        "translation": ""
     },
     {
         "id": "3",
         "id_number": 3,
-        "value": "Mission Failed !",
-        "translation": "Mission Failed !"
+        "value": "Challenge Fail !",
+        "translation": ""
     },
     {
         "id": "4",
         "id_number": 4,
-        "value": "Emergency Mission !",
-        "translation": "Emergency Mission !"
+        "value": "Challenge Quest !",
+        "translation": ""
     }
 ]

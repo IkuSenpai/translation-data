@@ -14,8 +14,8 @@
     {
         "id": "2",
         "id_number": 2,
-        "value": "手伝ってください",
-        "translation": "Please help me"
+        "value": "ミッションへ行きましょう",
+        "translation": ""
     },
     {
         "id": "3",
@@ -26,25 +26,49 @@
     {
         "id": "4",
         "id_number": 4,
-        "value": "ダンジョン行きましょう",
-        "translation": "Let's go to the dungeon"
+        "value": "フォロー歓迎",
+        "translation": ""
     },
     {
         "id": "5",
         "id_number": 5,
-        "value": "フォロー歓迎",
-        "translation": "Welcome to follow"
+        "value": "取引します",
+        "translation": ""
     },
     {
         "id": "6",
         "id_number": 6,
-        "value": "クエストやろう！",
-        "translation": "Let's do the quest!"
+        "value": "パーティメンバー募集中",
+        "translation": ""
     },
     {
         "id": "7",
         "id_number": 7,
+        "value": "クエストやろう",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "PVPやろう",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
         "value": "手伝います",
-        "translation": "Will help"
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "ギルドメンバー募集中",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "手伝ってください",
+        "translation": ""
     }
 ]

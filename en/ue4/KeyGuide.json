@@ -160,5 +160,53 @@
         "id_number": 27,
         "value": "トークモード：",
         "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "加速：",
+        "translation": ""
+    },
+    {
+        "id": "29",
+        "id_number": 29,
+        "value": "ブレーキ：",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "強制歩き：",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "カメラリセット：",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "マウントを降りる：",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "移動中",
+        "translation": ""
+    },
+    {
+        "id": "34",
+        "id_number": 34,
+        "value": "マウントに乗る：",
+        "translation": ""
+    },
+    {
+        "id": "35",
+        "id_number": 35,
+        "value": "ショートカットリング：",
+        "translation": ""
     }
 ]

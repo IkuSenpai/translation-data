@@ -1,0 +1,356 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "ああ～～。\r\nいい天気だなあ～～",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "陽射しは気持ちいいし、雲は大きいし。\r\n僕はこんな日にどうして配達なんてしてるんだろう",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "ああ、冒険者さん。いい天気だね。\r\n配達を引き受けてくれてありがとう",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "僕は何かに気を取られると\r\n周りが見えなくなっちゃうたちでさ",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "前も雲を見てたら、手紙の束を抱えたまま\r\n海に落っこちちゃったんだよね",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "いやあ、めちゃくちゃ怒られたよ。\r\nまた同じことになったら大変でしょ？",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "だから、こういう天気のいい日は\r\n無理して配達しないことにしてるんだ",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "というわけで、はい。\r\nこれが配達する荷物だよ",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "もちろん、配達料は全部\r\n君がもらってくれていいからね",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "届け先はみんな転送ポータルの近くだから\r\n歩くよりポータルを使うほうがいいよ",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "それじゃ、よろしく。\r\nああ～～ホントいい天気だあ～～",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "おう、遅ぇじゃんかよ！",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "待ってたぜ。これこれ！\r\n次の試合の予想が書かれた新聞だ",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "……ふむふむ。よっしゃ！\r\nこれで大穴一発、大もうけだな！",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "あんがとよ！",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "あー、待ってたのよ。サンオイル。\r\n届けてくれてありがと！",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "日焼け対策はちゃんとしないとね。\r\nあなたも気をつけたほうがいいわよ",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "それじゃ、泳ぎに行こうっと。\r\n今日は楽しむわよー！",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "ワシに届けものじゃな！\r\n待ちわびたぞ！",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "バーンハルト公国の本神殿からの通達じゃろ？\r\nホッホ！　やっとワシも本国に帰れるわい",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "こんなデカいだけで伝統も格式もない神殿に\r\n放り込まれてウンザリしておったんじゃ",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "上層部に媚びを売った甲斐があったというもの。\r\nどれどれ、さっそく……",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "…………なぬ？\r\nな、な、な、なんじゃとおっ！？",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "リッツェへ転属……あの、あのド田舎に！？\r\nこのワシが！？",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "ウソじゃ！　ワシは本神殿で栄達を重ね\r\nゆくゆくは神官長となる器……！",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "それがド田舎に左遷など……！\r\nそんな……そんな……！",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "そんな、バァァカァァなあァァァアッッ！！",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "あら、配達屋さん。\r\nお待ちしておりましたわ",
+        "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "そうなのよ、この封筒。\r\n届けてくださってありがとう",
+        "translation": ""
+    },
+    {
+        "id": "29",
+        "id_number": 29,
+        "value": "これは定期船の乗船チケットなの。\r\nうっかり家に置いてきてしまってね",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "あわてて娘に送ってもらったのよ。\r\n間に合ってよかったわ",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "ご存知？　アステルリーズからは\r\n各地方への定期船が出航しているの",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "船旅はのんびりして良いものよ。\r\n機会があったらぜひ体験してちょうだい",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "それじゃ、あなたもよい旅を",
+        "translation": ""
+    },
+    {
+        "id": "34",
+        "id_number": 34,
+        "value": "配達の人ね。\r\nどうもありがとう",
+        "translation": ""
+    },
+    {
+        "id": "35",
+        "id_number": 35,
+        "value": "大荷物でごめんなさいね。\r\nついつい食材を買い込んじゃって",
+        "translation": ""
+    },
+    {
+        "id": "36",
+        "id_number": 36,
+        "value": "アステルリーズは野菜も肉も魚も\r\nなんでもそろうのよ",
+        "translation": ""
+    },
+    {
+        "id": "37",
+        "id_number": 37,
+        "value": "特に魚介類が新鮮でおいしいの！\r\n港のマーケットは一見の価値ありね",
+        "translation": ""
+    },
+    {
+        "id": "38",
+        "id_number": 38,
+        "value": "あら、いけない。つい立ち話しちゃった。\r\n早く仕込みを始めなくちゃ",
+        "translation": ""
+    },
+    {
+        "id": "39",
+        "id_number": 39,
+        "value": "お腹がすいたらうちの店に寄ってねー",
+        "translation": ""
+    },
+    {
+        "id": "40",
+        "id_number": 40,
+        "value": "あ、手紙……！\r\nうれしい、ありがとう！",
+        "translation": ""
+    },
+    {
+        "id": "41",
+        "id_number": 41,
+        "value": "ずっと待ってたから……。\r\nよかった。ちゃんと届いていたのね",
+        "translation": ""
+    },
+    {
+        "id": "42",
+        "id_number": 42,
+        "value": "私の彼は冒険者で\r\n今は海の向こうの大陸にいるの",
+        "translation": ""
+    },
+    {
+        "id": "43",
+        "id_number": 43,
+        "value": "すごく遠いから\r\n手紙が届くまで何日もかかるのよ",
+        "translation": ""
+    },
+    {
+        "id": "44",
+        "id_number": 44,
+        "value": "もちろん、返事もね。\r\n彼の無事を祈りながら待つしかないの",
+        "translation": ""
+    },
+    {
+        "id": "45",
+        "id_number": 45,
+        "value": "本当は帰ってきてくれれば\r\n一番いいんだけど……",
+        "translation": ""
+    },
+    {
+        "id": "46",
+        "id_number": 46,
+        "value": "あ、ごめんね。せっかく届けてくれたのに。\r\nありがとう。大切に読むわ",
+        "translation": ""
+    },
+    {
+        "id": "47",
+        "id_number": 47,
+        "value": "ん？　ワシに手紙とな？\r\nめずらしいのう",
+        "translation": ""
+    },
+    {
+        "id": "48",
+        "id_number": 48,
+        "value": "誰からじゃろうか。\r\n……ほう。息子夫婦からじゃ",
+        "translation": ""
+    },
+    {
+        "id": "49",
+        "id_number": 49,
+        "value": "たまにこうして連絡をくれるんじゃ。\r\n年寄りにはありがたい話じゃよ",
+        "translation": ""
+    },
+    {
+        "id": "50",
+        "id_number": 50,
+        "value": "どれ、返事を用意するかな。\r\nまたリンゼイちゃんに代筆を頼まんとのう",
+        "translation": ""
+    },
+    {
+        "id": "51",
+        "id_number": 51,
+        "value": "アンタも家族を大切にしなされよ。\r\n手紙の一つでもうれしいもんじゃて",
+        "translation": ""
+    },
+    {
+        "id": "52",
+        "id_number": 52,
+        "value": "やあ、おつかれ～。\r\n全部届けてくれたんだね",
+        "translation": ""
+    },
+    {
+        "id": "53",
+        "id_number": 53,
+        "value": "どうもありがとう。\r\n約束通り、配達料は君のものだよ。はい",
+        "translation": ""
+    },
+    {
+        "id": "54",
+        "id_number": 54,
+        "value": "転送ポータルって便利でしょ？\r\n遠くにもすぐに移動できるからね",
+        "translation": ""
+    },
+    {
+        "id": "55",
+        "id_number": 55,
+        "value": "アステルリーズ以外の場所でも使われてるから\r\n行く先々で探してみるといいよ",
+        "translation": ""
+    },
+    {
+        "id": "56",
+        "id_number": 56,
+        "value": "上手く使いこなして時間短縮。\r\nでも迷子にならないように気をつけてね",
+        "translation": ""
+    },
+    {
+        "id": "57",
+        "id_number": 57,
+        "value": "それじゃ、またね。僕は帰るよ。\r\n空を見てたら眠くなってきちゃった",
+        "translation": ""
+    },
+    {
+        "id": "58",
+        "id_number": 58,
+        "value": "ふああ～～あ。\r\nこれは明日も働く気しないなあ～～",
+        "translation": ""
+    }
+]

@@ -74,8 +74,8 @@
     {
         "id": "13",
         "id_number": 13,
-        "value": "回避/ダッシュ",
-        "translation": "Avoid / Dash"
+        "value": "回避",
+        "translation": ""
     },
     {
         "id": "14",
@@ -164,8 +164,8 @@
     {
         "id": "28",
         "id_number": 28,
-        "value": "パッド操作スティック入れ替え",
-        "translation": "Pad operation stick replacement"
+        "value": "ゲームパッド：スティック左右",
+        "translation": ""
     },
     {
         "id": "29",
@@ -278,26 +278,26 @@
     {
         "id": "203",
         "id_number": 203,
-        "value": "マウス入力反転 水平",
-        "translation": "Mouse input inversion - Horizontal"
+        "value": "マウス：カメラ操作 水平",
+        "translation": ""
     },
     {
         "id": "204",
         "id_number": 204,
-        "value": "マウス入力反転 垂直",
-        "translation": "Mouse input inversion - Vertical"
+        "value": "マウス：カメラ操作 垂直",
+        "translation": ""
     },
     {
         "id": "205",
         "id_number": 205,
-        "value": "パッド入力反転 水平",
-        "translation": "Pad input inversion - Horizontal"
+        "value": "ゲームパッド：カメラ操作 水平",
+        "translation": ""
     },
     {
         "id": "206",
         "id_number": 206,
-        "value": "パッド入力反転 垂直",
-        "translation": "Pad input inversion - Vertical"
+        "value": "ゲームパッド：カメラ操作 垂直",
+        "translation": ""
     },
     {
         "id": "300",
@@ -338,8 +338,8 @@
     {
         "id": "501",
         "id_number": 501,
-        "value": "設定が変更されています、保存しますか？",
-        "translation": "The settings have changed, do you want to save?"
+        "value": "設定を保存しますか？",
+        "translation": ""
     },
     {
         "id": "502",
@@ -398,8 +398,8 @@
     {
         "id": "999",
         "id_number": 999,
-        "value": "設定不可",
-        "translation": "Cannot be set"
+        "value": "変更不可",
+        "translation": ""
     },
     {
         "id": "600",
@@ -536,8 +536,8 @@
     {
         "id": "51",
         "id_number": 51,
-        "value": "ダンジョンメニューを開く",
-        "translation": "Open the dungeon menu"
+        "value": "ミッションメニューを開く",
+        "translation": ""
     },
     {
         "id": "52",
@@ -604,5 +604,71 @@
         "id_number": 59,
         "value": "コミュニケート",
         "translation": "Communicate"
+    },
+    {
+        "id": "60",
+        "id_number": 60,
+        "value": "支給品1",
+        "translation": ""
+    },
+    {
+        "id": "61",
+        "id_number": 61,
+        "value": "支給品2",
+        "translation": ""
+    },
+    {
+        "id": "62",
+        "id_number": 62,
+        "value": "支給品3",
+        "translation": ""
+    },
+    {
+        "id": "63",
+        "id_number": 63,
+        "value": "支給品4",
+        "translation": ""
+    },
+    {
+        "id": "210",
+        "id_number": 210,
+        "value": "押しっぱなしコンボ",
+        "translation": ""
+    },
+    {
+        "id": "211",
+        "id_number": 211,
+        "value": "移動キー回避",
+        "translation": ""
+    },
+    {
+        "id": "212",
+        "id_number": 212,
+        "value": "有効",
+        "translation": ""
+    },
+    {
+        "id": "213",
+        "id_number": 213,
+        "value": "無効",
+        "translation": ""
+    },
+    {
+        "id": "64",
+        "id_number": 64,
+        "value": "ダッシュ",
+        "translation": ""
+    },
+    {
+        "id": "65",
+        "id_number": 65,
+        "value": "マウント騎乗",
+        "translation": ""
+    },
+    {
+        "id": "66",
+        "id_number": 66,
+        "value": "ショートカットリング",
+        "translation": ""
     }
 ]

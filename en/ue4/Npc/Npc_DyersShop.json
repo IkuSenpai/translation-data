@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "いらっしゃいませー！\n衣装の染色を承りますよー！",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "同じ衣装でも色合い次第で\nグッとイメージが変わるんですよ",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "他にご用はおありですか？",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "ありがとうございます！\nすてきなコーディネートですよー！",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "またお待ちしてますー！",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "やめる",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "会話",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "染色する",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "アイテムを売る",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "ただいまオープン準備中です！\nもうちょっとだけお待ちくださいませー！",
+        "translation": ""
+    }
+]

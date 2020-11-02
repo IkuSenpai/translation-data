@@ -1,0 +1,236 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "Lv.",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "スキル : ",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "インターバル :",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "Sec.",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "攻撃力",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "筋力",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "耐久力",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "器用さ",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "知力",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "精神力",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "最大HP",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "装備部位",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "アビリティ",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "決定",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "戻る",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "効果値",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "アビリティ名",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "効果",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "属性",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "属性値",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "スキル",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "リキッドメモリ効果\n発動中",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "精練する",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "必要ルーノ",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "Result",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "使用素材",
+        "translation": ""
+    },
+    {
+        "id": "500",
+        "id_number": 500,
+        "value": "(↑{0})",
+        "translation": ""
+    },
+    {
+        "id": "501",
+        "id_number": 501,
+        "value": "(↓{0})",
+        "translation": ""
+    },
+    {
+        "id": "510",
+        "id_number": 510,
+        "value": "続けますか？",
+        "translation": ""
+    },
+    {
+        "id": "520",
+        "id_number": 520,
+        "value": "イマジン選択",
+        "translation": ""
+    },
+    {
+        "id": "521",
+        "id_number": 521,
+        "value": "素材選択",
+        "translation": ""
+    },
+    {
+        "id": "522",
+        "id_number": 522,
+        "value": "リザルト",
+        "translation": ""
+    },
+    {
+        "id": "530",
+        "id_number": 530,
+        "value": "レベルを超過したため装備を解除しました。\n精練を続けますか？",
+        "translation": ""
+    },
+    {
+        "id": "531",
+        "id_number": 531,
+        "value": "精練するイマジンを選択",
+        "translation": ""
+    },
+    {
+        "id": "900",
+        "id_number": 900,
+        "value": "最大クラスレベルを超えるため精練できません。\n使用する素材を減らしてください。",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "MaxLv.",
+        "translation": ""
+    },
+    {
+        "id": "901",
+        "id_number": 901,
+        "value": "現在のクラスレベルを超えるため、精練後は装備できなくなります。\n現在装備中の場合は装備が解除されます。\n精練を行いますか？",
+        "translation": ""
+    },
+    {
+        "id": "902",
+        "id_number": 902,
+        "value": "精錬上限に達しています。\nこれ以上、素材は選択できません。",
+        "translation": ""
+    },
+    {
+        "id": "903",
+        "id_number": 903,
+        "value": "精錬の上限に達します。\n上限を超えた経験値は取得できませんが、精錬を行いますか？",
+        "translation": ""
+    }
+]

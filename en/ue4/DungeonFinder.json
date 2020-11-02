@@ -2,38 +2,38 @@
     {
         "id": "1",
         "id_number": 1,
-        "value": "ダンジョン",
-        "translation": "Dungeon"
+        "value": "ミッション",
+        "translation": ""
     },
     {
         "id": "2",
         "id_number": 2,
-        "value": "Dungeon",
-        "translation": "Dungeon"
+        "value": "Mission",
+        "translation": ""
     },
     {
         "id": "3",
         "id_number": 3,
-        "value": "ダンジョン準備中",
-        "translation": "Preparing for the dungeon"
+        "value": "ミッション準備中",
+        "translation": ""
     },
     {
         "id": "4",
         "id_number": 4,
-        "value": "サーバー予約中",
-        "translation": "Server reserved"
+        "value": "突入準備中",
+        "translation": ""
     },
     {
         "id": "11",
         "id_number": 11,
-        "value": "ダンジョン",
-        "translation": "Dungeon"
+        "value": "ミッション",
+        "translation": ""
     },
     {
         "id": "12",
         "id_number": 12,
-        "value": "Dungeon",
-        "translation": "Dungeon"
+        "value": "Mission",
+        "translation": ""
     },
     {
         "id": "13",

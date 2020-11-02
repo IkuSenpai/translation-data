@@ -24,6 +24,24 @@
         "translation": "Cancel"
     },
     {
+        "id": "10",
+        "id_number": 10,
+        "value": "キャラクターの名前を入力してください",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "名称を入力してください",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "メインクエストを進めますか？",
+        "translation": ""
+    },
+    {
         "id": "100",
         "id_number": 100,
         "value": "{ItemName}を捨てますか？",
@@ -40,5 +58,179 @@
         "id_number": 102,
         "value": "{ItemName}は装備中です",
         "translation": "{ItemName} is equipped"
+    },
+    {
+        "id": "105",
+        "id_number": 105,
+        "value": "(最大12文字)",
+        "translation": ""
+    },
+    {
+        "id": "106",
+        "id_number": 106,
+        "value": "(最大10文字)",
+        "translation": ""
+    },
+    {
+        "id": "1000",
+        "id_number": 1000,
+        "value": "『クエスト受付嬢』からクエストを受注できるようになりました",
+        "translation": ""
+    },
+    {
+        "id": "1001",
+        "id_number": 1001,
+        "value": "『クラスマスター』が出現しました",
+        "translation": ""
+    },
+    {
+        "id": "1002",
+        "id_number": 1002,
+        "value": "『クラスクエスト』が受注できるようになりました",
+        "translation": ""
+    },
+    {
+        "id": "1003",
+        "id_number": 1003,
+        "value": "『クラスチェンジ』機能が解放されました",
+        "translation": ""
+    },
+    {
+        "id": "1004",
+        "id_number": 1004,
+        "value": "『イマジン研究所』がオープンしました",
+        "translation": ""
+    },
+    {
+        "id": "1005",
+        "id_number": 1005,
+        "value": "『メモリスタンド』がオープンしました",
+        "translation": ""
+    },
+    {
+        "id": "1006",
+        "id_number": 1006,
+        "value": "『GC交換所』がオープンしました",
+        "translation": ""
+    },
+    {
+        "id": "1007",
+        "id_number": 1007,
+        "value": "『クラフト』機能が解放されました",
+        "translation": ""
+    },
+    {
+        "id": "1008",
+        "id_number": 1008,
+        "value": "『闘技場』がミッションに追加されました",
+        "translation": ""
+    },
+    {
+        "id": "1009",
+        "id_number": 1009,
+        "value": "『タイムアタック』がミッションに追加されました",
+        "translation": ""
+    },
+    {
+        "id": "1010",
+        "id_number": 1010,
+        "value": "開拓局ミューリィから『タイムアタック』を解放できるようになりました",
+        "translation": ""
+    },
+    {
+        "id": "1011",
+        "id_number": 1011,
+        "value": "アステルリーズ闘技場前の男から『闘技場』を解放できるようになりました",
+        "translation": ""
+    },
+    {
+        "id": "1012",
+        "id_number": 1012,
+        "value": "開拓局で新たな依頼を受けられるようになりました",
+        "translation": ""
+    },
+    {
+        "id": "1013",
+        "id_number": 1013,
+        "value": "リキッドメモリ（ルーノ消費量減少）が使用可能になりました",
+        "translation": ""
+    },
+    {
+        "id": "1014",
+        "id_number": 1014,
+        "value": "リキッドメモリ（クラフト時初期武器Lvアップ）が使用可能になりました",
+        "translation": ""
+    },
+    {
+        "id": "1015",
+        "id_number": 1015,
+        "value": "リキッドメモリ（採取モーション短縮）が使用可能になりました",
+        "translation": ""
+    },
+    {
+        "id": "1016",
+        "id_number": 1016,
+        "value": "リキッドメモリ（武器精練経験値増加）が使用可能になりました",
+        "translation": ""
+    },
+    {
+        "id": "1017",
+        "id_number": 1017,
+        "value": "リキッドメモリ（エネミードロップ率増加）が使用可能になりました",
+        "translation": ""
+    },
+    {
+        "id": "1018",
+        "id_number": 1018,
+        "value": "リキッドメモリ（ルーノ消費量減少）M2等級が解放されました",
+        "translation": ""
+    },
+    {
+        "id": "1019",
+        "id_number": 1019,
+        "value": "リキッドメモリ（クラフト時初期武器Lv上昇）M2等級が解放されました",
+        "translation": ""
+    },
+    {
+        "id": "1020",
+        "id_number": 1020,
+        "value": "リキッドメモリ（採取モーション短縮）M2等級が解放されました",
+        "translation": ""
+    },
+    {
+        "id": "1021",
+        "id_number": 1021,
+        "value": "リキッドメモリ（武器精練経験値増加）M2等級が解放されました",
+        "translation": ""
+    },
+    {
+        "id": "1022",
+        "id_number": 1022,
+        "value": "リキッドメモリ（エネミードロップ率上昇）M2等級が解放されました",
+        "translation": ""
+    },
+    {
+        "id": "1023",
+        "id_number": 1023,
+        "value": "『クラスクエスト』が受注できるようになりました",
+        "translation": ""
+    },
+    {
+        "id": "2000",
+        "id_number": 2000,
+        "value": "今は先に進めない",
+        "translation": ""
+    },
+    {
+        "id": "2001",
+        "id_number": 2001,
+        "value": "どうやら通れないようだ",
+        "translation": ""
+    },
+    {
+        "id": "2002",
+        "id_number": 2002,
+        "value": "今は入れない",
+        "translation": ""
     }
 ]

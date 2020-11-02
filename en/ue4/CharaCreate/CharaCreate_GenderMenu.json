@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "男",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "女",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "性別を選んでください",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "キャラクターデータの呼び出し",
+        "translation": ""
+    }
+]

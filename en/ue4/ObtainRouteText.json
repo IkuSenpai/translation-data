@@ -1,0 +1,26 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "エネミー「{1}」を討伐\n出現場所:{0}",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "{0}で採取",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "クラフト",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "「{0}」を攻略",
+        "translation": ""
+    }
+]

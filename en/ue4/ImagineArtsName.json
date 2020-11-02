@@ -1,92 +1,134 @@
 [
     {
-        "id": "Summon_I001_01",
-        "id_number": -1,
-        "value": "踏みつけ",
+        "id": "Urabo00_Sleep_A00",
+        "id_number": 0,
+        "value": "ウリボの安らぎ",
         "translation": ""
     },
     {
-        "id": "Summon_HealingSphere",
-        "id_number": -1,
-        "value": "癒しの祈り",
+        "id": "Foxhound03_howling_A00",
+        "id_number": 0,
+        "value": "アクトクライ",
         "translation": ""
     },
     {
-        "id": "Summon_I005_00",
-        "id_number": -1,
-        "value": "ウリボの癒し",
+        "id": "Goblin02_BlowJump_A00",
+        "id_number": 0,
+        "value": "兜割り",
         "translation": ""
     },
     {
-        "id": "Summon_I006_01",
-        "id_number": -1,
-        "value": "飛びかかり",
+        "id": "RumbleBoar02_Tackle_A00",
+        "id_number": 0,
+        "value": "猪突猛進",
         "translation": ""
     },
     {
-        "id": "Summon_I015_00",
-        "id_number": -1,
-        "value": "針を飛ばす",
+        "id": "TyrantBoar03_Scooping_A00",
+        "id_number": 0,
+        "value": "マウンテンスロー",
         "translation": ""
     },
     {
-        "id": "Summon_I014_00",
-        "id_number": -1,
-        "value": "有毒ガス噴射",
+        "id": "Ogre01_BlowRt_A01",
+        "id_number": 0,
+        "value": "パワースイング",
         "translation": ""
     },
     {
-        "id": "Summon_I000:19",
-        "id_number": -1,
-        "value": "狙撃",
+        "id": "TyrantBoar04_Tackle_A00",
+        "id_number": 0,
+        "value": "デスタックル",
         "translation": ""
     },
     {
-        "id": "Summon_I000_01",
-        "id_number": -1,
-        "value": "打撃",
+        "id": "Foxhound04_JumpBit_A00",
+        "id_number": 0,
+        "value": "落石牙",
         "translation": ""
     },
     {
-        "id": "Summon_I002_00",
-        "id_number": -1,
-        "value": "突進",
+        "id": "BigHorn01_Tackle_A00",
+        "id_number": 0,
+        "value": "カイザーブラスト",
         "translation": ""
     },
     {
-        "id": "Summon_I300_00",
-        "id_number": -1,
-        "value": "斬りつけ",
+        "id": "Wildhorn01_SpeedUp_A00",
+        "id_number": 0,
+        "value": "ゴートヘイスト",
         "translation": ""
     },
     {
-        "id": "Summon_I000:18",
-        "id_number": -1,
-        "value": "連続攻撃",
+        "id": "GoblinPriest01_CastAreaHeal_A00",
+        "id_number": 0,
+        "value": "エリアヒール",
         "translation": ""
     },
     {
-        "id": "Summon_I003_00",
-        "id_number": -1,
-        "value": "回転攻撃",
+        "id": "GoblinShaman01_CastIce_A00",
+        "id_number": 0,
+        "value": "エルダークリスタル",
         "translation": ""
     },
     {
-        "id": "Summon_I000_02",
-        "id_number": -1,
+        "id": "Foxhound00_Tackle_A00",
+        "id_number": 0,
+        "value": "クラウンストライク",
+        "translation": ""
+    },
+    {
+        "id": "Goblin00_Thrust_A00",
+        "id_number": 0,
+        "value": "ゴブリンスタブ",
+        "translation": ""
+    },
+    {
+        "id": "GoblinShaman00_CastFire_A00",
+        "id_number": 0,
         "value": "ファイアボール",
         "translation": ""
     },
     {
-        "id": "Summon_I001_03",
-        "id_number": -1,
-        "value": "タックル",
+        "id": "TyrantBoar00_HeadbatTrust_A00",
+        "id_number": 0,
+        "value": "猟犬殺し",
         "translation": ""
     },
     {
-        "id": "Summon_I002_03",
-        "id_number": -1,
-        "value": "ショックウェーブ ",
+        "id": "Wildhorn00_BackKick_A01",
+        "id_number": 0,
+        "value": "ビハインドキック",
+        "translation": ""
+    },
+    {
+        "id": "GoblinPriest00_CastHeal_A00",
+        "id_number": 0,
+        "value": "ゴブリンセージの調律",
+        "translation": ""
+    },
+    {
+        "id": "BigHorn00_HornAttack_A00",
+        "id_number": 0,
+        "value": "クラッパーボーン",
+        "translation": ""
+    },
+    {
+        "id": "AvaritiaTyrantBoar00_Tackle_A01",
+        "id_number": 0,
+        "value": "タイラントアサルト",
+        "translation": ""
+    },
+    {
+        "id": "AvaritiaOgre_Stomp_A01",
+        "id_number": 0,
+        "value": "アースクエイク",
+        "translation": ""
+    },
+    {
+        "id": "AncientQuadArm_SlashDw_A00",
+        "id_number": 0,
+        "value": "スライサーアーム",
         "translation": ""
     }
 ]

@@ -1,0 +1,3110 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "立派なレイクリッド鉱石だなぁ",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "昔は、アステリア平原でもたくさん採れたんだぜ",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "今じゃ、すっかり枯れちまったけどな",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "アステリア平原の北東のはずれには、\r\n『巨竜の爪痕』と呼ばれる谷があるんだ",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "神話では竜族とバファリア神族が、\r\n戦った場所だというが",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "近ごろでは怪しげなモンスターの目撃談も聞く。\r\nいったい何が起きているのか……",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "ジェイクさんはスゲェよ。\r\nあんな感じだけど、やるときはやるんだぜ",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "え？\r\n例えば……？",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "えーっと、ちょっとすぐには思い出せないけど……\r\nまぁ、とにかくスゲェんだ",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "今日も良い天気ね～",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "天紋も一段と綺麗に見えるわ～",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "開拓局に依頼を出そうと思って来たんですが……",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "ちょっと他人に聞かれたくない内容なので、\r\n開拓局を通さずに個人的に頼むことにしました",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "かといってアテがあるわけでもなく……\r\nどこかに口の堅い冒険者はいませんかねぇ",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "ポータル使っちゃおうかなぁ",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "それとも歩こうかなぁ",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "最近運動不足だから、悩んじゃうよね",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "ハッ……タァッ……！！\r\nクッ……ぐわぁぁ……はぁ、はぁ",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "ん？　……ちょっと話しかけないでくれ。はぁ、はぁ、\r\nドラゴンとの戦闘の、はぁ、イメージトレーニング中だ",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "なんだその顔は。不安なのはわかるが心配するな。\r\nこの街は俺たち冒険者が絶対に守る！",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "いざ街の外に出ようという段になると、\r\nいつも忘れ物に気づくんだよなぁ",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "回復薬を置いてきちゃったんだけど……\r\n大丈夫かなぁ……",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "街の周辺はそんなに強いモンスターはいないし、\r\n大丈夫だよね？　うん、大丈夫だ",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "久しぶりにレイクリッド坑道に行ってきたんだが、\r\nすっかり廃れてしまったのう",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "昔は、良質な鉱石がたくさんとれたんじゃ",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "そいつで拵えた武器は、それは冒険者に喜ばれてのう。\r\nおかげでワシもひと財産築けたという話じゃ",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "最近目撃された竜族ってのは、\r\nありゃ下っ端の『デミドラゴン』って奴さね",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "けど、侮っちゃいけないよ？\r\n冒険者が束になっても太刀打ちできゃしないんだから",
+        "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "むか～し、戦ったことがあるのさ。\r\nアタシの古傷を、見るかい？",
+        "translation": ""
+    },
+    {
+        "id": "29",
+        "id_number": 29,
+        "value": "冗談だよ、こんな天下の往来で。\r\nはーっはっはっはっは！",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "このシャフトが……こう繋がって……\r\nわぁ！　こうなってるのかぁ！",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "これなら思ってたより、ずっと効率的に\r\n動力を車輪に伝えることができそうだぞ",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "えへへ、ぼく、大人になったら車を作りたいんだ！",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "ごめんよ、今日はもう売り切れなんだ！\r\nさっきまで、すごい行列でね～",
+        "translation": ""
+    },
+    {
+        "id": "34",
+        "id_number": 34,
+        "value": "え？　何を売っていたのかって？",
+        "translation": ""
+    },
+    {
+        "id": "35",
+        "id_number": 35,
+        "value": "明日、また来てくれたらわかるよ！",
+        "translation": ""
+    },
+    {
+        "id": "36",
+        "id_number": 36,
+        "value": "うちはね、観葉植物ひとすじ\r\n４０年やってきてるの、４０年よ？",
+        "translation": ""
+    },
+    {
+        "id": "37",
+        "id_number": 37,
+        "value": "でも、最近はあんまり売れないわね。\r\n心に余裕がなくなって来てるのかしら？",
+        "translation": ""
+    },
+    {
+        "id": "38",
+        "id_number": 38,
+        "value": "だからこそ、私思うのよ。\r\nこうやって緑に囲まれてさ……",
+        "translation": ""
+    },
+    {
+        "id": "39",
+        "id_number": 39,
+        "value": "新鮮な空気を思い切り深呼吸なさいな。\r\nほら、気持ちが安らいでいくでしょう？",
+        "translation": ""
+    },
+    {
+        "id": "40",
+        "id_number": 40,
+        "value": "世界のスパイスは―、いかがです～？",
+        "translation": ""
+    },
+    {
+        "id": "41",
+        "id_number": 41,
+        "value": "白雪山椒に、クマリの粉。\r\n話題の紅色辛子もあるよ～！",
+        "translation": ""
+    },
+    {
+        "id": "42",
+        "id_number": 42,
+        "value": "夕飯の煮物に一味加えて、\r\n家族団らん、夜もハッピー！",
+        "translation": ""
+    },
+    {
+        "id": "43",
+        "id_number": 43,
+        "value": "いらっしゃいませ～。お花はいかが～？\r\nお花は～……お花……",
+        "translation": ""
+    },
+    {
+        "id": "44",
+        "id_number": 44,
+        "value": "……わたしね、お花屋さんになりたいって、\r\nお父さんに言ったんだ",
+        "translation": ""
+    },
+    {
+        "id": "45",
+        "id_number": 45,
+        "value": "だけど、なんかこの店、ちょっと違う……",
+        "translation": ""
+    },
+    {
+        "id": "46",
+        "id_number": 46,
+        "value": "父ちゃんは仕入れで留守だから、\r\n俺が代わりに店番してるんだ",
+        "translation": ""
+    },
+    {
+        "id": "47",
+        "id_number": 47,
+        "value": "俺もいつか父ちゃんみたいな商売人になるんだ！",
+        "translation": ""
+    },
+    {
+        "id": "48",
+        "id_number": 48,
+        "value": "すごいんだぜ！　父ちゃんは！\r\nでっかい船でバーンハルトまで買い付けに行くんだ",
+        "translation": ""
+    },
+    {
+        "id": "49",
+        "id_number": 49,
+        "value": "今回はちょっと帰りが遅いけどな",
+        "translation": ""
+    },
+    {
+        "id": "50",
+        "id_number": 50,
+        "value": "よう！　ひとつどうだい？",
+        "translation": ""
+    },
+    {
+        "id": "51",
+        "id_number": 51,
+        "value": "何って？　見りゃわかるだろ？\r\n『輪』だよ、『輪』",
+        "translation": ""
+    },
+    {
+        "id": "52",
+        "id_number": 52,
+        "value": "まさか、知らねえってのかァ！？\r\nくぅぅ……シャバも変わっちまったな",
+        "translation": ""
+    },
+    {
+        "id": "53",
+        "id_number": 53,
+        "value": "安いよ、安いよ、食器が安いよ～\r\n珍しいサラムザート様式の食器だよ～",
+        "translation": ""
+    },
+    {
+        "id": "54",
+        "id_number": 54,
+        "value": "大量入荷につき、大特価で販売中～！",
+        "translation": ""
+    },
+    {
+        "id": "55",
+        "id_number": 55,
+        "value": "……ちっ、何で売れないんだ。\r\n店が地味すぎる？　やかましいわ！",
+        "translation": ""
+    },
+    {
+        "id": "56",
+        "id_number": 56,
+        "value": "ここは『レギーナ』。\r\n綺麗になりたいアナタのビューティーサロンよ",
+        "translation": ""
+    },
+    {
+        "id": "57",
+        "id_number": 57,
+        "value": "中で何をしているかって？\r\n……興味があるのね？",
+        "translation": ""
+    },
+    {
+        "id": "58",
+        "id_number": 58,
+        "value": "でもごめんなさい。ここは完全紹介制なの。\r\n見ず知らずのあなたを入れることはできないわ",
+        "translation": ""
+    },
+    {
+        "id": "59",
+        "id_number": 59,
+        "value": "おい！　このクソ自販機！！\r\nまた壊れてるのかよ！！",
+        "translation": ""
+    },
+    {
+        "id": "60",
+        "id_number": 60,
+        "value": "俺の１００ルーノ返せ！！",
+        "translation": ""
+    },
+    {
+        "id": "61",
+        "id_number": 61,
+        "value": "何してるのかって？\r\nお友達と待ち合わせだよ",
+        "translation": ""
+    },
+    {
+        "id": "62",
+        "id_number": 62,
+        "value": "一緒にお買い物する約束をしてるんだ",
+        "translation": ""
+    },
+    {
+        "id": "63",
+        "id_number": 63,
+        "value": "最近、見たこともない怪物が出るって噂だろ？\r\nだから、オイラ決めたんだ",
+        "translation": ""
+    },
+    {
+        "id": "64",
+        "id_number": 64,
+        "value": "絶対に冒険者になる！",
+        "translation": ""
+    },
+    {
+        "id": "65",
+        "id_number": 65,
+        "value": "いつか、こんなカッコイイ剣を振るって、\r\nみんなのために戦いたいんだ！",
+        "translation": ""
+    },
+    {
+        "id": "66",
+        "id_number": 66,
+        "value": "ひと月２０万ルーノか……。\r\n立地は文句なしだな……",
+        "translation": ""
+    },
+    {
+        "id": "67",
+        "id_number": 67,
+        "value": "あ、どう思います？\r\nここで串焼き屋を開くつもりなんですが",
+        "translation": ""
+    },
+    {
+        "id": "68",
+        "id_number": 68,
+        "value": "煙？　そりゃ出ますよ。\r\nうーん、上手くいくでしょうか……",
+        "translation": ""
+    },
+    {
+        "id": "69",
+        "id_number": 69,
+        "value": "今日は、魚市場で活きのいい銀砂魚が手に入ったから、\r\n白ディーボンにするか",
+        "translation": ""
+    },
+    {
+        "id": "70",
+        "id_number": 70,
+        "value": "ん……？\r\n赤ディーボンの方が３００ルーノも安いではないか",
+        "translation": ""
+    },
+    {
+        "id": "71",
+        "id_number": 71,
+        "value": "これは今日一番の悩みどころだぞ",
+        "translation": ""
+    },
+    {
+        "id": "72",
+        "id_number": 72,
+        "value": "あーーーーいい風だーーーーー",
+        "translation": ""
+    },
+    {
+        "id": "73",
+        "id_number": 73,
+        "value": "あんたもーーーやってみたらどーーだい",
+        "translation": ""
+    },
+    {
+        "id": "74",
+        "id_number": 74,
+        "value": "買い物に行くって？",
+        "translation": ""
+    },
+    {
+        "id": "75",
+        "id_number": 75,
+        "value": "だったら、ショッピングモールがお勧めだよ。\r\nあちこち回らなくてもイイからね",
+        "translation": ""
+    },
+    {
+        "id": "76",
+        "id_number": 76,
+        "value": "場所？\r\nこの坂を上がって右だよ",
+        "translation": ""
+    },
+    {
+        "id": "76_ADD010",
+        "id_number": 76,
+        "value": "回復薬に武器装備、\r\n 一年中お買い得なのは[――]",
+        "translation": ""
+    },
+    {
+        "id": "77",
+        "id_number": 77,
+        "value": "黄色い屋根のショッピングモール、\r\n『イエロー・ルーフ・マーケット』！",
+        "translation": ""
+    },
+    {
+        "id": "78",
+        "id_number": 78,
+        "value": "この階段上がってスグ[――]",
+        "translation": ""
+    },
+    {
+        "id": "79",
+        "id_number": 79,
+        "value": "黄色い屋根が目印のショッピングモール、\r\n『イエロー・ルーフ・マーケット』をごひいきに！",
+        "translation": ""
+    },
+    {
+        "id": "80",
+        "id_number": 80,
+        "value": "フゥ……やっと一息つけるな……",
+        "translation": ""
+    },
+    {
+        "id": "81",
+        "id_number": 81,
+        "value": "いま、街門広場から上がってきたんですがね、\r\n坂が、ほら、シンドくて……",
+        "translation": ""
+    },
+    {
+        "id": "82",
+        "id_number": 82,
+        "value": "緩やかでも長く続くと、イカンのですわ。\r\n歳にゃ勝てません",
+        "translation": ""
+    },
+    {
+        "id": "83",
+        "id_number": 83,
+        "value": "え？　街門広場ですか？\r\nどこって、この中央通を下がったところですよ",
+        "translation": ""
+    },
+    {
+        "id": "84",
+        "id_number": 84,
+        "value": "ウチは見ての通りディーボン屋だ。\r\n定番から上物まで、各種取り揃えている",
+        "translation": ""
+    },
+    {
+        "id": "85",
+        "id_number": 85,
+        "value": "めったにお目にかかれないレアなブツもあるぜ",
+        "translation": ""
+    },
+    {
+        "id": "86",
+        "id_number": 86,
+        "value": "出所？　おい、疑ってるのか？\r\nどれも確かな筋から仕入れた正規品さ",
+        "translation": ""
+    },
+    {
+        "id": "87",
+        "id_number": 87,
+        "value": "安いよ、安いよ～！！\r\n今朝獲れたばかりの新鮮な魚だよ！",
+        "translation": ""
+    },
+    {
+        "id": "88",
+        "id_number": 88,
+        "value": "……売れねえな。\r\n調子に乗って仕入れすぎたかなあ",
+        "translation": ""
+    },
+    {
+        "id": "89",
+        "id_number": 89,
+        "value": "こりゃあ、塩漬けにでもするっきゃないか",
+        "translation": ""
+    },
+    {
+        "id": "90",
+        "id_number": 90,
+        "value": "年取ると物忘れが多くなってヤだね",
+        "translation": ""
+    },
+    {
+        "id": "91",
+        "id_number": 91,
+        "value": "……おつり、渡したかね？\r\n忘れちまったよ",
+        "translation": ""
+    },
+    {
+        "id": "92",
+        "id_number": 92,
+        "value": "どうだい？\r\nミンスターホルン産の新鮮な野菜だよ！！",
+        "translation": ""
+    },
+    {
+        "id": "93",
+        "id_number": 93,
+        "value": "栄養たっぷり！\r\n彩りもみごとでしょう？　おいしいよ！",
+        "translation": ""
+    },
+    {
+        "id": "94",
+        "id_number": 94,
+        "value": "肉や魚もいいけどね。\r\nやっぱり健康のためには野菜も食べないと",
+        "translation": ""
+    },
+    {
+        "id": "95",
+        "id_number": 95,
+        "value": "好き嫌いしちゃいけないよ。\r\nさあ、買った買った！",
+        "translation": ""
+    },
+    {
+        "id": "96",
+        "id_number": 96,
+        "value": "見ない顔だね？\r\nこんなところに何の用だい？",
+        "translation": ""
+    },
+    {
+        "id": "97",
+        "id_number": 97,
+        "value": "…………",
+        "translation": ""
+    },
+    {
+        "id": "98",
+        "id_number": 98,
+        "value": "その様子じゃ、何も知らずに来たみたいだね",
+        "translation": ""
+    },
+    {
+        "id": "99",
+        "id_number": 99,
+        "value": "お前さんには、ここはまだ必要ないよ。\r\nその時が来たら、またおいで",
+        "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "この猫、いつもここにいるんだ",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "近所の家で飼われてるのかな。\r\nいいなあ",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "うちは弟が体が弱いから、\r\nペットは飼えないの",
+        "translation": ""
+    },
+    {
+        "id": "103",
+        "id_number": 103,
+        "value": "ねえねえ、猫ちゃん。\r\nときどき遊びに来てもいいかなあ？",
+        "translation": ""
+    },
+    {
+        "id": "104",
+        "id_number": 104,
+        "value": "ここは、クラフトマンズスクエア。\r\n俺たちは『職人広場』って呼んでるがな",
+        "translation": ""
+    },
+    {
+        "id": "105",
+        "id_number": 105,
+        "value": "で、そこに見えるのが『転球練成儀』。\r\nあのデカブツがお前らに代わってクラフトしてくれる",
+        "translation": ""
+    },
+    {
+        "id": "106",
+        "id_number": 106,
+        "value": "難しそうだって？\r\nバカ言え、拍子抜けするほど簡単だ",
+        "translation": ""
+    },
+    {
+        "id": "107",
+        "id_number": 107,
+        "value": "材料をぶち込んで、ちょっとばかしのルーノを払えば、\r\nあとはあくびしてる間に完成だ",
+        "translation": ""
+    },
+    {
+        "id": "108",
+        "id_number": 108,
+        "value": "さあ、習うより慣れろだ。\r\n練成儀のそばに行って、試してみろ",
+        "translation": ""
+    },
+    {
+        "id": "109",
+        "id_number": 109,
+        "value": "……ったく、便利な時代になったもんだぜ",
+        "translation": ""
+    },
+    {
+        "id": "110",
+        "id_number": 110,
+        "value": "……なるほど。\r\nこの素材とあの素材を組み合わせは",
+        "translation": ""
+    },
+    {
+        "id": "111",
+        "id_number": 111,
+        "value": "まぜるな危険だったのか……",
+        "translation": ""
+    },
+    {
+        "id": "112",
+        "id_number": 112,
+        "value": "こんなところにお店があったのね",
+        "translation": ""
+    },
+    {
+        "id": "113",
+        "id_number": 113,
+        "value": "ヤだ、基本クラフト料金、安い！\r\nあ、でも半年間は使い続けるって条件付き……",
+        "translation": ""
+    },
+    {
+        "id": "114",
+        "id_number": 114,
+        "value": "買い替え時を考えると……微妙ね。\r\n長く使い続けるなら悪くないけど、壊れたら困るし",
+        "translation": ""
+    },
+    {
+        "id": "115",
+        "id_number": 115,
+        "value": "むむむ……悩むわ。\r\nコスパ的にはどっちがおトクかしら……",
+        "translation": ""
+    },
+    {
+        "id": "116",
+        "id_number": 116,
+        "value": "この階段が街門広場への近道じゃぞ",
+        "translation": ""
+    },
+    {
+        "id": "117",
+        "id_number": 117,
+        "value": "わしゃ、よう上らんがのう",
+        "translation": ""
+    },
+    {
+        "id": "118",
+        "id_number": 118,
+        "value": "このだんだんを下りると、みなとなんだよ",
+        "translation": ""
+    },
+    {
+        "id": "119",
+        "id_number": 119,
+        "value": "パパはみなとではたらいてるんだ",
+        "translation": ""
+    },
+    {
+        "id": "120",
+        "id_number": 120,
+        "value": "今日は、とってもだいじな、にもつがとどくんだって",
+        "translation": ""
+    },
+    {
+        "id": "121",
+        "id_number": 121,
+        "value": "知っているか？　この木は、バーンハルト公国から\r\n友好の証に贈られたものなのだよ",
+        "translation": ""
+    },
+    {
+        "id": "122",
+        "id_number": 122,
+        "value": "素晴らしいとは思わないか？\r\n力強い枝振り、広く深く伸ばした根……",
+        "translation": ""
+    },
+    {
+        "id": "123",
+        "id_number": 123,
+        "value": "この星の指導者たるかの国を\r\nまるで体現しているようではないか！",
+        "translation": ""
+    },
+    {
+        "id": "124",
+        "id_number": 124,
+        "value": "バーンハルト公国万歳！\r\n我が故郷、万歳！！",
+        "translation": ""
+    },
+    {
+        "id": "125",
+        "id_number": 125,
+        "value": "ウチの人に店番頼まれたけど、\r\n盗られる物なんて何もありゃしないじゃないか！",
+        "translation": ""
+    },
+    {
+        "id": "126",
+        "id_number": 126,
+        "value": "ただいま満席となっております",
+        "translation": ""
+    },
+    {
+        "id": "127",
+        "id_number": 127,
+        "value": "申し訳ございません。\r\n次回にいらしてください",
+        "translation": ""
+    },
+    {
+        "id": "128",
+        "id_number": 128,
+        "value": "ここは小劇場ですよ。\r\n地元の劇団や旅一座が公演をしています",
+        "translation": ""
+    },
+    {
+        "id": "129",
+        "id_number": 129,
+        "value": "少し前の『ジルウェット旅一座』の公演は\r\nなかなかの人気ぶりでしたね",
+        "translation": ""
+    },
+    {
+        "id": "130",
+        "id_number": 130,
+        "value": "歌姫さんが愛嬌があってかわいらしかったです。\r\nけど、うちだって負けてませんよ",
+        "translation": ""
+    },
+    {
+        "id": "131",
+        "id_number": 131,
+        "value": "私はこの館の警備を行っている。\r\nそれがなにか？",
+        "translation": ""
+    },
+    {
+        "id": "132",
+        "id_number": 132,
+        "value": "貴様……もしや、\r\nガナドール家を知らないのか？",
+        "translation": ""
+    },
+    {
+        "id": "133",
+        "id_number": 133,
+        "value": "はるか、アステルリーズ建設当時から\r\n何代にもわたり、街の繁栄に尽力された名家だぞ？",
+        "translation": ""
+    },
+    {
+        "id": "134",
+        "id_number": 134,
+        "value": "ハッキリ言おう。\r\nこの家はそこらの庶民とは格が違う",
+        "translation": ""
+    },
+    {
+        "id": "135",
+        "id_number": 135,
+        "value": "理解したなら、この辺をうろつくな。\r\nおかしな真似をしたら引っ捕らえるからな！",
+        "translation": ""
+    },
+    {
+        "id": "136",
+        "id_number": 136,
+        "value": "ここは『ムウの木広場』です",
+        "translation": ""
+    },
+    {
+        "id": "137",
+        "id_number": 137,
+        "value": "広場の中央にある木が、そう呼ばれてるんです",
+        "translation": ""
+    },
+    {
+        "id": "138",
+        "id_number": 138,
+        "value": "バファリア教の偉大な神官ムウエル様が\r\n街の発展を祈念して植えたとも……",
+        "translation": ""
+    },
+    {
+        "id": "139",
+        "id_number": 139,
+        "value": "風が幹の隙間を抜けるときに『ムゥ～～』と\r\n音を立てるから、とも言われています",
+        "translation": ""
+    },
+    {
+        "id": "140",
+        "id_number": 140,
+        "value": "どうしてこんな両極端な言い伝えが\r\n残っているんでしょうね？",
+        "translation": ""
+    },
+    {
+        "id": "141",
+        "id_number": 141,
+        "value": "今日はもう、店じまいだ。\r\n今が何時だとか、そんなもんは関係ない",
+        "translation": ""
+    },
+    {
+        "id": "142",
+        "id_number": 142,
+        "value": "その日の気分でワシが決める！",
+        "translation": ""
+    },
+    {
+        "id": "143",
+        "id_number": 143,
+        "value": "すまんな、若いの。\r\nここはワシの指定席じゃ",
+        "translation": ""
+    },
+    {
+        "id": "144",
+        "id_number": 144,
+        "value": "隅っこで静かに飲むのがオツなんじゃ。\r\nまあ、にぎやかなのも悪くはないがのう",
+        "translation": ""
+    },
+    {
+        "id": "145",
+        "id_number": 145,
+        "value": "昔、ここはさびれてつぶれかけのボロ酒場じゃった。\r\nワシャ、そのときからここに座っとったんじゃ",
+        "translation": ""
+    },
+    {
+        "id": "146",
+        "id_number": 146,
+        "value": "今は立派な店じゃろ。老いも若きも、男も女も並んで\r\n楽しめるのは亭主の努力のたまものじゃよ",
+        "translation": ""
+    },
+    {
+        "id": "147",
+        "id_number": 147,
+        "value": "うーん、おいしかった！\r\nお肉、すっごい柔らかかったね",
+        "translation": ""
+    },
+    {
+        "id": "148",
+        "id_number": 148,
+        "value": "こういうお店ってあんまり知らないから、\r\nいいとこ教えてもらっちゃった！",
+        "translation": ""
+    },
+    {
+        "id": "149",
+        "id_number": 149,
+        "value": "ね、次は甘いもの食べようよ。\r\nちょっと歩かない？",
+        "translation": ""
+    },
+    {
+        "id": "150",
+        "id_number": 150,
+        "value": "ど、どうかな。\r\nこの店、味は間違いないと思うんだ！",
+        "translation": ""
+    },
+    {
+        "id": "151",
+        "id_number": 151,
+        "value": "そ、それでさ。この後、どうする？",
+        "translation": ""
+    },
+    {
+        "id": "152",
+        "id_number": 152,
+        "value": "できれば、まだどこかに行きたいな。\r\nその、君がよければ、だけど……",
+        "translation": ""
+    },
+    {
+        "id": "153",
+        "id_number": 153,
+        "value": "今は銀砂魚が旬だね",
+        "translation": ""
+    },
+    {
+        "id": "154",
+        "id_number": 154,
+        "value": "それに、日暮れダコ。\r\nムシャコ貝に海の蜂蜜キンカブクロ",
+        "translation": ""
+    },
+    {
+        "id": "155",
+        "id_number": 155,
+        "value": "ガエは干物が良いし、ヒナギの刺身に、\r\nマカナギはちょっと高級だから……",
+        "translation": ""
+    },
+    {
+        "id": "156",
+        "id_number": 156,
+        "value": "オオゴリかトノサッパかサシスバシリか、\r\nいっそのことニベニベとイナイナって手も……",
+        "translation": ""
+    },
+    {
+        "id": "157",
+        "id_number": 157,
+        "value": "ちょっと気になるんだよなぁ……\r\nえ？　何がって？",
+        "translation": ""
+    },
+    {
+        "id": "158",
+        "id_number": 158,
+        "value": "あそこの女の子だよ。\r\nほら、海側のバルコニーの白い席にいる……",
+        "translation": ""
+    },
+    {
+        "id": "159",
+        "id_number": 159,
+        "value": "さっきから、こっちをチラチラ見てるんだ。\r\n……俺に気があるんじゃないかなぁ",
+        "translation": ""
+    },
+    {
+        "id": "160",
+        "id_number": 160,
+        "value": "ちょっと気になるんだよね……\r\r\nえ？　何がって？",
+        "translation": ""
+    },
+    {
+        "id": "161",
+        "id_number": 161,
+        "value": "あそこの男。\r\nほら、\r立ち飲み席でひとりで飲んでる……",
+        "translation": ""
+    },
+    {
+        "id": "162",
+        "id_number": 162,
+        "value": "さっきから、こっちをチラチラ見てるの。\r\n……ストーカーだったらどうしよう",
+        "translation": ""
+    },
+    {
+        "id": "163",
+        "id_number": 163,
+        "value": "へい、らっしゃい！",
+        "translation": ""
+    },
+    {
+        "id": "164",
+        "id_number": 164,
+        "value": "安いよ！　美味いよ！\r\nもひとつおまけに新鮮だよ！",
+        "translation": ""
+    },
+    {
+        "id": "165",
+        "id_number": 165,
+        "value": "世界中の海から魚が集まる\r\nアステルリーズ自慢のマーケットさ！",
+        "translation": ""
+    },
+    {
+        "id": "166",
+        "id_number": 166,
+        "value": "寄ってらっしゃい、見てらっしゃい！\r\nもひとつおまけに買ってらっしゃい！",
+        "translation": ""
+    },
+    {
+        "id": "167",
+        "id_number": 167,
+        "value": "あーーっ！　……合わない、合わない……\r\n何度数えても合わない",
+        "translation": ""
+    },
+    {
+        "id": "168",
+        "id_number": 168,
+        "value": "……いえ、バーンハルトから取引先の積荷が\r\n届いたんですがね",
+        "translation": ""
+    },
+    {
+        "id": "169",
+        "id_number": 169,
+        "value": "何度数えても目録と数が合わないんです",
+        "translation": ""
+    },
+    {
+        "id": "170",
+        "id_number": 170,
+        "value": "わたし、毎日ここからお船を見てるんだ",
+        "translation": ""
+    },
+    {
+        "id": "171",
+        "id_number": 171,
+        "value": "ずっと遠くには人魚の住む島があるんだって！",
+        "translation": ""
+    },
+    {
+        "id": "172",
+        "id_number": 172,
+        "value": "誰だい？　こんなに散らかして！！\r\nしかも、ほったらかしと来たもんだ！",
+        "translation": ""
+    },
+    {
+        "id": "173",
+        "id_number": 173,
+        "value": "それに、こりゃあ何の絵だい？\r\nあたしにゃ、さっぱりわかんないね",
+        "translation": ""
+    },
+    {
+        "id": "174",
+        "id_number": 174,
+        "value": "あら、アンタ、え？\r\n代わりに片づけてくれるってのかい？",
+        "translation": ""
+    },
+    {
+        "id": "175",
+        "id_number": 175,
+        "value": "おせっかいはやめときな。\r\nこういうのは、自分で何とかさせないと",
+        "translation": ""
+    },
+    {
+        "id": "176",
+        "id_number": 176,
+        "value": "貼り紙でもしといてやろうかね",
+        "translation": ""
+    },
+    {
+        "id": "177",
+        "id_number": 177,
+        "value": "ヤーマン！",
+        "translation": ""
+    },
+    {
+        "id": "178",
+        "id_number": 178,
+        "value": "どうだい？　このバイブス",
+        "translation": ""
+    },
+    {
+        "id": "179",
+        "id_number": 179,
+        "value": "はるかラウェハラ岬の向こうに\r\nコアニアニの森が見えて来るようだぜ！",
+        "translation": ""
+    },
+    {
+        "id": "180",
+        "id_number": 180,
+        "value": "ヒュー！　オレのビートが彼方へ駆ける！",
+        "translation": ""
+    },
+    {
+        "id": "181",
+        "id_number": 181,
+        "value": "誰にも止められないさ。\r\n海は無限のパーカッションだ！",
+        "translation": ""
+    },
+    {
+        "id": "182",
+        "id_number": 182,
+        "value": "いらっしゃぁ～い",
+        "translation": ""
+    },
+    {
+        "id": "183",
+        "id_number": 183,
+        "value": "うわあ！　そ、そんなに魚を近づけないで！",
+        "translation": ""
+    },
+    {
+        "id": "184",
+        "id_number": 184,
+        "value": "生臭いし、ぬるぬるするし。\r\nどうにも苦手なんだよ",
+        "translation": ""
+    },
+    {
+        "id": "185",
+        "id_number": 185,
+        "value": "家の手伝いだからサボるわけにもさ……。\r\nああ、憂鬱だぁ～",
+        "translation": ""
+    },
+    {
+        "id": "186",
+        "id_number": 186,
+        "value": "さあ、どうぞ！\r\nみなさん、新鮮なお魚料理はいかが？",
+        "translation": ""
+    },
+    {
+        "id": "187",
+        "id_number": 187,
+        "value": "フライに網焼き、煮込みにサラダ、\r\nスープにパスタもなんでもござれ！",
+        "translation": ""
+    },
+    {
+        "id": "188",
+        "id_number": 188,
+        "value": "アステルリーズ名物の特選シーフード！\r\nこの場ですぐに調理しますよー！",
+        "translation": ""
+    },
+    {
+        "id": "189",
+        "id_number": 189,
+        "value": "あ、お客さん！　良いオオゴリをお持ちですね！\r\nよかったらさばきましょうか？",
+        "translation": ""
+    },
+    {
+        "id": "190",
+        "id_number": 190,
+        "value": "自分、小さなビストロをやっていて\r\nいつもここに仕入れに来てるんです",
+        "translation": ""
+    },
+    {
+        "id": "191",
+        "id_number": 191,
+        "value": "新鮮なのはもちろん、\r\nめずらしい魚が見つかることもあるんですよね",
+        "translation": ""
+    },
+    {
+        "id": "192",
+        "id_number": 192,
+        "value": "おや。六つ星ヒトデが紛れ込んでます。\r\n食べられないけど、幸運の目印なんですよ",
+        "translation": ""
+    },
+    {
+        "id": "193",
+        "id_number": 193,
+        "value": "今日はいいことがあるかもしれませんね",
+        "translation": ""
+    },
+    {
+        "id": "194",
+        "id_number": 194,
+        "value": "クレーンの調子が悪くてさ。\r\n修理を頼んだけど、いつまでたっても来ねぇンだわ",
+        "translation": ""
+    },
+    {
+        "id": "195",
+        "id_number": 195,
+        "value": "自分で何とかならねぇかと思って、\r\nガンガン叩いてたら[――]",
+        "translation": ""
+    },
+    {
+        "id": "196",
+        "id_number": 196,
+        "value": "ウンともスンとも言わなくなっちまった。\r\nやっぱ、専門家じゃねぇとムリだな",
+        "translation": ""
+    },
+    {
+        "id": "197",
+        "id_number": 197,
+        "value": "こう見えても、昔は船乗りでな",
+        "translation": ""
+    },
+    {
+        "id": "198",
+        "id_number": 198,
+        "value": "バーンハルト公国には何度も行ったもんじゃ。\r\nそれだけじゃない。外大陸にもな",
+        "translation": ""
+    },
+    {
+        "id": "199",
+        "id_number": 199,
+        "value": "でっかい定期船もいいが、\r\n自分たちの腕だけで海原に挑むのも悪くないぞ",
+        "translation": ""
+    },
+    {
+        "id": "200",
+        "id_number": 200,
+        "value": "世界にはまだ見ぬ陸地がたくさんある。\r\n若いモンが見つけてくれるとうれしいのう",
+        "translation": ""
+    },
+    {
+        "id": "201",
+        "id_number": 201,
+        "value": "なんだい、まったく。\r\nこのところ欠航ばかりだね",
+        "translation": ""
+    },
+    {
+        "id": "202",
+        "id_number": 202,
+        "value": "竜族があちこちに出るっていうから、\r\nしかたないのかもしれないけどさ",
+        "translation": ""
+    },
+    {
+        "id": "203",
+        "id_number": 203,
+        "value": "おかげでこっちは商売にならないよ。\r\n船員相手の宿なんて閑古鳥さ",
+        "translation": ""
+    },
+    {
+        "id": "204",
+        "id_number": 204,
+        "value": "ああ、やだやだ。\r\n竜族なんて誰かが追っ払ってくれないかね",
+        "translation": ""
+    },
+    {
+        "id": "205",
+        "id_number": 205,
+        "value": "何してるって？　見てわかんない？\r\n車の整備をしてんのよ",
+        "translation": ""
+    },
+    {
+        "id": "206",
+        "id_number": 206,
+        "value": "これがアタシの仕事さ。\r\n弟を食べさせてあげなきゃならないからね",
+        "translation": ""
+    },
+    {
+        "id": "207",
+        "id_number": 207,
+        "value": "あの子も車が好きで知識だけはあるみたいだけど、\r\n結構、重労働なんだよね",
+        "translation": ""
+    },
+    {
+        "id": "208",
+        "id_number": 208,
+        "value": "クラフトしたいなら、\r\nこの階段を降りたところで聞くといいわよ",
+        "translation": ""
+    },
+    {
+        "id": "209",
+        "id_number": 209,
+        "value": "わたし、見たの",
+        "translation": ""
+    },
+    {
+        "id": "210",
+        "id_number": 210,
+        "value": "あそこの花壇から\r\n緑のナッポ君が出てきたの",
+        "translation": ""
+    },
+    {
+        "id": "211",
+        "id_number": 211,
+        "value": "一人じゃないの。いっぱい。\r\n次から次へと行進してどこかへ行っちゃったの",
+        "translation": ""
+    },
+    {
+        "id": "212",
+        "id_number": 212,
+        "value": "でも、みんな信じてくれないの",
+        "translation": ""
+    },
+    {
+        "id": "213",
+        "id_number": 213,
+        "value": "壺はいかが？\r\nそこそこ有名な陶芸家の作品なのよ",
+        "translation": ""
+    },
+    {
+        "id": "214",
+        "id_number": 214,
+        "value": "いいこと教えてあげよっか。\r\n……その陶芸家って、人間じゃないんですって",
+        "translation": ""
+    },
+    {
+        "id": "215",
+        "id_number": 215,
+        "value": "実は……人間に化けた竜族がいて、\r\nこっそり壺を作ってるの……！",
+        "translation": ""
+    },
+    {
+        "id": "216",
+        "id_number": 216,
+        "value": "……なーんてね！　だったらおもしろいのにな。\r\nそれで、どう？　一つ買ってみる気にならない？",
+        "translation": ""
+    },
+    {
+        "id": "217",
+        "id_number": 217,
+        "value": "ワシは世界の珍しいスパイスを売っておる",
+        "translation": ""
+    },
+    {
+        "id": "218",
+        "id_number": 218,
+        "value": "あちこち自分で歩いて目利きしたんじゃよ",
+        "translation": ""
+    },
+    {
+        "id": "219",
+        "id_number": 219,
+        "value": "そういや、サラムザートのほうで\r\nバーンハルト騎士団の団長を見かけたぞ",
+        "translation": ""
+    },
+    {
+        "id": "220",
+        "id_number": 220,
+        "value": "竜族と戦うので忙しいだろうに。\r\n何か用事でもあったのかのう？",
+        "translation": ""
+    },
+    {
+        "id": "221",
+        "id_number": 221,
+        "value": "さあさあ、安いよ！\r\n世界のフルーツがなんでもそろう！",
+        "translation": ""
+    },
+    {
+        "id": "222",
+        "id_number": 222,
+        "value": "……なんでも、は言い過ぎた。\r\nある程度はそろう！",
+        "translation": ""
+    },
+    {
+        "id": "223",
+        "id_number": 223,
+        "value": "……ある程度、も言い過ぎた。\r\n少しはそろう！　……たぶん、そろうと思う",
+        "translation": ""
+    },
+    {
+        "id": "224",
+        "id_number": 224,
+        "value": "もう少し大きな店を探すべきだったなあ……",
+        "translation": ""
+    },
+    {
+        "id": "225",
+        "id_number": 225,
+        "value": "夜空で一番明るい星がアテニオンだ",
+        "translation": ""
+    },
+    {
+        "id": "226",
+        "id_number": 226,
+        "value": "地上を救ったバファリアの神の化身でな。\r\n栄誉ある名前が星につけられたのだよ",
+        "translation": ""
+    },
+    {
+        "id": "227",
+        "id_number": 227,
+        "value": "たまには昔話に耳をかたむけるといい",
+        "translation": ""
+    },
+    {
+        "id": "228",
+        "id_number": 228,
+        "value": "意外なことが聞けるかもしれんよ",
+        "translation": ""
+    },
+    {
+        "id": "229",
+        "id_number": 229,
+        "value": "この坂は『パイナップル通り』",
+        "translation": ""
+    },
+    {
+        "id": "230",
+        "id_number": 230,
+        "value": "昔、パイナップルブームの時には、\r\n３０軒もの専門店がひしめき合っていたらしいわ",
+        "translation": ""
+    },
+    {
+        "id": "231",
+        "id_number": 231,
+        "value": "料理、飲み物はもちろん、洗剤、薬品、化粧品、\r\n何にでもパイナップルを入れまくったそうよ",
+        "translation": ""
+    },
+    {
+        "id": "232",
+        "id_number": 232,
+        "value": "しまいにはパイナップルが自分で店番をしてた、とか。\r\nそんなうわさが立つくらいすごかったみたいね",
+        "translation": ""
+    },
+    {
+        "id": "233",
+        "id_number": 233,
+        "value": "自分に合った武器ってよくわからないよなあ",
+        "translation": ""
+    },
+    {
+        "id": "234",
+        "id_number": 234,
+        "value": "けど、そんなときはいろいろ試してみるのが一番だ",
+        "translation": ""
+    },
+    {
+        "id": "235",
+        "id_number": 235,
+        "value": "悩むより慣れろ！\r\n使ってみたら、新しい発見があるかもしれないぜ",
+        "translation": ""
+    },
+    {
+        "id": "236",
+        "id_number": 236,
+        "value": "ま、俺はお金がないから見てるだけなんだけどね……",
+        "translation": ""
+    },
+    {
+        "id": "237",
+        "id_number": 237,
+        "value": "緑のナッポくんはお友達なんだよ",
+        "translation": ""
+    },
+    {
+        "id": "238",
+        "id_number": 238,
+        "value": "紫のナッポくんはちょっと怖いけど",
+        "translation": ""
+    },
+    {
+        "id": "239",
+        "id_number": 239,
+        "value": "ナッポくん、あんまりいじめないであげてね",
+        "translation": ""
+    },
+    {
+        "id": "241",
+        "id_number": 241,
+        "value": "坂を上がれば『開拓局』",
+        "translation": ""
+    },
+    {
+        "id": "242",
+        "id_number": 242,
+        "value": "階段を下れば『職人広場』だ",
+        "translation": ""
+    },
+    {
+        "id": "243",
+        "id_number": 243,
+        "value": "いらっしゃい！\r\n珍しいものがそろってるよ！",
+        "translation": ""
+    },
+    {
+        "id": "244",
+        "id_number": 244,
+        "value": "はるばるサラムザートから仕入れたんだ！\r\n何か買っていってよ",
+        "translation": ""
+    },
+    {
+        "id": "245",
+        "id_number": 245,
+        "value": "サラムザートは遠いよ。\r\n高原、渓谷を抜けて砂漠の先だ",
+        "translation": ""
+    },
+    {
+        "id": "246",
+        "id_number": 246,
+        "value": "かなりの長旅を覚悟したほうがいいよ",
+        "translation": ""
+    },
+    {
+        "id": "247",
+        "id_number": 247,
+        "value": "ごめんよ。ここは倉庫なんだ。\r\nうちの亭主がガラクタばかり集めてきてさ",
+        "translation": ""
+    },
+    {
+        "id": "248",
+        "id_number": 248,
+        "value": "文字通り、売るほどあるんだよ。\r\nあっはっは！",
+        "translation": ""
+    },
+    {
+        "id": "249",
+        "id_number": 249,
+        "value": "店はロバ通りに出してるから見てっておくれ。\r\nうちの坊やが店番してるからすぐわかるよ",
+        "translation": ""
+    },
+    {
+        "id": "250",
+        "id_number": 250,
+        "value": "ああ、俺は鍛冶屋だ。\r\nだがな、武器の類は一切扱ってない",
+        "translation": ""
+    },
+    {
+        "id": "251",
+        "id_number": 251,
+        "value": "打ち直しもお断りだ。悪いな",
+        "translation": ""
+    },
+    {
+        "id": "252",
+        "id_number": 252,
+        "value": "もう戦いには関わらないと誓ったんだ……",
+        "translation": ""
+    },
+    {
+        "id": "253",
+        "id_number": 253,
+        "value": "アイツと娘を奪った戦いには、もう二度と……",
+        "translation": ""
+    },
+    {
+        "id": "254",
+        "id_number": 254,
+        "value": "最近、自販機荒らしが流行っておるらしい",
+        "translation": ""
+    },
+    {
+        "id": "255",
+        "id_number": 255,
+        "value": "じゃから、ワシがこうして目を光らせておるんじゃ",
+        "translation": ""
+    },
+    {
+        "id": "256",
+        "id_number": 256,
+        "value": "むっ！　目がかすむ……\r\nワシも年かのう。やれやれ",
+        "translation": ""
+    },
+    {
+        "id": "257",
+        "id_number": 257,
+        "value": "……おぬし、\r\n今、自販機に何もしなかったじゃろうな？",
+        "translation": ""
+    },
+    {
+        "id": "258",
+        "id_number": 258,
+        "value": "さーて、どれにすっかなぁ……。\r\nムフフフフ……",
+        "translation": ""
+    },
+    {
+        "id": "259",
+        "id_number": 259,
+        "value": "ン？　……なんだよ、あのじいさん。\r\nなんでずっとこっち見てんだよ",
+        "translation": ""
+    },
+    {
+        "id": "260",
+        "id_number": 260,
+        "value": "買いにくくてしょうがねぇな",
+        "translation": ""
+    },
+    {
+        "id": "261",
+        "id_number": 261,
+        "value": "『アステルトロピカル☆とろ～り海老みそ味』の\r\n隠れファンだなんて知られたら恥ずかしいぜ……！",
+        "translation": ""
+    },
+    {
+        "id": "262",
+        "id_number": 262,
+        "value": "ポスター貼ってるんですよ。\r\n私が製作したヤツをね",
+        "translation": ""
+    },
+    {
+        "id": "263",
+        "id_number": 263,
+        "value": "お店の宣伝、ライブの告知。\r\nチラシから看板まで何でも請け負いますよ～",
+        "translation": ""
+    },
+    {
+        "id": "264",
+        "id_number": 264,
+        "value": "ご用命があればアステルリーズ港のアトリエまで、\r\n直接お越しくださいね",
+        "translation": ""
+    },
+    {
+        "id": "265",
+        "id_number": 265,
+        "value": "まあ、アトリエと言ったって、\r\n埠頭の階段の踊り場を拝借してるだけですがね",
+        "translation": ""
+    },
+    {
+        "id": "266",
+        "id_number": 266,
+        "value": "この坂は『ロバ通り』って呼ばれています",
+        "translation": ""
+    },
+    {
+        "id": "267",
+        "id_number": 267,
+        "value": "商店におろす荷物を積んだロバが、\r\n何度も行き来したことにちなむそうです",
+        "translation": ""
+    },
+    {
+        "id": "268",
+        "id_number": 268,
+        "value": "今ではあまり見かけなくなりましたけどね",
+        "translation": ""
+    },
+    {
+        "id": "269",
+        "id_number": 269,
+        "value": "おとなしくて力持ちのロバは、\r\n人間の大切な友人なんですよ",
+        "translation": ""
+    },
+    {
+        "id": "270",
+        "id_number": 270,
+        "value": "ふう、買い物しすぎちゃった。\r\nちょっと通り抜けるだけのつもりだったのに……",
+        "translation": ""
+    },
+    {
+        "id": "271",
+        "id_number": 271,
+        "value": "この坂は『街門広場』からの抜け道なんだけど、\r\nお店が多くて、ついつい道草しちゃうのよね",
+        "translation": ""
+    },
+    {
+        "id": "272",
+        "id_number": 272,
+        "value": "急いでるならわき目も振らず歩くことね",
+        "translation": ""
+    },
+    {
+        "id": "273",
+        "id_number": 273,
+        "value": "青い海……寄せては返す白い波……",
+        "translation": ""
+    },
+    {
+        "id": "274",
+        "id_number": 274,
+        "value": "明るいビーチ……輝くパラソル……",
+        "translation": ""
+    },
+    {
+        "id": "275",
+        "id_number": 275,
+        "value": "青春の光……私の失った気持ち……",
+        "translation": ""
+    },
+    {
+        "id": "276",
+        "id_number": 276,
+        "value": "あンの浮気者オオォォォォッッ！！\r\nタルに詰められてどこかへ流されろぉぉぉぉっ！！",
+        "translation": ""
+    },
+    {
+        "id": "277",
+        "id_number": 277,
+        "value": "あら、バルーンの生地があるじゃない！",
+        "translation": ""
+    },
+    {
+        "id": "278",
+        "id_number": 278,
+        "value": "私の故郷のサラムザートは、たくさんのバルーンが\r\n浮かんでいることで有名なのよ",
+        "translation": ""
+    },
+    {
+        "id": "279",
+        "id_number": 279,
+        "value": "街の灯りや砂漠での目印に使うんだけど、\r\n一緒に願いごとを書いておく風習があるの",
+        "translation": ""
+    },
+    {
+        "id": "280",
+        "id_number": 280,
+        "value": "願いが叶ったらバルーンを空に放つのよ。\r\n懐かしいわ。久しぶりに作ってみようかしら",
+        "translation": ""
+    },
+    {
+        "id": "281",
+        "id_number": 281,
+        "value": "きゃ～、きれいな眺め！\r\n海が見えるバルコニーって憧れだったの～",
+        "translation": ""
+    },
+    {
+        "id": "282",
+        "id_number": 282,
+        "value": "この家にしてよかったぁ～",
+        "translation": ""
+    },
+    {
+        "id": "283",
+        "id_number": 283,
+        "value": "アステルリーズはどんどん人が増えてて\r\n住宅のほうが足りなくなりそうなのよね～",
+        "translation": ""
+    },
+    {
+        "id": "284",
+        "id_number": 284,
+        "value": "良い物件はすぐに売れちゃうの～。\r\n気に入ったなら迷ってるヒマはないんだからぁ～",
+        "translation": ""
+    },
+    {
+        "id": "285",
+        "id_number": 285,
+        "value": "眺めがいいって言うから、この家を買ったんだ",
+        "translation": ""
+    },
+    {
+        "id": "286",
+        "id_number": 286,
+        "value": "どこがっ！？\r\n海なんてほとんど見えないじゃないか！",
+        "translation": ""
+    },
+    {
+        "id": "287",
+        "id_number": 287,
+        "value": "文句をつけても[『]他の家の立地など知ったことでは[』]\r\nとはぐらかされるだけで……",
+        "translation": ""
+    },
+    {
+        "id": "288",
+        "id_number": 288,
+        "value": "くそっ、くそっ！　だまされた！",
+        "translation": ""
+    },
+    {
+        "id": "289",
+        "id_number": 289,
+        "value": "ここは『アステリア歌劇場』の正面玄関です",
+        "translation": ""
+    },
+    {
+        "id": "290",
+        "id_number": 290,
+        "value": "残念ながら、しばらく催事はないんです。\r\n例年なら『星霊祭』が開かれるんですがね～",
+        "translation": ""
+    },
+    {
+        "id": "291",
+        "id_number": 291,
+        "value": "今年はまだ何の告知もありませんねー。\r\n私も楽しみにしてるんだけどな～",
+        "translation": ""
+    },
+    {
+        "id": "292",
+        "id_number": 292,
+        "value": "今度の歌姫は誰かな？",
+        "translation": ""
+    },
+    {
+        "id": "293",
+        "id_number": 293,
+        "value": "この坂を上がれば、神殿だぞ",
+        "translation": ""
+    },
+    {
+        "id": "294",
+        "id_number": 294,
+        "value": "世界で一番でっかい神殿だぞ！\r\nオレが見たことある中では！",
+        "translation": ""
+    },
+    {
+        "id": "295",
+        "id_number": 295,
+        "value": "びっくりすんなよ！\r\n[『]止んだ歌は聞こえない[』]って言うからな！",
+        "translation": ""
+    },
+    {
+        "id": "296",
+        "id_number": 296,
+        "value": "[『]どんなときも平常心で最後までやり遂げること[』]が\r\n大切なんだ。この前、学校で教えてもらった！",
+        "translation": ""
+    },
+    {
+        "id": "297",
+        "id_number": 297,
+        "value": "海の向こうに見えるのがアステリア平原だよ",
+        "translation": ""
+    },
+    {
+        "id": "298",
+        "id_number": 298,
+        "value": "あの壊れかけの塔はバファリアの遺跡だ",
+        "translation": ""
+    },
+    {
+        "id": "299",
+        "id_number": 299,
+        "value": "壊れかけ……そうだよな。\r\n壊れてるはずなのに、破片が宙に浮いているんだ",
+        "translation": ""
+    },
+    {
+        "id": "300",
+        "id_number": 300,
+        "value": "冒険者ってああいう遺跡に行って謎を解くんだろ？\r\nすごいよなあ",
+        "translation": ""
+    },
+    {
+        "id": "301",
+        "id_number": 301,
+        "value": "いやはや、立派な庭園ですなあ",
+        "translation": ""
+    },
+    {
+        "id": "302",
+        "id_number": 302,
+        "value": "さすがはバファリア教の大神殿。\r\nさぞかしお金が有り余っているんでしょうなあ",
+        "translation": ""
+    },
+    {
+        "id": "303",
+        "id_number": 303,
+        "value": "いえいえ、いいんですよ。\r\n私なんて信心の薄い不敬な人間ですし",
+        "translation": ""
+    },
+    {
+        "id": "304",
+        "id_number": 304,
+        "value": "家に灯りがついて、水さえ出てくれれば\r\nそれ以上は望みませんとも",
+        "translation": ""
+    },
+    {
+        "id": "305",
+        "id_number": 305,
+        "value": "ちっ……。\r\nここにも衛士の目が光ってやがる",
+        "translation": ""
+    },
+    {
+        "id": "306",
+        "id_number": 306,
+        "value": "うおっ！？　な、なんじゃい！\r\nワシはただの通りすがりのジジイじゃぞ",
+        "translation": ""
+    },
+    {
+        "id": "307",
+        "id_number": 307,
+        "value": "こんなところから神殿に忍び込もうなどと\r\n馬鹿げたことは考えておらんわい！",
+        "translation": ""
+    },
+    {
+        "id": "308",
+        "id_number": 308,
+        "value": "え、ええい！　いいからどっかに行かんか！",
+        "translation": ""
+    },
+    {
+        "id": "309",
+        "id_number": 309,
+        "value": "ここはバファリア神殿だ。\r\nようこそ、参られた",
+        "translation": ""
+    },
+    {
+        "id": "310",
+        "id_number": 310,
+        "value": "存分に祈りをささげるとよろしい。\r\n神殿はどなたにも開かれている",
+        "translation": ""
+    },
+    {
+        "id": "311",
+        "id_number": 311,
+        "value": "無論、不信心な者もいるが、\r\nそんな輩は我ら教団衛士が通しはしない",
+        "translation": ""
+    },
+    {
+        "id": "312",
+        "id_number": 312,
+        "value": "我々が目を光らせる限り、神殿に近づくこともできんさ。\r\n安心なされよ。ハッハッハ！",
+        "translation": ""
+    },
+    {
+        "id": "313",
+        "id_number": 313,
+        "value": "ここから先は神聖な場所だ。\r\nはしゃいだり、騒いだりせぬようにな",
+        "translation": ""
+    },
+    {
+        "id": "314",
+        "id_number": 314,
+        "value": "もちろん商売もダメだ",
+        "translation": ""
+    },
+    {
+        "id": "315",
+        "id_number": 315,
+        "value": "こんな黙っていても人が来るおいしい場所を\r\n教団以外に使わせるはずが……",
+        "translation": ""
+    },
+    {
+        "id": "316",
+        "id_number": 316,
+        "value": "ゴホン、ゴホン！\r\nとにかく、ダメなものはダメ！",
+        "translation": ""
+    },
+    {
+        "id": "317",
+        "id_number": 317,
+        "value": "ねえ、ここで露店を開いたらダメかな？",
+        "translation": ""
+    },
+    {
+        "id": "318",
+        "id_number": 318,
+        "value": "ここなら競争相手もいないだろうし、\r\nいけると思うんだよね",
+        "translation": ""
+    },
+    {
+        "id": "319",
+        "id_number": 319,
+        "value": "あ、なんか衛士さんがこっち見てる……。\r\nわりとダメな感じで見てる",
+        "translation": ""
+    },
+    {
+        "id": "320",
+        "id_number": 320,
+        "value": "なによ、ケチ～。\r\n街のほうのいい場所は、もう埋まっちゃってるのに",
+        "translation": ""
+    },
+    {
+        "id": "321",
+        "id_number": 321,
+        "value": "えっ！？　早まるなって？？",
+        "translation": ""
+    },
+    {
+        "id": "322",
+        "id_number": 322,
+        "value": "勘違いしないでください。\r\n私はここから見る日の出が大好きなんです",
+        "translation": ""
+    },
+    {
+        "id": "323",
+        "id_number": 323,
+        "value": "しかし、あなたの優しさには感動しました",
+        "translation": ""
+    },
+    {
+        "id": "324",
+        "id_number": 324,
+        "value": "お礼に良いことを教えましょう",
+        "translation": ""
+    },
+    {
+        "id": "325",
+        "id_number": 325,
+        "value": "たまには人里離れた奥地へ行ってみてください。\r\nきっとあなたの地図が広がりますよ",
+        "translation": ""
+    },
+    {
+        "id": "326",
+        "id_number": 326,
+        "value": "地下への立ち入りは禁止だぞ",
+        "translation": ""
+    },
+    {
+        "id": "327",
+        "id_number": 327,
+        "value": "まあ、降りて行ったところで\r\n扉には鍵がかかっているがな",
+        "translation": ""
+    },
+    {
+        "id": "328",
+        "id_number": 328,
+        "value": "神殿の奥には貴重な宝物や\r\nバファリアの遺産が納められている",
+        "translation": ""
+    },
+    {
+        "id": "329",
+        "id_number": 329,
+        "value": "よほどの理由がない限り、入ることはできない。\r\nおとなしく帰りなさい",
+        "translation": ""
+    },
+    {
+        "id": "330",
+        "id_number": 330,
+        "value": "『神託の巫女』様にお目にかかりたくて来たんです",
+        "translation": ""
+    },
+    {
+        "id": "331",
+        "id_number": 331,
+        "value": "バファリア教の最高位に位置する方ですよ",
+        "translation": ""
+    },
+    {
+        "id": "332",
+        "id_number": 332,
+        "value": "バファリアの神の御言葉を神託として授かり、\r\n私たちにお伝えしてくださる特別な巫女様なんです",
+        "translation": ""
+    },
+    {
+        "id": "333",
+        "id_number": 333,
+        "value": "しかし、そんな高貴な方がこんな場所に\r\nいらっしゃるはずがないですね。とほほ",
+        "translation": ""
+    },
+    {
+        "id": "334",
+        "id_number": 334,
+        "value": "『神託の巫女』様は代々、お一人だけが選ばれます",
+        "translation": ""
+    },
+    {
+        "id": "335",
+        "id_number": 335,
+        "value": "神より神託を授かる[――]その務めは\r\n特別な力を持つ方にしか果たせません",
+        "translation": ""
+    },
+    {
+        "id": "336",
+        "id_number": 336,
+        "value": "誰がどのように選ばれるのか。\r\nそれこそ、神のみぞ知るところでありましょう",
+        "translation": ""
+    },
+    {
+        "id": "337",
+        "id_number": 337,
+        "value": "選ばれた巫女様は神のため、教団のため、\r\nそして人々のためにその身をささげられるのです",
+        "translation": ""
+    },
+    {
+        "id": "338",
+        "id_number": 338,
+        "value": "この光を絶やしてはなりません",
+        "translation": ""
+    },
+    {
+        "id": "339",
+        "id_number": 339,
+        "value": "これはかつて、バファリアの神が荒れ果てた地上に\r\n与えたもうた希望の灯から分かたれた光です",
+        "translation": ""
+    },
+    {
+        "id": "340",
+        "id_number": 340,
+        "value": "この光が灯り続ける限り、\r\n私たちは神の恵みを受け続けることができるのです",
+        "translation": ""
+    },
+    {
+        "id": "341",
+        "id_number": 341,
+        "value": "この光が絶えるとき、希望もまた潰える。\r\nよいですか？　この光を絶やしてはなりません",
+        "translation": ""
+    },
+    {
+        "id": "342",
+        "id_number": 342,
+        "value": "でかい神殿だよなあ",
+        "translation": ""
+    },
+    {
+        "id": "343",
+        "id_number": 343,
+        "value": "でもさ。バファリアの遺跡の中には\r\nこの神殿の何倍もでかいモンがあるんだってさ",
+        "translation": ""
+    },
+    {
+        "id": "344",
+        "id_number": 344,
+        "value": "ナントカの……何だっけ？　柱がどうとか……",
+        "translation": ""
+    },
+    {
+        "id": "345",
+        "id_number": 345,
+        "value": "とにかく、その柱は天に届くほどすげぇらしい！",
+        "translation": ""
+    },
+    {
+        "id": "346",
+        "id_number": 346,
+        "value": "……バファリアの聖地がやられたそうよ",
+        "translation": ""
+    },
+    {
+        "id": "347",
+        "id_number": 347,
+        "value": "世間は竜族のしわざにしたいみたいだけど……。\r\nええ、そうよ。私たちにはわかる",
+        "translation": ""
+    },
+    {
+        "id": "348",
+        "id_number": 348,
+        "value": "間違いないわ。『ヤツら』が動き出したのよ……！",
+        "translation": ""
+    },
+    {
+        "id": "349",
+        "id_number": 349,
+        "value": "真実を知っているのは私たちだけ……。\r\nやるべきことは……わかっているわね？",
+        "translation": ""
+    },
+    {
+        "id": "350",
+        "id_number": 350,
+        "value": "……バカな、早すぎる！",
+        "translation": ""
+    },
+    {
+        "id": "351",
+        "id_number": 351,
+        "value": "バファリアの聖地に手を出すなんて……！\r\n『ヤツら』は何を考えているんだ",
+        "translation": ""
+    },
+    {
+        "id": "352",
+        "id_number": 352,
+        "value": "世界の危機に気づいているのは俺たちだけ……！\r\nなんという孤独な戦い……！",
+        "translation": ""
+    },
+    {
+        "id": "353",
+        "id_number": 353,
+        "value": "この重さを分かち合える仲間は\r\nどこかにいないのか……！",
+        "translation": ""
+    },
+    {
+        "id": "354",
+        "id_number": 354,
+        "value": "バファリアの神は天におわします",
+        "translation": ""
+    },
+    {
+        "id": "355",
+        "id_number": 355,
+        "value": "神は地上を我ら人間に与え、\r\n自らは空の彼方へと移られました",
+        "translation": ""
+    },
+    {
+        "id": "356",
+        "id_number": 356,
+        "value": "空を彩る『天紋』が見えるでしょう？\r\nあれこそバファリアの神の残した証",
+        "translation": ""
+    },
+    {
+        "id": "357",
+        "id_number": 357,
+        "value": "ときには空を見上げ、\r\n神への感謝を心に刻まれますように",
+        "translation": ""
+    },
+    {
+        "id": "358",
+        "id_number": 358,
+        "value": "すまんね。まだ準備中なんだ",
+        "translation": ""
+    },
+    {
+        "id": "359",
+        "id_number": 359,
+        "value": "うちではバファリアの遺産を扱うつもりだよ。\r\nといっても、完成品は高くて手が出ないから",
+        "translation": ""
+    },
+    {
+        "id": "360",
+        "id_number": 360,
+        "value": "壊れた部品とか、ジャンクパーツを\r\n売り買いしようと思っているんだ",
+        "translation": ""
+    },
+    {
+        "id": "361",
+        "id_number": 361,
+        "value": "冒険者さんにも何か依頼するかもしれない。\r\nそのときはよろしく頼むよ",
+        "translation": ""
+    },
+    {
+        "id": "362",
+        "id_number": 362,
+        "value": "ちょっとアンタ、知ってるかい？",
+        "translation": ""
+    },
+    {
+        "id": "363",
+        "id_number": 363,
+        "value": "バファリア教の『神託の巫女』様だよ。\r\nこんな時期に巡礼の旅に出るって",
+        "translation": ""
+    },
+    {
+        "id": "364",
+        "id_number": 364,
+        "value": "近頃はモンスターが増えてきたって言うし、\r\nバーンハルト公国には竜族が攻めてきたんだろ？",
+        "translation": ""
+    },
+    {
+        "id": "365",
+        "id_number": 365,
+        "value": "大丈夫なのかねぇ。\r\nめったなことがなけりゃいいけどさ",
+        "translation": ""
+    },
+    {
+        "id": "366",
+        "id_number": 366,
+        "value": "いらっしゃい！\r\nどう？　うちの品ぞろえ、すごいでしょ",
+        "translation": ""
+    },
+    {
+        "id": "367",
+        "id_number": 367,
+        "value": "今、これだけフルーツを集めるのは大変なのよ。\r\nモンスターが急に増えて、畑とかを襲ってるの",
+        "translation": ""
+    },
+    {
+        "id": "368",
+        "id_number": 368,
+        "value": "荷馬車が壊されちゃうこともあるみたい。\r\nおまけに山賊とか盗賊も見かけるようになったって",
+        "translation": ""
+    },
+    {
+        "id": "369",
+        "id_number": 369,
+        "value": "バファリア教は何をしてるのかしらね。\r\n[『]人々を守る[』]とか調子のいいこと言っといてさ",
+        "translation": ""
+    },
+    {
+        "id": "370",
+        "id_number": 370,
+        "value": "いち、に、さん……よし、数はぴったりだな",
+        "translation": ""
+    },
+    {
+        "id": "371",
+        "id_number": 371,
+        "value": "仕入れの管理は俺の仕事さ。\r\n数字一つでも違ったら、けっこう大変なんだ",
+        "translation": ""
+    },
+    {
+        "id": "372",
+        "id_number": 372,
+        "value": "どんな仕事もそうだろ？\r\n細かく確認するくせをつけとくといいぜ",
+        "translation": ""
+    },
+    {
+        "id": "373",
+        "id_number": 373,
+        "value": "納品するものや必要な素材が一つだけ足りないとか、\r\n手間が増えちまうだけだからな",
+        "translation": ""
+    },
+    {
+        "id": "374",
+        "id_number": 374,
+        "value": "むっふ～ん！\r\n良いですぞ。実に良い気分ですぞ！",
+        "translation": ""
+    },
+    {
+        "id": "375",
+        "id_number": 375,
+        "value": "料理は美味い！　風は心地良い！\r\nディーボンもどんどん進むというものですぞ～",
+        "translation": ""
+    },
+    {
+        "id": "376",
+        "id_number": 376,
+        "value": "むっふふふっふ！\r\nおかわり、タルごと持ってこーい！　ですぞ～！",
+        "translation": ""
+    },
+    {
+        "id": "377",
+        "id_number": 377,
+        "value": "転送ポータルがなんじゃと？\r\nふん！　ワシはああいうのは好かんわい",
+        "translation": ""
+    },
+    {
+        "id": "378",
+        "id_number": 378,
+        "value": "昔はみんな、自分の足で歩いたもんじゃ。\r\nじゃから野菜も果物も美味かった",
+        "translation": ""
+    },
+    {
+        "id": "379",
+        "id_number": 379,
+        "value": "空間転送をすると食べ物が傷むんじゃろ？\r\n知っとるんじゃぞ！　年寄りを馬鹿にするな！",
+        "translation": ""
+    },
+    {
+        "id": "380",
+        "id_number": 380,
+        "value": "……情報によれば、ここが取引現場のはず",
+        "translation": ""
+    },
+    {
+        "id": "381",
+        "id_number": 381,
+        "value": "大丈夫。気づかれているはずはないわ",
+        "translation": ""
+    },
+    {
+        "id": "382",
+        "id_number": 382,
+        "value": "高利貸しのコシモ。\r\nその資金源、つかませていただきますよ",
+        "translation": ""
+    },
+    {
+        "id": "383",
+        "id_number": 383,
+        "value": "今日は『カナロアン』があるのかい",
+        "translation": ""
+    },
+    {
+        "id": "384",
+        "id_number": 384,
+        "value": "こりゃうれしい。ダブルでもらおうかな",
+        "translation": ""
+    },
+    {
+        "id": "385",
+        "id_number": 385,
+        "value": "うーん、沁みる香りじゃ。北の空気を感じるぞ",
+        "translation": ""
+    },
+    {
+        "id": "386",
+        "id_number": 386,
+        "value": "静かにしてくれないか？\r\n僕はこのすばらしい演奏を聞きに来たんだ",
+        "translation": ""
+    },
+    {
+        "id": "387",
+        "id_number": 387,
+        "value": "ときには立ち止まって\r\n音楽に耳を澄ませるのもいいものだよ",
+        "translation": ""
+    },
+    {
+        "id": "388",
+        "id_number": 388,
+        "value": "いらっしゃいませー！\r\n『廻る舵輪亭』へようこそ！",
+        "translation": ""
+    },
+    {
+        "id": "389",
+        "id_number": 389,
+        "value": "お食事ですか？　それとも、何か飲まれます？\r\nごゆっくりお腹を満たしてくださいね！",
+        "translation": ""
+    },
+    {
+        "id": "390",
+        "id_number": 390,
+        "value": "この音楽、どう？\r\n友達のバンドが演奏してるの",
+        "translation": ""
+    },
+    {
+        "id": "391",
+        "id_number": 391,
+        "value": "気に入ってもらえるとうれしいな",
+        "translation": ""
+    },
+    {
+        "id": "392",
+        "id_number": 392,
+        "value": "闘技場が盛り上がってるね",
+        "translation": ""
+    },
+    {
+        "id": "393",
+        "id_number": 393,
+        "value": "冒険者さんがいっぱいチャレンジしてるよ。\r\n見てるとワクワクするんだ！",
+        "translation": ""
+    },
+    {
+        "id": "437",
+        "id_number": 437,
+        "value": "ここのお魚、実は市場よりお買い得なのよ",
+        "translation": ""
+    },
+    {
+        "id": "438",
+        "id_number": 438,
+        "value": "闘技場のそばなんて穴場でしょ。\r\n私ったら買い物上手～",
+        "translation": ""
+    },
+    {
+        "id": "396",
+        "id_number": 396,
+        "value": "ああ、いい風だねぇ",
+        "translation": ""
+    },
+    {
+        "id": "397",
+        "id_number": 397,
+        "value": "景色はいいし、静かだし。\r\n意外にリフレッシュできる場所だろ？",
+        "translation": ""
+    },
+    {
+        "id": "398",
+        "id_number": 398,
+        "value": "なにより神殿を見上げられるのがいいんだよ",
+        "translation": ""
+    },
+    {
+        "id": "439",
+        "id_number": 439,
+        "value": "さて、バファリアの神様。\r\n今日も亭主と息子の世話を頑張りますよ、っと",
+        "translation": ""
+    },
+    {
+        "id": "400",
+        "id_number": 400,
+        "value": "むむっ！\r\n闘技場の観戦記念コレクションとな！",
+        "translation": ""
+    },
+    {
+        "id": "401",
+        "id_number": 401,
+        "value": "チャンピオンお手製の限定の大皿。\r\nなぜチャンピオンに作らせたのかわからんが",
+        "translation": ""
+    },
+    {
+        "id": "402",
+        "id_number": 402,
+        "value": "できはどうあれ、コレクター魂はうずく！\r\nどうする、私！？",
+        "translation": ""
+    },
+    {
+        "id": "403",
+        "id_number": 403,
+        "value": "俺はこの闘技場でトップを取るために来た！",
+        "translation": ""
+    },
+    {
+        "id": "404",
+        "id_number": 404,
+        "value": "ここで名を挙げてバファリア教の衛士になったり\r\nバーンハルト騎士団に入ったりしたヤツもいる",
+        "translation": ""
+    },
+    {
+        "id": "405",
+        "id_number": 405,
+        "value": "いつまでも親に心配をかけられないからな。\r\n必ず頂点に立ってみせるぜ！",
+        "translation": ""
+    },
+    {
+        "id": "406",
+        "id_number": 406,
+        "value": "…………",
+        "translation": ""
+    },
+    {
+        "id": "407",
+        "id_number": 407,
+        "value": "話しかけないで。集中を高めてるの",
+        "translation": ""
+    },
+    {
+        "id": "408",
+        "id_number": 408,
+        "value": "次の戦いはきびしいものになるわ",
+        "translation": ""
+    },
+    {
+        "id": "409",
+        "id_number": 409,
+        "value": "バファリアの神よ。戦いの化身アテニオンよ。\r\n私に力を与えたまえ",
+        "translation": ""
+    },
+    {
+        "id": "410",
+        "id_number": 410,
+        "value": "やっちまったああああっっ！！",
+        "translation": ""
+    },
+    {
+        "id": "411",
+        "id_number": 411,
+        "value": "あそこで俺がミスらなきゃ……\r\nあそこで俺がミスらなきゃぁぁっ！！",
+        "translation": ""
+    },
+    {
+        "id": "412",
+        "id_number": 412,
+        "value": "みんなは[『]気にするな[』]って言うけど\r\n合わせる顔がねぇよぉぉ……",
+        "translation": ""
+    },
+    {
+        "id": "413",
+        "id_number": 413,
+        "value": "……いや、うつむいてちゃダメだ。\r\n腕をみがいて再挑戦だな！　今度こそ！",
+        "translation": ""
+    },
+    {
+        "id": "414",
+        "id_number": 414,
+        "value": "ここはアステルリーズの闘技場よ",
+        "translation": ""
+    },
+    {
+        "id": "416",
+        "id_number": 416,
+        "value": "この建物全体がバファリアの遺産なの。\r\nだから観光客には人気のスポットなのよ",
+        "translation": ""
+    },
+    {
+        "id": "440",
+        "id_number": 440,
+        "value": "私の友達も見たがってたから\r\n案内してあげることにしたんだけど……",
+        "translation": ""
+    },
+    {
+        "id": "441",
+        "id_number": 441,
+        "value": "遅いなあ。どこかで迷っちゃったのかな？",
+        "translation": ""
+    },
+    {
+        "id": "418",
+        "id_number": 418,
+        "value": "アステルリーズ闘技場へようこそ",
+        "translation": ""
+    },
+    {
+        "id": "419",
+        "id_number": 419,
+        "value": "観戦か？　それとも出場者か？",
+        "translation": ""
+    },
+    {
+        "id": "420",
+        "id_number": 420,
+        "value": "ここには冒険者が腕試しにやってくる。\r\n君も自分の力を存分に振るうといい",
+        "translation": ""
+    },
+    {
+        "id": "421",
+        "id_number": 421,
+        "value": "わーい、いい匂い～",
+        "translation": ""
+    },
+    {
+        "id": "422",
+        "id_number": 422,
+        "value": "パン屋さんの匂いって独特だよね。\r\nそういうところが好き",
+        "translation": ""
+    },
+    {
+        "id": "423",
+        "id_number": 423,
+        "value": "おいしいのももちろんよ？\r\nでも、いい匂いって幸せな気持ちになるの",
+        "translation": ""
+    },
+    {
+        "id": "424",
+        "id_number": 424,
+        "value": "嗅いでたらお腹空いてきちゃった。\r\nどれにしようかな～？",
+        "translation": ""
+    },
+    {
+        "id": "425",
+        "id_number": 425,
+        "value": "こりゃ、ええ感じに葉が茂っとるのう",
+        "translation": ""
+    },
+    {
+        "id": "426",
+        "id_number": 426,
+        "value": "家に飾る花を見に来たんじゃ。\r\nじゃが、植木を飾るのも悪くないかもしれん",
+        "translation": ""
+    },
+    {
+        "id": "427",
+        "id_number": 427,
+        "value": "遠い異国にはそういう文化があるそうじゃな。\r\nボンなんとかとか、ワビなんとかとか……",
+        "translation": ""
+    },
+    {
+        "id": "428",
+        "id_number": 428,
+        "value": "難しいことはようわからんが、\r\nワシもちょっと挑戦してみようかのう",
+        "translation": ""
+    },
+    {
+        "id": "429",
+        "id_number": 429,
+        "value": "ステキな靴ね。\r\nさすがはファッションの最先端・アステルリーズ",
+        "translation": ""
+    },
+    {
+        "id": "430",
+        "id_number": 430,
+        "value": "この街で冒険者を名乗るなら\r\n身だしなみにも気をつけたいところだわ",
+        "translation": ""
+    },
+    {
+        "id": "431",
+        "id_number": 431,
+        "value": "アタシも衣装のカラーリングを変えてみようっと。\r\nえーと、手持ちの染料は……",
+        "translation": ""
+    },
+    {
+        "id": "432",
+        "id_number": 432,
+        "value": "……う！　全然足りない……。\r\nこれは依頼をこなすのが先ね",
+        "translation": ""
+    },
+    {
+        "id": "442",
+        "id_number": 442,
+        "value": "これはバーンハルトから届いた調度品か",
+        "translation": ""
+    },
+    {
+        "id": "443",
+        "id_number": 443,
+        "value": "交易都市の名はだてではないな。\r\nこの街には世界中の品物が集まっている",
+        "translation": ""
+    },
+    {
+        "id": "444",
+        "id_number": 444,
+        "value": "冒険者への依頼には商人の護衛も多い。\r\nなるほど。こういうことなら納得だ",
+        "translation": ""
+    },
+    {
+        "id": "445",
+        "id_number": 445,
+        "value": "いらっしゃいませ。\r\n『イエロー・ルーフ・マーケット』へようこそ",
+        "translation": ""
+    },
+    {
+        "id": "446",
+        "id_number": 446,
+        "value": "お買い物ならおまかせください。\r\nいろんなお店がそろっていますよ",
+        "translation": ""
+    },
+    {
+        "id": "447",
+        "id_number": 447,
+        "value": "店員に話しかけていただければご案内しますので。\r\nどうぞ、ごゆっくりお楽しみください",
+        "translation": ""
+    },
+    {
+        "id": "448",
+        "id_number": 448,
+        "value": "この店に来た、新顔の冒険者さん……。\r\nなるほど。ズバリ、街の外に出る準備だろう？",
+        "translation": ""
+    },
+    {
+        "id": "449",
+        "id_number": 449,
+        "value": "アステリア平原は広いからね。\r\n特に傷を治す薬は必需品だよ",
+        "translation": ""
+    },
+    {
+        "id": "450",
+        "id_number": 450,
+        "value": "あまり無理をして遠くまで行かないようにね。\r\n手ごわいモンスターに出くわすこともあるから",
+        "translation": ""
+    },
+    {
+        "id": "451",
+        "id_number": 451,
+        "value": "ああ、ごめんね。\r\nこれは売りものじゃないのよ",
+        "translation": ""
+    },
+    {
+        "id": "452",
+        "id_number": 452,
+        "value": "どっちかというと処分するもの。\r\nぶっちゃけ、ゴミね",
+        "translation": ""
+    },
+    {
+        "id": "453",
+        "id_number": 453,
+        "value": "こんな大きな街だとゴミも多くてね。\r\n回収して捨てる仕事も必要なのよ",
+        "translation": ""
+    },
+    {
+        "id": "454",
+        "id_number": 454,
+        "value": "まだ使えそうなものもあって、もったいないけど。\r\n物は大切にしたいよね",
+        "translation": ""
+    },
+    {
+        "id": "455",
+        "id_number": 455,
+        "value": "おいッス～。\r\nイマジン研究所にウェルカムっしょ",
+        "translation": ""
+    },
+    {
+        "id": "456",
+        "id_number": 456,
+        "value": "……って言いたいとこだけど、マジめんご！\r\nなんか急に仕事増えちゃった系でさ～",
+        "translation": ""
+    },
+    {
+        "id": "457",
+        "id_number": 457,
+        "value": "日を改めてくれるとうれしい的な？\r\n今日は許してちょんまげ！",
+        "translation": ""
+    },
+    {
+        "id": "458",
+        "id_number": 458,
+        "value": "すごーい！　ホントにビーチだ！",
+        "translation": ""
+    },
+    {
+        "id": "459",
+        "id_number": 459,
+        "value": "よ、よーし。\r\nあとは明日、先輩を泳ぎに誘って……",
+        "translation": ""
+    },
+    {
+        "id": "460",
+        "id_number": 460,
+        "value": "水着だってわりとダイタンなの、用意したし。\r\n恥ずかしいけど、がんばれ、私！",
+        "translation": ""
+    },
+    {
+        "id": "461",
+        "id_number": 461,
+        "value": "はあ……。\r\nオトナは浮かれてのんきなモンだよね",
+        "translation": ""
+    },
+    {
+        "id": "462",
+        "id_number": 462,
+        "value": "海にだってモンスターが出るんだよ。\r\n定期船が襲われることもあるっていうのに",
+        "translation": ""
+    },
+    {
+        "id": "463",
+        "id_number": 463,
+        "value": "わざわざ自分から泳ぎに行ってエサの真似事なんて。\r\nボクみたいな知性派には理解できないよ",
+        "translation": ""
+    },
+    {
+        "id": "464",
+        "id_number": 464,
+        "value": "ビーチはみんなが安心して泳げるように\r\n警備隊の人たちが守ってくれてるの",
+        "translation": ""
+    },
+    {
+        "id": "465",
+        "id_number": 465,
+        "value": "モンスターが出ることなんてないのよ",
+        "translation": ""
+    },
+    {
+        "id": "466",
+        "id_number": 466,
+        "value": "隣の子の言うことは気にしないで。\r\nうちのお兄ちゃん、泳げないだけだから",
+        "translation": ""
+    },
+    {
+        "id": "467",
+        "id_number": 467,
+        "value": "アステルリーズはマグナ大陸の南端にあるんだ",
+        "translation": ""
+    },
+    {
+        "id": "468",
+        "id_number": 468,
+        "value": "だから日差しも強くてね。\r\n屋根のある場所がありがたいよ",
+        "translation": ""
+    },
+    {
+        "id": "469",
+        "id_number": 469,
+        "value": "外大陸にはもっときびしい気候も\r\nあるそうだけど、想像つかないよね",
+        "translation": ""
+    },
+    {
+        "id": "470",
+        "id_number": 470,
+        "value": "フフ……フフフ……\r\nよく私がいることに気づいたわね",
+        "translation": ""
+    },
+    {
+        "id": "471",
+        "id_number": 471,
+        "value": "フフ……フフフ……\r\nごほうびにいいことを教えてあげるわ",
+        "translation": ""
+    },
+    {
+        "id": "472",
+        "id_number": 472,
+        "value": "フフ……フフフ……\r\nよくわからないキノコをうかつに食べちゃダメよ",
+        "translation": ""
+    },
+    {
+        "id": "473",
+        "id_number": 473,
+        "value": "フフ……フフフ……\r\nさっきから笑いが止まらないの",
+        "translation": ""
+    },
+    {
+        "id": "474",
+        "id_number": 474,
+        "value": "ビーチの監視中だよ",
+        "translation": ""
+    },
+    {
+        "id": "475",
+        "id_number": 475,
+        "value": "適当にサボってたら神殿の警備からここに回されてさ。\r\nはっきり言って降格されたんだけど",
+        "translation": ""
+    },
+    {
+        "id": "476",
+        "id_number": 476,
+        "value": "水着のおねーちゃんを見てるほうが断然いいよね！\r\nはい、そこの人。しつこいナンパは嫌われるよー",
+        "translation": ""
+    },
+    {
+        "id": "477",
+        "id_number": 477,
+        "value": "アステルリーズが独立したのは\r\n今から４００年くらい前",
+        "translation": ""
+    },
+    {
+        "id": "478",
+        "id_number": 478,
+        "value": "その頃は未開拓で、いくつかの家と畑が\r\nあるだけだったそうよ",
+        "translation": ""
+    },
+    {
+        "id": "479",
+        "id_number": 479,
+        "value": "それが今や、大陸最大の交易都市なの。\r\nなんだか途方もない話よね",
+        "translation": ""
+    },
+    {
+        "id": "480",
+        "id_number": 480,
+        "value": "やあ、どうしたんですか？\r\nそんなところに立ってないでこっちへおいでなさい",
+        "translation": ""
+    },
+    {
+        "id": "481",
+        "id_number": 481,
+        "value": "俺の隣、空いてますよ？",
+        "translation": ""
+    },
+    {
+        "id": "482",
+        "id_number": 482,
+        "value": "今日は時を忘れて存分に語り合いましょう",
+        "translation": ""
+    },
+    {
+        "id": "483",
+        "id_number": 483,
+        "value": "ここで話したなにげない記憶も、イマジンとなって\r\n後世に残るかもしれない。ロマンだと思いませんか？",
+        "translation": ""
+    },
+    {
+        "id": "484",
+        "id_number": 484,
+        "value": "ア～～エ～～～～♪",
+        "translation": ""
+    },
+    {
+        "id": "485",
+        "id_number": 485,
+        "value": "なに？　\r\n歌の練習をしてるだけよ？",
+        "translation": ""
+    },
+    {
+        "id": "486",
+        "id_number": 486,
+        "value": "スワ～～～～♪",
+        "translation": ""
+    },
+    {
+        "id": "487",
+        "id_number": 487,
+        "value": "子供の頃に住んでた島の民謡なの",
+        "translation": ""
+    },
+    {
+        "id": "488",
+        "id_number": 488,
+        "value": "ラエ～～～～～♪",
+        "translation": ""
+    },
+    {
+        "id": "489",
+        "id_number": 489,
+        "value": "意味？　わかんないわ。亜人の言葉だもん。\r\nゴブリンとかムークじゃないと思うけど",
+        "translation": ""
+    },
+    {
+        "id": "490",
+        "id_number": 490,
+        "value": "な、ない！　オレのヨットがないぃぃっ！！",
+        "translation": ""
+    },
+    {
+        "id": "491",
+        "id_number": 491,
+        "value": "そんな！　ちゃんとつないでおいたのに！",
+        "translation": ""
+    },
+    {
+        "id": "492",
+        "id_number": 492,
+        "value": "流されたのか？　それとも、まさか盗まれた！？",
+        "translation": ""
+    },
+    {
+        "id": "493",
+        "id_number": 493,
+        "value": "おのれ、ヨット泥棒め！\r\n冒険者に依頼して捕まえてもらうからなーっ！！",
+        "translation": ""
+    },
+    {
+        "id": "494",
+        "id_number": 494,
+        "value": "……ううむ。\r\nあまり釣れそうにないな",
+        "translation": ""
+    },
+    {
+        "id": "495",
+        "id_number": 495,
+        "value": "退職して時間ができたのはいいが、\r\nヒマでヒマでしかたがない",
+        "translation": ""
+    },
+    {
+        "id": "496",
+        "id_number": 496,
+        "value": "そうしたら、息子から釣りをすすめられたんだよ。\r\nしかし、このあたりではまだ難しいようだな",
+        "translation": ""
+    },
+    {
+        "id": "497",
+        "id_number": 497,
+        "value": "ここはマリーナです",
+        "translation": ""
+    },
+    {
+        "id": "498",
+        "id_number": 498,
+        "value": "係留してあるのは個人所有のヨット。\r\n大型の定期船は港のほうに停泊しますよ",
+        "translation": ""
+    },
+    {
+        "id": "499",
+        "id_number": 499,
+        "value": "行き止まりか",
+        "translation": ""
+    },
+    {
+        "id": "500",
+        "id_number": 500,
+        "value": "まるで俺の人生だな……",
+        "translation": ""
+    },
+    {
+        "id": "501",
+        "id_number": 501,
+        "value": "カナロアの片田舎から一攫千金をねらって\r\n商売をしに来たんだ",
+        "translation": ""
+    },
+    {
+        "id": "502",
+        "id_number": 502,
+        "value": "だが、もう……。\r\nすまん。放っておいてくれ",
+        "translation": ""
+    },
+    {
+        "id": "503",
+        "id_number": 503,
+        "value": "この階段を下って行くと、砂浜に出られますよ",
+        "translation": ""
+    },
+    {
+        "id": "504",
+        "id_number": 504,
+        "value": "上に見えるのは開拓局です。\r\n他の道については聞かないでください",
+        "translation": ""
+    },
+    {
+        "id": "505",
+        "id_number": 505,
+        "value": "しょうがないでしょ！\r\n地元の人間だって迷うくらい、この街は複雑なの！",
+        "translation": ""
+    },
+    {
+        "id": "506",
+        "id_number": 506,
+        "value": "ちゃんと地図を見ればよかった～！\r\nあの、ロバ通りってどっちだったか知らない？",
+        "translation": ""
+    },
+    {
+        "id": "507",
+        "id_number": 507,
+        "value": "え？　何してるかって？",
+        "translation": ""
+    },
+    {
+        "id": "508",
+        "id_number": 508,
+        "value": "見りゃわかるでしょう！\r\nまたしくじっちゃったんです！",
+        "translation": ""
+    },
+    {
+        "id": "509",
+        "id_number": 509,
+        "value": "ひゃぁ～親方にどやされる～",
+        "translation": ""
+    },
+    {
+        "id": "510",
+        "id_number": 510,
+        "value": "確かこの辺にあったんだけどね～",
+        "translation": ""
+    },
+    {
+        "id": "511",
+        "id_number": 511,
+        "value": "アレよアレ……",
+        "translation": ""
+    },
+    {
+        "id": "512",
+        "id_number": 512,
+        "value": "何探してたんだっけ、私",
+        "translation": ""
+    },
+    {
+        "id": "513",
+        "id_number": 513,
+        "value": "あはははは！\r\nヤダ、おっかしい～",
+        "translation": ""
+    },
+    {
+        "id": "514",
+        "id_number": 514,
+        "value": "いいことを教えてやろう",
+        "translation": ""
+    },
+    {
+        "id": "515",
+        "id_number": 515,
+        "value": "できる冒険者はインナーイマジンにこだわっている",
+        "translation": ""
+    },
+    {
+        "id": "516",
+        "id_number": 516,
+        "value": "派手さはないが、確実に強くなる秘訣だ",
+        "translation": ""
+    },
+    {
+        "id": "517",
+        "id_number": 517,
+        "value": "自分なりに研究して、極めてくれ",
+        "translation": ""
+    },
+    {
+        "id": "518",
+        "id_number": 518,
+        "value": "いま、このおじさんと交渉中なんだけどさー",
+        "translation": ""
+    },
+    {
+        "id": "519",
+        "id_number": 519,
+        "value": "条件が合わなくて困ってるんだ",
+        "translation": ""
+    },
+    {
+        "id": "520",
+        "id_number": 520,
+        "value": "女だからってなめてるんじゃない？",
+        "translation": ""
+    },
+    {
+        "id": "521",
+        "id_number": 521,
+        "value": "報酬の相場分かってる？\r\n……ったく、今どきありえないわ！",
+        "translation": ""
+    },
+    {
+        "id": "522",
+        "id_number": 522,
+        "value": "いらっしゃいませ～",
+        "translation": ""
+    },
+    {
+        "id": "523",
+        "id_number": 523,
+        "value": "！！",
+        "translation": ""
+    },
+    {
+        "id": "524",
+        "id_number": 524,
+        "value": "お、お客さま……失礼ですが、\r\nフェステさんのお知合いですよね？",
+        "translation": ""
+    },
+    {
+        "id": "525",
+        "id_number": 525,
+        "value": "なな、何かございましたら、\r\nてて、店長に直接、お申し付けくださいっ",
+        "translation": ""
+    },
+    {
+        "id": "526",
+        "id_number": 526,
+        "value": "わわ、私には手に負えない……じゃなくて、\r\nお、お役には立てないので～～～",
+        "translation": ""
+    }
+]

@@ -1,0 +1,620 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "Hey、ルーキー。\r\nインナーイマジンのクラフトは終わったか？",
+        "translation": ""
+    },
+    {
+        "id": "001_ADD003",
+        "id_number": 1,
+        "value": "話は冒険ランクを上げてからだ。\r\nSorry.　悪く思わないでくれ",
+        "translation": ""
+    },
+    {
+        "id": "001_ADD005",
+        "id_number": 1,
+        "value": "Great！　やるじゃないかルーキー！\r\nインナーイマジンをクラフトできたようだな！",
+        "translation": ""
+    },
+    {
+        "id": "001_ADD008",
+        "id_number": 1,
+        "value": "冒険ランクもちゃんと上がってる。\r\nそれがキミの実力の証明だ。忘れるなよ？",
+        "translation": ""
+    },
+    {
+        "id": "001_ADD020",
+        "id_number": 1,
+        "value": "OK！　心なしか面構えも立派になったようだ。\r\nやはりオレが見込んだだけはあるな！！",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "お主の手柄じゃないぞ？\r\nワシの教え方が良いからじゃぞ？",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "[――]で、早速じゃが、例の報酬の良い……。\r\nいや、厄介な仕事の話を聞こうではないか",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "実は、ここから北東にある『巨竜の爪痕』に、\r\nちょいとヤバめなヤツが現れたらしい",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "そいつを、オレと一緒に倒しに……",
+        "translation": ""
+    },
+    {
+        "id": "006_ADD010",
+        "id_number": 6,
+        "value": "ちょっと待て。\r\n今、『巨竜の爪痕』と言わんかったか？",
+        "translation": ""
+    },
+    {
+        "id": "006_ADD020",
+        "id_number": 6,
+        "value": "まさか、竜族がらみじゃなかろうな！？",
+        "translation": ""
+    },
+    {
+        "id": "006_ADD030",
+        "id_number": 6,
+        "value": "奴ら、各地のバファリア教の聖地を\r\n見境なく襲っているらしいではないか",
+        "translation": ""
+    },
+    {
+        "id": "006_ADD040",
+        "id_number": 6,
+        "value": "あんな凶暴な連中の相手なぞ、ワシはご免じゃぞ！",
+        "translation": ""
+    },
+    {
+        "id": "006_ADD050",
+        "id_number": 6,
+        "value": "Wait、Wait！　そんな危険な依頼をルーキーに\r\n持ち掛けるわけないだろ？",
+        "translation": ""
+    },
+    {
+        "id": "006_ADD060",
+        "id_number": 6,
+        "value": "ターゲットは竜族じゃない。\r\n目撃情報によるとイノシシのような獣だという話だ",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "……危険性は？",
+        "translation": ""
+    },
+    {
+        "id": "103",
+        "id_number": 103,
+        "value": "そうだな……。\r\n中堅どころが苦戦するレベルだ",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "ふぅむ……",
+        "translation": ""
+    },
+    {
+        "id": "104",
+        "id_number": 104,
+        "value": "なじみの腕利きたちは他の依頼で手一杯でな。\r\nそれ以外でオレの相棒になり得る奴だと[――]",
+        "translation": ""
+    },
+    {
+        "id": "105",
+        "id_number": 105,
+        "value": "キミしかいないってワケ",
+        "translation": ""
+    },
+    {
+        "id": "107",
+        "id_number": 107,
+        "value": "ま、半分は推薦人からの労いと思ってくれ",
+        "translation": ""
+    },
+    {
+        "id": "109",
+        "id_number": 109,
+        "value": "ルーキーは何かと物入りだろ？\r\nそのお嬢ちゃんがいるなら、なおさらな",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "お主はホントお節介じゃな。\r\nその面倒見の良さが案内嬢に通じればのう……",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "え？\r\nか、彼女、オレについて何か言ってたのか？",
+        "translation": ""
+    },
+    {
+        "id": "110",
+        "id_number": 110,
+        "value": "まあ、受けて損はなかろう。\r\nまじめな話、報酬が良いのはありがたい",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "OK、契約成立だ。\r\n 現地集合でヨロシク頼むゼ、相棒",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "ところで彼女、オレのこと何て言って[――]",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "現地集合じゃな。\r\nよし、準備を整えたら出発じゃ！",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "あ、ちょ[――]！？",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "待ってたゼ。\r\nここから先はオレと同行だ",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "見せてやるよ。\r\nトップオブトップの戦いというものをな！",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "下僕よ、盗める技術は全部盗めよ。\r\n盗む分にはタダじゃ",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "聞こえてるぞ！？",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "ま、まあいい。それでキミが良い冒険者になるのなら、\r\nオレが道を作ってやるサ",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "さあ行こう。目標はこの奥だ",
+        "translation": ""
+    },
+    {
+        "id": "111",
+        "id_number": 111,
+        "value": "よーし、気合を入れて突撃じゃー！",
+        "translation": ""
+    },
+    {
+        "id": "112",
+        "id_number": 112,
+        "value": "こやつ……まさか！？",
+        "translation": ""
+    },
+    {
+        "id": "113",
+        "id_number": 113,
+        "value": "[――]いや、気にするな！\r\n今は倒すことに集中じゃ！！",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "お前すげぇな！　オレが見込んだだけのことはあるゼ！",
+        "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "しかし……悪い。情報よりも強かったな。\r\nこれは下見をしなかったオレの落ち度だ",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "どうした、嬢ちゃん？　顔色が悪いゼ？",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "……まさかとは思ったが……",
+        "translation": ""
+    },
+    {
+        "id": "035_ADD010",
+        "id_number": 35,
+        "value": "……こやつは、『アバリティア』じゃ",
+        "translation": ""
+    },
+    {
+        "id": "36",
+        "id_number": 36,
+        "value": "ハハッ、冗談キツいな。\r\nアバリティアってのは[冒険譚(ぼうけんたん)]に出てくる怪物だろ？",
+        "translation": ""
+    },
+    {
+        "id": "37",
+        "id_number": 37,
+        "value": "アレだよな？　神に背いた罪を負いながら、\r\n時空を超越して生き続けてるっていう……",
+        "translation": ""
+    },
+    {
+        "id": "39",
+        "id_number": 39,
+        "value": "あの強さじゃ。アバリティアに相違あるまい",
+        "translation": ""
+    },
+    {
+        "id": "40",
+        "id_number": 40,
+        "value": "……そいつを、お前は倒しちまったのか。\r\nいったい何者だ？",
+        "translation": ""
+    },
+    {
+        "id": "41",
+        "id_number": 41,
+        "value": "これじゃオレが教える事もすぐになくなっちまうな。\r\nまったく、頼もしい後輩で嬉しいゼ！",
+        "translation": ""
+    },
+    {
+        "id": "42",
+        "id_number": 42,
+        "value": "ともあれ、オレは先に帰らせて貰う",
+        "translation": ""
+    },
+    {
+        "id": "43",
+        "id_number": 43,
+        "value": "アバリティアが奴一匹ならいいが、\r\nもし他にも現れるようなら、街へ注意を促さねぇとな",
+        "translation": ""
+    },
+    {
+        "id": "44",
+        "id_number": 44,
+        "value": "じゃあな[――]あっ！　後で開拓局に来てくれ。\r\n報酬はきっちり払うゼ！",
+        "translation": ""
+    },
+    {
+        "id": "46",
+        "id_number": 46,
+        "value": "あれは……どういうことなんだ……？",
+        "translation": ""
+    },
+    {
+        "id": "47",
+        "id_number": 47,
+        "value": "ん？　どうした？",
+        "translation": ""
+    },
+    {
+        "id": "48",
+        "id_number": 48,
+        "value": "ビビビ、ビックリしたのじゃ！！\r\n何じゃ貴様は！　今、空から飛んでこなかったか！？",
+        "translation": ""
+    },
+    {
+        "id": "49",
+        "id_number": 49,
+        "value": "キミは……[来者(らいじゃ)]なのか？",
+        "translation": ""
+    },
+    {
+        "id": "50_M",
+        "id_number": 50,
+        "value": "え……？",
+        "translation": ""
+    },
+    {
+        "id": "50_F",
+        "id_number": 50,
+        "value": "え……？",
+        "translation": ""
+    },
+    {
+        "id": "51",
+        "id_number": 51,
+        "value": "らいじゃ？　何ぞそれ？？",
+        "translation": ""
+    },
+    {
+        "id": "52",
+        "id_number": 52,
+        "value": "この『揺らぎ』は[来者(らいじゃ)]の……。\r\nいや、でも……",
+        "translation": ""
+    },
+    {
+        "id": "53_M",
+        "id_number": 53,
+        "value": "君は、何か知っているのか？",
+        "translation": ""
+    },
+    {
+        "id": "53_F",
+        "id_number": 53,
+        "value": "あなたは、何か知っているの？",
+        "translation": ""
+    },
+    {
+        "id": "54",
+        "id_number": 54,
+        "value": "……それにしては……うん……",
+        "translation": ""
+    },
+    {
+        "id": "55",
+        "id_number": 55,
+        "value": "……決断を下すのはまだ早い、か",
+        "translation": ""
+    },
+    {
+        "id": "56",
+        "id_number": 56,
+        "value": "おいこりゃ！　お主、何者なんじゃ！？\r\nさっきから訳の分からんことを呟きおって！",
+        "translation": ""
+    },
+    {
+        "id": "57",
+        "id_number": 57,
+        "value": "……そうだね。名前くらいは教えておこう。\r\nこの先、長い付き合いになるかもしれないしね",
+        "translation": ""
+    },
+    {
+        "id": "58",
+        "id_number": 58,
+        "value": "ボクの名はメルロウフ。ただの放浪者さ。",
+        "translation": ""
+    },
+    {
+        "id": "58_ADD010",
+        "id_number": 58,
+        "value": "それじゃ",
+        "translation": ""
+    },
+    {
+        "id": "62",
+        "id_number": 62,
+        "value": "しかし、妙な奴じゃったな。よいか？\r\nああいう輩に絡まれても無視を決め込むんじゃぞ？",
+        "translation": ""
+    },
+    {
+        "id": "63",
+        "id_number": 63,
+        "value": "少々親切にされたからといって、気を許してみろ。\r\nつけ込まれるに違いないわい",
+        "translation": ""
+    },
+    {
+        "id": "64",
+        "id_number": 64,
+        "value": "なんじゃ、ワシをジッと見て？",
+        "translation": ""
+    },
+    {
+        "id": "65",
+        "id_number": 65,
+        "value": "それより、あやつ……[来者(らいじゃ)]とか言うておったな",
+        "translation": ""
+    },
+    {
+        "id": "66",
+        "id_number": 66,
+        "value": "[来者(らいじゃ)]……[来者(らいじゃ)]……なーんか聞いたことあるような……。\r\n……あー駄目じゃ、思い出せん！！",
+        "translation": ""
+    },
+    {
+        "id": "67",
+        "id_number": 67,
+        "value": "とにかくアレじゃ。忘れん内に\r\nジェイクに報酬を貰わねば！　行くぞ！",
+        "translation": ""
+    },
+    {
+        "id": "68",
+        "id_number": 68,
+        "value": "よお、お疲れさん！\r\nこいつは報酬だ。受け取ってくれ",
+        "translation": ""
+    },
+    {
+        "id": "69",
+        "id_number": 69,
+        "value": "ところで……ちょいと気になる情報を得た。\r\nキミたちにも伝えておこう",
+        "translation": ""
+    },
+    {
+        "id": "70",
+        "id_number": 70,
+        "value": "ここ最近、各地域でウワサになっている\r\n未確認生物の目撃談を改めて確認したんだが[――]",
+        "translation": ""
+    },
+    {
+        "id": "070_ADD010",
+        "id_number": 70,
+        "value": "もしかしたらアバリティアじゃないかって\r\n推測される情報が……かなりある",
+        "translation": ""
+    },
+    {
+        "id": "71",
+        "id_number": 71,
+        "value": "ほう……",
+        "translation": ""
+    },
+    {
+        "id": "71_ADD010",
+        "id_number": 71,
+        "value": "それと、もうひとつ",
+        "translation": ""
+    },
+    {
+        "id": "71_ADD020",
+        "id_number": 71,
+        "value": "その目撃情報が急増した時期と、\r\n竜族が暴れ始めた時期が一致するんだ",
+        "translation": ""
+    },
+    {
+        "id": "71_ADD030",
+        "id_number": 71,
+        "value": "ふむ……。\r\n偶然、と片づけるにはちょいと引っかかるのう",
+        "translation": ""
+    },
+    {
+        "id": "71_ADD040",
+        "id_number": 71,
+        "value": "竜族の連中、以前とは違って\r\n恐ろしく統率がとれていたという話も聞く",
+        "translation": ""
+    },
+    {
+        "id": "71_ADD050",
+        "id_number": 71,
+        "value": "あまり想像したくはないんだがな……",
+        "translation": ""
+    },
+    {
+        "id": "82",
+        "id_number": 82,
+        "value": "……誰かがトップに立った。\r\nそれも、[我(が)]の強い竜族どもを束ねる力を持っている……",
+        "translation": ""
+    },
+    {
+        "id": "082_ADD010",
+        "id_number": 82,
+        "value": "まぁ、これだけじゃ竜族とアバリティアが\r\n関係あるって証拠にはならないが[――]",
+        "translation": ""
+    },
+    {
+        "id": "090_ADD010",
+        "id_number": 90,
+        "value": "引き続き、探ってみるつもりだ",
+        "translation": ""
+    },
+    {
+        "id": "090_ADD020",
+        "id_number": 90,
+        "value": "キミたちも、何か情報を得たら教えてくれ",
+        "translation": ""
+    },
+    {
+        "id": "090_ADD030",
+        "id_number": 90,
+        "value": "そうそう。ヤツらと出くわしたときに備えて、\r\n武器も新調しておいたほうがいいゼ？",
+        "translation": ""
+    },
+    {
+        "id": "114",
+        "id_number": 114,
+        "value": "ちょうど、詳しいダチが来てるから話を聞いてみな。\r\nフオヴィっていうNice Guyさ",
+        "translation": ""
+    },
+    {
+        "id": "090_ADD050",
+        "id_number": 90,
+        "value": "フオヴィって、イマジン研究所のあのフオヴィか？",
+        "translation": ""
+    },
+    {
+        "id": "090_ADD060",
+        "id_number": 90,
+        "value": "Yes！　……って、もしかして知り合いか？\r\nGood！　こういう繋がりってイイよな！！",
+        "translation": ""
+    },
+    {
+        "id": "91",
+        "id_number": 91,
+        "value": "それはそうと、聞きたいことがあるのじゃが、\r\nお主、[来者(らいじゃ)]という言葉を知らんかのう？",
+        "translation": ""
+    },
+    {
+        "id": "92",
+        "id_number": 92,
+        "value": "いや？　聞いたことないゼ？",
+        "translation": ""
+    },
+    {
+        "id": "93",
+        "id_number": 93,
+        "value": "むう……そうか……",
+        "translation": ""
+    },
+    {
+        "id": "94",
+        "id_number": 94,
+        "value": "それより、アレだほら。\r\n彼女……オレのことをなんて言ってたか、ほら、な？",
+        "translation": ""
+    },
+    {
+        "id": "95",
+        "id_number": 95,
+        "value": "ああ、そうじゃな。\r\n『ジェイクさんの熱い視線は……』",
+        "translation": ""
+    },
+    {
+        "id": "96",
+        "id_number": 96,
+        "value": "視線は……！？",
+        "translation": ""
+    },
+    {
+        "id": "97",
+        "id_number": 97,
+        "value": "この報酬では、教えられるのはここまでじゃ。\r\nそれじゃぁの",
+        "translation": ""
+    },
+    {
+        "id": "98",
+        "id_number": 98,
+        "value": "ちょ、待てよオイ！",
+        "translation": ""
+    },
+    {
+        "id": "99",
+        "id_number": 99,
+        "value": "ホッホッホ。女の秘密は高いのじゃぞ？\r\nしかも時価じゃ",
+        "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "ぐ……っ！",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "……ああそうだ。コイン亭に行くといい。\r\n亭主が依頼達成のお祝いに奢ると言っていたゼ",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "なんじゃと！？　そういうことは早く言わぬか！\r\nよし、コイン亭に行くぞ下僕！！",
+        "translation": ""
+    }
+]

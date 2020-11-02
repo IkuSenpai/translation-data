@@ -2,55 +2,91 @@
     {
         "id": "1",
         "id_number": 1,
-        "value": "パーティリーダーによって申請がされました。",
-        "translation": "The application was submitted by the party leader."
+        "value": "パーティリーダーによって申請がされました",
+        "translation": ""
     },
     {
         "id": "2",
         "id_number": 2,
-        "value": "パーティリーダーがリタイアしたためメンバーもリタイアします。",
-        "translation": "Since the party leader has retired, the members will also retire."
+        "value": "パーティリーダーがリタイアしたためメンバーもリタイアします",
+        "translation": ""
     },
     {
         "id": "3",
         "id_number": 3,
-        "value": "問題が起きたため、マッチングをキャンセルしました。",
-        "translation": "I canceled the match because of a problem."
+        "value": "問題が起きたため、マッチングをキャンセルしました",
+        "translation": ""
     },
     {
         "id": "4",
         "id_number": 4,
-        "value": "マッチングをキャンセルしました。",
-        "translation": "Matching has been cancelled."
+        "value": "マッチングをキャンセルしました",
+        "translation": ""
     },
     {
         "id": "5",
         "id_number": 5,
-        "value": "他の参加者が辞退しました。",
-        "translation": "Other participants declined."
+        "value": "他の参加者が辞退しました",
+        "translation": ""
     },
     {
         "id": "6",
         "id_number": 6,
-        "value": "パーティリーダーでないためダンジョンを開始できませんでした。",
-        "translation": "I couldn't start the dungeon because I'm not the party leader."
+        "value": "パーティリーダーでないためミッションを開始できませんでした",
+        "translation": ""
     },
     {
         "id": "7",
         "id_number": 7,
-        "value": "規定人数をオーバーしているためダンジョンを開始できません。",
-        "translation": "The dungeon cannot be started because the number of people has exceeded the specified number."
+        "value": "規定人数をオーバーしているためミッションを開始できません",
+        "translation": ""
     },
     {
         "id": "8",
         "id_number": 8,
-        "value": "別のマッチングに申請中のため開始できませんでした。",
-        "translation": "Could not start because we are applying for another match."
+        "value": "別のマッチングに申請中のため開始できませんでした",
+        "translation": ""
     },
     {
         "id": "9",
         "id_number": 9,
-        "value": "複数選択されているため開始できません。",
-        "translation": "Cannot start because multiple selections have been made."
+        "value": "複数選択されているため開始できません",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "バトルスコアが足りないメンバーがいるため開始できません",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "ミッション未解放のメンバーがいます",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "パーティ招待中はミッション開始できません",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "パーティ募集中はミッション開始できません",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "無効なミッションです",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "マッチングが成立しました",
+        "translation": ""
     }
 ]

@@ -14,25 +14,25 @@
     {
         "id": "3",
         "id_number": 3,
-        "value": "ブラックリストに登録",
+        "value": "ブロックする",
         "translation": ""
     },
     {
         "id": "4",
         "id_number": 4,
-        "value": "ブラックリストから解除",
+        "value": "ブロックを解除する",
         "translation": ""
     },
     {
         "id": "5",
         "id_number": 5,
-        "value": "ブラックリストに登録しますか？",
+        "value": "ブロックリストに登録しますか？",
         "translation": ""
     },
     {
         "id": "6",
         "id_number": 6,
-        "value": "ブラックリストから解除しますか？",
+        "value": "ブロックリストから解除しますか？",
         "translation": ""
     },
     {
@@ -146,7 +146,7 @@
     {
         "id": "29",
         "id_number": 29,
-        "value": "コンテンツ申請をキャンセルし、パーティ招待を送りますか?",
+        "value": "マッチング申請をキャンセルし、パーティ招待を送りますか?",
         "translation": ""
     },
     {
@@ -188,31 +188,31 @@
     {
         "id": "36",
         "id_number": 36,
-        "value": "ブラックリストに登録",
+        "value": "ブロックリストに登録しました",
         "translation": ""
     },
     {
         "id": "37",
         "id_number": 37,
-        "value": "ブラックリストに登録失敗",
+        "value": "ブロックリストの登録に失敗しました",
         "translation": ""
     },
     {
         "id": "38",
         "id_number": 38,
-        "value": "ブラックリストから解除",
+        "value": "ブロックリストから解除しました",
         "translation": ""
     },
     {
         "id": "39",
         "id_number": 39,
-        "value": "ブラックリストから解除失敗",
+        "value": "ブロックリストの解除に失敗しました",
         "translation": ""
     },
     {
         "id": "40",
         "id_number": 40,
-        "value": "対象が取り込み中のためパーティ申請することができません",
+        "value": "対象が取り込み中のため、パーティに誘えません",
         "translation": ""
     },
     {
@@ -224,13 +224,31 @@
     {
         "id": "42",
         "id_number": 42,
-        "value": "お気に入りに登録していますが、ブラックリストに登録しますか？",
+        "value": "お気に入りに登録していますが、ブロックリストに登録しますか？",
         "translation": ""
     },
     {
         "id": "43",
         "id_number": 43,
-        "value": "対象にフォローされていますが、ブラックリストに登録しますか？",
+        "value": "対象にフォローされていますが、ブロックリストに登録しますか？",
+        "translation": ""
+    },
+    {
+        "id": "44",
+        "id_number": 44,
+        "value": "情報の取得に失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "45",
+        "id_number": 45,
+        "value": "プロフィールが非公開に設定されています",
+        "translation": ""
+    },
+    {
+        "id": "46",
+        "id_number": 46,
+        "value": "情報の取得に失敗しました。メニューを閉じます",
         "translation": ""
     },
     {
@@ -273,6 +291,24 @@
         "id": "56",
         "id_number": 56,
         "value": "お気に入り解除",
+        "translation": ""
+    },
+    {
+        "id": "57",
+        "id_number": 57,
+        "value": "ブロックしています",
+        "translation": ""
+    },
+    {
+        "id": "Online",
+        "id_number": 0,
+        "value": "オンライン",
+        "translation": ""
+    },
+    {
+        "id": "Offline",
+        "id_number": 0,
+        "value": "オフライン",
         "translation": ""
     }
 ]

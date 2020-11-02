@@ -36,6 +36,12 @@
         "translation": "Battle"
     },
     {
+        "id": "7",
+        "id_number": 7,
+        "value": "自動",
+        "translation": ""
+    },
+    {
         "id": "10",
         "id_number": 10,
         "value": "To:",
@@ -142,5 +148,89 @@
         "id_number": 31,
         "value": "検索したキャラクターはオフラインでした",
         "translation": "The character you searched for was offline"
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "文字サイズ　小",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "文字サイズ　中",
+        "translation": ""
+    },
+    {
+        "id": "34",
+        "id_number": 34,
+        "value": "文字サイズ　大",
+        "translation": ""
+    },
+    {
+        "id": "35",
+        "id_number": 35,
+        "value": "トーク送信",
+        "translation": ""
+    },
+    {
+        "id": "36",
+        "id_number": 36,
+        "value": "挨拶",
+        "translation": ""
+    },
+    {
+        "id": "37",
+        "id_number": 37,
+        "value": "応答",
+        "translation": ""
+    },
+    {
+        "id": "38",
+        "id_number": 38,
+        "value": "戦闘",
+        "translation": ""
+    },
+    {
+        "id": "39",
+        "id_number": 39,
+        "value": "連携",
+        "translation": ""
+    },
+    {
+        "id": "40",
+        "id_number": 40,
+        "value": "トーク送信に失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "41",
+        "id_number": 41,
+        "value": "現在は使用できません",
+        "translation": ""
+    },
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "テキスト",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "スタンプ",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "定型文",
+        "translation": ""
+    },
+    {
+        "id": "200",
+        "id_number": 200,
+        "value": "スタンプを送信しました",
+        "translation": ""
     }
 ]

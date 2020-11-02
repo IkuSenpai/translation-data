@@ -2,37 +2,37 @@
     {
         "id": "1",
         "id_number": 1,
-        "value": "いらっしゃい、アイテムを預かるよ！",
+        "value": "倉庫の中の確認とアイテムの取り出しは\nこちらでどうぞー！",
         "translation": ""
     },
     {
         "id": "2",
         "id_number": 2,
-        "value": "今日もいい天気だね！",
+        "value": "いっぱいアイテムを集めて\n倉庫を目いっぱい活用してくださいね！",
         "translation": ""
     },
     {
         "id": "3",
         "id_number": 3,
-        "value": "何か預けるかい？",
+        "value": "他にお預かりするもの、あります？",
         "translation": ""
     },
     {
         "id": "4",
         "id_number": 4,
-        "value": "大切に保管するよ！",
+        "value": "ご利用ありがとうございます！",
         "translation": ""
     },
     {
         "id": "5",
         "id_number": 5,
-        "value": "いつでも来な！",
+        "value": "またどうぞー！",
         "translation": ""
     },
     {
         "id": "6",
         "id_number": 6,
-        "value": "別れる",
+        "value": "やめる",
         "translation": ""
     },
     {

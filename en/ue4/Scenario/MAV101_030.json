@@ -1,0 +1,806 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "Wow！　発見されたばかりの遺跡で出会うとは。\r\n相変わらず鼻が利くな、亜人のお嬢ちゃん？",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "あやつはジェイク。\r\nアステルリーズの『自称』トップ冒険者じゃ",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "お褒めいただき恐悦至極。『自称』は余計だがね",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "残念じゃが、この遺跡はすでにワシらが踏破した。\r\n出遅れ組は帰れ帰れ",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "なんだって？　中にいたモンスターは？",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "フッ、このワシの手にかかれば一瞬よ",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "事前調査ではそこそこ厄介だったはずだが……\r\nキミが倒したのか？　一人で？",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "Good！　そいつは凄い！　この辺じゃ見ない顔だが\r\nアステルリーズに来たばかりか？　冒険者登録は？",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "まだしとらんが……。\r\nなんじゃお主、口でも利いてくれるのか？",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "ああ、有能なヤツはいつでも大歓迎だ！",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "なあ、ルーキー。\r\n冒険者登録をして依頼を受ける気があるなら[――]",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "このジェイク様を頼ってくることをお勧めするゼ？\r\nいつでもWelcomeだ",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "オレは開拓局にいる。\r\nその気になったら訪ねてくれ。じゃあな",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "ふん、相変わらずキザな奴じゃのう",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "まあ、あやつがいるなら、\r\n冒険者登録もすんなりいくじゃろ",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "少々うざったいが、あやつはアステルリーズにいる\r\n冒険者のまとめ役みたいなものなんじゃ",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "ここで会ったのは運が良かったかもしれん。\r\nお主、中々に『持って』おるのう？",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "よいか？　自身の記憶も気になるじゃろうが、\r\nまずはお主が暮らしていく手段を整えねばならん",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "そのために何が必要か[――]",
+        "translation": ""
+    },
+    {
+        "id": "018_ADD010",
+        "id_number": 18,
+        "value": "ずばり……",
+        "translation": ""
+    },
+    {
+        "id": "018_ADD020",
+        "id_number": 18,
+        "value": "金じゃ！",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "お主の腕があれば、冒険者として稼いでいけるじゃろ。\r\nそのためには開拓局に登録せねばならん",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "それに、あそこには情報が集まる。いずれお主の記憶に\r\n繋がる何かに出会うこともあるじゃろうて",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "そうと決まれば行動あるのみじゃ！\r\n早速ジェイクに会いに開拓局へ行くぞ",
+        "translation": ""
+    },
+    {
+        "id": "021_ADD010",
+        "id_number": 21,
+        "value": "ここが『開拓局』。\r\n世界中の冒険者を支援する組織じゃ",
+        "translation": ""
+    },
+    {
+        "id": "021_ADD020",
+        "id_number": 21,
+        "value": "[――]と言うと堅苦しいが、\r\nまあ、要するに仕事の紹介所みたいなものじゃ",
+        "translation": ""
+    },
+    {
+        "id": "021_ADD030",
+        "id_number": 21,
+        "value": "お主も冒険者になれば、\r\nここで依頼を受けて、稼げるようになるぞ！",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "Hey！　よく来たな、ルーキー。歓迎するゼ",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "このアステルリーズで正式な冒険者になるには、\r\n試験を受けて開拓局に登録する必要がある",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "今のキミは、オレを推薦人とした『仮登録』の状態だ",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "これから、登録試験として依頼を受けてもらう。\r\n実力試しも兼ねると思ってくれ",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "無事に依頼を達成したら『本登録』になるって\r\n仕組みサ",
+        "translation": ""
+    },
+    {
+        "id": "033_ADD010",
+        "id_number": 33,
+        "value": "詳しくは、HotでCuteな案内嬢から聞いてくれ。\r\nミューリィ、Come on！",
+        "translation": ""
+    },
+    {
+        "id": "033_ADD020",
+        "id_number": 33,
+        "value": "あなたが新人さんね。\r\n私は総合案内係のミューリィ。よろしくね",
+        "translation": ""
+    },
+    {
+        "id": "033_ADD030",
+        "id_number": 33,
+        "value": "さて、まずはこの開拓局について\r\n説明をさせていただきます",
+        "translation": ""
+    },
+    {
+        "id": "033_ADD040",
+        "id_number": 33,
+        "value": "ここには各地から様々な依頼が集まります。\r\nそれこそモンスター退治から探し物まで何でも、ね",
+        "translation": ""
+    },
+    {
+        "id": "033_ADD050",
+        "id_number": 33,
+        "value": "依頼を受けて達成すると報酬が渡されます。\r\n難しい依頼になればなるほど、報酬内容は良くなるわよ",
+        "translation": ""
+    },
+    {
+        "id": "033_ADD060",
+        "id_number": 33,
+        "value": "基本的な説明は以上です。\r\nそれでは早速、登録試験を開始しましょうか",
+        "translation": ""
+    },
+    {
+        "id": "34",
+        "id_number": 34,
+        "value": "そんなに硬くならなくて大丈夫よ。\r\nちゃんと実力に見合った依頼を用意するから",
+        "translation": ""
+    },
+    {
+        "id": "034_ADD010",
+        "id_number": 34,
+        "value": "あら？　あなたの持っているそれ、\r\nイマジンシードじゃない？",
+        "translation": ""
+    },
+    {
+        "id": "034_ADD020",
+        "id_number": 34,
+        "value": "崖の遺跡で拾ったんじゃが……\r\nワシら、あんまり詳しくなくてのう",
+        "translation": ""
+    },
+    {
+        "id": "034_ADD030",
+        "id_number": 34,
+        "value": "ちょっと見せてもらえる？",
+        "translation": ""
+    },
+    {
+        "id": "034_ADD040",
+        "id_number": 34,
+        "value": "これは……",
+        "translation": ""
+    },
+    {
+        "id": "034_ADD050",
+        "id_number": 34,
+        "value": "ゴブリンのバトルイマジンね",
+        "translation": ""
+    },
+    {
+        "id": "034_ADD060",
+        "id_number": 34,
+        "value": "ちぇっ、ゴブリンか……",
+        "translation": ""
+    },
+    {
+        "id": "034_ADD070",
+        "id_number": 34,
+        "value": "あら……？\r\nこれ、すぐにでも使えるわよ",
+        "translation": ""
+    },
+    {
+        "id": "034_ADD080",
+        "id_number": 34,
+        "value": "この状態で拾ったなんてラッキーね。\r\nぜひ依頼に役立てて",
+        "translation": ""
+    },
+    {
+        "id": "35",
+        "id_number": 35,
+        "value": "では、登録試験を始めましょう。\r\n準備ができたら、私に話しかけてね",
+        "translation": ""
+    },
+    {
+        "id": "35_ADD010",
+        "id_number": 35,
+        "value": "冒険者登録試験を受けるのね？",
+        "translation": ""
+    },
+    {
+        "id": "35_ADD020",
+        "id_number": 35,
+        "value": "いいわ。\r\nえっと、推薦人はジェイクだったわね……",
+        "translation": ""
+    },
+    {
+        "id": "35_ADD030",
+        "id_number": 35,
+        "value": "すでにゴブリン討伐の実績あり……と。\r\nだったら、これがいいかしら……",
+        "translation": ""
+    },
+    {
+        "id": "35_ADD040",
+        "id_number": 35,
+        "value": "はい、あなたには試験として\r\n『クラフト』を行ってもらいます",
+        "translation": ""
+    },
+    {
+        "id": "35_ADD050",
+        "id_number": 35,
+        "value": "クラフトじゃと？",
+        "translation": ""
+    },
+    {
+        "id": "35_ADD060",
+        "id_number": 35,
+        "value": "あら、冒険者にとって、\r\nすっごく大切なことじゃない？",
+        "translation": ""
+    },
+    {
+        "id": "35_ADD070",
+        "id_number": 35,
+        "value": "まあ、冒険に必要なものは自分で作れた方が\r\n何かと経済的じゃからな",
+        "translation": ""
+    },
+    {
+        "id": "35_ADD080",
+        "id_number": 35,
+        "value": "よし！　下僕よ、やってみるのじゃ！\r\nクラフトなんぞ、お主なら朝飯前じゃろうて！",
+        "translation": ""
+    },
+    {
+        "id": "35_ADD090",
+        "id_number": 35,
+        "value": "ただし、この試験はクラフトだけではなく、\r\n前段階の素材集めと鑑定も含まれますからね",
+        "translation": ""
+    },
+    {
+        "id": "35_ADD100",
+        "id_number": 35,
+        "value": "むぅ……。\r\nそれはちょいと面倒じゃのう",
+        "translation": ""
+    },
+    {
+        "id": "35_ADD110",
+        "id_number": 35,
+        "value": "はいはい、いいですか？　\r\n試験内容を言いますよ",
+        "translation": ""
+    },
+    {
+        "id": "35_ADD120",
+        "id_number": 35,
+        "value": "１、謎の植物資源を集めて街で鑑定する。\r\n２、クラフトを成功させる。以上！",
+        "translation": ""
+    },
+    {
+        "id": "035_ADD130",
+        "id_number": 35,
+        "value": "それでは健闘を祈っています。\r\nいってらっしゃい！",
+        "translation": ""
+    },
+    {
+        "id": "36",
+        "id_number": 36,
+        "value": "クラフトに成功したようですね。\r\n品質も……問題なし！",
+        "translation": ""
+    },
+    {
+        "id": "36_ADD005",
+        "id_number": 36,
+        "value": "試験は合格です！",
+        "translation": ""
+    },
+    {
+        "id": "36_ADD010",
+        "id_number": 36,
+        "value": "おお！　でかしたぞ、下僕！！",
+        "translation": ""
+    },
+    {
+        "id": "37",
+        "id_number": 37,
+        "value": "おめでとうございます。\r\nこれであなたは正式な冒険者として登録されました",
+        "translation": ""
+    },
+    {
+        "id": "37_ADD010",
+        "id_number": 37,
+        "value": "これからは開拓局や街の人から\r\n自由に依頼を受けられるわよ",
+        "translation": ""
+    },
+    {
+        "id": "37_ADD020",
+        "id_number": 37,
+        "value": "よーっし、じゃんじゃん稼ぎまくろうな！",
+        "translation": ""
+    },
+    {
+        "id": "37_ADD030",
+        "id_number": 37,
+        "value": "稼ぐのも良いけど、\r\n冒険者としての努力も怠らないようにね",
+        "translation": ""
+    },
+    {
+        "id": "38",
+        "id_number": 38,
+        "value": "例えば、そうね……\r\nまずは、『クラス』について学ぶなんてどうかしら？",
+        "translation": ""
+    },
+    {
+        "id": "38_ADD010",
+        "id_number": 38,
+        "value": "詳しいことは、クラスマスターに聞いて。\r\nすぐそこにいるから",
+        "translation": ""
+    },
+    {
+        "id": "038_ADD020",
+        "id_number": 38,
+        "value": "それでは、今後とも開拓局を\r\nよろしくお願いいたします",
+        "translation": ""
+    },
+    {
+        "id": "39",
+        "id_number": 39,
+        "value": "Congratulations！\r\nあっという間に冒険者の仲間入りだな！",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD010",
+        "id_number": 39,
+        "value": "オレも推薦人として誇らしいゼ！",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD020",
+        "id_number": 39,
+        "value": "さて、\r\n実はひとつ頼みがあるんだが……",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD030",
+        "id_number": 39,
+        "value": "おぅ？　\r\n  早速、こやつに依頼か？",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD033",
+        "id_number": 39,
+        "value": "少々厄介なんだが、その分報酬も良い",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD037",
+        "id_number": 39,
+        "value": "おおっ！！　報酬が良いとな！",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD040",
+        "id_number": 39,
+        "value": "Hmmm……",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD060",
+        "id_number": 39,
+        "value": "なんじゃ、ジロジロ見て。\r\n下僕の身体に何かついておるか？",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD170",
+        "id_number": 39,
+        "value": "ひとつ聞いていいか？\r\nキミは『インナーイマジン』を装備してるかい？",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD180",
+        "id_number": 39,
+        "value": "……はぁ？\r\nそんなもの後回しじゃ、追々手に入れればよい",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD190",
+        "id_number": 39,
+        "value": "甘い！　甘すぎる！\r\nアステルリーズまんじゅうよりも甘いゼ！？",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD200",
+        "id_number": 39,
+        "value": "いいか、ルーキー。開拓局では冒険者の力量を\r\n『冒険ランク』として測っているんだ",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD205",
+        "id_number": 39,
+        "value": "インナーイマジンはfirst step！\r\n最初はそいつのクラフトでランクが上がるのさ",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD210",
+        "id_number": 39,
+        "value": "逆に言えば、今のキミのランクでは\r\nインナーイマジンのクラフトも未経験ってことになる",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD213",
+        "id_number": 39,
+        "value": "まずはそこからだ。登録試験もそうだったろ？\r\nクラフトは冒険者に欠かせないものだ",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD217",
+        "id_number": 39,
+        "value": "一流の冒険者ほど戦いだけじゃなく、\r\n様々な場面に柔軟に対応することが求められるからな",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD220",
+        "id_number": 39,
+        "value": "ランクが上がるまで、オレからの依頼の話はナシ。\r\n悪く思わないでくれ",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD230",
+        "id_number": 39,
+        "value": "うーむ……ジェイクめ。\r\n報酬をチラつかせて焦らすとは……",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD240",
+        "id_number": 39,
+        "value": "しかし、『冒険ランク』に『インナーイマジン』なぁ。\r\nあやつの言い草は少々大げさじゃったが……",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD250",
+        "id_number": 39,
+        "value": "まあ、ランクが上がって損をすることはなかろう",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD255",
+        "id_number": 39,
+        "value": "よし。インナーイマジンを探してみるとするか！",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD260",
+        "id_number": 39,
+        "value": "下僕よ、『インナーイマジン』とは、\r\nその名のとおりイマジンの一種なんじゃ",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD270",
+        "id_number": 39,
+        "value": "装備することで、様々な効果がある。\r\n力が強くなったり、体力が増えたりする、らしい",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD280",
+        "id_number": 39,
+        "value": "正直、ワシは冒険者ではないゆえ、\r\n詳しくは判らんがの",
+        "translation": ""
+    },
+    {
+        "id": "39_ADD290",
+        "id_number": 39,
+        "value": "イマジンのことなら『イマジン研究所』で\r\n聞くのが良かろう。行ってみるぞ",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD010",
+        "id_number": 40,
+        "value": "おいッスー。そこ行く冒険者さん。\r\nさてはイマジンに興味あるねー？",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD020",
+        "id_number": 40,
+        "value": "ズバリ？　ズバリっしょ！　ピンズドなアレっしょ～。\r\nそんな気配がビン☆ビンしてるし",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD030",
+        "id_number": 40,
+        "value": "なんか、えらく軽いノリのヤツが出てきたのう",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD040",
+        "id_number": 40,
+        "value": "ワシら、インナーイマジンが必要なんじゃ。\r\nジェイクのヤツがうるさくてな",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD050",
+        "id_number": 40,
+        "value": "あっ！　まさか、ジェイクが発掘したっていう\r\n超ド級のアレ！？　アレな感じなワケ！？",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD060",
+        "id_number": 40,
+        "value": "ヤッベ、期待の新星ってヤツっしょ！\r\nアガる～↑",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD070",
+        "id_number": 40,
+        "value": "待て待て、こやつを先に見つけたのはワシじゃぞ？\r\n……まあよい、さっさとインナーイマジンを出せ",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD080",
+        "id_number": 40,
+        "value": "慌てなさんなって。焦るとインナーイマジンも\r\nかわいい女子も逃げちゃうモンよ",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD090",
+        "id_number": 40,
+        "value": "そもそもインナーイマジンって知ってる系？\r\n使ったことある系？",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD100",
+        "id_number": 40,
+        "value": "オッケー、オッケー。\r\nドキドキ☆初体験なワケね",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD110",
+        "id_number": 40,
+        "value": "任せとき。これでも俺、研究所の正規職員だし。\r\n一から十までレクチャーしちゃうし",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD120",
+        "id_number": 40,
+        "value": "インナーイマジンはイマジンの一種ね。\r\n使い方は簡単。身につければオールオッケー",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD130",
+        "id_number": 40,
+        "value": "それだけでいろいろ能力がアガる～↑ってワケ。\r\nおかげでテンションも効率もアガる～↑ってモンよ",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD140",
+        "id_number": 40,
+        "value": "持ってても装備しなきゃ意味ねーのよ。\r\nうは、これ生で言うヤツ初めて見た。ウケる",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD150",
+        "id_number": 40,
+        "value": "インナーイマジンの便利さはよ～くわかった。\r\nさっそく、こやつに一つ見繕ってくれんか",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD160",
+        "id_number": 40,
+        "value": "それがさー。最近注文が多くてね。\r\n『シード』はいいとして触媒が足りねーのよ",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD170",
+        "id_number": 40,
+        "value": "触媒？",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD180",
+        "id_number": 40,
+        "value": "インナーイマジンには核になるシードと\r\nその力を発揮させるための触媒が必要なのね",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD210",
+        "id_number": 40,
+        "value": "シードは研究所にストックがあるから\r\n触媒は自力でゲットしてきてちょ☆",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD220",
+        "id_number": 40,
+        "value": "インナーイマジン初体験なんしょ？\r\nなら『レイクリッド結晶』とかいいんじゃね",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD230",
+        "id_number": 40,
+        "value": "ふむ。その『レイクリッド結晶』を持って来れば\r\nインナーイマジンができるんじゃな？",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD240",
+        "id_number": 40,
+        "value": "そゆこと。けど、そいつが採れる\r\n『レイクリッド坑道』にオーガが棲みついちまってさ",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD250",
+        "id_number": 40,
+        "value": "なんとかしねーとヤバくね？\r\nって思ってたとこだから、ちょうどよくね？",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD260",
+        "id_number": 40,
+        "value": "ジェイクの期待の新星ならイチコロっしょ。\r\nちょいとシメてきてくんね？　ヨ・ロ・シ・ク！",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD270",
+        "id_number": 40,
+        "value": "体よく面倒を押し付けられた気がするが……。\r\nまあよい。討伐の報酬も出るじゃろう",
+        "translation": ""
+    },
+    {
+        "id": "040_ADD280",
+        "id_number": 40,
+        "value": "では、下僕よ。さっさと片づけてしまうぞ。\r\n目指すは『レイクリッド坑道』じゃ！",
+        "translation": ""
+    },
+    {
+        "id": "68_ADD002",
+        "id_number": 68,
+        "value": "さーて、この奥じゃな……\r\n手ごわい相手がおるやも知れぬが[――]",
+        "translation": ""
+    },
+    {
+        "id": "68_ADD004",
+        "id_number": 68,
+        "value": "恐れることはない。\r\n共に名を上げようぞ！",
+        "translation": ""
+    },
+    {
+        "id": "68_ADD006",
+        "id_number": 68,
+        "value": "で……出たな！！　\r\n行け！　お主なら大丈夫じゃ！",
+        "translation": ""
+    },
+    {
+        "id": "68_ADD010",
+        "id_number": 68,
+        "value": "いやぁ、見事な戦いぶりじゃったな",
+        "translation": ""
+    },
+    {
+        "id": "68_ADD020",
+        "id_number": 68,
+        "value": "『レイクリッド結晶』も手に入った。\r\nさっすが我が下僕！",
+        "translation": ""
+    },
+    {
+        "id": "69",
+        "id_number": 69,
+        "value": "お主なら大丈夫じゃと言った\r\nワシを褒め称えるが良いぞ！",
+        "translation": ""
+    },
+    {
+        "id": "69_ADD010",
+        "id_number": 69,
+        "value": "さて、イマジン研究所へ戻るとするかのう",
+        "translation": ""
+    },
+    {
+        "id": "70_ADD010",
+        "id_number": 70,
+        "value": "おつかれちゃーん。\r\nお、ご機嫌な『レイクリッド結晶』じゃーん",
+        "translation": ""
+    },
+    {
+        "id": "70_ADD020",
+        "id_number": 70,
+        "value": "言われた通りに持ってきたぞ。\r\nこれでインナーイマジンができるのじゃな",
+        "translation": ""
+    },
+    {
+        "id": "70_ADD030",
+        "id_number": 70,
+        "value": "もちよ、ろんよ。モチのロンよ。\r\nそこのカウンターで頼んでみてみ？",
+        "translation": ""
+    },
+    {
+        "id": "70_ADD040",
+        "id_number": 70,
+        "value": "話はつけてあっから、\r\n技師のパイセンがバッチリ仕上げてくれるぜ",
+        "translation": ""
+    },
+    {
+        "id": "70_ADD050",
+        "id_number": 70,
+        "value": "もらったら装備するの忘れちゃダメよ？\r\n能力がアガる～↑のをちゃんと確かめとき",
+        "translation": ""
+    }
+]

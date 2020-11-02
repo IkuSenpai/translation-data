@@ -124,5 +124,47 @@
         "id_number": 23,
         "value": "{WarpPointName}へ空間転送しますか？\n緊急ミッションはキャンセルされます",
         "translation": ""
+    },
+    {
+        "id": "AreaClear",
+        "id_number": 0,
+        "value": "踏破完了！",
+        "translation": ""
+    },
+    {
+        "id": "TraverseRatio",
+        "id_number": 0,
+        "value": "{Now}/{Max}",
+        "translation": ""
+    },
+    {
+        "id": "TraverseFlavor001",
+        "id_number": 0,
+        "value": "踏破フレーバーテキスト",
+        "translation": ""
+    },
+    {
+        "id": "NO MAP",
+        "id_number": 0,
+        "value": "NO MAP",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "踏破",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "/",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "踏破状況",
+        "translation": ""
     }
 ]

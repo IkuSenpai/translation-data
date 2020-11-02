@@ -248,7 +248,13 @@
     {
         "id": "47",
         "id_number": 47,
-        "value": "アタッチメント",
+        "value": "インナーイマジン",
+        "translation": ""
+    },
+    {
+        "id": "48",
+        "id_number": 48,
+        "value": "消費・素材",
         "translation": ""
     },
     {
@@ -284,7 +290,7 @@
     {
         "id": "64",
         "id_number": 64,
-        "value": "アイテム枠がいっぱいです",
+        "value": "倉庫のアイテムがいっぱいで\nこれ以上所持できません",
         "translation": ""
     },
     {
@@ -354,15 +360,33 @@
         "translation": ""
     },
     {
+        "id": "98",
+        "id_number": 98,
+        "value": "装備品バッグがいっぱいで購入できません",
+        "translation": ""
+    },
+    {
         "id": "99",
         "id_number": 99,
-        "value": "購入に失敗しました",
+        "value": "アイテムバッグがいっぱいで購入できません",
         "translation": ""
     },
     {
         "id": "100",
         "id_number": 100,
         "value": "売却に失敗しました",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "属性効果値",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "特効",
         "translation": ""
     },
     {
@@ -399,6 +423,12 @@
         "id": "205",
         "id_number": 205,
         "value": "効果値：",
+        "translation": ""
+    },
+    {
+        "id": "206",
+        "id_number": 206,
+        "value": "なし",
         "translation": ""
     }
 ]

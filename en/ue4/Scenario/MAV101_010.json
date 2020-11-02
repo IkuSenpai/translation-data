@@ -1,0 +1,146 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "目覚めよ……",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "あなたに全てを……",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "どうか、この世界を……",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "星の、未来を……",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "目覚めよ……",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "目を覚ますのだ……！！",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "しつこいのうッ！　いい加減諦めんかッ！",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "な[――]ッ！？",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "伏せろッ！",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "まさか、他にも人がいるとは……",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "お主も運が悪いのう。ま、ここで会ったのも何かの縁",
+        "translation": ""
+    },
+    {
+        "id": "010_ADD010",
+        "id_number": 10,
+        "value": "さすがのワシも、見殺しは夢見が悪い",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "少し時間を稼ぐ。合図をしたら、\r\n一気にあやつの横を駆け抜けよ。いいな？",
+        "translation": ""
+    },
+    {
+        "id": "12_M",
+        "id_number": 12,
+        "value": "……君は？",
+        "translation": ""
+    },
+    {
+        "id": "12_F",
+        "id_number": 12,
+        "value": "……あなたは？",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "気にするな。適当に逃げるでのう",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "お主、何を[――]",
+        "translation": ""
+    },
+    {
+        "id": "15_M",
+        "id_number": 15,
+        "value": "見殺しは夢見が悪い、だろ？",
+        "translation": ""
+    },
+    {
+        "id": "15_F",
+        "id_number": 15,
+        "value": "見殺しは夢見が悪い、でしょ？",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "……す、すごいのじゃー！",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "ぼやーっとしてると思ったら、\r\n中々の使い手ではないか！",
+        "translation": ""
+    },
+    {
+        "id": "17_ADD010",
+        "id_number": 17,
+        "value": "お主、見所があるぞ！",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "む？　どうしたのじゃ？",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "しっかりせい！　おい！　おーい！！",
+        "translation": ""
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id": "AtkUp",
+        "id_number": 0,
+        "value": "ATK Up",
+        "translation": ""
+    },
+    {
+        "id": "AtkDown",
+        "id_number": 0,
+        "value": "ATK Down",
+        "translation": ""
+    },
+    {
+        "id": "DefUp",
+        "id_number": 0,
+        "value": "DEF Up",
+        "translation": ""
+    },
+    {
+        "id": "DefDown",
+        "id_number": 0,
+        "value": "DEF Down",
+        "translation": ""
+    },
+    {
+        "id": "Drain",
+        "id_number": 0,
+        "value": "Drain",
+        "translation": ""
+    },
+    {
+        "id": "SpArmor",
+        "id_number": 0,
+        "value": "SP Armor",
+        "translation": ""
+    },
+    {
+        "id": "QuickCharge",
+        "id_number": 0,
+        "value": "Quick Charge",
+        "translation": ""
+    },
+    {
+        "id": "SlowCharge",
+        "id_number": 0,
+        "value": "Slow Charge",
+        "translation": ""
+    },
+    {
+        "id": "QuickRecast",
+        "id_number": 0,
+        "value": "Quick Interval",
+        "translation": ""
+    },
+    {
+        "id": "SlowRecast",
+        "id_number": 0,
+        "value": "Slow Interval",
+        "translation": ""
+    },
+    {
+        "id": "SpeedUp",
+        "id_number": 0,
+        "value": "Speed Up",
+        "translation": ""
+    },
+    {
+        "id": "SpeedDown",
+        "id_number": 0,
+        "value": "Speed Down",
+        "translation": ""
+    },
+    {
+        "id": "GuardPowerUp",
+        "id_number": 0,
+        "value": "Shield Up",
+        "translation": ""
+    },
+    {
+        "id": "EngramUp",
+        "id_number": 0,
+        "value": "Engram Up",
+        "translation": ""
+    }
+]

@@ -12,69 +12,21 @@
         "translation": "Woman"
     },
     {
-        "id": "10",
-        "id_number": 10,
-        "value": "リセット",
-        "translation": "Reset"
+        "id": "3",
+        "id_number": 3,
+        "value": "プリセット{number}",
+        "translation": ""
     },
     {
-        "id": "21",
-        "id_number": 21,
-        "value": "プリセット1",
-        "translation": "Preset "
+        "id": "4",
+        "id_number": 4,
+        "value": "反映する",
+        "translation": ""
     },
     {
-        "id": "22",
-        "id_number": 22,
-        "value": "プリセット2",
-        "translation": "Preset 2"
-    },
-    {
-        "id": "23",
-        "id_number": 23,
-        "value": "プリセット3",
-        "translation": "Preset 3"
-    },
-    {
-        "id": "24",
-        "id_number": 24,
-        "value": "プリセット4",
-        "translation": "Preset 4"
-    },
-    {
-        "id": "25",
-        "id_number": 25,
-        "value": "プリセット5",
-        "translation": "Preset 5"
-    },
-    {
-        "id": "26",
-        "id_number": 26,
-        "value": "プリセット6",
-        "translation": "Preset 6"
-    },
-    {
-        "id": "27",
-        "id_number": 27,
-        "value": "プリセット7",
-        "translation": "Preset 7"
-    },
-    {
-        "id": "28",
-        "id_number": 28,
-        "value": "プリセット8",
-        "translation": "Preset 8"
-    },
-    {
-        "id": "29",
-        "id_number": 29,
-        "value": "プリセット9",
-        "translation": "Preset 9"
-    },
-    {
-        "id": "30",
-        "id_number": 30,
-        "value": "プリセット10",
-        "translation": "Preset 10"
+        "id": "5",
+        "id_number": 5,
+        "value": "プリセットを反映しますか？",
+        "translation": ""
     }
 ]

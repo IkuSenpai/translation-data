@@ -8,7 +8,7 @@
     {
         "id": "2",
         "id_number": 2,
-        "value": "消費アイテム",
+        "value": "アイテム",
         "translation": ""
     },
     {
@@ -20,7 +20,7 @@
     {
         "id": "4",
         "id_number": 4,
-        "value": "イマジンシード",
+        "value": "イマジン",
         "translation": ""
     },
     {
@@ -39,6 +39,18 @@
         "id": "7",
         "id_number": 7,
         "value": "衣装",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "リキッドメモリ",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "トークン",
         "translation": ""
     },
     {
@@ -96,6 +108,12 @@
         "translation": ""
     },
     {
+        "id": "21",
+        "id_number": 21,
+        "value": "装備品",
+        "translation": ""
+    },
+    {
         "id": "30",
         "id_number": 30,
         "value": "倉庫",
@@ -105,6 +123,30 @@
         "id": "31",
         "id_number": 31,
         "value": "閉じる",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "所持中",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "取り出す",
+        "translation": ""
+    },
+    {
+        "id": "34",
+        "id_number": 34,
+        "value": "しまう",
+        "translation": ""
+    },
+    {
+        "id": "35",
+        "id_number": 35,
+        "value": "売却",
         "translation": ""
     },
     {
@@ -128,7 +170,7 @@
     {
         "id": "53",
         "id_number": 53,
-        "value": "Imajinn Seed",
+        "value": "Imagine",
         "translation": ""
     },
     {
@@ -156,6 +198,12 @@
         "translation": ""
     },
     {
+        "id": "58",
+        "id_number": 58,
+        "value": "Liquid Memory",
+        "translation": ""
+    },
+    {
         "id": "100",
         "id_number": 100,
         "value": "Lv.",
@@ -165,6 +213,12 @@
         "id": "101",
         "id_number": 101,
         "value": "攻撃力",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "武器攻撃力",
         "translation": ""
     },
     {
@@ -254,7 +308,43 @@
     {
         "id": "127",
         "id_number": 127,
-        "value": "s",
+        "value": "Sec.",
+        "translation": ""
+    },
+    {
+        "id": "128",
+        "id_number": 128,
+        "value": "空きスロット",
+        "translation": ""
+    },
+    {
+        "id": "129",
+        "id_number": 129,
+        "value": "属性効果値",
+        "translation": ""
+    },
+    {
+        "id": "130",
+        "id_number": 130,
+        "value": "特攻",
+        "translation": ""
+    },
+    {
+        "id": "131",
+        "id_number": 131,
+        "value": "アビリティ",
+        "translation": ""
+    },
+    {
+        "id": "132",
+        "id_number": 132,
+        "value": "+{num}",
+        "translation": ""
+    },
+    {
+        "id": "133",
+        "id_number": 133,
+        "value": "なし",
         "translation": ""
     },
     {
@@ -357,6 +447,108 @@
         "id": "999",
         "id_number": 999,
         "value": "不明なエラー",
+        "translation": ""
+    },
+    {
+        "id": "AllItem",
+        "id_number": 0,
+        "value": "全アイテム",
+        "translation": ""
+    },
+    {
+        "id": "Expendables",
+        "id_number": 0,
+        "value": "消費アイテム",
+        "translation": ""
+    },
+    {
+        "id": "Material",
+        "id_number": 0,
+        "value": "素材アイテム",
+        "translation": ""
+    },
+    {
+        "id": "Procedure_Ascending",
+        "id_number": 0,
+        "value": "入手順▼",
+        "translation": ""
+    },
+    {
+        "id": "ID_Ascending",
+        "id_number": 0,
+        "value": "ID順▼",
+        "translation": ""
+    },
+    {
+        "id": "Name_Ascending",
+        "id_number": 0,
+        "value": "かな順▼(未実装:要相談)",
+        "translation": ""
+    },
+    {
+        "id": "Item_Ascending",
+        "id_number": 0,
+        "value": "アイテムLv順▼",
+        "translation": ""
+    },
+    {
+        "id": "Procedure_Descending",
+        "id_number": 0,
+        "value": "入手順△",
+        "translation": ""
+    },
+    {
+        "id": "ID_Descending",
+        "id_number": 0,
+        "value": "ID順△",
+        "translation": ""
+    },
+    {
+        "id": "Name_Descending",
+        "id_number": 0,
+        "value": "かな順△(未実装:要相談)",
+        "translation": ""
+    },
+    {
+        "id": "Item_Descending",
+        "id_number": 0,
+        "value": "アイテムLv順△",
+        "translation": ""
+    },
+    {
+        "id": "Weapon",
+        "id_number": 0,
+        "value": "武器",
+        "translation": ""
+    },
+    {
+        "id": "BattleImagine",
+        "id_number": 0,
+        "value": "バトルイマジン",
+        "translation": ""
+    },
+    {
+        "id": "Attachment",
+        "id_number": 0,
+        "value": "インナーイマジン",
+        "translation": ""
+    },
+    {
+        "id": "MountImagine",
+        "id_number": 0,
+        "value": "マウントイマジン",
+        "translation": ""
+    },
+    {
+        "id": "Costume",
+        "id_number": 0,
+        "value": "衣装",
+        "translation": ""
+    },
+    {
+        "id": "Accessory",
+        "id_number": 0,
+        "value": "アクセサリー",
         "translation": ""
     }
 ]

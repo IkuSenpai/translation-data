@@ -16,5 +16,17 @@
         "id_number": 3,
         "value": "Lv.",
         "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "COMBO",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "Damage",
+        "translation": ""
     }
 ]

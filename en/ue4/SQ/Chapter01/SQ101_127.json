@@ -1,0 +1,338 @@
+[
+    {
+        "id": "0",
+        "id_number": 0,
+        "value": "現在オープン準備中です。\r\nもうしばらくお待ちください",
+        "translation": ""
+    },
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "……あの、もしよろしければ後ほど、\r\nもう一度お立ち寄りいただけますか？",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "オープン前にお願いしたいことがあるのです。\r\nお力添えいただけますと助かります",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "いらっしゃいませ、ようこそ！\r\nこちらはメモリスタンドです",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "お客さん、運が悪かったねー。\r\nお店はまだオープンしてないんだ",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "パティ。言葉遣いに気をつけて？\r\nあなたも立派な店員だって言ったでしょう？",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "あっ、えーと……",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "オ、オープンしてないんですのよ？",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "……はあ",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "失礼しました、冒険者様。\r\nこの子は新人で、まだ接客の練習中なんです",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "私から当店のサービスについてご説明しますね",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "メモリスタンドでは、お客様の能力を\r\n一時的に高めるお飲み物を提供しています",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "それに用いるのが『リキッドメモリ』。\r\nバファリアの遺産の液体ですね",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "これにはお客様の経験や記憶を蓄え、\r\n徐々に活性化するという性質があります",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "そして、活性化したリキッドメモリを飲むと\r\nさまざまなメリットを受けられるのです",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "たとえば素材の採取をスピーディーにしたり、\r\n武器の精練を効率よく行えるようになったり",
+        "translation": ""
+    },
+    {
+        "id": "16",
+        "id_number": 16,
+        "value": "いずれもお客様の冒険に役立つものです",
+        "translation": ""
+    },
+    {
+        "id": "17",
+        "id_number": 17,
+        "value": "ところが、リキッドメモリを入れるビンが\r\n配達の段階で破損してしまったようで……",
+        "translation": ""
+    },
+    {
+        "id": "18",
+        "id_number": 18,
+        "value": "このままではお店をオープンすることができず、\r\n冒険者様にご依頼した次第なのです",
+        "translation": ""
+    },
+    {
+        "id": "19",
+        "id_number": 19,
+        "value": "ミンスター丘陵の北東。\r\n『巨竜の爪痕』でビンの材料が手に入ります",
+        "translation": ""
+    },
+    {
+        "id": "20",
+        "id_number": 20,
+        "value": "『凍星草』と『パイルド鉱』を\r\nそれぞれ一つずつ届けていただけますか",
+        "translation": ""
+    },
+    {
+        "id": "21",
+        "id_number": 21,
+        "value": "ビンができれば、お店もオープンできます。\r\n冒険者様にも一本プレゼントしますので",
+        "translation": ""
+    },
+    {
+        "id": "22",
+        "id_number": 22,
+        "value": "お手数をおかけしますが、\r\nどうかよろしくお願いいたします",
+        "translation": ""
+    },
+    {
+        "id": "23",
+        "id_number": 23,
+        "value": "気をつけてね、冒険者さん！",
+        "translation": ""
+    },
+    {
+        "id": "24",
+        "id_number": 24,
+        "value": "あっ、違う違う……。\r\nえーと、お気をつけあそばせ！",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "……材料が届くまでパティは接客の特訓ね。\r\nオープンは目前。時間がないわ",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "お、お姉さん？　どうしたの？\r\nなんか目が怖いよ……？",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "お帰りなさいませ。いかがでしょう？\r\nビンの材料は集まりそうですか？",
+        "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "アステリア平原の北東にある『巨竜の爪痕』で\r\n『凍星草』と『パイルド鉱』を探してください",
+        "translation": ""
+    },
+    {
+        "id": "29",
+        "id_number": 29,
+        "value": "届けていただければ、すぐにお店をオープンします。\r\nよろしくお願いいたします",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "冒険者様！\r\nビンの材料をお持ちいただけたんですね！",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "ありがとうございます！\r\nこれでメモリスタンドがオープンできます",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "おー！　やるじゃん！",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "パ・テ・ィ・？",
+        "translation": ""
+    },
+    {
+        "id": "34",
+        "id_number": 34,
+        "value": "……やりますわね？",
+        "translation": ""
+    },
+    {
+        "id": "35",
+        "id_number": 35,
+        "value": "……失礼しました。冒険者様。\r\n改めまして、ありがとうございます",
+        "translation": ""
+    },
+    {
+        "id": "36",
+        "id_number": 36,
+        "value": "こちらが報酬のリキッドメモリのビンです。\r\nどうぞお受け取りください",
+        "translation": ""
+    },
+    {
+        "id": "37",
+        "id_number": 37,
+        "value": "せっかくですので、ご利用法を\r\nきちんとご説明いたしますね",
+        "translation": ""
+    },
+    {
+        "id": "38",
+        "id_number": 38,
+        "value": "リキッドメモリは、冒険者様の行動に応じて\r\n経験や記憶を自動的に蓄積していきます",
+        "translation": ""
+    },
+    {
+        "id": "39",
+        "id_number": 39,
+        "value": "そして、十分に蓄積されると『活性化』します。\r\n色が変わりますから、すぐにわかりますよ",
+        "translation": ""
+    },
+    {
+        "id": "40",
+        "id_number": 40,
+        "value": "メモリスタンドを利用する際には、\r\n活性化したリキッドメモリをお持ちください",
+        "translation": ""
+    },
+    {
+        "id": "41",
+        "id_number": 41,
+        "value": "独自の技術で精製し、\r\nおいしいお飲み物として提供いたします",
+        "translation": ""
+    },
+    {
+        "id": "42",
+        "id_number": 42,
+        "value": "たとえば、先ほどお渡ししたリキッドメモリを使うと\r\n『素材の採取にかかる時間を早める』ことができます",
+        "translation": ""
+    },
+    {
+        "id": "43",
+        "id_number": 43,
+        "value": "活性化の条件は\r\n『バトルイマジンのクラフトを行う』です",
+        "translation": ""
+    },
+    {
+        "id": "44",
+        "id_number": 44,
+        "value": "モンスターのいる場所で採取を行うと\r\n襲撃を受けるリスクが伴いますが……",
+        "translation": ""
+    },
+    {
+        "id": "45",
+        "id_number": 45,
+        "value": "そのリキッドメモリを活用すれば\r\nスムーズに採取を済ませ、その場を離れられます",
+        "translation": ""
+    },
+    {
+        "id": "46",
+        "id_number": 46,
+        "value": "安全かつ迅速に採取を行える、というわけです",
+        "translation": ""
+    },
+    {
+        "id": "47",
+        "id_number": 47,
+        "value": "リキッドメモリは一種類ではありません。\r\nぜひ他のものも見つけて、活用してくださいね",
+        "translation": ""
+    },
+    {
+        "id": "48",
+        "id_number": 48,
+        "value": "それじゃ、パティ。\r\nオープンの準備をお願いね",
+        "translation": ""
+    },
+    {
+        "id": "49",
+        "id_number": 49,
+        "value": "任せて！",
+        "translation": ""
+    },
+    {
+        "id": "50",
+        "id_number": 50,
+        "value": "……任せてくださいまし？",
+        "translation": ""
+    },
+    {
+        "id": "51",
+        "id_number": 51,
+        "value": "はぁ……。大丈夫かしら",
+        "translation": ""
+    },
+    {
+        "id": "52",
+        "id_number": 52,
+        "value": "さきほどのリキッドメモリですが、\r\nすでに活性化は済んでおります",
+        "translation": ""
+    },
+    {
+        "id": "53",
+        "id_number": 53,
+        "value": "よろしければ、この後すぐにご利用ください",
+        "translation": ""
+    },
+    {
+        "id": "54",
+        "id_number": 54,
+        "value": "今後もメモリスタンドを活用して\r\n冒険を効率的に進めてくださいね",
+        "translation": ""
+    },
+    {
+        "id": "55",
+        "id_number": 55,
+        "value": "リキッドメモリのビンを拾った",
+        "translation": ""
+    }
+]

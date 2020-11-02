@@ -20,25 +20,25 @@
     {
         "id": "4",
         "id_number": 4,
-        "value": "ミニマップ",
+        "value": "マップレーダー",
         "translation": ""
     },
     {
         "id": "5",
         "id_number": 5,
-        "value": "パーティメンバー",
+        "value": "パーティメンバーリスト",
         "translation": ""
     },
     {
         "id": "6",
         "id_number": 6,
-        "value": "パレット",
+        "value": "ショートカットパレット",
         "translation": ""
     },
     {
         "id": "7",
         "id_number": 7,
-        "value": "スキル",
+        "value": "スキル状態パレット",
         "translation": ""
     },
     {
@@ -110,7 +110,7 @@
     {
         "id": "19",
         "id_number": 19,
-        "value": "フォーカスターゲット情報",
+        "value": "ロックオンターゲット情報",
         "translation": ""
     },
     {
@@ -122,7 +122,7 @@
     {
         "id": "21",
         "id_number": 21,
-        "value": "状態変化アイコン",
+        "value": "状態変化表示欄",
         "translation": ""
     },
     {
@@ -140,7 +140,43 @@
     {
         "id": "24",
         "id_number": 24,
-        "value": "注意アラート",
+        "value": "敵視アラート",
+        "translation": ""
+    },
+    {
+        "id": "25",
+        "id_number": 25,
+        "value": "支給品パレット",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "クールタイム",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "ショートカットリング",
+        "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "マウントイマジン",
+        "translation": ""
+    },
+    {
+        "id": "29",
+        "id_number": 29,
+        "value": "HPゲージ",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "スタミナゲージ",
         "translation": ""
     }
 ]

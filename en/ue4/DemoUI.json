@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "<key action=\"Interaction\"></>長押しでスキップ",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "スキップ操作不可",
+        "translation": ""
+    }
+]

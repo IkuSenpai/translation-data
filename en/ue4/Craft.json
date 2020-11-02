@@ -86,8 +86,8 @@
     {
         "id": "15",
         "id_number": 15,
-        "value": "必要エングラム",
-        "translation": "Engram required"
+        "value": "必要ルーノ",
+        "translation": ""
     },
     {
         "id": "16",
@@ -144,10 +144,34 @@
         "translation": "Finish"
     },
     {
+        "id": "25",
+        "id_number": 25,
+        "value": "大成功チケット",
+        "translation": ""
+    },
+    {
+        "id": "26",
+        "id_number": 26,
+        "value": "所持数：",
+        "translation": ""
+    },
+    {
+        "id": "27",
+        "id_number": 27,
+        "value": "使用する",
+        "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "アビリティ枠：",
+        "translation": ""
+    },
+    {
         "id": "31",
         "id_number": 31,
-        "value": "難易度：",
-        "translation": "Difficulty:"
+        "value": "冒険ランク",
+        "translation": ""
     },
     {
         "id": "32",
@@ -182,8 +206,8 @@
     {
         "id": "37",
         "id_number": 37,
-        "value": "難易度",
-        "translation": "Difficulty"
+        "value": "冒険ランク",
+        "translation": ""
     },
     {
         "id": "38",
@@ -242,14 +266,14 @@
     {
         "id": "53",
         "id_number": 53,
-        "value": "ランク：",
-        "translation": "Rank:"
+        "value": "属性：",
+        "translation": ""
     },
     {
         "id": "54",
         "id_number": 54,
-        "value": "アビリティ：",
-        "translation": "Ability:"
+        "value": "特効：",
+        "translation": ""
     },
     {
         "id": "55",
@@ -290,8 +314,8 @@
     {
         "id": "101",
         "id_number": 101,
-        "value": "大成功",
-        "translation": "Great success"
+        "value": "Great Success",
+        "translation": ""
     },
     {
         "id": "102",
@@ -302,8 +326,8 @@
     {
         "id": "200",
         "id_number": 200,
-        "value": "つくる",
-        "translation": "Make"
+        "value": "クラフトする",
+        "translation": ""
     },
     {
         "id": "201",
@@ -406,5 +430,197 @@
         "id_number": 503,
         "value": "クラフトを続けますか？",
         "translation": "Do you want to continue crafting?"
+    },
+    {
+        "id": "60",
+        "id_number": 60,
+        "value": "未作成",
+        "translation": ""
+    },
+    {
+        "id": "61",
+        "id_number": 61,
+        "value": "クラフト回数",
+        "translation": ""
+    },
+    {
+        "id": "62",
+        "id_number": 62,
+        "value": "アイテムをバッグへ入れました",
+        "translation": ""
+    },
+    {
+        "id": "63",
+        "id_number": 63,
+        "value": "大成功チケットを使用する",
+        "translation": ""
+    },
+    {
+        "id": "64",
+        "id_number": 64,
+        "value": "ソート",
+        "translation": ""
+    },
+    {
+        "id": "400",
+        "id_number": 400,
+        "value": "ID昇順",
+        "translation": ""
+    },
+    {
+        "id": "401",
+        "id_number": 401,
+        "value": "ID降順",
+        "translation": ""
+    },
+    {
+        "id": "402",
+        "id_number": 402,
+        "value": "冒険ランク昇順",
+        "translation": ""
+    },
+    {
+        "id": "403",
+        "id_number": 403,
+        "value": "冒険ランク降順",
+        "translation": ""
+    },
+    {
+        "id": "65",
+        "id_number": 65,
+        "value": "Lv:",
+        "translation": ""
+    },
+    {
+        "id": "66",
+        "id_number": 66,
+        "value": "(Max{max_level})",
+        "translation": ""
+    },
+    {
+        "id": "67",
+        "id_number": 67,
+        "value": "-",
+        "translation": ""
+    },
+    {
+        "id": "68",
+        "id_number": 68,
+        "value": "特攻値:",
+        "translation": ""
+    },
+    {
+        "id": "69",
+        "id_number": 69,
+        "value": "スロット数:",
+        "translation": ""
+    },
+    {
+        "id": "70",
+        "id_number": 70,
+        "value": "効果:",
+        "translation": ""
+    },
+    {
+        "id": "71",
+        "id_number": 71,
+        "value": "所持限界に達したため未使用の素材を返却しました",
+        "translation": ""
+    },
+    {
+        "id": "72",
+        "id_number": 72,
+        "value": "未使用のアイテムを返却しました",
+        "translation": ""
+    },
+    {
+        "id": "73",
+        "id_number": 73,
+        "value": "レベル",
+        "translation": ""
+    },
+    {
+        "id": "74",
+        "id_number": 74,
+        "value": "攻撃力",
+        "translation": ""
+    },
+    {
+        "id": "75",
+        "id_number": 75,
+        "value": "属性",
+        "translation": ""
+    },
+    {
+        "id": "76",
+        "id_number": 76,
+        "value": "属性値",
+        "translation": ""
+    },
+    {
+        "id": "77",
+        "id_number": 77,
+        "value": "特効",
+        "translation": ""
+    },
+    {
+        "id": "78",
+        "id_number": 78,
+        "value": "特効値",
+        "translation": ""
+    },
+    {
+        "id": "79",
+        "id_number": 79,
+        "value": "スロット数",
+        "translation": ""
+    },
+    {
+        "id": "80",
+        "id_number": 80,
+        "value": "レシピ選択",
+        "translation": ""
+    },
+    {
+        "id": "81",
+        "id_number": 81,
+        "value": "リザルト",
+        "translation": ""
+    },
+    {
+        "id": "82",
+        "id_number": 82,
+        "value": "作成数:",
+        "translation": ""
+    },
+    {
+        "id": "83",
+        "id_number": 83,
+        "value": "情報規制",
+        "translation": ""
+    },
+    {
+        "id": "84",
+        "id_number": 84,
+        "value": "最大HP",
+        "translation": ""
+    },
+    {
+        "id": "85",
+        "id_number": 85,
+        "value": "x",
+        "translation": ""
+    },
+    {
+        "id": "86",
+        "id_number": 86,
+        "value": "所持数:",
+        "translation": ""
+    },
+    {
+        "id": "87",
+        "id_number": 87,
+        "value": "→",
+        "translation": ""
     }
 ]

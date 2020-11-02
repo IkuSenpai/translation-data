@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "リキッドメモリのご用命はこちらでどうぞ",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "リキッドメモリはご活用いただいていますか？",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "おいしくて冒険にもお役立ち。\n特製のドリンクはいかがですか？",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "ありがとうございます！",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "メモリスタンドはこちらです",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "やめる",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "会話",
+        "translation": ""
+    },
+    {
+        "id": "8",
+        "id_number": 8,
+        "value": "注文する",
+        "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "アイテムを売る",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "ただいまオープン準備中です。\nもうしばらくお待ちください",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "リキッドメモリが効いているみたいですね。\nおいしくて冒険にもお役立ちです！",
+        "translation": ""
+    }
+]

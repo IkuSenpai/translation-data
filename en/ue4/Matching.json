@@ -2,7 +2,7 @@
     {
         "id": "1",
         "id_number": 1,
-        "value": "突入可能レベル",
+        "value": "必要バトルスコア",
         "translation": ""
     },
     {
@@ -92,13 +92,13 @@
     {
         "id": "16",
         "id_number": 16,
-        "value": "突入まであと",
+        "value": "残り時間",
         "translation": ""
     },
     {
         "id": "17",
         "id_number": 17,
-        "value": "拒否",
+        "value": "辞退",
         "translation": ""
     },
     {
@@ -110,7 +110,7 @@
     {
         "id": "19",
         "id_number": 19,
-        "value": "攻略開始",
+        "value": "突入！",
         "translation": ""
     },
     {
@@ -140,7 +140,7 @@
     {
         "id": "24",
         "id_number": 24,
-        "value": "準備中です",
+        "value": "準備中",
         "translation": ""
     },
     {
@@ -152,7 +152,7 @@
     {
         "id": "26",
         "id_number": 26,
-        "value": "申請中ダンジョン",
+        "value": "申請中ミッション",
         "translation": ""
     },
     {
@@ -164,13 +164,13 @@
     {
         "id": "28",
         "id_number": 28,
-        "value": "申請を中止します。よろしいですか?",
+        "value": "マッチングを取り消します。よろしいですか？",
         "translation": ""
     },
     {
         "id": "29",
         "id_number": 29,
-        "value": "突入したいダンジョンをチェックしてください",
+        "value": "ミッションを選択してください",
         "translation": ""
     },
     {
@@ -188,19 +188,19 @@
     {
         "id": "32",
         "id_number": 32,
-        "value": "ダンジョンが開始されました。\nあなたがまだ遊んでいないバトルです。",
+        "value": "ミッションが開始されました。\nあなたがまだ遊んでいないミッションです。",
         "translation": ""
     },
     {
         "id": "33",
         "id_number": 33,
-        "value": "ダンジョンが選択されていません。",
+        "value": "ミッションが選択されていません",
         "translation": ""
     },
     {
         "id": "34",
         "id_number": 34,
-        "value": "マッチング申請が行われました",
+        "value": "マッチング申請を行いました",
         "translation": ""
     },
     {
@@ -212,13 +212,13 @@
     {
         "id": "36",
         "id_number": 36,
-        "value": "未開放のパーティメンバーがいます",
+        "value": "未解放のパーティメンバーがいます",
         "translation": ""
     },
     {
         "id": "37",
         "id_number": 37,
-        "value": "※実装中。ダンジョンを1つにしてください",
+        "value": "※実装中。ミッションを1つにしてください",
         "translation": ""
     },
     {
@@ -230,13 +230,13 @@
     {
         "id": "39",
         "id_number": 39,
-        "value": "ダンジョンが開始されました。\nあなたがまだ遊んでいないバトルです。",
+        "value": "ミッションが開始されました。\nあなたがまだ遊んでいないミッションです。",
         "translation": ""
     },
     {
         "id": "40",
         "id_number": 40,
-        "value": "開始申請が行われました",
+        "value": "開始申請を行いました",
         "translation": ""
     },
     {
@@ -248,7 +248,7 @@
     {
         "id": "42",
         "id_number": 42,
-        "value": "突入を拒否します",
+        "value": "突入を辞退します",
         "translation": ""
     },
     {
@@ -260,7 +260,7 @@
     {
         "id": "44",
         "id_number": 44,
-        "value": "Dungeon",
+        "value": "Mission",
         "translation": ""
     },
     {
@@ -284,13 +284,139 @@
     {
         "id": "48",
         "id_number": 48,
-        "value": "緊急ミッションの参加はキャンセルされます",
+        "value": "チャレンジクエストの参加はキャンセルされます",
         "translation": ""
     },
     {
         "id": "49",
         "id_number": 49,
         "value": "突入条件を満たしていないメンバーがいます",
+        "translation": ""
+    },
+    {
+        "id": "50",
+        "id_number": 50,
+        "value": "支給品",
+        "translation": ""
+    },
+    {
+        "id": "51",
+        "id_number": 51,
+        "value": "※アイテム持ち込み禁止",
+        "translation": ""
+    },
+    {
+        "id": "52",
+        "id_number": 52,
+        "value": "課金 クリア機能(仮)",
+        "translation": ""
+    },
+    {
+        "id": "53",
+        "id_number": 53,
+        "value": "初回報酬",
+        "translation": ""
+    },
+    {
+        "id": "54",
+        "id_number": 54,
+        "value": "通常報酬",
+        "translation": ""
+    },
+    {
+        "id": "55",
+        "id_number": 55,
+        "value": "DUNGEON",
+        "translation": ""
+    },
+    {
+        "id": "56",
+        "id_number": 56,
+        "value": "RAID BATTLE",
+        "translation": ""
+    },
+    {
+        "id": "57",
+        "id_number": 57,
+        "value": "ARENA",
+        "translation": ""
+    },
+    {
+        "id": "58",
+        "id_number": 58,
+        "value": "期間限定",
+        "translation": ""
+    },
+    {
+        "id": "59",
+        "id_number": 59,
+        "value": "突入メンバー",
+        "translation": ""
+    },
+    {
+        "id": "60",
+        "id_number": 60,
+        "value": "ダンジョン名",
+        "translation": ""
+    },
+    {
+        "id": "61",
+        "id_number": 61,
+        "value": "規定人数をオーバーしています",
+        "translation": ""
+    },
+    {
+        "id": "62",
+        "id_number": 62,
+        "value": "突入人数",
+        "translation": ""
+    },
+    {
+        "id": "63",
+        "id_number": 63,
+        "value": "準備中です…",
+        "translation": ""
+    },
+    {
+        "id": "64",
+        "id_number": 64,
+        "value": "辞退する",
+        "translation": ""
+    },
+    {
+        "id": "65",
+        "id_number": 65,
+        "value": "突入する",
+        "translation": ""
+    },
+    {
+        "id": "66",
+        "id_number": 66,
+        "value": "パーティ募集をキャンセルしますか？",
+        "translation": ""
+    },
+    {
+        "id": "1000",
+        "id_number": 1000,
+        "value": "ゴールド\n{time}",
+        "translation": ""
+    },
+    {
+        "id": "1001",
+        "id_number": 1001,
+        "value": "シルバー\n{time}",
+        "translation": ""
+    },
+    {
+        "id": "1002",
+        "id_number": 1002,
+        "value": "ブロンズ\n{time}",
+        "translation": ""
+    },
+    {
+        "id": "Content_LevelSyncInformation",
+        "id_number": 0,
+        "value": "クラスレベル：{0}を超えるとレベルシンクが適用されます",
         "translation": ""
     }
 ]

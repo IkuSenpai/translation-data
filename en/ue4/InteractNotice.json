@@ -46,5 +46,47 @@
         "id_number": 8,
         "value": "［ <key action=\"Interaction\"/> ］ 情報を見る",
         "translation": ""
+    },
+    {
+        "id": "9",
+        "id_number": 9,
+        "value": "［ <key action=\"Interaction\"/> ］ 採取",
+        "translation": ""
+    },
+    {
+        "id": "10",
+        "id_number": 10,
+        "value": "［ <key action=\"Interaction\"/> ］ 座る",
+        "translation": ""
+    },
+    {
+        "id": "11",
+        "id_number": 11,
+        "value": "［ <key action=\"Interaction\"/> ］ 開ける",
+        "translation": ""
+    },
+    {
+        "id": "12",
+        "id_number": 12,
+        "value": "［ <key action=\"Interaction\"/> ］ クラフト",
+        "translation": ""
+    },
+    {
+        "id": "13",
+        "id_number": 13,
+        "value": "［ <key action=\"Interaction\"/> ］ 倉庫",
+        "translation": ""
+    },
+    {
+        "id": "14",
+        "id_number": 14,
+        "value": "［ <key action=\"Interaction\"/> ］ 使う",
+        "translation": ""
+    },
+    {
+        "id": "15",
+        "id_number": 15,
+        "value": "マウント騎乗中は操作出来ません",
+        "translation": ""
     }
 ]

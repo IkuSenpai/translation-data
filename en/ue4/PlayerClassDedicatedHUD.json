@@ -1,0 +1,50 @@
+[
+    {
+        "id": "None",
+        "id_number": 1,
+        "value": "RELOAD",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 2,
+        "value": "NORMAL",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 3,
+        "value": "STRAIGHT",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 4,
+        "value": "DIFFUSION",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 5,
+        "value": "REFRECTOR",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 6,
+        "value": "EP",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 7,
+        "value": "RAGE",
+        "translation": ""
+    },
+    {
+        "id": "None",
+        "id_number": 20,
+        "value": "s",
+        "translation": ""
+    }
+]

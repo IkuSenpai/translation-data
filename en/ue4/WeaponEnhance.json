@@ -8,14 +8,14 @@
     {
         "id": "1",
         "id_number": 1,
-        "value": "体力",
-        "translation": "VIT"
+        "value": "AP",
+        "translation": ""
     },
     {
         "id": "2",
         "id_number": 2,
-        "value": "AP",
-        "translation": "AP"
+        "value": "最大HP",
+        "translation": ""
     },
     {
         "id": "3",
@@ -68,8 +68,8 @@
     {
         "id": "201",
         "id_number": 201,
-        "value": "強化レベル",
-        "translation": "Strengthening level"
+        "value": "精練レベル",
+        "translation": ""
     },
     {
         "id": "202",
@@ -98,8 +98,8 @@
     {
         "id": "206",
         "id_number": 206,
-        "value": "必要エングラム",
-        "translation": "Engram required"
+        "value": "必要ルーノ",
+        "translation": ""
     },
     {
         "id": "207",
@@ -116,20 +116,20 @@
     {
         "id": "209",
         "id_number": 209,
-        "value": "攻撃力",
-        "translation": "ATK"
+        "value": "攻撃力:",
+        "translation": ""
     },
     {
         "id": "210",
         "id_number": 210,
-        "value": "属性",
-        "translation": "Attribute"
+        "value": "属性:",
+        "translation": ""
     },
     {
         "id": "211",
         "id_number": 211,
-        "value": "特殊効果",
-        "translation": "Special effects"
+        "value": "特効:",
+        "translation": ""
     },
     {
         "id": "212",
@@ -170,20 +170,104 @@
     {
         "id": "218",
         "id_number": 218,
-        "value": "強化",
-        "translation": "Strengthening"
+        "value": "精練",
+        "translation": ""
     },
     {
         "id": "219",
         "id_number": 219,
-        "value": "強化する武器を選択してください。",
-        "translation": "Select the weapon you want to enhance."
+        "value": "精練する武器を選択してください。",
+        "translation": ""
     },
     {
         "id": "220",
         "id_number": 220,
-        "value": "武器総合力",
-        "translation": "Weapon total power"
+        "value": "武器バトルスコア",
+        "translation": ""
+    },
+    {
+        "id": "221",
+        "id_number": 221,
+        "value": "決定",
+        "translation": ""
+    },
+    {
+        "id": "222",
+        "id_number": 222,
+        "value": "LV.",
+        "translation": ""
+    },
+    {
+        "id": "223",
+        "id_number": 223,
+        "value": "MAXLV:",
+        "translation": ""
+    },
+    {
+        "id": "224",
+        "id_number": 224,
+        "value": "{0}({1})",
+        "translation": ""
+    },
+    {
+        "id": "225",
+        "id_number": 225,
+        "value": "MAX",
+        "translation": ""
+    },
+    {
+        "id": "226",
+        "id_number": 226,
+        "value": "特効値:",
+        "translation": ""
+    },
+    {
+        "id": "227",
+        "id_number": 227,
+        "value": "スロット数:",
+        "translation": ""
+    },
+    {
+        "id": "228",
+        "id_number": 228,
+        "value": "属性効果値:",
+        "translation": ""
+    },
+    {
+        "id": "229",
+        "id_number": 229,
+        "value": "/",
+        "translation": ""
+    },
+    {
+        "id": "230",
+        "id_number": 230,
+        "value": "使用素材",
+        "translation": ""
+    },
+    {
+        "id": "231",
+        "id_number": 231,
+        "value": "精練に使用する素材を選んでください",
+        "translation": ""
+    },
+    {
+        "id": "232",
+        "id_number": 232,
+        "value": "リキッドメモリ効果\n発動中",
+        "translation": ""
+    },
+    {
+        "id": "233",
+        "id_number": 233,
+        "value": "Empty(空き枠)",
+        "translation": ""
+    },
+    {
+        "id": "234",
+        "id_number": 234,
+        "value": "+????",
+        "translation": ""
     },
     {
         "id": "300",
@@ -198,9 +282,63 @@
         "translation": "Failure"
     },
     {
+        "id": "350",
+        "id_number": 350,
+        "value": "続けますか？",
+        "translation": ""
+    },
+    {
         "id": "400",
         "id_number": 400,
         "value": "なし",
         "translation": "None"
+    },
+    {
+        "id": "401",
+        "id_number": 401,
+        "value": "0",
+        "translation": ""
+    },
+    {
+        "id": "500",
+        "id_number": 500,
+        "value": "武器選択",
+        "translation": ""
+    },
+    {
+        "id": "501",
+        "id_number": 501,
+        "value": "素材選択",
+        "translation": ""
+    },
+    {
+        "id": "502",
+        "id_number": 502,
+        "value": "リザルト",
+        "translation": ""
+    },
+    {
+        "id": "900",
+        "id_number": 900,
+        "value": "クラスレベルを超えるため精練できません\n使用する素材を減らしてください",
+        "translation": ""
+    },
+    {
+        "id": "235",
+        "id_number": 235,
+        "value": "(Lv:",
+        "translation": ""
+    },
+    {
+        "id": "236",
+        "id_number": 236,
+        "value": ")",
+        "translation": ""
+    },
+    {
+        "id": "901",
+        "id_number": 901,
+        "value": "精錬の上限に達します。\n上限を超えた経験値は取得できませんが、精錬を行いますか？",
+        "translation": ""
     }
 ]

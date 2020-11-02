@@ -1,25 +1,25 @@
 [
     {
         "id": "Attack",
-        "id_number": -1,
+        "id_number": 0,
         "value": "攻撃タイプ",
         "translation": "Attack type"
     },
     {
-        "id": "Buff and De Buff",
-        "id_number": -1,
+        "id": "BuffAndDeBuff",
+        "id_number": 0,
         "value": "補助タイプ",
-        "translation": "Auxiliary type"
+        "translation": ""
     },
     {
         "id": "Other",
-        "id_number": -1,
+        "id_number": 0,
         "value": "その他",
         "translation": "Other"
     },
     {
         "id": "Recovery",
-        "id_number": -1,
+        "id_number": 0,
         "value": "回復タイプ",
         "translation": "Recovery Type"
     }

@@ -126,36 +126,6 @@
         "translation": "Option"
     },
     {
-        "id": "30",
-        "id_number": 30,
-        "value": "フォローリスト",
-        "translation": "Follow list"
-    },
-    {
-        "id": "31",
-        "id_number": 31,
-        "value": "フォロワーリスト",
-        "translation": "Follower list"
-    },
-    {
-        "id": "32",
-        "id_number": 32,
-        "value": "ブラックリスト",
-        "translation": "blacklist"
-    },
-    {
-        "id": "33",
-        "id_number": 33,
-        "value": "キャラクターサーチ",
-        "translation": "Character search"
-    },
-    {
-        "id": "34",
-        "id_number": 34,
-        "value": "プロフィール設定",
-        "translation": "Profile settings"
-    },
-    {
         "id": "40",
         "id_number": 40,
         "value": "ステータス",
@@ -174,40 +144,16 @@
         "translation": "Adventurer ability"
     },
     {
-        "id": "43",
-        "id_number": 43,
-        "value": "reserve",
-        "translation": "reserve"
-    },
-    {
-        "id": "44",
-        "id_number": 44,
-        "value": "アチーブメント",
-        "translation": "Achievement"
-    },
-    {
-        "id": "45",
-        "id_number": 45,
-        "value": "闘技場戦績",
-        "translation": "Arena battle record"
-    },
-    {
-        "id": "46",
-        "id_number": 46,
-        "value": "オートスタンプ",
-        "translation": "Auto stamp"
-    },
-    {
         "id": "49",
         "id_number": 49,
-        "value": "図鑑",
-        "translation": "Picture book"
+        "value": "冒険手帳",
+        "translation": ""
     },
     {
         "id": "50",
         "id_number": 50,
-        "value": "Library",
-        "translation": "Library"
+        "value": "Adventure Log",
+        "translation": ""
     },
     {
         "id": "51",
@@ -244,30 +190,6 @@
         "id_number": 56,
         "value": "旅の手引き",
         "translation": "Travel guide"
-    },
-    {
-        "id": "57",
-        "id_number": 57,
-        "value": "レターボックス",
-        "translation": "Letterbox"
-    },
-    {
-        "id": "58",
-        "id_number": 58,
-        "value": "reserve",
-        "translation": "reserve"
-    },
-    {
-        "id": "59",
-        "id_number": 59,
-        "value": "reserve",
-        "translation": "reserve"
-    },
-    {
-        "id": "60",
-        "id_number": 60,
-        "value": "魂ランク",
-        "translation": "Soul rank"
     },
     {
         "id": "61",

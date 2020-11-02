@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "id_number": 1,
+        "value": "闘技場イベントは準備中だ！\nすまない！　だが、ちゃんと開催するぞ。",
+        "translation": ""
+    },
+    {
+        "id": "2",
+        "id_number": 2,
+        "value": "後でまた来てくれ。\nきっと楽しんでもらえるはずだ！",
+        "translation": ""
+    },
+    {
+        "id": "3",
+        "id_number": 3,
+        "value": "忘れずにちゃんと来てくれよ！\n待ってるからな！",
+        "translation": ""
+    },
+    {
+        "id": "4",
+        "id_number": 4,
+        "value": "待たせてすまなかったな！\n闘技場イベント、いよいよ開催だ！",
+        "translation": ""
+    },
+    {
+        "id": "5",
+        "id_number": 5,
+        "value": "腕自慢のツワモノたちが続々参加しているぞ！\nさあ、君も乗り遅れるな！",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "闘技場が解放された",
+        "translation": ""
+    }
+]

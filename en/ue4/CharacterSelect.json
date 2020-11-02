@@ -80,8 +80,8 @@
     {
         "id": "14",
         "id_number": 14,
-        "value": "冒険者ランク:{rank}",
-        "translation": "Adventurer rank: {rank}"
+        "value": "冒険ランク:{rank}",
+        "translation": ""
     },
     {
         "id": "15",

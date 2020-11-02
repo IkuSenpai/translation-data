@@ -1,0 +1,56 @@
+[
+    {
+        "id": "100",
+        "id_number": 100,
+        "value": "焼け焦げた写真が落ちている。\nいかにも幸せそうな家族が写っている……",
+        "translation": ""
+    },
+    {
+        "id": "200",
+        "id_number": 200,
+        "value": "砕けた壁にはバファリア教の\n祈りの言葉が残されている",
+        "translation": ""
+    },
+    {
+        "id": "300",
+        "id_number": 300,
+        "value": "家の中は荒れ果てている。\nまるで火事場泥棒にでも遭ったかのようだ",
+        "translation": ""
+    },
+    {
+        "id": "400",
+        "id_number": 400,
+        "value": "異臭を放つ鍋。\n得体の知れない何かが煮込まれている",
+        "translation": ""
+    },
+    {
+        "id": "500",
+        "id_number": 500,
+        "value": "袋からは謎の液体が染み出している。\nしまった！　服に付いた！",
+        "translation": ""
+    },
+    {
+        "id": "600",
+        "id_number": 600,
+        "value": "うす汚れて穴の空いたズダ袋だ。\n持ち主はまだ使うつもりのようだ",
+        "translation": ""
+    },
+    {
+        "id": "2000",
+        "id_number": 2000,
+        "value": "鎮まりの山麓1",
+        "translation": ""
+    },
+    {
+        "id": "2001",
+        "id_number": 2001,
+        "value": "鎮まりの山麓2",
+        "translation": ""
+    },
+    {
+        "id": "2002",
+        "id_number": 2002,
+        "value": "鎮まりの山麓3",
+        "translation": ""
+    }
+]

@@ -1,32 +1,68 @@
 [
     {
-        "id": "None",
+        "id": "1",
         "id_number": 1,
         "value": "決定",
         "translation": ""
     },
     {
-        "id": "None",
+        "id": "2",
         "id_number": 2,
         "value": "やめる",
         "translation": ""
     },
     {
-        "id": "None",
+        "id": "3",
         "id_number": 3,
-        "value": "あずける",
+        "value": "しまう",
         "translation": ""
     },
     {
-        "id": "None",
+        "id": "4",
         "id_number": 4,
         "value": "捨てる",
         "translation": ""
     },
     {
-        "id": "None",
+        "id": "5",
         "id_number": 5,
         "value": "閉じる",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "取り出す",
+        "translation": ""
+    },
+    {
+        "id": "7",
+        "id_number": 7,
+        "value": "売却",
+        "translation": ""
+    },
+    {
+        "id": "30",
+        "id_number": 30,
+        "value": "個数を指定してください",
+        "translation": ""
+    },
+    {
+        "id": "31",
+        "id_number": 31,
+        "value": "捨てる個数を指定してください",
+        "translation": ""
+    },
+    {
+        "id": "32",
+        "id_number": 32,
+        "value": "個数を指定してください",
+        "translation": ""
+    },
+    {
+        "id": "33",
+        "id_number": 33,
+        "value": "売却する個数を指定してください",
         "translation": ""
     }
 ]

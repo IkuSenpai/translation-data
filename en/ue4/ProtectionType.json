@@ -1,32 +1,38 @@
 [
     {
-        "id": "None",
+        "id": "1",
         "id_number": 1,
         "value": "帽子",
         "translation": ""
     },
     {
-        "id": "None",
+        "id": "2",
         "id_number": 2,
         "value": "衣装上",
         "translation": ""
     },
     {
-        "id": "None",
+        "id": "3",
         "id_number": 3,
         "value": "グローブ",
         "translation": ""
     },
     {
-        "id": "None",
+        "id": "4",
         "id_number": 4,
         "value": "衣装下",
         "translation": ""
     },
     {
-        "id": "None",
+        "id": "5",
         "id_number": 5,
         "value": "シューズ",
+        "translation": ""
+    },
+    {
+        "id": "6",
+        "id_number": 6,
+        "value": "アクセサリー",
         "translation": ""
     }
 ]

@@ -244,5 +244,41 @@
         "id_number": 603,
         "value": "自身のみ",
         "translation": "Only myself"
+    },
+    {
+        "id": "511",
+        "id_number": 511,
+        "value": "ビデオメモリ節約モード",
+        "translation": ""
+    },
+    {
+        "id": "512",
+        "id_number": 512,
+        "value": "タイトル以外からは変更できません",
+        "translation": ""
+    },
+    {
+        "id": "801",
+        "id_number": 801,
+        "value": "ビデオメモリ節約モードを有効にしました\n\nGPUのビデオメモリが3GB未満に判定されました。\n安定動作させるため、一部グラフィックを軽量化します。\nこのモードは、オプションから切り替えることができます。",
+        "translation": ""
+    },
+    {
+        "id": "513",
+        "id_number": 513,
+        "value": "ネームプレート表示 : パーティ",
+        "translation": ""
+    },
+    {
+        "id": "514",
+        "id_number": 514,
+        "value": "ネームプレート表示 : その他",
+        "translation": ""
+    },
+    {
+        "id": "515",
+        "id_number": 515,
+        "value": "探索中：バトルHUD常時表示",
+        "translation": ""
     }
 ]

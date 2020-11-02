@@ -66,6 +66,12 @@
         "translation": ""
     },
     {
+        "id": "18",
+        "id_number": 18,
+        "value": "シアター",
+        "translation": ""
+    },
+    {
         "id": "21",
         "id_number": 21,
         "value": "Monster",
@@ -98,13 +104,67 @@
     {
         "id": "26",
         "id_number": 26,
-        "value": "Imagine",
+        "value": "Imajinn",
         "translation": ""
     },
     {
         "id": "27",
         "id_number": 27,
         "value": "Bookmark",
+        "translation": ""
+    },
+    {
+        "id": "28",
+        "id_number": 28,
+        "value": "Theater",
+        "translation": ""
+    },
+    {
+        "id": "101",
+        "id_number": 101,
+        "value": "再生",
+        "translation": ""
+    },
+    {
+        "id": "102",
+        "id_number": 102,
+        "value": "デモの再生は街中でのみ行えます",
+        "translation": ""
+    },
+    {
+        "id": "103",
+        "id_number": 103,
+        "value": "「{title}」\nを再生しますか？",
+        "translation": ""
+    },
+    {
+        "id": "104",
+        "id_number": 104,
+        "value": "？？？",
+        "translation": ""
+    },
+    {
+        "id": "200",
+        "id_number": 200,
+        "value": "全体",
+        "translation": ""
+    },
+    {
+        "id": "201",
+        "id_number": 201,
+        "value": "メインクエスト{Chapter}章",
+        "translation": ""
+    },
+    {
+        "id": "202",
+        "id_number": 202,
+        "value": "エクストラクエスト",
+        "translation": ""
+    },
+    {
+        "id": "203",
+        "id_number": 203,
+        "value": "サブクエスト",
         "translation": ""
     }
 ]
