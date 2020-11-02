@@ -3,42 +3,42 @@
         "id": "None",
         "id_number": 1,
         "value": "Tips",
-        "translation": ""
+        "translation": "Tips"
     },
     {
         "id": "None",
         "id_number": 10,
         "value": "ペイロード",
-        "translation": ""
+        "translation": "Payload"
     },
     {
         "id": "None",
         "id_number": 11,
         "value": "馬車を目的地まで護衛しろ",
-        "translation": ""
+        "translation": "Escort the carriage to your destination"
     },
     {
         "id": "None",
         "id_number": 20,
         "value": "ドミネーション",
-        "translation": ""
+        "translation": "Domination"
     },
     {
         "id": "None",
         "id_number": 21,
         "value": "相手の陣地を奪い取れ",
-        "translation": ""
+        "translation": "Steal the opponent's position"
     },
     {
         "id": "None",
         "id_number": 30,
         "value": "バウンティ",
-        "translation": ""
+        "translation": "Bounty"
     },
     {
         "id": "None",
         "id_number": 31,
         "value": "相手より先にツボをゴールに運び込め",
-        "translation": ""
+        "translation": "Bring the acupoints to the goal before the opponent"
     }
 ]

@@ -3,18 +3,18 @@
         "id": "None",
         "id_number": 1,
         "value": "治癒　{0}{1}",
-        "translation": ""
+        "translation": "Healing　{0}{1}"
     },
     {
         "id": "None",
         "id_number": 2,
         "value": "所持金が足りません",
-        "translation": ""
+        "translation": "Don't have enough money"
     },
     {
         "id": "None",
         "id_number": 3,
         "value": "治癒の必要はありません",
-        "translation": ""
+        "translation": "No need for healing"
     }
 ]

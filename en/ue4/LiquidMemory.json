@@ -15,7 +15,7 @@
         "id": "3",
         "id_number": 3,
         "value": "{use_count} times",
-        "translation": ""
+        "translation": "{use_count} times"
     },
     {
         "id": "4",

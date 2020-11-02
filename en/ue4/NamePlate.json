@@ -3,18 +3,18 @@
         "id": "1",
         "id_number": 1,
         "value": "Lv.",
-        "translation": ""
+        "translation": "Lv."
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "{ItemName}を{ItemNum}個入手",
-        "translation": ""
+        "translation": "Obtained {ItemNum} of {ItemName}"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "{Money}ルーノを入手",
-        "translation": ""
+        "translation": "Obtained {Money} Luno"
     }
 ]

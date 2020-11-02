@@ -3,24 +3,24 @@
         "id": "1",
         "id_number": 1,
         "value": "貢献度不足のため報酬が獲得できませんでした",
-        "translation": ""
+        "translation": "Couldn't get the reward due to lack of contribution"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "Mission Clear !",
-        "translation": ""
+        "translation": "Mission Clear !"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "Mission Failed !",
-        "translation": ""
+        "translation": "Mission Failed !"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "Emergency Mission !",
-        "translation": ""
+        "translation": "Emergency Mission !"
     }
 ]

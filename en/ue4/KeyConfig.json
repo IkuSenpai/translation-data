@@ -3,606 +3,606 @@
         "id": "1",
         "id_number": 1,
         "value": "----",
-        "translation": ""
+        "translation": "----"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "移動・前",
-        "translation": ""
+        "translation": "Move・Forward"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "移動・左",
-        "translation": ""
+        "translation": "Move・Left"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "移動・右",
-        "translation": ""
+        "translation": "Move・Right"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "移動・後",
-        "translation": ""
+        "translation": "Move・Back"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "ジャンプ",
-        "translation": ""
+        "translation": "Jump"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "アクション・納刀",
-        "translation": ""
+        "translation": "Action・Sword"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "通常攻撃",
-        "translation": ""
+        "translation": "Normal attack"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "レギュラースキル",
-        "translation": ""
+        "translation": "Regular skills"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "タクティカルスキル１",
-        "translation": ""
+        "translation": "Tactical skill 1"
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "タクティカルスキル２",
-        "translation": ""
+        "translation": "Tactical skill 2"
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "アルティメットスキル",
-        "translation": ""
+        "translation": "Ultimate skill"
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "回避/ダッシュ",
-        "translation": ""
+        "translation": "Avoid / Dash"
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "リロード",
-        "translation": ""
+        "translation": "Reload"
     },
     {
         "id": "15",
         "id_number": 15,
         "value": "コマンドメニュー",
-        "translation": ""
+        "translation": "Command menu"
     },
     {
         "id": "16",
         "id_number": 16,
         "value": "カメラリセット",
-        "translation": ""
+        "translation": "Camera reset"
     },
     {
         "id": "17",
         "id_number": 17,
         "value": "トークモード",
-        "translation": ""
+        "translation": "Talk mode"
     },
     {
         "id": "18",
         "id_number": 18,
         "value": "トークモード終了",
-        "translation": ""
+        "translation": "End of talk mode"
     },
     {
         "id": "19",
         "id_number": 19,
         "value": "パレット1",
-        "translation": ""
+        "translation": "Pallete 1"
     },
     {
         "id": "20",
         "id_number": 20,
         "value": "パレット2",
-        "translation": ""
+        "translation": "Pallete 2"
     },
     {
         "id": "21",
         "id_number": 21,
         "value": "パレット3",
-        "translation": ""
+        "translation": "Pallete 3"
     },
     {
         "id": "22",
         "id_number": 22,
         "value": "パレット4",
-        "translation": ""
+        "translation": "Pallete 4"
     },
     {
         "id": "23",
         "id_number": 23,
         "value": "パレット5",
-        "translation": ""
+        "translation": "Pallete 5"
     },
     {
         "id": "24",
         "id_number": 24,
         "value": "パレット6",
-        "translation": ""
+        "translation": "Pallete 6"
     },
     {
         "id": "25",
         "id_number": 25,
         "value": "パレット7",
-        "translation": ""
+        "translation": "Pallete 7"
     },
     {
         "id": "26",
         "id_number": 26,
         "value": "パレット8",
-        "translation": ""
+        "translation": "Pallete 8"
     },
     {
         "id": "27",
         "id_number": 27,
         "value": "マウス感度",
-        "translation": ""
+        "translation": "Mouse sensitivity"
     },
     {
         "id": "28",
         "id_number": 28,
         "value": "パッド操作スティック入れ替え",
-        "translation": ""
+        "translation": "Pad operation stick replacement"
     },
     {
         "id": "29",
         "id_number": 29,
         "value": "照準感度 垂直",
-        "translation": ""
+        "translation": "Aiming Sensitivity・Vertical"
     },
     {
         "id": "30",
         "id_number": 30,
         "value": "照準感度 水平",
-        "translation": ""
+        "translation": "Aiming Sensitivity・Horizontal"
     },
     {
         "id": "31",
         "id_number": 31,
         "value": "イマジンスキル１",
-        "translation": ""
+        "translation": "Imagine Skill 1"
     },
     {
         "id": "100",
         "id_number": 100,
         "value": "キーボード&マウス",
-        "translation": ""
+        "translation": "Keyboard & mouse"
     },
     {
         "id": "101",
         "id_number": 101,
         "value": "ゲームパッド",
-        "translation": ""
+        "translation": "Gamepad"
     },
     {
         "id": "102",
         "id_number": 102,
         "value": "移動",
-        "translation": ""
+        "translation": "Move"
     },
     {
         "id": "103",
         "id_number": 103,
         "value": "攻撃",
-        "translation": ""
+        "translation": "Attack"
     },
     {
         "id": "104",
         "id_number": 104,
         "value": "補助",
-        "translation": ""
+        "translation": "Auxiliary"
     },
     {
         "id": "105",
         "id_number": 105,
         "value": "パレット",
-        "translation": ""
+        "translation": "Palette"
     },
     {
         "id": "106",
         "id_number": 106,
         "value": "その他",
-        "translation": ""
+        "translation": "Other"
     },
     {
         "id": "107",
         "id_number": 107,
         "value": "マウス",
-        "translation": ""
+        "translation": "Mouse"
     },
     {
         "id": "108",
         "id_number": 108,
         "value": "パッド",
-        "translation": ""
+        "translation": "Pad"
     },
     {
         "id": "150",
         "id_number": 150,
         "value": "ターゲットアシスト強度",
-        "translation": ""
+        "translation": "Target assist strength"
     },
     {
         "id": "151",
         "id_number": 151,
         "value": "カメラアシスト強度",
-        "translation": ""
+        "translation": "Camera assist strength"
     },
     {
         "id": "152",
         "id_number": 152,
         "value": "トラッキングアシスト強度",
-        "translation": ""
+        "translation": "Tracking assist strength"
     },
     {
         "id": "200",
         "id_number": 200,
         "value": "すべてのクラス",
-        "translation": ""
+        "translation": "All Classes"
     },
     {
         "id": "201",
         "id_number": 201,
         "value": "通常",
-        "translation": ""
+        "translation": "Normal"
     },
     {
         "id": "202",
         "id_number": 202,
         "value": "反転",
-        "translation": ""
+        "translation": "Inversion"
     },
     {
         "id": "203",
         "id_number": 203,
         "value": "マウス入力反転 水平",
-        "translation": ""
+        "translation": "Mouse input inversion - Horizontal"
     },
     {
         "id": "204",
         "id_number": 204,
         "value": "マウス入力反転 垂直",
-        "translation": ""
+        "translation": "Mouse input inversion - Vertical"
     },
     {
         "id": "205",
         "id_number": 205,
         "value": "パッド入力反転 水平",
-        "translation": ""
+        "translation": "Pad input inversion - Horizontal"
     },
     {
         "id": "206",
         "id_number": 206,
         "value": "パッド入力反転 垂直",
-        "translation": ""
+        "translation": "Pad input inversion - Vertical"
     },
     {
         "id": "300",
         "id_number": 300,
         "value": "初期設定に戻す",
-        "translation": ""
+        "translation": "Restore to default settings"
     },
     {
         "id": "301",
         "id_number": 301,
         "value": "変更を適用する",
-        "translation": ""
+        "translation": "Apply changes"
     },
     {
         "id": "302",
         "id_number": 302,
         "value": "変更を取り消す",
-        "translation": ""
+        "translation": "Undo changes"
     },
     {
         "id": "303",
         "id_number": 303,
         "value": "すべてのクラス設定に戻す",
-        "translation": ""
+        "translation": "Revert to all class settings"
     },
     {
         "id": "400",
         "id_number": 400,
         "value": "設定クラス",
-        "translation": ""
+        "translation": "Configuration class"
     },
     {
         "id": "500",
         "id_number": 500,
         "value": "すべてのクラスの操作設定を初期化しますか？",
-        "translation": ""
+        "translation": "Do you want to initialize the operation settings of all classes?"
     },
     {
         "id": "501",
         "id_number": 501,
         "value": "設定が変更されています、保存しますか？",
-        "translation": ""
+        "translation": "The settings have changed, do you want to save?"
     },
     {
         "id": "502",
         "id_number": 502,
         "value": "設定されていない項目があります、よろしいですか？",
-        "translation": ""
+        "translation": "Some items are not set, are you sure?"
     },
     {
         "id": "503",
         "id_number": 503,
         "value": "すべてのクラス設定を使用しますか？",
-        "translation": ""
+        "translation": "Do you want to use all class settings?"
     },
     {
         "id": "504",
         "id_number": 504,
         "value": "変更を取り消しますか？",
-        "translation": ""
+        "translation": "Do you want to undo your changes?"
     },
     {
         "id": "505",
         "id_number": 505,
         "value": "変更を取り消しました",
-        "translation": ""
+        "translation": "Canceled the change"
     },
     {
         "id": "506",
         "id_number": 506,
         "value": "操作設定を適用しました",
-        "translation": ""
+        "translation": "I applied the operation settings"
     },
     {
         "id": "507",
         "id_number": 507,
         "value": "すべての操作設定を初期化しました",
-        "translation": ""
+        "translation": "Initialized all operation settings"
     },
     {
         "id": "550",
         "id_number": 550,
         "value": "設定したいキーまたはボタンを押下してください",
-        "translation": ""
+        "translation": "Press the key or button you want to set"
     },
     {
         "id": "551",
         "id_number": 551,
         "value": "設定できないキーです",
-        "translation": ""
+        "translation": "It is a key that cannot be set"
     },
     {
         "id": "800",
         "id_number": 800,
         "value": "{ActionName}を設定してください",
-        "translation": ""
+        "translation": "Please set {ActionName}"
     },
     {
         "id": "999",
         "id_number": 999,
         "value": "設定不可",
-        "translation": ""
+        "translation": "Cannot be set"
     },
     {
         "id": "600",
         "id_number": 600,
         "value": "キー設定",
-        "translation": ""
+        "translation": "Key setting"
     },
     {
         "id": "601",
         "id_number": 601,
         "value": "その他設定",
-        "translation": ""
+        "translation": "Other settings"
     },
     {
         "id": "32",
         "id_number": 32,
         "value": "ヒールスキル",
-        "translation": ""
+        "translation": "Heal skill"
     },
     {
         "id": "33",
         "id_number": 33,
         "value": "タクティカルスキル１",
-        "translation": ""
+        "translation": "Tactical skill 1"
     },
     {
         "id": "34",
         "id_number": 34,
         "value": "タクティカルスキル２",
-        "translation": ""
+        "translation": "Tactical skill 2"
     },
     {
         "id": "35",
         "id_number": 35,
         "value": "タクティカルスキル３",
-        "translation": ""
+        "translation": "Tactical skill 3"
     },
     {
         "id": "36",
         "id_number": 36,
         "value": "タクティカルスキル４",
-        "translation": ""
+        "translation": "Tactical skill 4"
     },
     {
         "id": "37",
         "id_number": 37,
         "value": "補助ボタン1",
-        "translation": ""
+        "translation": "Auxiliary button 1"
     },
     {
         "id": "38",
         "id_number": 38,
         "value": "補助ボタン2",
-        "translation": ""
+        "translation": "Auxiliary button 2"
     },
     {
         "id": "39",
         "id_number": 39,
         "value": "歩き",
-        "translation": ""
+        "translation": "Walking"
     },
     {
         "id": "40",
         "id_number": 40,
         "value": "ロックオン",
-        "translation": ""
+        "translation": "Lock-on"
     },
     {
         "id": "41",
         "id_number": 41,
         "value": "パレット次",
-        "translation": ""
+        "translation": "Palette next"
     },
     {
         "id": "42",
         "id_number": 42,
         "value": "パレット前",
-        "translation": ""
+        "translation": "Pallete previous"
     },
     {
         "id": "43",
         "id_number": 43,
         "value": "イマジンスキル2",
-        "translation": ""
+        "translation": "Imagine Skill 2"
     },
     {
         "id": "44",
         "id_number": 44,
         "value": "ロックオン切り替え・右",
-        "translation": ""
+        "translation": "Lock-on switching・right"
     },
     {
         "id": "45",
         "id_number": 45,
         "value": "ロックオン切り替え・左",
-        "translation": ""
+        "translation": "Lock-on switching・left"
     },
     {
         "id": "109",
         "id_number": 109,
         "value": "クイックアクセス",
-        "translation": ""
+        "translation": "Quick access"
     },
     {
         "id": "46",
         "id_number": 46,
         "value": "キャラクターを開く",
-        "translation": ""
+        "translation": "Open the character"
     },
     {
         "id": "47",
         "id_number": 47,
         "value": "バッグを開く",
-        "translation": ""
+        "translation": "Open the bag"
     },
     {
         "id": "48",
         "id_number": 48,
         "value": "クエストを開く",
-        "translation": ""
+        "translation": "Open quest menu"
     },
     {
         "id": "49",
         "id_number": 49,
         "value": "マップを開く",
-        "translation": ""
+        "translation": "Open map"
     },
     {
         "id": "50",
         "id_number": 50,
         "value": "図鑑を開く",
-        "translation": ""
+        "translation": "Open the picture book"
     },
     {
         "id": "51",
         "id_number": 51,
         "value": "ダンジョンメニューを開く",
-        "translation": ""
+        "translation": "Open the dungeon menu"
     },
     {
         "id": "52",
         "id_number": 52,
         "value": "パーティメニューを開く",
-        "translation": ""
+        "translation": "Open party menu"
     },
     {
         "id": "53",
         "id_number": 53,
         "value": "ギルドメニューを開く",
-        "translation": ""
+        "translation": "Open the guild menu"
     },
     {
         "id": "54",
         "id_number": 54,
         "value": "ガシャ",
-        "translation": ""
+        "translation": "Gasha"
     },
     {
         "id": "55",
         "id_number": 55,
         "value": "オプションを開く",
-        "translation": ""
+        "translation": "Open options"
     },
     {
         "id": "56",
         "id_number": 56,
         "value": "フォトモード",
-        "translation": ""
+        "translation": "Photo mode"
     },
     {
         "id": "57",
         "id_number": 57,
         "value": "ＨＵＤの表示切替",
-        "translation": ""
+        "translation": "HUD display switching"
     },
     {
         "id": "207",
         "id_number": 207,
         "value": "ダッシュモードの変更",
-        "translation": ""
+        "translation": "Change dash mode"
     },
     {
         "id": "208",
         "id_number": 208,
         "value": "ホールド",
-        "translation": ""
+        "translation": "Hold"
     },
     {
         "id": "209",
         "id_number": 209,
         "value": "トグル",
-        "translation": ""
+        "translation": "Toggle"
     },
     {
         "id": "58",
         "id_number": 58,
         "value": "オートラン",
-        "translation": ""
+        "translation": "Autorun"
     },
     {
         "id": "59",
         "id_number": 59,
         "value": "コミュニケート",
-        "translation": ""
+        "translation": "Communicate"
     }
 ]
