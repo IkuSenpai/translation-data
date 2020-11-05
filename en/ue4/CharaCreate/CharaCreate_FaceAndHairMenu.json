@@ -3,13 +3,13 @@
         "id": "1",
         "id_number": 1,
         "value": "顔タイプ",
-        "translation": "Face type"
+        "translation": "Face Type"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "肌色",
-        "translation": "Skin color"
+        "translation": "Skin Color"
     },
     {
         "id": "3",
@@ -63,43 +63,43 @@
         "id": "11",
         "id_number": 11,
         "value": "肌ベース",
-        "translation": ""
+        "translation": "Skin Base"
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "リップ",
-        "translation": "Lip"
+        "translation": "Lips"
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "ペイント1",
-        "translation": ""
+        "translation": "Paint 1"
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "ペイント2",
-        "translation": ""
+        "translation": "Paint 2"
     },
     {
         "id": "15",
         "id_number": 15,
         "value": "ホクロ",
-        "translation": ""
+        "translation": "Mole"
     },
     {
         "id": "16",
         "id_number": 16,
         "value": "傷・そばかす",
-        "translation": ""
+        "translation": "Scars & Freckles"
     },
     {
         "id": "31",
         "id_number": 31,
         "value": "オッドアイ",
-        "translation": "Odd eye"
+        "translation": "Mismatch Eyes"
     },
     {
         "id": "32",
@@ -153,13 +153,13 @@
         "id": "40",
         "id_number": 40,
         "value": "リップ",
-        "translation": "Lip"
+        "translation": "Lips"
     },
     {
         "id": "41",
         "id_number": 41,
         "value": "ほくろ{number}",
-        "translation": ""
+        "translation": "Mole{number}"
     },
     {
         "id": "101",
