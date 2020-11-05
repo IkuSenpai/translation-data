@@ -15,18 +15,18 @@
         "id": "3",
         "id_number": 3,
         "value": "プリセット{number}",
-        "translation": ""
+        "translation": "Preset{number}"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "反映する",
-        "translation": ""
+        "translation": "Update"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "プリセットを反映しますか？",
-        "translation": ""
+        "translation": "Do you want to update the preset?"
     }
 ]
