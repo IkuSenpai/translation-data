@@ -3,48 +3,48 @@
         "id": "1",
         "id_number": 1,
         "value": "顔タイプ",
-        "translation": ""
+        "translation": "Face Type"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "体型タイプ",
-        "translation": ""
+        "translation": "Body Type"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "S",
-        "translation": ""
+        "translation": "S"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "M",
-        "translation": ""
+        "translation": "M"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "L",
-        "translation": ""
+        "translation": "L"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "身長",
-        "translation": ""
+        "translation": "Height"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "肉付",
-        "translation": ""
+        "translation": "Weight"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "胸囲",
-        "translation": ""
+        "translation": "Chest Circumference"
     }
 ]
