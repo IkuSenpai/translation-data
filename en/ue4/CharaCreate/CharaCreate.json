@@ -3,7 +3,7 @@
         "id": "1",
         "id_number": 1,
         "value": "次へ",
-        "translation": ""
+        "translation": "Next"
     },
     {
         "id": "2",
@@ -57,13 +57,13 @@
         "id": "10",
         "id_number": 10,
         "value": "体格",
-        "translation": ""
+        "translation": "Physique"
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "顔・髪型",
-        "translation": "Face / Hair"
+        "translation": "Face & Hair"
     },
     {
         "id": "12",
@@ -81,25 +81,25 @@
         "id": "14",
         "id_number": 14,
         "value": "顔タイプと体格を選択します",
-        "translation": ""
+        "translation": "Choose your face type and physique"
     },
     {
         "id": "15",
         "id_number": 15,
         "value": "顔と髪型を選択します",
-        "translation": ""
+        "translation": "Choose your face and hairstyle"
     },
     {
         "id": "16",
         "id_number": 16,
         "value": "衣装を選択します",
-        "translation": ""
+        "translation": "Choose your outfit"
     },
     {
         "id": "17",
         "id_number": 17,
         "value": "インナーを選択します",
-        "translation": ""
+        "translation": "Choose your underwear"
     },
     {
         "id": "18",
@@ -135,7 +135,7 @@
         "id": "23",
         "id_number": 23,
         "value": "明るさ",
-        "translation": "Brightness"
+        "translation": "Luminance"
     },
     {
         "id": "24",
