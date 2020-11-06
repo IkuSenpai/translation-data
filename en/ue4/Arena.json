@@ -3,66 +3,66 @@
         "id": "0",
         "id_number": 0,
         "value": "再入場まで",
-        "translation": ""
+        "translation": "Until re-entry"
     },
     {
         "id": "1",
         "id_number": 1,
         "value": "読み込み中…",
-        "translation": ""
+        "translation": "Loading..."
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "バトル準備中",
-        "translation": ""
+        "translation": "Prepare for battle"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "準備完了",
-        "translation": ""
+        "translation": "Ready"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "Waveバトル",
-        "translation": ""
+        "translation": "Wave battle"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "WAVE :",
-        "translation": ""
+        "translation": "WAVE :"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "ENEMY :",
-        "translation": ""
+        "translation": "ENEMY :"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "チャレンジ発生",
-        "translation": ""
+        "translation": "Challenge Started"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "チャレンジ成功",
-        "translation": ""
+        "translation": "Challenge Success"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "チャレンジ失敗",
-        "translation": ""
+        "translation": "Challenge Failed"
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "：",
-        "translation": ""
+        "translation": "："
     }
 ]
