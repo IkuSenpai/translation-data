@@ -9,19 +9,19 @@
         "id": "2",
         "id_number": 2,
         "value": "装備武器",
-        "translation": "Equipped weapon"
+        "translation": "Equipped Weapon"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "ヴァンガードの説明 (仮)",
-        "translation": "Explanation of Vanguard (provisional)"
+        "translation": "Description of Vanguard (provisional)"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "ウィザードの説明 (仮)",
-        "translation": "Wizard description (provisional)"
+        "translation": "Description of Wizard (provisional)"
     },
     {
         "id": "5",
@@ -33,37 +33,37 @@
         "id": "6",
         "id_number": 6,
         "value": "ガンスリンガーの説明 (仮)",
-        "translation": "Explanation of Gunslinger (provisional)"
+        "translation": "Description of Gunslinger (provisional)"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "スプラッシュの説明 (仮)",
-        "translation": "Explanation of splash (provisional)"
+        "translation": "Description of Splash (provisional)"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "遠距離射撃を軸とし、パーティへの支援にも長けたクラス。\n弱点攻撃や範囲攻撃など、多彩な戦術を戦況に応じて使い分けよう。",
-        "translation": ""
+        "translation": "A class that focuses on long-range shooting and is also good at supporting parties.\nUses various tactics, such as weak points and range attacks, depending on the situation of combat."
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "二本の斧で、嵐の如き猛攻を繰り出す近距離クラス。\n絶え間なく攻撃を重ねることで、その威力は限界を超えて更に上昇する。",
-        "translation": ""
+        "translation": "It is a short-range class with two axes that carries out a flurry of attacks.\n Constant attacks will increase its power beyond its limits."
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "エンジニアの説明 (仮)",
-        "translation": "Engineer's explanation (provisional)"
+        "translation": "Description of Engineer (provisional)"
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "ストライカーの説明 (仮)",
-        "translation": "Description of the striker (provisional)"
+        "translation": "Description of Striker (provisional)"
     },
     {
         "id": "12",
@@ -75,43 +75,43 @@
         "id": "13",
         "id_number": 13,
         "value": "炎・氷・雷といった、多彩な属性攻撃を習得できる。\nその高い威力と属性効果は、パーティでの戦いでより効果を発揮する。",
-        "translation": ""
+        "translation": "You can learn a variety of attribute attacks such as fire, ice, and lightning.\nThe high power and attribute effect are more effective in fighting in parties."
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "攻守のバランスに長け、前線で活躍する近距離クラス。\n堅固な盾を駆使した防御系スキルは、自身を防護し、攻撃を物ともしない。",
-        "translation": ""
+        "translation": "It is a short-distance class that excels in balancing offense and defense and is active in the front line.\nDefensive skills that utilize shields to protect themselves and resist attacks."
     },
     {
         "id": "15",
         "id_number": 15,
         "value": "近距離検証クラスの説明 (仮)",
-        "translation": "Explanation of short-distance verification class (provisional)"
+        "translation": "Short-range Verification Class Description (provisional)"
     },
     {
         "id": "16",
         "id_number": 16,
         "value": "遠距離検証クラスの説明 (仮)",
-        "translation": "Explanation of long-distance verification class (provisional)"
+        "translation": "Long-range Verification Class Description (provisional)"
     },
     {
         "id": "17",
         "id_number": 17,
         "value": "の説明 (仮)",
-        "translation": "Explanation (provisional)"
+        "translation": "Description (provisional)"
     },
     {
         "id": "50",
         "id_number": 50,
         "value": "./PakMovies/CharaCreate/",
-        "translation": ""
+        "translation": "./PakMovies/CharaCreate/"
     },
     {
         "id": "90",
         "id_number": 90,
         "value": "使用するクラスを選んでください",
-        "translation": ""
+        "translation": "Please select a class to use"
     },
     {
         "id": "99",
