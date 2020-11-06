@@ -3,19 +3,19 @@
         "id": "0",
         "id_number": 0,
         "value": "聞いたか？\r\nバーンハルト公国が竜族に襲われたってよ",
-        "translation": ""
+        "translation": "Did you hear that?\r\n バーンハルト公国が竜族に襲われたってよ"
     },
     {
         "id": "1",
         "id_number": 1,
         "value": "しかも、それだけじゃないんだ",
-        "translation": ""
+        "translation": "And that's not all."
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "噂によると、\r\nバファリア教団の聖地も襲撃されてるらしい",
-        "translation": ""
+        "translation": "Rumor has it, \r\nバファリア教団の聖地も襲撃されてるらしい"
     },
     {
         "id": "3",
@@ -27,25 +27,25 @@
         "id": "4",
         "id_number": 4,
         "value": "なんだか物騒な世の中になってきたなあ",
-        "translation": ""
+        "translation": "It's kind of a dangerous world, isn't it?"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "平和に見えるこの街だって、\r\nいつ何時竜族に襲われるか……",
-        "translation": ""
+        "translation": "Even this peaceful city \r\n will be attacked by the Dragons at any time..."
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "いざというときの避難先は\r\n決めておいたほうがいいぜ？",
-        "translation": ""
+        "translation": "Shouldn't we decide where to evacuate\r\nin case of emergency?"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "ま、俺は船を持ってるから、\r\nヤバくなったら陸を離れるよね～",
-        "translation": ""
+        "translation": "Well, I have a ship, so I'll leave the land when it gets crazy. ～"
     },
     {
         "id": "8",
@@ -57,7 +57,7 @@
         "id": "9",
         "id_number": 9,
         "value": "部外者の立ち入りは禁止されている",
-        "translation": ""
+        "translation": "Entry is prohibited to outsiders."
     },
     {
         "id": "10",
@@ -69,49 +69,49 @@
         "id": "11",
         "id_number": 11,
         "value": "我々はこの先の『聖地』及び、\r\n周辺の警備を担っている",
-        "translation": ""
+        "translation": "We are in charge of the security of the Holy Land \r\n and the surrounding area."
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "何か気になる事や、不審な物を見つけた場合は\r\n直ちに最寄りの衛士に知らせるように",
-        "translation": ""
+        "translation": "If you have any questions or find anything suspicious, \r\n please let the nearest guard know immediately."
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "詳しくは言えねえが、\r\n『聖地』には近寄らないほうがいい",
-        "translation": ""
+        "translation": "I can't tell you the details, \r\n but it's better to stay away from the Holy Land."
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "神聖な場所だから？\r\nバカ言え、そんな理由じゃねぇよ",
-        "translation": ""
+        "translation": "Because it's a sacred place?\r\nDon't be silly, that's not the reason."
     },
     {
         "id": "15",
         "id_number": 15,
         "value": "とにかく、あそこはヤバいんだ\r\n遠からず不吉なことが起きる気がする……",
-        "translation": ""
+        "translation": "In any case, it's crazy there\r\nI feel like something bad will happen soon..."
     },
     {
         "id": "16",
         "id_number": 16,
         "value": "おっと、隊長に聞かれたらマズイ……\r\nこの話はここまでだ",
-        "translation": ""
+        "translation": "Oops, if the captain asks me, that's all...\r\nThat's it."
     },
     {
         "id": "17",
         "id_number": 17,
         "value": "ここら一帯にいるゴブリンはなかなか手ごわくてな",
-        "translation": ""
+        "translation": "The goblins around here are quite tough."
     },
     {
         "id": "18",
         "id_number": 18,
         "value": "教団の中でも腕に覚えのある衛士が集められてるんだ",
-        "translation": ""
+        "translation": "Even in the religious community, there are guards who are familiar with their skills."
     },
     {
         "id": "19",
@@ -129,13 +129,13 @@
         "id": "21",
         "id_number": 21,
         "value": "この神殿も、少しでも神のおわす場所に近くあろうと\r\n最も高台に、最も高い建物として作られたのだ",
-        "translation": ""
+        "translation": "This temple was built as the tallest building on the highest\r\n ground, even if it isn't any closer to the place that God resides."
     },
     {
         "id": "22",
         "id_number": 22,
         "value": "近頃は人心を惑わす言葉も少なくないが。\r\n神への感謝を忘れず、ゆめゆめ信仰を曲げぬようにな",
-        "translation": ""
+        "translation": "There are many words that mislead people these days.\r\nDon't forget to thank God and never bend your faith."
     },
     {
         "id": "23",
@@ -147,7 +147,7 @@
         "id": "24",
         "id_number": 24,
         "value": "みだりに近づいてはならん。\r\n信徒ならばもう少し常識をわきまえてもらいたい",
-        "translation": ""
+        "translation": "Don't get too close.\r\nIf you're a believer, you should have a little more common sense."
     },
     {
         "id": "25",
@@ -171,7 +171,7 @@
         "id": "28",
         "id_number": 28,
         "value": "そんな伝説にふさわしい姿だろう？\r\nそう近づいては全体を見ることはできないぞ",
-        "translation": ""
+        "translation": "Isn't it appropriate for such a legend?\r\nYou can't see the whole thing if you get so close."
     },
     {
         "id": "29",
@@ -183,18 +183,18 @@
         "id": "30",
         "id_number": 30,
         "value": "いらっしゃいませ。\r\nどういったご用件でしょうか？",
-        "translation": ""
+        "translation": "Welcome! \r\n What can I do for you?"
     },
     {
         "id": "31",
         "id_number": 31,
         "value": "クエストに関しては左手の中央カウンターへ。\r\n倉庫は右手のカウンターからご利用いただけます",
-        "translation": ""
+        "translation": "For quests, go to the center counter on the left.\r\nThe warehouse is available from the counter on the right."
     },
     {
         "id": "32",
         "id_number": 32,
         "value": "グローリーコインの交換は１階の交換所で承ります。\r\nお調べものには２階の書架もご利用ください",
-        "translation": ""
+        "translation": "You can exchange glory coins at the exchange on 1F.\r\nPlease also use the bookshelf on the second floor for research."
     }
 ]
