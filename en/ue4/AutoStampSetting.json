@@ -15,7 +15,7 @@
         "id": "FewHp",
         "id_number": 0,
         "value": "HPが一定以下になった時に\n発信するメッセージです",
-        "translation": ""
+        "translation": "This is a message sent when your\nHP is below a certain level."
     },
     {
         "id": "ReceiveHeal",
@@ -51,7 +51,7 @@
         "id": "DisableAutoStamp",
         "id_number": 0,
         "value": "オートメッセージを表示しない",
-        "translation": ""
+        "translation": "Do not display auto message."
     },
     {
         "id": "AreaSetting",
@@ -75,18 +75,18 @@
         "id": "TemplateList",
         "id_number": 0,
         "value": "設定する定型文を選んでください。",
-        "translation": ""
+        "translation": "Please select a template to set."
     },
     {
         "id": "Template",
         "id_number": 0,
         "value": "定型文",
-        "translation": ""
+        "translation": "Template"
     },
     {
         "id": "Stamp",
         "id_number": 0,
         "value": "スタンプ",
-        "translation": ""
+        "translation": "Stamp"
     }
 ]
