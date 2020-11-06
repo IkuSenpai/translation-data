@@ -3,43 +3,43 @@
         "id": "1",
         "id_number": 1,
         "value": "現在の冒険ランク：",
-        "translation": ""
+        "translation": "Current Adventurer Rank:"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "勇気",
-        "translation": ""
+        "translation": "Courage"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "慈愛",
-        "translation": ""
+        "translation": "Affection"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "希望",
-        "translation": ""
+        "translation": "Hope"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "野心",
-        "translation": ""
+        "translation": "Ambition"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "神秘",
-        "translation": ""
+        "translation": "Mystery"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "RANK UP",
-        "translation": ""
+        "translation": "RANK UP"
     },
     {
         "id": "10",
@@ -51,25 +51,25 @@
         "id": "11",
         "id_number": 11,
         "value": "アイテムレベル{level}以上のインナーイマジン",
-        "translation": ""
+        "translation": "Inner Imajinns with item level {level} or higher."
     },
     {
         "id": "12",
         "id_number": 12,
         "value": "冒険ランクが最大になりました",
-        "translation": ""
+        "translation": "And it's the highest adventure ranking of adventures."
     },
     {
         "id": "13",
         "id_number": 13,
         "value": "Info.",
-        "translation": ""
+        "translation": "Info."
     },
     {
         "id": "14",
         "id_number": 14,
         "value": "冒険ランクは、冒険者としての資質を表し、\nランクアップすることで活動の幅が拡がります。\n冒険者の基本装備であるインナーイマジンを\nクラフト、精練して条件をクリアしましょう。",
-        "translation": ""
+        "translation": "The Adventure Rank represents your qualities as an adventurer,\n which increases your range of possible activities.\n Craft the Inner Imajinns, which are the basic equipment of the adventurer, \nto satisfy the requirements."
     },
     {
         "id": "100",
@@ -99,6 +99,6 @@
         "id": "200",
         "id_number": 200,
         "value": "次のインナーイマジンすべてをアイテムレベル{level}以上にする必要があります",
-        "translation": ""
+        "translation": "All of the following Inner Imajinns must be at least item level {level}."
     }
 ]
