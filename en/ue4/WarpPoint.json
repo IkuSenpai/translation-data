@@ -3,6 +3,6 @@
         "id": "0",
         "id_number": 0,
         "value": "空間転送ポータルに{WarpPoint}を登録しました",
-        "translation": ""
+        "translation": "{WarpPoint} registered with Spatial Transfer Portal"
     }
 ]
