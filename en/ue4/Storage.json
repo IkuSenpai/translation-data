@@ -3,13 +3,13 @@
         "id": "1",
         "id_number": 1,
         "value": "バッグ",
-        "translation": "bag"
+        "translation": "Bag"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "消費アイテム",
-        "translation": "Consumption items"
+        "translation": "Consumable Items"
     },
     {
         "id": "3",
@@ -21,13 +21,13 @@
         "id": "4",
         "id_number": 4,
         "value": "イマジンシード",
-        "translation": "Imagine seed"
+        "translation": "Imajinn Seed"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "キーアイテム",
-        "translation": "Key item"
+        "translation": "Key Item"
     },
     {
         "id": "6",
@@ -45,13 +45,13 @@
         "id": "8",
         "id_number": 8,
         "value": "キャラクター倉庫",
-        "translation": "Character warehouse"
+        "translation": "Character Warehouse"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "アカウント倉庫",
-        "translation": "Account warehouse"
+        "translation": "Account Warehouse"
     },
     {
         "id": "10",
@@ -75,103 +75,103 @@
         "id": "16",
         "id_number": 16,
         "value": "倉庫",
-        "translation": ""
+        "translation": "Warehouse"
     },
     {
         "id": "17",
         "id_number": 17,
         "value": "装備品を選択してください",
-        "translation": ""
+        "translation": "Please select your equipment"
     },
     {
         "id": "18",
         "id_number": 18,
         "value": "アイテムを選択してください",
-        "translation": ""
+        "translation": "Please select an item"
     },
     {
         "id": "100",
         "id_number": 100,
         "value": "移動元をクリックしてください。",
-        "translation": "Click the move source."
+        "translation": "Click on the source to transfer."
     },
     {
         "id": "101",
         "id_number": 101,
         "value": "移動したいアイテムをクリックしてください。",
-        "translation": "Click the item you want to move."
+        "translation": "Click on the item you want to transfer."
     },
     {
         "id": "102",
         "id_number": 102,
         "value": "移動する個数",
-        "translation": "Number to move"
+        "translation": "Transfer Quantity"
     },
     {
         "id": "103",
         "id_number": 103,
         "value": "移動先を選ぶ",
-        "translation": "Choose a destination"
+        "translation": "Select a destination"
     },
     {
         "id": "900",
         "id_number": 900,
         "value": "武器装備変更エラー",
-        "translation": "Weapon equipment change error"
+        "translation": "Weapon equipment change error."
     },
     {
         "id": "901",
         "id_number": 901,
         "value": "衣装変更エラー",
-        "translation": "Costume change error"
+        "translation": "Costume change error."
     },
     {
         "id": "902",
         "id_number": 902,
         "value": "キャラクタークリエイトデータアップロードエラー",
-        "translation": "Character create data upload error"
+        "translation": "Character create data upload error."
     },
     {
         "id": "903",
         "id_number": 903,
         "value": "不明なエラーです",
-        "translation": "Unknown error"
+        "translation": "Unknown error."
     },
     {
         "id": "904",
         "id_number": 904,
         "value": "データの保存に失敗しました",
-        "translation": "Failed to save data"
+        "translation": "Failed to save data."
     },
     {
         "id": "905",
         "id_number": 905,
         "value": "装備品枠がいっぱいです",
-        "translation": "The equipment frame is full"
+        "translation": "The equipment frame is full."
     },
     {
         "id": "906",
         "id_number": 906,
         "value": "アイテム枠がいっぱいです",
-        "translation": "The item frame is full"
+        "translation": "The item frame is full."
     },
     {
         "id": "907",
         "id_number": 907,
         "value": "収納ボックスがいっぱいです",
-        "translation": "The storage box is full"
+        "translation": "The storage box is full."
     },
     {
         "id": "908",
         "id_number": 908,
         "value": "このアイテムはそれ以上預けられません",
-        "translation": "This item can no longer be deposited"
+        "translation": "This item can no longer be deposited."
     },
     {
         "id": "909",
         "id_number": 909,
         "value": "このアイテムはそれ以上所持できません",
-        "translation": "You can no longer carry this item"
+        "translation": "You can no longer carry this item."
     },
     {
         "id": "910",
@@ -201,7 +201,7 @@
         "id": "923",
         "id_number": 923,
         "value": "バッグのイマジンシード枠がいっぱいです",
-        "translation": "The bag is full of imaginine seed frames"
+        "translation": "The bag is full of Imajinn seed frames"
     },
     {
         "id": "924",
@@ -231,7 +231,7 @@
         "id": "933",
         "id_number": 933,
         "value": "キャラクター倉庫のイマジンシード枠がいっぱいです",
-        "translation": "The character warehouse's Imagine seed frame is full"
+        "translation": "The character warehouse's Imajinn seed frame is full"
     },
     {
         "id": "934",
@@ -261,7 +261,7 @@
         "id": "943",
         "id_number": 943,
         "value": "アカウント倉庫のイマジンシード枠がいっぱいです",
-        "translation": "The Imagine seed frame in the account warehouse is full"
+        "translation": "The Imajinn seed frame in the account warehouse is full"
     },
     {
         "id": "944",
@@ -273,90 +273,90 @@
         "id": "1001",
         "id_number": 1001,
         "value": "消費・素材",
-        "translation": ""
+        "translation": "Consumables and Materials"
     },
     {
         "id": "1002",
         "id_number": 1002,
         "value": "装備品",
-        "translation": ""
+        "translation": "Accessories"
     },
     {
         "id": "2000",
         "id_number": 2000,
         "value": "アイテム鑑定",
-        "translation": ""
+        "translation": "Item Appraisal"
     },
     {
         "id": "2001",
         "id_number": 2001,
         "value": "入手したアイテムを鑑定します",
-        "translation": ""
+        "translation": "Appraise available items."
     },
     {
         "id": "2002",
         "id_number": 2002,
         "value": "入手したアイテムを倉庫へ送ります",
-        "translation": ""
+        "translation": "I will send the items I appraised to the warehouse."
     },
     {
         "id": "2003",
         "id_number": 2003,
         "value": "倉庫所蔵数の上限に達したため、以下のアイテムを売却されます",
-        "translation": ""
+        "translation": "The following items will be sold because the warehouse limit has been reached."
     },
     {
         "id": "2004",
         "id_number": 2004,
         "value": "次へ",
-        "translation": ""
+        "translation": "Next"
     },
     {
         "id": "2005",
         "id_number": 2005,
         "value": "OK",
-        "translation": ""
+        "translation": "OK"
     },
     {
         "id": "2006",
         "id_number": 2006,
         "value": "+'{money}",
-        "translation": ""
+        "translation": "+'{money}"
     },
     {
         "id": "2007",
         "id_number": 2007,
         "value": "鑑定",
-        "translation": ""
+        "translation": "Appraisal"
     },
     {
         "id": "2008",
         "id_number": 2008,
         "value": "送る",
-        "translation": ""
+        "translation": "Transfer"
     },
     {
         "id": "2009",
         "id_number": 2009,
         "value": "売却",
-        "translation": ""
+        "translation": "Sell"
     },
     {
         "id": "SalePrice",
         "id_number": 0,
         "value": "{UnitPrice}ルーノ × {Num}個 = 売却価格:{TotalPrice}ルーノ",
-        "translation": ""
+        "translation": "{UnitPrice}Luno × {Num}individual = Sale Price:{TotalPrice}Luno"
     },
     {
         "id": "OverflowBag",
         "id_number": 0,
         "value": "バッグがいっぱいです",
-        "translation": ""
+        "translation": "My bag is full."
     },
     {
         "id": "OverflowStorage",
         "id_number": 0,
         "value": "倉庫がいっぱいです",
-        "translation": ""
+        "translation": "The warehouse is full."
     }
 ]
