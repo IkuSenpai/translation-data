@@ -3,36 +3,36 @@
         "id": "0",
         "id_number": 0,
         "value": "入手昇順",
-        "translation": ""
+        "translation": "Obtained Ascending"
     },
     {
         "id": "1",
         "id_number": 1,
         "value": "入手降順",
-        "translation": ""
+        "translation": "Obtained Descending"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "レベル昇順",
-        "translation": ""
+        "translation": "Level Ascending"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "レベル降順",
-        "translation": ""
+        "translation": "Level Descending"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "ID昇順",
-        "translation": ""
+        "translation": "ID Ascending"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "ID降順",
-        "translation": ""
+        "translation": "ID Descending"
     }
 ]
