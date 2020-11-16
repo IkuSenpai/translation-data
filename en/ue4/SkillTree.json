@@ -3,144 +3,144 @@
         "id": "1",
         "id_number": 1,
         "value": "最大スキルポイント：",
-        "translation": ""
+        "translation": "Maximum Skill Points:"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "使用スキルポイント：",
-        "translation": ""
+        "translation": "Skill Points Used:"
     },
     {
         "id": "3",
         "id_number": 3,
         "value": "残りスキルポイント：",
-        "translation": ""
+        "translation": "Skill Points Remaining:"
     },
     {
         "id": "4",
         "id_number": 4,
         "value": "{skill_name} Lv {skill_level}",
-        "translation": ""
+        "translation": "{skill_name} Lv {skill_level}"
     },
     {
         "id": "5",
         "id_number": 5,
         "value": "スキルポイント：{point}\nクラスレベル：{level}",
-        "translation": ""
+        "translation": "Skill Point: {point}\nClass Level: {level}"
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "リセットチケットを消費して、習得したスキルをリセットします。\nよろしいですか？\n{ticket_bef}→{ticket_aft}",
-        "translation": ""
+        "translation": "Use reset tickets to reset the skills you have learned.\nAre you sure?\n{ticket_bef}→{ticket_af}"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "スキルリセットチケットがありません",
-        "translation": ""
+        "translation": "Skill Reset Ticket Not Available"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "スキルを習得していません",
-        "translation": ""
+        "translation": "I haven't mastered the skill."
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "スキルを1つも習得していません",
-        "translation": ""
+        "translation": "I haven't acquired any skills."
     },
     {
         "id": "20",
         "id_number": 20,
         "value": "スキルリセット",
-        "translation": ""
+        "translation": "Reset Skill"
     },
     {
         "id": "21",
         "id_number": 21,
         "value": "リセットチケット",
-        "translation": ""
+        "translation": "Reset Ticket"
     },
     {
         "id": "50",
         "id_number": 50,
         "value": "スキルポイントで、使用可能なスキルを獲得してください",
-        "translation": ""
+        "translation": "Use skill points to acquire available skills."
     },
     {
         "id": "51",
         "id_number": 51,
         "value": "レギュラースキル",
-        "translation": ""
+        "translation": "Regular Skills"
     },
     {
         "id": "52",
         "id_number": 52,
         "value": "タクティカルスキル１",
-        "translation": ""
+        "translation": "Tactical Skills 1"
     },
     {
         "id": "53",
         "id_number": 53,
         "value": "タクティカルスキル２",
-        "translation": ""
+        "translation": "Tactical Skills 2"
     },
     {
         "id": "54",
         "id_number": 54,
         "value": "タクティカルスキル３",
-        "translation": ""
+        "translation": "Tactical Skills 3"
     },
     {
         "id": "55",
         "id_number": 55,
         "value": "タクティカルスキル４",
-        "translation": ""
+        "translation": "Tactical Skills 4"
     },
     {
         "id": "56",
         "id_number": 56,
         "value": "ULTスキル",
-        "translation": ""
+        "translation": "ULT Skills"
     },
     {
         "id": "57",
         "id_number": 57,
         "value": "タクティカルアビリティ",
-        "translation": ""
+        "translation": "Tactical Abilities"
     },
     {
         "id": "58",
         "id_number": 58,
         "value": "パーマネント",
-        "translation": ""
+        "translation": "Permanent"
     },
     {
         "id": "100",
         "id_number": 100,
         "value": "スキルを習得しますか？",
-        "translation": ""
+        "translation": "Do you want to acquire skills?"
     },
     {
         "id": "101",
         "id_number": 101,
         "value": "スキルポイントが足りません",
-        "translation": ""
+        "translation": "Not enough skill points."
     },
     {
         "id": "102",
         "id_number": 102,
         "value": "クラスレベルが足りません",
-        "translation": ""
+        "translation": "Class level is too low."
     },
     {
         "id": "103",
         "id_number": 103,
         "value": "派生元スキル条件を満たしていません",
-        "translation": ""
+        "translation": "Skill requirements not met."
     }
 ]
