@@ -3,43 +3,43 @@
         "id": "GetItemFailure_InventoryFull",
         "id_number": 0,
         "value": "バッグが一杯で取得できません",
-        "translation": "Item cannot be obtained due to full inventory"
+        "translation": "The bag is full and item cannot be retrieved."
     },
     {
         "id": "HealStation_HealDone",
         "id_number": 0,
         "value": "体力を回復しました",
-        "translation": "Restored strength"
+        "translation": "I've recovered my strength."
     },
     {
         "id": "UnlockHunterQuestRank",
         "id_number": 0,
         "value": "討伐クエストが開放されました",
-        "translation": "Subjugation quest has been unlocked"
+        "translation": "The quest for subjugation has been opened."
     },
     {
         "id": "GetEmote",
         "id_number": 0,
         "value": "ジェスチャーを入手しました",
-        "translation": "Obtained a gesture"
+        "translation": "I obtained a gesture."
     },
     {
         "id": "FailedQuitGame",
         "id_number": 0,
         "value": "ゲーム終了できませんでした",
-        "translation": "The game could not be exited"
+        "translation": "Could not exit the game."
     },
     {
         "id": "CantOpenDuringDead",
         "id_number": 0,
         "value": "戦闘不能中は開くことができません",
-        "translation": "Cannot be opened while incapacitated"
+        "translation": "You can't open it while it's incapacitated."
     },
     {
         "id": "CantOpenDuringBattle",
         "id_number": 0,
         "value": "戦闘中は開くことができません",
-        "translation": "Cannot be opened during battle"
+        "translation": "You can't open it during a battle."
     },
     {
         "id": "CantOpenDuringAction",
@@ -51,42 +51,42 @@
         "id": "CantStartDungeonDuringDead",
         "id_number": 0,
         "value": "戦闘不能中はミッションを開始できません",
-        "translation": ""
+        "translation": "You can't start a mission while you are incapacitated."
     },
     {
         "id": "CantStartDungeonDuringBattle",
         "id_number": 0,
         "value": "戦闘中はミッションを開始できません",
-        "translation": ""
+        "translation": "Mission cannot be started during combat."
     },
     {
         "id": "FailedFieldTravel",
         "id_number": 0,
         "value": "移動に失敗しました",
-        "translation": ""
+        "translation": "Failed to travel."
     },
     {
         "id": "ChatErrorSendTime",
         "id_number": 0,
         "value": "短い時間で連続投稿はできません\n時間を空けて送信してください",
-        "translation": ""
+        "translation": "You cannot post consecutive posts in a short period of time.\nPlease wait to submit a post."
     },
     {
         "id": "ChatErrorBan",
         "id_number": 0,
         "value": "トーク禁止状態のため送信できません",
-        "translation": ""
+        "translation": "Unable to send because talking is prohibited."
     },
     {
         "id": "LevelSyncApplied",
         "id_number": 0,
         "value": "レベルシンクによりクラスレベル・アイテムレベルが調整されました",
-        "translation": ""
+        "translation": "Class Level Item Level Adjusted by Level Sync"
     },
     {
         "id": "DungeonAddition",
         "id_number": 0,
         "value": "新たなミッション {DungeonName} が追加されました",
-        "translation": ""
+        "translation": "New Mission {DungeonName} Added."
     }
 ]
