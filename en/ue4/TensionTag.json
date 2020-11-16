@@ -3,7 +3,7 @@
         "id": "0",
         "id_number": 0,
         "value": "ムードアイコン未設定",
-        "translation": "Mood icon not set"
+        "translation": "Mood icon is not set."
     },
     {
         "id": "1",
@@ -15,7 +15,7 @@
         "id": "2",
         "id_number": 2,
         "value": "ミッションへ行きましょう",
-        "translation": ""
+        "translation": "Let's go to the mission."
     },
     {
         "id": "3",
@@ -33,42 +33,42 @@
         "id": "5",
         "id_number": 5,
         "value": "取引します",
-        "translation": ""
+        "translation": "I'll do business with you."
     },
     {
         "id": "6",
         "id_number": 6,
         "value": "パーティメンバー募集中",
-        "translation": ""
+        "translation": "Recruiting Party Members."
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "クエストやろう",
-        "translation": ""
+        "translation": "Let's do a quest."
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "PVPやろう",
-        "translation": ""
+        "translation": "Let's do PVP."
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "手伝います",
-        "translation": ""
+        "translation": "I'll help you."
     },
     {
         "id": "10",
         "id_number": 10,
         "value": "ギルドメンバー募集中",
-        "translation": ""
+        "translation": "Looking for guild members."
     },
     {
         "id": "11",
         "id_number": 11,
         "value": "手伝ってください",
-        "translation": ""
+        "translation": "Please help me."
     }
 ]
