@@ -9,13 +9,13 @@
         "id": "1",
         "id_number": 1,
         "value": "剣（イージスファイター専用）",
-        "translation": "Sword (for Aegis Fighter only)"
+        "translation": "Sword (Only for Aegis Fighters)"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "斧（ツインストライカー専用）",
-        "translation": "Axe (for Twin Striker only)"
+        "translation": "Axe (Only for Twin Strikers)"
     },
     {
         "id": "3",
@@ -39,25 +39,25 @@
         "id": "6",
         "id_number": 6,
         "value": "弓（ブラストアーチャー専用）",
-        "translation": "Bow (for Blast Archer only)"
+        "translation": "Bow (Only for Blast Archers)"
     },
     {
         "id": "7",
         "id_number": 7,
         "value": "ヘビーアーム",
-        "translation": "Heavy arm"
+        "translation": "Heavy Arm"
     },
     {
         "id": "8",
         "id_number": 8,
         "value": "杖（スペルキャスター専用）",
-        "translation": "Cane (for Spell Caster only)"
+        "translation": "Staff (Only for Spell Casters)"
     },
     {
         "id": "9",
         "id_number": 9,
         "value": "キャノンソード",
-        "translation": "Canon Sword"
+        "translation": "Cannon Sword"
     },
     {
         "id": "10",
