@@ -9,13 +9,13 @@
         "id": "1",
         "id_number": 1,
         "value": "AP",
-        "translation": ""
+        "translation": "AP"
     },
     {
         "id": "2",
         "id_number": 2,
         "value": "最大HP",
-        "translation": ""
+        "translation": "Maximum HP"
     },
     {
         "id": "3",
@@ -117,19 +117,19 @@
         "id": "209",
         "id_number": 209,
         "value": "攻撃力:",
-        "translation": ""
+        "translation": "Attack Power:"
     },
     {
         "id": "210",
         "id_number": 210,
         "value": "属性:",
-        "translation": ""
+        "translation": "Attributes:"
     },
     {
         "id": "211",
         "id_number": 211,
         "value": "特効:",
-        "translation": ""
+        "translation": "Special Effects:"
     },
     {
         "id": "212",
@@ -141,7 +141,7 @@
         "id": "213",
         "id_number": 213,
         "value": "必要アイテム",
-        "translation": "Required items"
+        "translation": "Required Items"
     },
     {
         "id": "214",
@@ -171,103 +171,103 @@
         "id": "218",
         "id_number": 218,
         "value": "精練",
-        "translation": ""
+        "translation": "Refining"
     },
     {
         "id": "219",
         "id_number": 219,
         "value": "精練する武器を選択してください。",
-        "translation": ""
+        "translation": "Please select the weapon you wish to refine."
     },
     {
         "id": "220",
         "id_number": 220,
         "value": "武器バトルスコア",
-        "translation": ""
+        "translation": "Weapon Battle Score"
     },
     {
         "id": "221",
         "id_number": 221,
         "value": "決定",
-        "translation": ""
+        "translation": "Decide"
     },
     {
         "id": "222",
         "id_number": 222,
         "value": "LV.",
-        "translation": ""
+        "translation": "LV."
     },
     {
         "id": "223",
         "id_number": 223,
         "value": "MAXLV:",
-        "translation": ""
+        "translation": "MAXLV:"
     },
     {
         "id": "224",
         "id_number": 224,
         "value": "{0}({1})",
-        "translation": ""
+        "translation": "{0}({1})"
     },
     {
         "id": "225",
         "id_number": 225,
         "value": "MAX",
-        "translation": ""
+        "translation": "MAX"
     },
     {
         "id": "226",
         "id_number": 226,
         "value": "特効値:",
-        "translation": ""
+        "translation": "Featured Value:"
     },
     {
         "id": "227",
         "id_number": 227,
         "value": "スロット数:",
-        "translation": ""
+        "translation": "Number of Slots:"
     },
     {
         "id": "228",
         "id_number": 228,
         "value": "属性効果値:",
-        "translation": ""
+        "translation": "Attribute Effect:"
     },
     {
         "id": "229",
         "id_number": 229,
         "value": "/",
-        "translation": ""
+        "translation": "/"
     },
     {
         "id": "230",
         "id_number": 230,
         "value": "使用素材",
-        "translation": ""
+        "translation": "Materials Used"
     },
     {
         "id": "231",
         "id_number": 231,
         "value": "精練に使用する素材を選んでください",
-        "translation": ""
+        "translation": "Please choose the material to be used for refining."
     },
     {
         "id": "232",
         "id_number": 232,
         "value": "リキッドメモリ効果\n発動中",
-        "translation": ""
+        "translation": "Activating Liquid Memory Effect"
     },
     {
         "id": "233",
         "id_number": 233,
         "value": "Empty(空き枠)",
-        "translation": ""
+        "translation": "Empty(Free Space)"
     },
     {
         "id": "234",
         "id_number": 234,
         "value": "+????",
-        "translation": ""
+        "translation": "+????"
     },
     {
         "id": "300",
@@ -285,7 +285,7 @@
         "id": "350",
         "id_number": 350,
         "value": "続けますか？",
-        "translation": ""
+        "translation": "Do you want to continue?"
     },
     {
         "id": "400",
@@ -297,48 +297,48 @@
         "id": "401",
         "id_number": 401,
         "value": "0",
-        "translation": ""
+        "translation": "0"
     },
     {
         "id": "500",
         "id_number": 500,
         "value": "武器選択",
-        "translation": ""
+        "translation": "Weapon Selection"
     },
     {
         "id": "501",
         "id_number": 501,
         "value": "素材選択",
-        "translation": ""
+        "translation": "Material Selection"
     },
     {
         "id": "502",
         "id_number": 502,
         "value": "リザルト",
-        "translation": ""
+        "translation": "Result"
     },
     {
         "id": "900",
         "id_number": 900,
         "value": "クラスレベルを超えるため精練できません\n使用する素材を減らしてください",
-        "translation": ""
+        "translation": "You cannot refine\nbecause it exceeds the class level, please use fewer materials."
     },
     {
         "id": "235",
         "id_number": 235,
         "value": "(Lv:",
-        "translation": ""
+        "translation": "(Lv:"
     },
     {
         "id": "236",
         "id_number": 236,
         "value": ")",
-        "translation": ""
+        "translation": ")"
     },
     {
         "id": "901",
         "id_number": 901,
         "value": "精錬の上限に達します。\n上限を超えた経験値は取得できませんが、精錬を行いますか？",
-        "translation": ""
+        "translation": "You've reached the upper limit of refining.\nExperience exceeding the upper limit cannot be obtained, would you still like to refine them?"
     }
 ]
